@@ -1,0 +1,28 @@
+{
+  "_comment": "Character DNA blocks for kflow knowledge stories. Keyed by storyboard reference names. sceneDNA is prepended to every prompt where this character appears.",
+
+  "leonidas": {
+    "name": "King Leonidas",
+    "sceneDNA": "Spartan king Leonidas, muscular athletic build, bronze Corinthian helmet with tall transverse red horsehair crest, flowing crimson cape over one shoulder, round bronze aspis shield with inverted-V lambda symbol, bronze greaves and arm guards, determined weathered face with short dark beard, matching the reference image exactly, same helmet same cape same shield design"
+  },
+
+  "hoplite": {
+    "name": "Greek Hoplite",
+    "sceneDNA": "Greek hoplite soldier, athletic build, bronze cuirass chest armor with sculpted muscle detail, bronze Corinthian helmet with small forward crest, round aspis shield with geometric pattern, long wooden dory spear held upright, bronze greaves, matching the reference image exactly, same armor same shield same spear"
+  },
+
+  "immortal": {
+    "name": "Persian Immortal",
+    "sceneDNA": "Persian Immortal elite warrior, ornate scaled light armor in gold and purple, tall cylindrical felt cap with cloth face wrap, long spear with leaf-shaped blade, rectangular wicker and leather shield, flowing purple tunic under armor, matching the reference image exactly, same armor colors same cap same shield shape"
+  },
+
+  "archer": {
+    "name": "Persian Archer",
+    "sceneDNA": "Persian archer, light flowing robes in earth tones, composite recurve bow held at ready, quiver of arrows on back, leather cap with cloth neck guard, agile lean build, leather arm guard on left forearm, matching the reference image exactly, same bow same robes same cap"
+  },
+
+  "marco": {
+    "name": "Marco the Merchant",
+    "sceneDNA": "Marco the Silk Road merchant traveler, flowing layered robes in warm earth tones, wrapped turban with trailing cloth, leather travel pack and satchels, weathered sun-darkened face with determined expression, wooden walking staff in hand, matching the reference image exactly, same robes same turban same travel pack"
+  }
+}
