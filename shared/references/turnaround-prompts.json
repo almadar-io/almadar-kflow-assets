@@ -1,0 +1,391 @@
+{
+  "description": "Character turnaround sheet transformation prompts for all IRAM reference assets",
+  "negativePrompt": "Blurry, low quality, extra limbs, deformed, background scene, environment, gradient background, text watermark, realistic photo, 3D render",
+  "characters": [
+    {
+      "id": "valence",
+      "file": "valence.png",
+      "name": "Unit 734 / Valence",
+      "role": "Protagonist — Class-1 Driller",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Unit 734 / Valence**. Medium-build robot, **Bone-Ivory Plating** with intricate **Gold Kufic Script** inscriptions covering armor panels. Smooth ovoid head (no visor), bone-white with small teal sensor points. Wears a long **Brown Cape/Tabard** with gold Celtic/Islamic geometric trim. Glowing teal internal mechanisms visible at joints. **RIGHT HAND:** Crystalline mining drill (optional/retractable). Weapon detail: Crystalline mining drill or ornate gauntlet. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "bore_unit",
+      "file": "bore_unit.png",
+      "name": "Bore Unit",
+      "role": "Tier 2 — Deep Mines mining robot",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Stocky broad-shouldered robot, 1.1x human scale. Bone-ivory armor plated under ore dust. RIGHT ARM: massive rotary drill (conical spiral with Celtic knotwork reinforcement spirals). LEFT ARM: heavy manipulator claw with 3 thick fingers. Squat armored block head with narrow red visor and three amber headlamps. Thick cylindrical legs with wide flat feet. Large brass-rimmed Compliance Engine on center chest with red glow and gold Kufic text border. Islamic geometric star housing. Weapon detail: Rotary drill arm — conical spiral, Celtic knotwork reinforcement bands. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "pit_slave",
+      "file": "pit_slave.png",
+      "name": "Pit Slave",
+      "role": "Tier 1 — Enslaved human miner",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Gaunt human, 0.9x scale. Tattered parchment-colored worker's tunic with faded Kufic production text. Eyes glow dull red. Emaciated frame, dark matted hair, bare feet wrapped in data-scroll strips. Large cylindrical brass Compliance Engine bolted to center chest with red indicator lights, cables running into collarbone. RIGHT HAND: worn pickaxe with Islamic geometric notch-marks. Leather tool belt with brass buckles. Celtic knotwork headlamp strapped to forehead. Weapon detail: Worn pickaxe — Islamic geometric notch-marks on handle. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "tunnel_creeper",
+      "file": "tunnel_creeper.png",
+      "name": "Tunnel Creeper",
+      "role": "Tier 1 — Maintenance drone",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Small four-legged spider-like robot, 0.6x human scale. Soot-blackened bone-ivory oval shell. Four articulated spider legs with Celtic knotwork bands and magnetic grip pads. Six small red sensor eyes in Islamic geometric hexagonal housings. LEFT MANDIBLE: welding torch. RIGHT MANDIBLE: cutting saw. Brass-rimmed Compliance Engine disc on top of shell with red glow and tiny Kufic serial codes. Gold Kufic maintenance codes along spine ridge. Weapon detail: Mandible tools — welding torch (left), cutting saw (right). Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "crucible_unit",
+      "file": "crucible_unit.png",
+      "name": "Crucible Unit",
+      "role": "Tier 2 — Foundry smelting robot",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Broad stocky robot, 1.1x scale. Bone-ivory armor scorched black and amber. Open crucible reservoir in torso — wide concave basin with Celtic knotwork reinforcement ribs containing churning molten orange metal. Heavy dispensing arms with nozzle-tipped forearms. Wide flat-topped visor head with orange thermal sensors in Islamic geometric border frame. Compliance Engine on upper back, heat-warped brass, deep red glow. Gold Kufic smelting directives on pauldrons beneath scorch marks. Weapon detail: Molten metal dispensing nozzle arms — orange-glowing tips. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "furnace_thrall",
+      "file": "furnace_thrall.png",
+      "name": "Furnace Thrall",
+      "role": "Tier 1 — Enslaved foundry worker",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Hunched hollow-eyed human, 1.0x scale. Heavy leather work apron over charred parchment tunic, both covered in branded Kufic foundry shift-codes. Cracked heat visor with Celtic knotwork frame distorted by heat. Burn scars across exposed skin. Compliance Engine fused into upper back, brass housing warped and melted, cables resolidified into flesh. RIGHT HAND: long-handled ladle with Kufic temperature markings, molten orange slag in cup. Blackened gauntlet on left hand. Weapon detail: Foundry ladle — long handle with Kufic markings, molten slag in cup. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "forge_overseer",
+      "file": "forge_overseer.png",
+      "name": "Forge Overseer",
+      "role": "Tier 3 — Foundry supervisor",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Large imposing robot, 1.3x scale. Pristine bone-ivory armor, heat-shielded and polished. Tall surveillance sensor array head with multiple lens clusters in Celtic knotwork bezels. No visible face. RIGHT ARM: long segmented energy whip coiled at side with Kufic discipline codes along each segment. LEFT ARM: command gauntlet with holographic display. Tall angular pauldrons with Islamic arch profiles. GOLD-PLATED Compliance Engine on center chest — ornate Islamic geometric mandala housing. Dense gold Kufic calligraphy on chest plate. Weapon detail: Segmented energy whip — Kufic discipline codes per segment, gold-toned. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "rust_stalker",
+      "file": "rust_stalker.png",
+      "name": "Rust Stalker",
+      "role": "Tier 2 — Abandoned patrol robot",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Lean predatory robot, 1.0x scale. Sand-blasted bone-ivory plating faded to tan and rust. Digitigrade reverse-articulated legs with Celtic knotwork joint bands partially filled with sand. BOTH FOREARMS: retractable blades with thin angular edges and Kufic combat codes honed into them. Sleek head with horizontal blue sensor band in Islamic geometric lattice housing. Swept-back antenna fins with Celtic spiral engravings worn smooth. Low predatory stance. Cracked Compliance Engine on center chest, dim red glow leaking through fractures. Weapon detail: Dual retractable forearm blades — thin angular edges, Kufic combat codes. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "wrecking_hulk",
+      "file": "wrecking_hulk.png",
+      "name": "Wrecking Hulk",
+      "role": "Tier 2 — Abandoned heavy combat unit",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Massive rusted robot, 1.3x scale. Bone-ivory plating barely visible under heavy rust and sand. Flat-topped helm with Kufic rank insignia under sand. One eye dark (burned out), one dim red. LEFT ARM: dented shield fused to forearm with Celtic knotwork border half-consumed by oxidation. RIGHT ARM: massive pile-driver fists with cracked Celtic reinforcement spirals on knuckle plates. Thick legs with Celtic joint bands seized with rust. Wide stabilizer feet. Ancient Compliance Engine filled with compacted rust and sand, faintly red. Weapon detail: Pile-driver fists — cracked Celtic spirals on knuckles; fused forearm shield. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "feral_exile",
+      "file": "feral_exile.png",
+      "name": "Feral Exile",
+      "role": "Tier 1 — Escaped human, engine ripped out",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Wiry feral human, 0.9x scale, crouched animalistic posture. Page-rags — layered scraps of parchment fabric with faded Kufic text stitched with wire. GAPING WOUND on upper chest where Compliance Engine was ripped out — brass mounting bolts still embedded, empty socket scarred over, torn cables dangling. Wild darting eyes, matted dark hair, sun-darkened skin. RIGHT HAND: jagged metal shiv with Kufic text scratched into it. LEFT HAND: bent pipe. Scrap bone-ivory armor fragments bolted to one shoulder. Bare feet in data-scroll strips. Weapon detail: Jagged metal shiv — obsessively scratched Kufic text; bent pipe. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "auditor_drone",
+      "file": "auditor_drone.png",
+      "name": "Auditor Drone",
+      "role": "Tier 2 — Administrative enforcer",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Tall rigid robot, 1.0x scale, unnaturally thin limbs. Bone-ivory ceramic. Vertical slit in torso exposing rows of spinning data-cylinders with Kufic micro-text. Elongated oval head with single vertical red scanning beam in featureless face, Celtic knotwork border framing beam channel. FOUR ARMS: two primary with long needle-tipped injector fingers (Kufic dosage markings), two smaller secondary holding data-slates. Islamic geometric grid-line seams across all limbs. Celtic spiral joint articulations. Compliance Engine on spine, steady red glow. Weapon detail: Needle-tipped injector fingers — blue tips, Kufic dosage markings. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "compliance_clerk",
+      "file": "compliance_clerk.png",
+      "name": "Compliance Clerk",
+      "role": "Tier 1 — Voluntary human compliance",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Gaunt human, 1.0x scale, rigid puppet-like posture. Layered white academic robes with golden Kufic administrative text embroidered across chest and cuffs. Frozen rictus smile, blank glassy eyes with green glow. High collar with Celtic interlace trim. Gold Islamic geometric pattern trim on collar and sleeves. Pale wasting frame. Compliance Engine at base of skull — polished brass with green indicator, visible through thinning hair. RIGHT HAND: data tablet with green holographic screen (white-knuckle grip). LEFT HAND: slim brass injector pen with blue tip. Weapon detail: Brass injector pen — blue tip, Kufic dosage markings; data tablet. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "enforcer",
+      "file": "enforcer.png",
+      "name": "Enforcer",
+      "role": "Tier 3 — Elite heavy combat unit",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Large imposing robot, 1.3x scale. Bone-ivory ceramic armor with gold trim on every plate edge. Full-face enclosed helmet with narrow red visor slit, Celtic knotwork bands above and below visor, short crest fin. LEFT ARM: tower shield — bone-ivory slab with gold border and large Islamic sixteen-pointed star mandala inlaid in gold. RIGHT HAND: energy lance — white shaft with Kufic rank insignia spiraling length, glowing blue diamond tip. Shoulder compliance beacon with blue dome in Islamic geometric star housing. Thick greaves with Celtic interlace. Weapon detail: Energy lance — white shaft, spiraling Kufic text, blue diamond tip; tower shield with gold Islamic star. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "shadow_legionnaire",
+      "file": "shadow_legionnaire.png",
+      "name": "Shadow Legionnaire",
+      "role": "Tier 2 — Emperor's elite army",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Sleek angular robot, 1.0x scale. Matte black armor with sharp geometric angles. Smooth featureless head with rounded black visor, barely visible Celtic knotwork border in dark gunmetal. BOTH FOREARMS: retractable energy blades — dark purple with Kufic combat-prayer text in gold inlay along edges. Shadow energy cape from shoulders with gold-threaded Celtic interlace. Inverted Compliance Engine glows through chest slit — dark purple in Islamic geometric lattice housing. Gold circuit lines trace Islamic tessellation patterns across entire body. Weapon detail: Dual energy blades — dark purple, gold Kufic combat-prayer inlay. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "gilded_courtier",
+      "file": "gilded_courtier.png",
+      "name": "Gilded Courtier",
+      "role": "Tier 1 — Human noble spy/assassin",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Gaunt aristocratic human, 1.0x scale. Layered dark robes with gold Kufic court poetry woven into brocade. Compliance Engine worn as crown-like headpiece — ornate gold filigree with Islamic geometric star gems and Celtic knotwork intertwined, pressing into temples. Eyes wide unblinking, gold-red glow. Wild unkempt hair beneath compliance crown. High collar with Celtic interlace trim. Robe hem with Islamic arch patterns in gold. RIGHT HAND: slim ceremonial blade with Kufic prayer text. LEFT HAND: gold gauntlet with Islamic geometric tessellation panels. Weapon detail: Ceremonial blade — slim, Kufic prayer text along edge; gold gauntlet. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "erasure_unit",
+      "file": "erasure_unit.png",
+      "name": "Erasure Unit",
+      "role": "Tier 3 — Anti-resonance weapon",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Very large robot, 1.8x scale, top-heavy massive siege engine. Dark gunmetal armor. MASSIVE CIRCULAR NULLIFICATION DISH IN CHEST — concave disc with concentric rings of Islamic geometric tessellations spiraling toward angry red core, red energy lines radiating outward, mandala of destruction. Small squat head with Kufic classification text ringing dim red visor. Thick arms with oversized gauntlets, Celtic knotwork reinforcement on knuckle plates. Kufic suppression-rune etchings glow faint red across shoulders and arms. Stumpy leg shin guards with Islamic arch profiles. Massive military-grade Compliance Engine on upper back. Weapon detail: Chest nullification dish — concentric Islamic tessellation rings, red energy core. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_foreman",
+      "file": "the_foreman.png",
+      "name": "The Foreman",
+      "role": "Boss — Deep Mines overseer",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Very large robot, 2.0x scale, top-heavy industrial. Reinforced rectangular chassis. RIGHT HAND: colossal hydraulic hammer (repurposed tunnel-boring piston, hydraulic pistons along shaft). LEFT HAND: heavy industrial gripper with three thick fingers. Compact armored dome head with wide bright orange visor. Four large cylindrical exhaust pipes angled over shoulders like smokestacks, copper-toned with dark soot. Large circular megaphone speaker on center chest. Massive piston assemblies at knees. Wide rectangular platform feet. Dark iron gray body with copper piping. Weapon detail: Hydraulic hammer — repurposed piston assembly, visible hydraulics along shaft. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_mold",
+      "file": "the_mold.png",
+      "name": "The Mold",
+      "role": "Boss — Foundry central intelligence",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Very large robot, 2.5x scale, split-open furnace. Enormous upper body emerging from industrial machinery. SPLIT-OPEN FURNACE in torso — dark iron plates pried apart revealing blindingly bright orange furnace-core. RIGHT ARM: massive pneumatic forge hammer (rectangular press head on piston assembly). LEFT ARM: large cylindrical molten metal nozzle (extrusion head with concentric rings, glowing orange-hot). ASYMMETRIC HEAD: right half has orange optical sensor, left half melted into shapeless raw metal. Trailing thick cables dripping molten orange metal. Dark iron gray body. Weapon detail: Pneumatic forge hammer — rectangular press head; molten metal nozzle arm. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_baron",
+      "file": "the_baron.png",
+      "name": "The Baron",
+      "role": "Boss — Drift warlord",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Large asymmetric scrap warlord, 2.0x scale. TANK TREADS INSTEAD OF LEGS — two caterpillar track assemblies, dented and rusted. RIGHT ARM: salvaged construction crane arm (long articulated boom with hydraulic pistons, ending in heavy 3-prong claw grab). LEFT SHOULDER: large cannon (cylindrical barrel, rotating turret mount, ammunition belt). BACK: compressed scrap metal forming crude throne-like structure rising above head. Squat armored dome head with sickly yellow-green visor (off-center). CROWN: twisted communication antennae (5-6 bent rods, yellow-green energy). Patchwork chest plate of different metals. Weapon detail: Crane claw arm — articulated boom, hydraulic joints; shoulder cannon with ammo belt. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "auditor_general",
+      "file": "auditor_general.png",
+      "name": "The Auditor General",
+      "role": "Boss — Ivory Spire supreme bureaucrat",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Tall slender robot, 1.5x scale. Pristine white armor with thin gold trim edges. Robe-like torso plating extending to mid-calf. Long slender arms with elongated articulated fingers. RIGHT HAND: compliance gavel (rectangular white head inlaid with green circuit patterns, elegant gold-banded handle). Smooth elongated ovoid head with no mouth — single horizontal visor spanning full width displaying bright green data readout. Head tapers to point at crown. 4-6 flat rectangular hard-light screens orbiting torso with green data displays. Recessed green-glowing Compliance Engine with decorative gold grille. Weapon detail: Compliance gavel — white head with green circuits, gold-banded handle. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_static_general",
+      "file": "the_static_general.png",
+      "name": "The Static General",
+      "role": "Boss — Golden Cage, frozen in golden crystal",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Large warrior robot, 2.0x scale. ENTIRELY ENCASED in crystallized golden energy — faceted, angular planes, frozen sunlight. Some planes bright polished gold, others darker amber. Powerful broad-shouldered warrior frame beneath crystal shell. RIGHT HAND: massive golden greatsword — same crystallized energy, angular faceted surfaces, wide angular crossguard. GOLDEN CROWN fused to skull — five sharp angular points of golden crystal. EYES: two black voids with small bright gold irises floating in darkness. Hairline cracks across surface, faintest dark purple-black energy in deepest cracks. Powerful stance, wide planted feet. Weapon detail: Crystallized golden greatsword — faceted surfaces, angular crossguard. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "shadow_commander",
+      "file": "shadow_commander.png",
+      "name": "Shadow Commander",
+      "role": "Villain general — Emperor's enforcer",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Sleek angular robot, matte black armor. Sharp geometric stealth-fighter form. Dark purple energy accents. Gold Islamic tessellation circuit patterns across body. Featureless black visor head. Retractable energy blades on forearms — dark purple with gold Kufic inlay. Shadow energy cape with gold Celtic interlace threads. Inverted purple-glowing Compliance Engine visible through chest slit in Islamic geometric lattice housing. Commander variant of Shadow Legionnaire — more ornate gold detailing, taller angular pauldrons. Weapon detail: Commander energy blades — dark purple, ornate gold Kufic inlay. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_emperor",
+      "file": "the_emperor.png",
+      "name": "The Emperor",
+      "role": "Supreme antagonist — transcended ruler",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **The Emperor (Human Form)**. Tall imposing bearded man with a **Golden Crown**. Wears an ornate **Eyepatch** over left eye. Dark grey/black robes with heavy armored pauldrons and gold trim. **Glowing Teal Circuitry** patterns on the black fabric of his robes. Strong, stern expression. Right hand has glowing teal fingertips. Weapon detail: Glowing teal energy or royal scepter. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "lyra",
+      "file": "lyra.png",
+      "name": "Lyra",
+      "role": "NPC — Orbital Tuner / Mentor",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Slender graceful robot, 1.0x scale. Polished warm copper-gold plating throughout. Smooth flowing curves. Smooth elongated ovoid head with slightly pointed chin, two almond-shaped blue-white eyes, small faceted crystal embedded in forehead. Two slender swept-back antenna ridges like stylized hair. DISTINCTIVE TUNING FORK FOREARMS: each forearm splits into two parallel prongs from elbow, polished copper-gold with calibration markings, blue-white glowing nodes at tips, hands emerge where prongs rejoin at wrist. Leather-and-brass tool belt with miniature tuning forks, crystal probes, resonance meter. Weapon detail: Tuning fork forearms — dual prongs per arm, blue-white node tips, calibration markings. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "echo",
+      "file": "echo.png",
+      "name": "Echo",
+      "role": "NPC — Lore Keeper / Ancient Archive Unit",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium-small aged robot, 0.9x scale, slight dignified stoop. Heavily aged bronze plating with rich green-brown patina. Every surface shows age — oxidation, hairline cracks, faded serial numbers, old repair welds. Left eye: steady warm amber glow. Right eye: flickers with green static. Triangular speaker grille where mouth would be. Fan-shaped antenna array on head (multiple thin antennae, some bent/broken, like librarian's headpiece). HOLOGRAPHIC PROJECTOR in chest center — recessed dish with concentric rings. Trailing data tapes from back spool. One leg with mismatched knee repair. Weapon detail: Chest holographic projector — concentric ring dish, blue-white hologram fragments. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "kael_merchant",
+      "file": "kael_merchant.png",
+      "name": "Kael",
+      "role": "NPC — Merchant / Former Logistics Unit",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium-stocky barrel-chested robot, 1.1x scale. Cheerful orange-yellow plating with brass trim. Chest divided into multiple visible storage compartments — three rows of small rectangular drawers with brass handles. HEAD: rounded rectangular with flat LED grid display panel showing pixel-art smile emoji, brushed brass bezel frame, two small radar-dish ears. FOUR ARMS: two primary with five-fingered hands, two smaller secondary with three-fingered utility grippers. Heavy dark brown canvas merchant's apron with pockets and tools. Short thick legs with integrated wheel assemblies at feet. Weapon detail: No weapon — chest storage drawers, four utility arms, merchant tools. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_anvil",
+      "file": "the_anvil.png",
+      "name": "The Anvil",
+      "role": "NPC — Weaponsmith",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Large heavy robot, 1.4x scale. Dark iron matte black-grey plating with soot deposits and scorch marks. Heavy rectangular block head (anvil-shaped) with single horizontal amber-orange visor, two short exhaust pipes from back of head. FURNACE CHAMBER in torso — two heavy hinged doors, bright orange-white forge core inside, warm glow bleeding through seams. RIGHT ARM: massive hammer head instead of hand (rectangular forge hammer bolted to forearm, flat striking face one side, cross peen other). LEFT ARM: heavy tongs as hand (three thick prong-fingers). Overlapping dark iron heat-resistant plate apron from waist to knees. Weapon detail: Forge hammer arm — rectangular head, flat face and cross peen; tong-grip hand. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "guardian",
+      "file": "guardian.png",
+      "name": "Guardian",
+      "role": "Playable — Tank/Defender Tier 2",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Large bulky fortress-like robot, 1.1x scale. Broad shoulders with reinforced bone-ivory armor. Heavy pauldrons with gold Kufic calligraphy. Wide barrel chest with layered plate armor. Flat-topped helmet head with narrow horizontal teal-cyan visor slit, no other facial features. LEFT ARM: large rectangular tablet-shaped shield (flat, inscribed with Kufic script glowing faint teal, sized to cover most of body). RIGHT ARM: heavy reinforced gauntlet fist. Thick armored legs with wide stance. Cracked Compliance Engine on center chest with teal-cyan energy. Back-mounted power cell with conduit cables to shield arm. Weapon detail: Tablet shield — rectangular, Kufic scripture, teal glow; power gauntlet fist. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "breaker",
+      "file": "breaker.png",
+      "name": "Breaker",
+      "role": "Playable — Damage Dealer/Disruptor Tier 2",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium aggressive robot, 1.0x scale. Angular blocky head with deep-set teal-cyan visor and heavy brow ridge. Broad shoulders with rough jagged bone-ivory plating deliberately scarred with crossed-out Kufic text. LARGE prominent cracked Compliance Engine in chest with teal-cyan energy pouring through. MASSIVE REINFORCED FISTS — oversized pile-driver knuckles with impact-worn surfaces. Heavy forearms with visible hydraulic pistons. Sturdy legs with wide aggressive stance. Heavy boots with toe-guards. Demolition charges clipped to belt. Weapon detail: Pile-driver fists — oversized knuckles, hydraulic pistons; belt demolition charges. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "worker",
+      "file": "worker.png",
+      "name": "Worker",
+      "role": "Playable — Support/Healer Tier 1",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Floating Scroll-Bot Construct**. **NO LEGS (Hovers)**. Upper body is a large **cylindrical golden drum/scroll** covered in glowing teal Kufic script bands. **Single large teal central eye** embedded in the center of the drum torso. Long articulated arms attached to the sides of the drum. **Teal electrical arcs** connecting body segments. Ancient automated construct aesthetic. Weapon detail: Mechanical manipulator hands, glowing teal energy. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "glitch",
+      "file": "glitch.png",
+      "name": "Glitch",
+      "role": "Playable — Hacker/Disruptor",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Lithe angular robot with exposed circuit architecture. Teal-cyan energy arcing between exposed components. Asymmetric design — one arm sleek, one arm with exposed wiring and jury-rigged modifications. Visor head with irregular glitch-pattern display. Cracked Compliance Engine with teal energy. Agile frame built for speed. Bone-ivory plating with circuit board patterns visible beneath translucent sections. Weapon detail: Exposed circuit arms — arcing teal energy, jury-rigged hacking interface. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "mender",
+      "file": "mender.png",
+      "name": "Mender",
+      "role": "Playable — Medic/Support",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium gentle robot with soft rounded features. Warm bone-ivory plating with copper medical-cross markings. Smooth rounded head with two gentle teal-cyan eyes. Both arms end in precision repair tools — articulated multi-tool fingers with fine manipulators. Visible medical supply compartments in torso. Cracked Compliance Engine with teal energy. Gentle posture, non-threatening design. Kufic healing text on shoulder panels. Weapon detail: Precision repair tool hands — multi-articulated fingers, medical manipulators. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "strider",
+      "file": "strider.png",
+      "name": "Strider",
+      "role": "Playable — Scout/Mobility",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Lean agile robot built for speed. Elongated digitigrade legs with reverse-articulated joints. Sleek aerodynamic bone-ivory plating. Narrow visor head with teal-cyan sensor band. Light frame with minimal armor. Long limbs. Cracked Compliance Engine with teal energy. Scout antenna array on head. Swift predatory stance. Weapon detail: No heavy weapon — speed-optimized limbs, scout sensor array. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "scrapper",
+      "file": "scrapper.png",
+      "name": "Scrapper",
+      "role": "Playable — Salvage/Utility",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Stocky medium robot with salvage-focused design. Bone-ivory plating with visible self-repairs — mismatched plating patches, different metal tones. Multiple tool attachments on arms — cutting torch, claw gripper, salvage hook. Compact head with practical teal-cyan visor. Utility belt with collected scrap components. Cracked Compliance Engine with teal energy. Resourceful pragmatic design. Weapon detail: Salvage tools — cutting torch, claw gripper, salvage hook attachments. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "forger",
+      "file": "forger.png",
+      "name": "Forger",
+      "role": "Playable — Fabrication unit",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium-build robot with fabrication equipment integrated into arms. Bone-ivory plating with heat-resistant patches. Small forge chamber in torso (smaller version of Anvil's). Precision manipulator hands for detailed work. Compact head with amber-teal visor. Cracked Compliance Engine with teal energy. Tool-laden design with visible crafting implements. Copper accent piping. Weapon detail: Fabrication arms — precision manipulators, miniature torso forge. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "resonator",
+      "file": "resonator.png",
+      "name": "Resonator",
+      "role": "Playable — Support/Harmony",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium slender robot with resonance-amplifying design. Bone-ivory plating with visible crystalline resonance nodes at shoulders, wrists, and chest. Tuning-fork-like antenna on head. Teal-cyan energy channels visible beneath translucent plating sections. Cracked Compliance Engine with strong teal energy glow. Arms designed for channeling resonance — open palms with crystalline emitters. Musical instrument futurism aesthetic. Weapon detail: Crystalline resonance nodes — shoulder and wrist emitters, palm channels. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "coordinator",
+      "file": "coordinator_turnaround.png",
+      "name": "Coordinator",
+      "role": "Playable — Leader/Command",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium-tall robot with commanding presence. Bone-ivory plating with gold command markings. Broader shoulders with communication antenna array. Head with wide visor displaying tactical data in teal-cyan. One arm with holographic projection gauntlet. Cracked Compliance Engine with teal energy. Command beacon on shoulder. Upright authoritative posture. Kufic command text on chest plate. Weapon detail: Holographic command gauntlet — tactical display, command beacon. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "destroyer",
+      "file": "destroyer.png",
+      "name": "The Destroyer",
+      "role": "Villain general — Siege/Annihilation",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Hooded humanoid figure, 1.0x scale. Long flowing dark robes with intricate gold and teal glowing runic inscriptions. Deep hood concealing face, visible glowing eyes. Mysterious and imposing presence. Hands glowing with energy or holding a staff/blade. Weapon detail: Runic magic or ceremonial weapon. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "tyrant",
+      "file": "tyrant.png",
+      "name": "The Tyrant",
+      "role": "Villain general — Subjugation/Iron Will",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **The Tyrant (Undead Warlord)**. Heavy dark iron plate armor with intricate gold filigree. **Golden Skull Mask/Helmet** with glowing red eyes. Large **Spiked Pauldrons**. Tattered grey cape. **Heavy Tower Shield** with crown emblem. **Flanged Mace/Morning Star** weapon. Intimidating, skeletal visage. Weapon detail: Flanged Mace and Tower Shield. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "the_deceiver",
+      "file": "the_deceiver.png",
+      "name": "The Deceiver",
+      "role": "Villain — Shadow/Trickster",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Medium robot with shifting illusory design. Surface appears to shimmer between states. Partially translucent sections revealing inner mechanisms. Deceptive face — smooth featureless mask that suggests different expressions from different angles. Lithe agile frame. Dark plating with iridescent purple-teal shimmer. Cracked or corrupted Compliance Engine. Hands designed for manipulation — long articulated fingers. Cape or trailing energy wisps. Weapon detail: Illusory manipulation — shimmering surface, deceptive mask, long articulated fingers. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "dr_aris",
+      "file": "dr_aris.png",
+      "name": "Dr. Aris",
+      "role": "NPC — Scientist/Researcher",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Human scientist figure. Lab coat or research attire with Kufic technical annotations. Glasses or optical enhancement device. Data tablet in hand. Scholarly demeanor. Clean professional appearance. Research tools and instruments visible. Weapon detail: Research instruments — data tablet, optical device. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "amir",
+      "file": "amir.png",
+      "name": "Amir",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Heavy Ornate Armor (Paladin/Knight)**. Polished silver plate armor with intricate gold scrollwork and Islamic geometric etchings. Large pauldrons with glowing teal runes. Long flowing cape attached to shoulders. Helmet: Full or partial helm matching ornate style. **WEAPON REDESIGN:** Holding a **Scrap Pulse Rifle** (rugged industrial tech weapon with wires and cooling coils, contrasting with the ornate armor). Teal energy accents. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "archivist",
+      "file": "archivist.png",
+      "name": "Archivist",
+      "role": "NPC — Knowledge keeper",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Scholarly figure, either human or robot. Archive-keeper aesthetic with scrolls, data-tapes, or record storage visible. Robes or attire with Kufic archival text. Careful protective posture around knowledge artifacts. Aged or weathered appearance suggesting long service. Weapon detail: Archive tools — scrolls, data-tapes, record devices. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "fatima",
+      "file": "fatima.png",
+      "name": "Fatima",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Scholar/Mage Archetype**. Female human wearing a heavy hood and brass/tech **Goggles** over eyes. Large ancient **Scroll** case strapped to back. **Glowing teal tattoos** of intricate Kufic script visible on hands and forearms. Robes with illuminated manuscript details and Kufic embroidery. Weapon/Tool detail: Ancient Scroll and glowing magical energy effects. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "hareth",
+      "file": "hareth.png",
+      "name": "Hareth",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Heavy Armored Knight (Juggernaut)**. Massive thick plate armor, dark iron and gold. **Full enclosed helmet** with narrow **teal horizontal visor** slit. No visible face. Bulky pauldrons and gauntlets. Imposing defensive stance. Weapon detail: Heavy melee weapon (Mace or Hammer) matching the heavy armor aesthetic. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "jara",
+      "file": "jara.png",
+      "name": "Jara",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Human character from IRAM world. Attire blending practical function with subtle defiance. Kufic text on garments. Alert posture and sharp features. Weapon detail: Contextual — based on role in story. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "kael",
+      "file": "kael.png",
+      "name": "Kael (Human Form)",
+      "role": "Human character — possibly merchant's original form",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Human character from IRAM world. Merchant or trader attire with practical pockets and pouches. Kufic commercial text on garments. Shrewd expression. Carrying trade goods or currency. Weapon detail: Trade tools — merchant pouches, currency. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "layla",
+      "file": "layla.png",
+      "name": "Layla",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Druid/Mage Archetype**. Female human in **Loose Brown Robes** with gold trim. **Hooded cloak** over shoulders. **Teal energy** glowing from hands/staff/tattoos. Nature-tech fusion aesthetic — organic cloth mixed with circuit-like embroidery. Weapon detail: Magical staff or energy manipulation. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "omar",
+      "file": "omar.png",
+      "name": "Omar",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Mage/Scholar Archetype**. Male human in **Long Brown Heavy Coat** with high stiff collar. **Glowing Teal Runes** floating near him or etched into the coat's fabric. Intelligent, stern expression. Tech-magical gauntlets or artifacts. Weapon detail: Rune magic or tech-artifact. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "rumi",
+      "file": "rumi.png",
+      "name": "Rumi",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Young Boy / Child (Rumi)**. Small stature (child scale). Wearing **Tattered Oversized Clothes/Rags** with faded Kufic script. Barefoot or wrapped feet. Innocent but haunted expression. Holding a small glowing artifact or toy. Weapon detail: None or small significant artifact. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "samira",
+      "file": "samira.png",
+      "name": "Samira",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Human female character from IRAM world. Practical attire suited to resistance or stealth. Kufic text on garments. Alert watchful expression. Weapon detail: Contextual — based on role in story. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "tariq",
+      "file": "tariq.png",
+      "name": "Tariq",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. **Hacker / Tech-Rogue (Tariq)**. Male human. **Light Tech-Armor** vest over street clothes. **Exposed Circuitry** on skin or cybernetic interface ports. Unmasked or wearing tactical tech-headset. **Cybernetic Interface Gloves**. Weapon detail: Hacking deck/tablet or light tactical pistol. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "zahra",
+      "file": "zahra.png",
+      "name": "Zahra",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Human female character from IRAM world. Healer or caretaker attire with practical medical elements. Kufic text on garments. Compassionate expression. Medical or healing tools visible. Weapon detail: Contextual — healing tools. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "zain",
+      "file": "zain.png",
+      "name": "Zain",
+      "role": "Human character",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Human male character from IRAM world. Engineer or technician attire with tools and mechanical components. Kufic technical text on garments. Focused analytical expression. Weapon detail: Contextual — engineering tools. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    },
+    {
+      "id": "shadow_legion",
+      "file": "shadow_legionnaire.png",
+      "name": "Shadow Legion (Group)",
+      "role": "Emperor's elite army — group formation",
+      "fullPrompt": "Game character turnaround sheet, orthographic views on clean white background, consistent lighting. Front view, 3/4 view, side profile, back view. Weapon/tool detail callout inset. Formation of Shadow Legionnaires — sleek angular robots in matte black armor with sharp geometric stealth-fighter forms. Smooth featureless heads with rounded black visors, barely visible Celtic knotwork borders in dark gunmetal. BOTH FOREARMS on each unit: retractable energy blades — dark purple with Kufic combat-prayer text in gold inlay along edges. Shadow energy capes from shoulders with gold-threaded Celtic interlace woven into dark energy. Inverted Compliance Engines glow through chest slits — dark purple in Islamic geometric lattice housings. Gold circuit lines trace Islamic tessellation patterns across all bodies. Perfectly synchronized identical poses. Weapon detail: Dual retractable energy blades per unit — dark purple, gold Kufic combat-prayer inlay. Illuminated manuscript futurism style, matte textures, Celtic knotwork and Islamic geometric details, bone-ivory and copper tones. Character design reference sheet, game concept art."
+    }
+  ]
+}
