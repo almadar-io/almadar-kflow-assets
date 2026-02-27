@@ -1,0 +1,29 @@
+{
+  "projectId": "USER_FILLS_THIS",
+  "pageId": "USER_FILLS_THIS",
+  "apiBase": "https://imagine.vyro.ai/v1/flow",
+  "nodes": {
+    "prompt-cover": "NODE_ID",
+    "gen-cover": "NODE_ID",
+    "export-cover": "NODE_ID",
+    "prompt-scene-1": "NODE_ID",
+    "gen-scene-1": "NODE_ID",
+    "export-scene-1": "NODE_ID",
+    "prompt-scene-2": "NODE_ID",
+    "gen-scene-2": "NODE_ID",
+    "export-scene-2": "NODE_ID",
+    "prompt-scene-3": "NODE_ID",
+    "gen-scene-3": "NODE_ID",
+    "export-scene-3": "NODE_ID",
+    "prompt-scene-4": "NODE_ID",
+    "gen-scene-4": "NODE_ID",
+    "export-scene-4": "NODE_ID",
+    "prompt-scene-5": "NODE_ID",
+    "gen-scene-5": "NODE_ID",
+    "export-scene-5": "NODE_ID"
+  },
+  "references": {
+    "ref-style": { "nodeId": "NODE_ID", "nodeName": "ref-style" }
+  },
+  "baseGraph": {}
+}

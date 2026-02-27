@@ -1,0 +1,48 @@
+{
+  "unit": "zain",
+  "type": "hero",
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "columns": 8,
+  "rows": 5,
+  "directions": [
+    "se",
+    "sw"
+  ],
+  "sheets": {
+    "se": "./zain-sprite-sheet-se.png",
+    "sw": "./zain-sprite-sheet-sw.png"
+  },
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 4,
+      "frameRate": 8,
+      "loop": true
+    },
+    "walk": {
+      "row": 1,
+      "frames": 6,
+      "frameRate": 12,
+      "loop": true
+    },
+    "attack": {
+      "row": 2,
+      "frames": 4,
+      "frameRate": 12,
+      "loop": false
+    },
+    "hit": {
+      "row": 3,
+      "frames": 2,
+      "frameRate": 10,
+      "loop": false
+    },
+    "death": {
+      "row": 4,
+      "frames": 4,
+      "frameRate": 8,
+      "loop": false
+    }
+  }
+}
