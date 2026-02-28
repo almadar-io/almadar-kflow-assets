@@ -1,129 +1,62 @@
 {
-  "_comment": "ImagineArt workflow node ID mappings. Run 'npx tsx tools/asset-workflow/src/index.ts plan <story>' to see which nodes each story needs.",
-  "projectId": "USER_FILLS_THIS",
-  "pageId": "USER_FILLS_THIS",
+  "_comment": "ImagineArt workflow config — populated from the actual graph JSON. Reference imports use shared iram assets (amir portrait/turnaround/spritesheet, terrain tile) as style guides. The prompts enforce the actual story style via DNA.",
+  "projectId": "",
+  "pageId": "",
   "apiBase": "https://imagine.vyro.ai/v1/flow",
-  "nodes": {
-    "prompt-cover": "NODE_ID",
-    "gen-cover": "NODE_ID",
-    "export-cover": "NODE_ID",
-
-    "prompt-scene-1": "NODE_ID",
-    "gen-scene-1": "NODE_ID",
-    "export-scene-1": "NODE_ID",
-    "prompt-scene-2": "NODE_ID",
-    "gen-scene-2": "NODE_ID",
-    "export-scene-2": "NODE_ID",
-    "prompt-scene-3": "NODE_ID",
-    "gen-scene-3": "NODE_ID",
-    "export-scene-3": "NODE_ID",
-    "prompt-scene-4": "NODE_ID",
-    "gen-scene-4": "NODE_ID",
-    "export-scene-4": "NODE_ID",
-    "prompt-scene-5": "NODE_ID",
-    "gen-scene-5": "NODE_ID",
-    "export-scene-5": "NODE_ID",
-
-    "prompt-portrait-leonidas": "NODE_ID",
-    "gen-portrait-leonidas": "NODE_ID",
-    "export-portrait-leonidas": "NODE_ID",
-    "prompt-portrait-hoplite": "NODE_ID",
-    "gen-portrait-hoplite": "NODE_ID",
-    "export-portrait-hoplite": "NODE_ID",
-    "prompt-portrait-immortal": "NODE_ID",
-    "gen-portrait-immortal": "NODE_ID",
-    "export-portrait-immortal": "NODE_ID",
-    "prompt-portrait-archer": "NODE_ID",
-    "gen-portrait-archer": "NODE_ID",
-    "export-portrait-archer": "NODE_ID",
-    "prompt-portrait-marco": "NODE_ID",
-    "gen-portrait-marco": "NODE_ID",
-    "export-portrait-marco": "NODE_ID",
-
-    "prompt-turn-leonidas": "NODE_ID",
-    "gen-turn-leonidas": "NODE_ID",
-    "export-turn-leonidas": "NODE_ID",
-    "prompt-turn-hoplite": "NODE_ID",
-    "gen-turn-hoplite": "NODE_ID",
-    "export-turn-hoplite": "NODE_ID",
-    "prompt-turn-immortal": "NODE_ID",
-    "gen-turn-immortal": "NODE_ID",
-    "export-turn-immortal": "NODE_ID",
-    "prompt-turn-archer": "NODE_ID",
-    "gen-turn-archer": "NODE_ID",
-    "export-turn-archer": "NODE_ID",
-    "prompt-turn-marco": "NODE_ID",
-    "gen-turn-marco": "NODE_ID",
-    "export-turn-marco": "NODE_ID",
-
-    "prompt-sprite-leonidas": "NODE_ID",
-    "gen-sprite-leonidas": "NODE_ID",
-    "export-sprite-leonidas": "NODE_ID",
-    "prompt-sprite-hoplite": "NODE_ID",
-    "gen-sprite-hoplite": "NODE_ID",
-    "export-sprite-hoplite": "NODE_ID",
-    "prompt-sprite-immortal": "NODE_ID",
-    "gen-sprite-immortal": "NODE_ID",
-    "export-sprite-immortal": "NODE_ID",
-    "prompt-sprite-archer": "NODE_ID",
-    "gen-sprite-archer": "NODE_ID",
-    "export-sprite-archer": "NODE_ID",
-    "prompt-sprite-marco": "NODE_ID",
-    "gen-sprite-marco": "NODE_ID",
-    "export-sprite-marco": "NODE_ID",
-
-    "prompt-terrain-mountains": "NODE_ID",
-    "gen-terrain-mountains": "NODE_ID",
-    "export-terrain-mountains": "NODE_ID",
-    "prompt-terrain-plains": "NODE_ID",
-    "gen-terrain-plains": "NODE_ID",
-    "export-terrain-plains": "NODE_ID",
-    "prompt-terrain-water": "NODE_ID",
-    "gen-terrain-water": "NODE_ID",
-    "export-terrain-water": "NODE_ID",
-    "prompt-terrain-stone": "NODE_ID",
-    "gen-terrain-stone": "NODE_ID",
-    "export-terrain-stone": "NODE_ID",
-    "prompt-terrain-desert": "NODE_ID",
-    "gen-terrain-desert": "NODE_ID",
-    "export-terrain-desert": "NODE_ID",
-    "prompt-terrain-oasis": "NODE_ID",
-    "gen-terrain-oasis": "NODE_ID",
-    "export-terrain-oasis": "NODE_ID",
-    "prompt-terrain-city": "NODE_ID",
-    "gen-terrain-city": "NODE_ID",
-    "export-terrain-city": "NODE_ID",
-    "prompt-terrain-forest": "NODE_ID",
-    "gen-terrain-forest": "NODE_ID",
-    "export-terrain-forest": "NODE_ID",
-
-    "prompt-feature-oasis": "NODE_ID",
-    "gen-feature-oasis": "NODE_ID",
-    "export-feature-oasis": "NODE_ID",
-    "prompt-feature-city": "NODE_ID",
-    "gen-feature-city": "NODE_ID",
-    "export-feature-city": "NODE_ID",
-    "prompt-feature-banditCamp": "NODE_ID",
-    "gen-feature-banditCamp": "NODE_ID",
-    "export-feature-banditCamp": "NODE_ID",
-    "prompt-feature-treasure": "NODE_ID",
-    "gen-feature-treasure": "NODE_ID",
-    "export-feature-treasure": "NODE_ID",
-    "prompt-feature-start": "NODE_ID",
-    "gen-feature-start": "NODE_ID",
-    "export-feature-start": "NODE_ID",
-    "prompt-feature-goal": "NODE_ID",
-    "gen-feature-goal": "NODE_ID",
-    "export-feature-goal": "NODE_ID"
+  "chains": {
+    "cover": {
+      "promptNode": "02c9287f-57c5-4988-a1c0-04cfc29aaffd",
+      "genNode": "f0079514-06ac-4f1e-af63-85e705bcd8fb",
+      "exportNode": "4a47d670-0f57-4f6f-a4b8-55270a207cd6"
+    },
+    "scene": {
+      "promptNode": "b49baace-d40b-401a-9eae-9a55429342ae",
+      "genNode": "2aaf25a0-0465-4891-8517-1723500a8391",
+      "exportNode": "b47b979f-c427-4360-b8a1-8b179cd20dbd"
+    },
+    "portrait": {
+      "promptNode": "2caa12cd-6cfa-4ab9-8b8e-cb56d28fae9a",
+      "genNode": "f5a6d3b5-c75d-4c45-a632-525f915150dc",
+      "exportNode": "74d5df84-19cc-48be-b239-9809f7e18cff"
+    },
+    "turnaround": {
+      "promptNode": "aaac096d-ab58-444c-a6bf-876352d66971",
+      "genNode": "74bed197-edc4-4fa7-855f-608f58c328d9",
+      "exportNode": "43ffe3f7-db61-4a6b-a0db-7cb91938dba8"
+    },
+    "sprite": {
+      "promptNode": "d03b9562-cd60-4fa1-b72a-1b9a8e87d003",
+      "genNode": "8b11e6b4-5000-48d2-b04e-c9e982c7332a",
+      "exportNode": "b8e4aa7e-e817-4c15-ba3a-70711b1c8ad9"
+    },
+    "terrain": {
+      "promptNode": "d1417061-599f-4857-9879-fd5eaf23448b",
+      "genNode": "1b640667-2293-4932-a7c1-0596166ffbbf",
+      "exportNode": "d9a9d8d1-5cd7-47db-a2b5-ea5b9aa4d9d5"
+    },
+    "feature": {
+      "promptNode": "ca3162e9-012a-4b4f-848b-8792575b409e",
+      "genNode": "7d48721a-2661-4c22-820e-69d473f180df",
+      "exportNode": "ec1dc11a-e5ff-4430-9556-a31702f06161"
+    }
   },
   "references": {
-    "ref-style": { "nodeId": "NODE_ID", "nodeName": "ref-style" },
-    "ref-terrain": { "nodeId": "NODE_ID", "nodeName": "ref-terrain" },
-    "ref-character-leonidas": { "nodeId": "NODE_ID", "nodeName": "ref-character-leonidas" },
-    "ref-character-hoplite": { "nodeId": "NODE_ID", "nodeName": "ref-character-hoplite" },
-    "ref-character-immortal": { "nodeId": "NODE_ID", "nodeName": "ref-character-immortal" },
-    "ref-character-archer": { "nodeId": "NODE_ID", "nodeName": "ref-character-archer" },
-    "ref-character-marco": { "nodeId": "NODE_ID", "nodeName": "ref-character-marco" }
+    "portrait-ref": {
+      "nodeId": "1546c6fe-95e8-49b8-9a27-101045d4bc7c",
+      "nodeName": "portrait-ref"
+    },
+    "turnaround-ref": {
+      "nodeId": "8a6cd4f3-57bf-45aa-948f-8f6a3679e0b4",
+      "nodeName": "turnaround-ref"
+    },
+    "sprite-sheet-se-ref": {
+      "nodeId": "8f7b1c0d-527c-457f-a367-8aebd32ef67d",
+      "nodeName": "sprite-sheet-se-ref"
+    },
+    "terrain-ref": {
+      "nodeId": "d7ba713f-4614-4f60-9764-0ac72a9a4920",
+      "nodeName": "terrain-ref"
+    }
   },
   "baseGraph": {}
 }
