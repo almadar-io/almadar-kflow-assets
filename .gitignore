@@ -2,3 +2,4 @@ node_modules/
 .firebase/
 .browser-profile*/
 .profiles/
+.raw/
