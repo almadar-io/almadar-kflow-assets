@@ -12,7 +12,7 @@
     "scene": {
       "promptNode": "b49baace-d40b-401a-9eae-9a55429342ae",
       "genNode": "2aaf25a0-0465-4891-8517-1723500a8391",
-      "exportNode": "b47b979f-c427-4360-b8a1-8b179cd20dbd"
+      "exportNode": "d8920b55-a88e-4c5d-89a6-2f80e3e40ee3"
     },
     "portrait": {
       "promptNode": "2caa12cd-6cfa-4ab9-8b8e-cb56d28fae9a",
@@ -27,17 +27,37 @@
     "sprite": {
       "promptNode": "d03b9562-cd60-4fa1-b72a-1b9a8e87d003",
       "genNode": "8b11e6b4-5000-48d2-b04e-c9e982c7332a",
-      "exportNode": "b8e4aa7e-e817-4c15-ba3a-70711b1c8ad9"
+      "exportNode": "7c40afd5-a5d6-4f54-8e5c-a3a2fded7f44"
     },
     "terrain": {
       "promptNode": "d1417061-599f-4857-9879-fd5eaf23448b",
       "genNode": "1b640667-2293-4932-a7c1-0596166ffbbf",
-      "exportNode": "d9a9d8d1-5cd7-47db-a2b5-ea5b9aa4d9d5"
+      "exportNode": "cddfaf33-bf40-4ea1-9e09-3de4e2b4e3ce"
     },
     "feature": {
       "promptNode": "ca3162e9-012a-4b4f-848b-8792575b409e",
       "genNode": "7d48721a-2661-4c22-820e-69d473f180df",
       "exportNode": "ec1dc11a-e5ff-4430-9556-a31702f06161"
+    },
+    "puzzle-bg": {
+      "promptNode": "82273e22-cb06-469a-8069-9634195deedd",
+      "genNode": "785b3ea3-901d-40b0-8ff7-38ec4665ae12",
+      "exportNode": "286f37ae-83c3-4034-9319-aeb43dc0d45e"
+    },
+    "puzzle-icon": {
+      "promptNode": "5bb2d319-82a6-46fb-b7bc-f2ccd0ef12be",
+      "genNode": "d7908bcc-7ebb-4840-925a-37802be7ae57",
+      "exportNode": "2b4c0056-1551-4a3e-a71f-63b9bdc5de62"
+    },
+    "puzzle-cat": {
+      "promptNode": "2bb4cf07-429d-402f-ba74-6ca9e3f771ef",
+      "genNode": "441c608c-4d89-4489-90d5-c2e1ebe70af7",
+      "exportNode": "9a9a1932-5f39-49fe-900d-95803b218ba9"
+    },
+    "puzzle-overlay": {
+      "promptNode": "0404e6c2-4719-4e9e-ac36-cdba89720be7",
+      "genNode": "788b6480-31c5-4717-9830-a478960f11d9",
+      "exportNode": "db9dbda0-36b2-4e66-a40b-1b49434eacb2"
     }
   },
   "references": {
