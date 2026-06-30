@@ -30,6 +30,11 @@ jobs:
         with:
           lfs: true
 
+      # Node 22's undici premature-closes firebase-tools' hosting API calls → deploy fails.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Verify LFS files are real
         run: |
           SAMPLE=$(find . -name "*.png" -type f | head -1)
