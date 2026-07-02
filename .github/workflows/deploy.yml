@@ -18,6 +18,11 @@ on:
       - '**/*.wav'
       - '**/*.mp4'
       - '**/*.pdf'
+      - '**/*.ttf'
+      - '**/*.otf'
+      - '**/*.woff'
+      - '**/*.woff2'
+      - 'shared/**/*.json'
       - '**/manifest.json'
       - 'firebase.json'
 
