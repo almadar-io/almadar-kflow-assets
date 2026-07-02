@@ -1,0 +1,197 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "chipBlackWhite.png": {
+      "x": 196,
+      "y": 332,
+      "width": 64,
+      "height": 64
+    },
+    "chipBlackWhite_border.png": {
+      "x": 0,
+      "y": 262,
+      "width": 68,
+      "height": 68
+    },
+    "chipBlackWhite_side.png": {
+      "x": 200,
+      "y": 0,
+      "width": 64,
+      "height": 38
+    },
+    "chipBlackWhite_sideBorder.png": {
+      "x": 0,
+      "y": 68,
+      "width": 68,
+      "height": 42
+    },
+    "chipBlue.png": {
+      "x": 68,
+      "y": 372,
+      "width": 64,
+      "height": 64
+    },
+    "chipBlueWhite.png": {
+      "x": 132,
+      "y": 410,
+      "width": 64,
+      "height": 64
+    },
+    "chipBlueWhite_border.png": {
+      "x": 0,
+      "y": 440,
+      "width": 68,
+      "height": 68
+    },
+    "chipBlueWhite_side.png": {
+      "x": 68,
+      "y": 474,
+      "width": 64,
+      "height": 38
+    },
+    "chipBlueWhite_sideBorder.png": {
+      "x": 0,
+      "y": 330,
+      "width": 68,
+      "height": 42
+    },
+    "chipBlue_border.png": {
+      "x": 68,
+      "y": 152,
+      "width": 68,
+      "height": 68
+    },
+    "chipBlue_side.png": {
+      "x": 68,
+      "y": 436,
+      "width": 64,
+      "height": 38
+    },
+    "chipBlue_sideBorder.png": {
+      "x": 68,
+      "y": 68,
+      "width": 68,
+      "height": 42
+    },
+    "chipGreen.png": {
+      "x": 136,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "chipGreenWhite.png": {
+      "x": 136,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "chipGreenWhite_border.png": {
+      "x": 0,
+      "y": 0,
+      "width": 68,
+      "height": 68
+    },
+    "chipGreenWhite_side.png": {
+      "x": 196,
+      "y": 460,
+      "width": 64,
+      "height": 38
+    },
+    "chipGreenWhite_sideBorder.png": {
+      "x": 0,
+      "y": 152,
+      "width": 68,
+      "height": 42
+    },
+    "chipGreen_border.png": {
+      "x": 0,
+      "y": 194,
+      "width": 68,
+      "height": 68
+    },
+    "chipGreen_side.png": {
+      "x": 136,
+      "y": 256,
+      "width": 64,
+      "height": 38
+    },
+    "chipGreen_sideBorder.png": {
+      "x": 0,
+      "y": 110,
+      "width": 68,
+      "height": 42
+    },
+    "chipRedWhite.png": {
+      "x": 196,
+      "y": 396,
+      "width": 64,
+      "height": 64
+    },
+    "chipRedWhite_border.png": {
+      "x": 0,
+      "y": 372,
+      "width": 68,
+      "height": 68
+    },
+    "chipRedWhite_side.png": {
+      "x": 136,
+      "y": 294,
+      "width": 64,
+      "height": 38
+    },
+    "chipRedWhite_sideBorder.png": {
+      "x": 68,
+      "y": 110,
+      "width": 68,
+      "height": 42
+    },
+    "chipWhite.png": {
+      "x": 136,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "chipWhiteBlue.png": {
+      "x": 136,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "chipWhiteBlue_border.png": {
+      "x": 68,
+      "y": 262,
+      "width": 68,
+      "height": 68
+    },
+    "chipWhiteBlue_side.png": {
+      "x": 132,
+      "y": 372,
+      "width": 64,
+      "height": 38
+    },
+    "chipWhiteBlue_sideBorder.png": {
+      "x": 68,
+      "y": 330,
+      "width": 68,
+      "height": 42
+    },
+    "chipWhite_border.png": {
+      "x": 68,
+      "y": 0,
+      "width": 68,
+      "height": 68
+    },
+    "chipWhite_side.png": {
+      "x": 132,
+      "y": 474,
+      "width": 64,
+      "height": 38
+    },
+    "chipWhite_sideBorder.png": {
+      "x": 68,
+      "y": 220,
+      "width": 68,
+      "height": 42
+    }
+  }
+}

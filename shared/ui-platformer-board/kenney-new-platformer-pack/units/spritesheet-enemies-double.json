@@ -1,0 +1,365 @@
+{
+  "imagePath": "spritesheet-enemies-double.png",
+  "subTextures": {
+    "barnacle_attack_a": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "barnacle_attack_b": {
+      "x": 129,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "barnacle_attack_rest": {
+      "x": 258,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "bee_a": {
+      "x": 387,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "bee_b": {
+      "x": 516,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "bee_rest": {
+      "x": 645,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "block_fall": {
+      "x": 774,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "block_idle": {
+      "x": 903,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "block_rest": {
+      "x": 0,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_blue_rest": {
+      "x": 129,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_blue_swim_a": {
+      "x": 258,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_blue_swim_b": {
+      "x": 387,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_purple_down": {
+      "x": 516,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_purple_rest": {
+      "x": 645,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_purple_up": {
+      "x": 774,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_yellow_rest": {
+      "x": 903,
+      "y": 129,
+      "width": 128,
+      "height": 128
+    },
+    "fish_yellow_swim_a": {
+      "x": 0,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "fish_yellow_swim_b": {
+      "x": 129,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "fly_a": {
+      "x": 258,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "fly_b": {
+      "x": 387,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "fly_rest": {
+      "x": 516,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "frog_idle": {
+      "x": 645,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "frog_jump": {
+      "x": 774,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "frog_rest": {
+      "x": 903,
+      "y": 258,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug_fly": {
+      "x": 0,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug_rest": {
+      "x": 129,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug_walk_a": {
+      "x": 258,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug_walk_b": {
+      "x": 387,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "mouse_rest": {
+      "x": 516,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "mouse_walk_a": {
+      "x": 645,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "mouse_walk_b": {
+      "x": 774,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "saw_a": {
+      "x": 903,
+      "y": 387,
+      "width": 128,
+      "height": 128
+    },
+    "saw_b": {
+      "x": 0,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "saw_rest": {
+      "x": 129,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_block_jump": {
+      "x": 258,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_block_rest": {
+      "x": 387,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_block_walk_a": {
+      "x": 516,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_block_walk_b": {
+      "x": 645,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_fire_flat": {
+      "x": 774,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_fire_rest": {
+      "x": 903,
+      "y": 516,
+      "width": 128,
+      "height": 128
+    },
+    "slime_fire_walk_a": {
+      "x": 0,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_fire_walk_b": {
+      "x": 129,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_normal_flat": {
+      "x": 258,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_normal_rest": {
+      "x": 387,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_normal_walk_a": {
+      "x": 516,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_normal_walk_b": {
+      "x": 645,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_spike_flat": {
+      "x": 774,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_spike_rest": {
+      "x": 903,
+      "y": 645,
+      "width": 128,
+      "height": 128
+    },
+    "slime_spike_walk_a": {
+      "x": 0,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "slime_spike_walk_b": {
+      "x": 129,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "snail_rest": {
+      "x": 258,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "snail_shell": {
+      "x": 387,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "snail_walk_a": {
+      "x": 516,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "snail_walk_b": {
+      "x": 645,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "worm_normal_move_a": {
+      "x": 774,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "worm_normal_move_b": {
+      "x": 903,
+      "y": 774,
+      "width": 128,
+      "height": 128
+    },
+    "worm_normal_rest": {
+      "x": 0,
+      "y": 903,
+      "width": 128,
+      "height": 128
+    },
+    "worm_ring_move_a": {
+      "x": 129,
+      "y": 903,
+      "width": 128,
+      "height": 128
+    },
+    "worm_ring_move_b": {
+      "x": 258,
+      "y": 903,
+      "width": 128,
+      "height": 128
+    },
+    "worm_ring_rest": {
+      "x": 387,
+      "y": 903,
+      "width": 128,
+      "height": 128
+    }
+  }
+}

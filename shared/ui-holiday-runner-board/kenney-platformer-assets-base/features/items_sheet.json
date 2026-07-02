@@ -1,0 +1,359 @@
+{
+  "imagePath": "items_sheet.png",
+  "subTextures": {
+    "bomb.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "bombFlash.png": {
+      "x": 129,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "bush.png": {
+      "x": 129,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "buttonBlue.png": {
+      "x": 128,
+      "y": 142,
+      "width": 70,
+      "height": 70
+    },
+    "buttonBlue_pressed.png": {
+      "x": 70,
+      "y": 423,
+      "width": 70,
+      "height": 70
+    },
+    "buttonGreen.png": {
+      "x": 70,
+      "y": 353,
+      "width": 70,
+      "height": 70
+    },
+    "buttonGreen_pressed.png": {
+      "x": 70,
+      "y": 283,
+      "width": 70,
+      "height": 70
+    },
+    "buttonRed.png": {
+      "x": 140,
+      "y": 212,
+      "width": 70,
+      "height": 70
+    },
+    "buttonRed_pressed.png": {
+      "x": 0,
+      "y": 423,
+      "width": 70,
+      "height": 70
+    },
+    "buttonYellow.png": {
+      "x": 0,
+      "y": 353,
+      "width": 70,
+      "height": 70
+    },
+    "buttonYellow_pressed.png": {
+      "x": 0,
+      "y": 283,
+      "width": 70,
+      "height": 70
+    },
+    "cactus.png": {
+      "x": 70,
+      "y": 213,
+      "width": 70,
+      "height": 70
+    },
+    "chain.png": {
+      "x": 0,
+      "y": 213,
+      "width": 70,
+      "height": 70
+    },
+    "cloud1.png": {
+      "x": 0,
+      "y": 142,
+      "width": 128,
+      "height": 71
+    },
+    "cloud2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 129,
+      "height": 71
+    },
+    "cloud3.png": {
+      "x": 0,
+      "y": 71,
+      "width": 129,
+      "height": 71
+    },
+    "coinBronze.png": {
+      "x": 269,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "coinGold.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "coinSilver.png": {
+      "x": 269,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "fireball.png": {
+      "x": 490,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "flagBlue.png": {
+      "x": 490,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "flagBlue2.png": {
+      "x": 479,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "flagBlueHanging.png": {
+      "x": 479,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "flagGreen.png": {
+      "x": 478,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "flagGreen2.png": {
+      "x": 420,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "flagGreenHanging.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "flagRed.png": {
+      "x": 420,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "flagRed2.png": {
+      "x": 420,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "flagRedHanging.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "flagYellow.png": {
+      "x": 409,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "flagYellow2.png": {
+      "x": 409,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "flagYellowHanging.png": {
+      "x": 408,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "gemBlue.png": {
+      "x": 350,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "gemGreen.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "gemRed.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "gemYellow.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "keyBlue.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "keyGreen.png": {
+      "x": 339,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "keyRed.png": {
+      "x": 339,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "keyYellow.png": {
+      "x": 338,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "mushroomBrown.png": {
+      "x": 280,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "mushroomRed.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "particleBrick1a.png": {
+      "x": 0,
+      "y": 535,
+      "width": 19,
+      "height": 14
+    },
+    "particleBrick1b.png": {
+      "x": 0,
+      "y": 493,
+      "width": 21,
+      "height": 21
+    },
+    "particleBrick2a.png": {
+      "x": 19,
+      "y": 535,
+      "width": 19,
+      "height": 14
+    },
+    "particleBrick2b.png": {
+      "x": 0,
+      "y": 514,
+      "width": 21,
+      "height": 21
+    },
+    "plant.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "plantPurple.png": {
+      "x": 210,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "rock.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "snowhill.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "spikes.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "springboardDown.png": {
+      "x": 268,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "springboardUp.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "star.png": {
+      "x": 199,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "switchLeft.png": {
+      "x": 199,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "switchMid.png": {
+      "x": 198,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "switchRight.png": {
+      "x": 140,
+      "y": 422,
+      "width": 70,
+      "height": 70
+    },
+    "weight.png": {
+      "x": 140,
+      "y": 352,
+      "width": 70,
+      "height": 70
+    },
+    "weightChained.png": {
+      "x": 140,
+      "y": 282,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

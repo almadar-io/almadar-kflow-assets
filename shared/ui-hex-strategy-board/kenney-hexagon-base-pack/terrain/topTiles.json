@@ -1,0 +1,65 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "tileAutumn_tile.png": {
+      "x": 0,
+      "y": 0,
+      "width": 55,
+      "height": 57
+    },
+    "tileDirt_tile.png": {
+      "x": 55,
+      "y": 0,
+      "width": 55,
+      "height": 57
+    },
+    "tileGrass_tile.png": {
+      "x": 110,
+      "y": 0,
+      "width": 55,
+      "height": 57
+    },
+    "tileLava_tile.png": {
+      "x": 55,
+      "y": 171,
+      "width": 55,
+      "height": 57
+    },
+    "tileMagic_tile.png": {
+      "x": 55,
+      "y": 114,
+      "width": 55,
+      "height": 57
+    },
+    "tileRock_tile.png": {
+      "x": 55,
+      "y": 57,
+      "width": 55,
+      "height": 57
+    },
+    "tileSand_tile.png": {
+      "x": 110,
+      "y": 57,
+      "width": 55,
+      "height": 57
+    },
+    "tileSnow_tile.png": {
+      "x": 0,
+      "y": 171,
+      "width": 55,
+      "height": 57
+    },
+    "tileStone_tile.png": {
+      "x": 0,
+      "y": 114,
+      "width": 55,
+      "height": 57
+    },
+    "tileWater_tile.png": {
+      "x": 0,
+      "y": 57,
+      "width": 55,
+      "height": 57
+    }
+  }
+}

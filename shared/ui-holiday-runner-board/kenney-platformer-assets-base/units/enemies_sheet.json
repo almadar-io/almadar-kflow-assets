@@ -1,0 +1,113 @@
+{
+  "imagePath": "enemies_sheet.png",
+  "subTextures": {
+    "blockerBody.png": {
+      "x": 75,
+      "y": 0,
+      "width": 51,
+      "height": 51
+    },
+    "blockerMad.png": {
+      "x": 113,
+      "y": 118,
+      "width": 51,
+      "height": 51
+    },
+    "blockerSad.png": {
+      "x": 66,
+      "y": 67,
+      "width": 51,
+      "height": 51
+    },
+    "fishDead.png": {
+      "x": 0,
+      "y": 109,
+      "width": 66,
+      "height": 42
+    },
+    "fishSwim1.png": {
+      "x": 0,
+      "y": 67,
+      "width": 66,
+      "height": 42
+    },
+    "fishSwim2.png": {
+      "x": 0,
+      "y": 151,
+      "width": 62,
+      "height": 43
+    },
+    "flyDead.png": {
+      "x": 0,
+      "y": 206,
+      "width": 59,
+      "height": 33
+    },
+    "flyFly1.png": {
+      "x": 0,
+      "y": 31,
+      "width": 72,
+      "height": 36
+    },
+    "flyFly2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 75,
+      "height": 31
+    },
+    "pokerMad.png": {
+      "x": 212,
+      "y": 0,
+      "width": 48,
+      "height": 146
+    },
+    "pokerSad.png": {
+      "x": 164,
+      "y": 0,
+      "width": 48,
+      "height": 146
+    },
+    "slimeDead.png": {
+      "x": 0,
+      "y": 194,
+      "width": 59,
+      "height": 12
+    },
+    "slimeWalk1.png": {
+      "x": 113,
+      "y": 225,
+      "width": 50,
+      "height": 28
+    },
+    "slimeWalk2.png": {
+      "x": 62,
+      "y": 151,
+      "width": 51,
+      "height": 26
+    },
+    "snailShell.png": {
+      "x": 116,
+      "y": 169,
+      "width": 44,
+      "height": 30
+    },
+    "snailShell_upsidedown.png": {
+      "x": 66,
+      "y": 118,
+      "width": 44,
+      "height": 30
+    },
+    "snailWalk1.png": {
+      "x": 59,
+      "y": 225,
+      "width": 54,
+      "height": 31
+    },
+    "snailWalk2.png": {
+      "x": 59,
+      "y": 194,
+      "width": 57,
+      "height": 31
+    }
+  }
+}

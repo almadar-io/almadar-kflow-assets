@@ -1,0 +1,7 @@
+{
+  "imagePath": "tilemap_packed.png",
+  "tileWidth": 32,
+  "tileHeight": 32,
+  "columns": 13,
+  "rows": 7
+}

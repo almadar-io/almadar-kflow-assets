@@ -1,0 +1,8 @@
+{
+  "imagePath": "tileset_legacy.png",
+  "tileWidth": 16,
+  "tileHeight": 16,
+  "columns": 32,
+  "rows": 32,
+  "spacing": 1
+}

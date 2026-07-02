@@ -1,0 +1,245 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "ballBlack_01.png": {
+      "x": 450,
+      "y": 300,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlack_02.png": {
+      "x": 450,
+      "y": 690,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlack_03.png": {
+      "x": 450,
+      "y": 560,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlack_04.png": {
+      "x": 450,
+      "y": 430,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlack_05.png": {
+      "x": 600,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlack_06.png": {
+      "x": 0,
+      "y": 600,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlack_07.png": {
+      "x": 0,
+      "y": 450,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlack_08.png": {
+      "x": 0,
+      "y": 300,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlack_09.png": {
+      "x": 0,
+      "y": 150,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlack_10.png": {
+      "x": 0,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlue_01.png": {
+      "x": 710,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlue_02.png": {
+      "x": 730,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlue_03.png": {
+      "x": 730,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlue_04.png": {
+      "x": 710,
+      "y": 780,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlue_05.png": {
+      "x": 710,
+      "y": 650,
+      "width": 128,
+      "height": 128
+    },
+    "ballBlue_06.png": {
+      "x": 300,
+      "y": 450,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlue_07.png": {
+      "x": 0,
+      "y": 750,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlue_08.png": {
+      "x": 150,
+      "y": 300,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlue_09.png": {
+      "x": 150,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "ballBlue_10.png": {
+      "x": 150,
+      "y": 150,
+      "width": 148,
+      "height": 148
+    },
+    "ballGrey_01.png": {
+      "x": 580,
+      "y": 820,
+      "width": 128,
+      "height": 128
+    },
+    "ballGrey_02.png": {
+      "x": 580,
+      "y": 690,
+      "width": 128,
+      "height": 128
+    },
+    "ballGrey_03.png": {
+      "x": 580,
+      "y": 560,
+      "width": 128,
+      "height": 128
+    },
+    "ballGrey_04.png": {
+      "x": 580,
+      "y": 430,
+      "width": 128,
+      "height": 128
+    },
+    "ballGrey_05.png": {
+      "x": 580,
+      "y": 300,
+      "width": 128,
+      "height": 128
+    },
+    "ballGrey_06.png": {
+      "x": 150,
+      "y": 450,
+      "width": 148,
+      "height": 148
+    },
+    "ballGrey_07.png": {
+      "x": 450,
+      "y": 150,
+      "width": 148,
+      "height": 148
+    },
+    "ballGrey_08.png": {
+      "x": 300,
+      "y": 750,
+      "width": 148,
+      "height": 148
+    },
+    "ballGrey_09.png": {
+      "x": 450,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "ballGrey_10.png": {
+      "x": 300,
+      "y": 600,
+      "width": 148,
+      "height": 148
+    },
+    "ballYellow_01.png": {
+      "x": 840,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "ballYellow_02.png": {
+      "x": 600,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "ballYellow_03.png": {
+      "x": 710,
+      "y": 520,
+      "width": 128,
+      "height": 128
+    },
+    "ballYellow_04.png": {
+      "x": 710,
+      "y": 390,
+      "width": 128,
+      "height": 128
+    },
+    "ballYellow_05.png": {
+      "x": 450,
+      "y": 820,
+      "width": 128,
+      "height": 128
+    },
+    "ballYellow_06.png": {
+      "x": 300,
+      "y": 300,
+      "width": 148,
+      "height": 148
+    },
+    "ballYellow_07.png": {
+      "x": 300,
+      "y": 150,
+      "width": 148,
+      "height": 148
+    },
+    "ballYellow_08.png": {
+      "x": 300,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "ballYellow_09.png": {
+      "x": 150,
+      "y": 750,
+      "width": 148,
+      "height": 148
+    },
+    "ballYellow_10.png": {
+      "x": 150,
+      "y": 600,
+      "width": 148,
+      "height": 148
+    }
+  }
+}

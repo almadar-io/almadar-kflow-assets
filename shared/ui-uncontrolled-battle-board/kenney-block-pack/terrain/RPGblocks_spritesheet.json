@@ -1,0 +1,605 @@
+{
+  "imagePath": "RPGblocks_spritesheet.png",
+  "subTextures": {
+    "box.png": {
+      "x": 546,
+      "y": 519,
+      "width": 24,
+      "height": 28
+    },
+    "box_treasure.png": {
+      "x": 546,
+      "y": 465,
+      "width": 32,
+      "height": 28
+    },
+    "box_wide.png": {
+      "x": 512,
+      "y": 403,
+      "width": 36,
+      "height": 28
+    },
+    "cart.png": {
+      "x": 512,
+      "y": 356,
+      "width": 40,
+      "height": 27
+    },
+    "cart_horse.png": {
+      "x": 0,
+      "y": 104,
+      "width": 64,
+      "height": 34
+    },
+    "cart_top.png": {
+      "x": 512,
+      "y": 48,
+      "width": 58,
+      "height": 48
+    },
+    "character_horse.png": {
+      "x": 546,
+      "y": 431,
+      "width": 32,
+      "height": 34
+    },
+    "character_man.png": {
+      "x": 564,
+      "y": 164,
+      "width": 16,
+      "height": 25
+    },
+    "character_wizard.png": {
+      "x": 570,
+      "y": 48,
+      "width": 16,
+      "height": 25
+    },
+    "character_woman.png": {
+      "x": 570,
+      "y": 519,
+      "width": 16,
+      "height": 26
+    },
+    "detail_mud.png": {
+      "x": 512,
+      "y": 236,
+      "width": 50,
+      "height": 28
+    },
+    "detail_snow.png": {
+      "x": 512,
+      "y": 208,
+      "width": 50,
+      "height": 28
+    },
+    "detail_window.png": {
+      "x": 512,
+      "y": 568,
+      "width": 24,
+      "height": 16
+    },
+    "detail_windowBlue.png": {
+      "x": 512,
+      "y": 383,
+      "width": 40,
+      "height": 20
+    },
+    "detail_windowCastle.png": {
+      "x": 564,
+      "y": 140,
+      "width": 16,
+      "height": 24
+    },
+    "detail_windowRed.png": {
+      "x": 512,
+      "y": 336,
+      "width": 40,
+      "height": 20
+    },
+    "detail_windowSlit.png": {
+      "x": 566,
+      "y": 569,
+      "width": 10,
+      "height": 24
+    },
+    "door.png": {
+      "x": 564,
+      "y": 96,
+      "width": 16,
+      "height": 22
+    },
+    "door_glass.png": {
+      "x": 564,
+      "y": 118,
+      "width": 16,
+      "height": 22
+    },
+    "door_open.png": {
+      "x": 566,
+      "y": 547,
+      "width": 16,
+      "height": 22
+    },
+    "fence_double.png": {
+      "x": 448,
+      "y": 508,
+      "width": 64,
+      "height": 24
+    },
+    "fence_doubleGate.png": {
+      "x": 448,
+      "y": 556,
+      "width": 64,
+      "height": 24
+    },
+    "fence_single.png": {
+      "x": 448,
+      "y": 532,
+      "width": 64,
+      "height": 24
+    },
+    "fence_singleGate.png": {
+      "x": 0,
+      "y": 564,
+      "width": 64,
+      "height": 24
+    },
+    "foliageBush_large.png": {
+      "x": 546,
+      "y": 493,
+      "width": 32,
+      "height": 26
+    },
+    "foliageBush_small.png": {
+      "x": 558,
+      "y": 300,
+      "width": 18,
+      "height": 16
+    },
+    "foliageTree_green.png": {
+      "x": 552,
+      "y": 336,
+      "width": 29,
+      "height": 90
+    },
+    "foliageTree_orange.png": {
+      "x": 512,
+      "y": 477,
+      "width": 34,
+      "height": 91
+    },
+    "foliageTree_red.png": {
+      "x": 562,
+      "y": 208,
+      "width": 28,
+      "height": 90
+    },
+    "gravel_brown.png": {
+      "x": 512,
+      "y": 300,
+      "width": 46,
+      "height": 36
+    },
+    "gravel_grey.png": {
+      "x": 512,
+      "y": 264,
+      "width": 47,
+      "height": 36
+    },
+    "ladder_large.png": {
+      "x": 512,
+      "y": 431,
+      "width": 34,
+      "height": 46
+    },
+    "ladder_small.png": {
+      "x": 546,
+      "y": 547,
+      "width": 20,
+      "height": 44
+    },
+    "market_roofBlue.png": {
+      "x": 448,
+      "y": 460,
+      "width": 64,
+      "height": 48
+    },
+    "market_roofRed.png": {
+      "x": 512,
+      "y": 0,
+      "width": 64,
+      "height": 48
+    },
+    "market_stallBlue.png": {
+      "x": 512,
+      "y": 96,
+      "width": 52,
+      "height": 56
+    },
+    "market_stallRed.png": {
+      "x": 512,
+      "y": 152,
+      "width": 52,
+      "height": 56
+    },
+    "tileBridge.png": {
+      "x": 448,
+      "y": 404,
+      "width": 64,
+      "height": 56
+    },
+    "tileBuilding_frame.png": {
+      "x": 384,
+      "y": 0,
+      "width": 64,
+      "height": 74
+    },
+    "tileBuilding_roofBlue.png": {
+      "x": 448,
+      "y": 330,
+      "width": 64,
+      "height": 74
+    },
+    "tileBuilding_roofBluePoint.png": {
+      "x": 448,
+      "y": 266,
+      "width": 64,
+      "height": 64
+    },
+    "tileBuilding_roofBlueSide.png": {
+      "x": 448,
+      "y": 202,
+      "width": 64,
+      "height": 64
+    },
+    "tileBuilding_roofRed.png": {
+      "x": 448,
+      "y": 128,
+      "width": 64,
+      "height": 74
+    },
+    "tileBuilding_roofRedPoint.png": {
+      "x": 448,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "tileBuilding_roofRedSide.png": {
+      "x": 448,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "tileBuilding_sand.png": {
+      "x": 384,
+      "y": 518,
+      "width": 64,
+      "height": 74
+    },
+    "tileBuilding_stone.png": {
+      "x": 384,
+      "y": 444,
+      "width": 64,
+      "height": 74
+    },
+    "tileCastle.png": {
+      "x": 384,
+      "y": 370,
+      "width": 64,
+      "height": 74
+    },
+    "tileCastle_gate.png": {
+      "x": 384,
+      "y": 296,
+      "width": 64,
+      "height": 74
+    },
+    "tileCastle_stairs.png": {
+      "x": 384,
+      "y": 222,
+      "width": 64,
+      "height": 74
+    },
+    "tileCastle_stairsLeft.png": {
+      "x": 384,
+      "y": 148,
+      "width": 64,
+      "height": 74
+    },
+    "tileCastle_stairsRight.png": {
+      "x": 384,
+      "y": 74,
+      "width": 64,
+      "height": 74
+    },
+    "tileCastle_top.png": {
+      "x": 0,
+      "y": 52,
+      "width": 64,
+      "height": 52
+    },
+    "tileCastle_topRoof.png": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 52
+    },
+    "tileDirt.png": {
+      "x": 320,
+      "y": 440,
+      "width": 64,
+      "height": 74
+    },
+    "tileDirt_slope.png": {
+      "x": 320,
+      "y": 366,
+      "width": 64,
+      "height": 74
+    },
+    "tileDirt_slopeLeft.png": {
+      "x": 320,
+      "y": 294,
+      "width": 64,
+      "height": 72
+    },
+    "tileDirt_slopeLeftRound.png": {
+      "x": 320,
+      "y": 220,
+      "width": 64,
+      "height": 74
+    },
+    "tileDirt_slopeRight.png": {
+      "x": 320,
+      "y": 148,
+      "width": 64,
+      "height": 72
+    },
+    "tileDirt_slopeRightRound.png": {
+      "x": 320,
+      "y": 74,
+      "width": 64,
+      "height": 74
+    },
+    "tileGoo.png": {
+      "x": 320,
+      "y": 0,
+      "width": 64,
+      "height": 74
+    },
+    "tileGoo_slope.png": {
+      "x": 256,
+      "y": 514,
+      "width": 64,
+      "height": 74
+    },
+    "tileGoo_slopeLeft.png": {
+      "x": 320,
+      "y": 514,
+      "width": 64,
+      "height": 72
+    },
+    "tileGoo_slopeLeftRound.png": {
+      "x": 256,
+      "y": 440,
+      "width": 64,
+      "height": 74
+    },
+    "tileGoo_slopeRight.png": {
+      "x": 256,
+      "y": 368,
+      "width": 64,
+      "height": 72
+    },
+    "tileGoo_slopeRightRound.png": {
+      "x": 256,
+      "y": 294,
+      "width": 64,
+      "height": 74
+    },
+    "tileGrass.png": {
+      "x": 256,
+      "y": 220,
+      "width": 64,
+      "height": 74
+    },
+    "tileGrass_slope.png": {
+      "x": 256,
+      "y": 146,
+      "width": 64,
+      "height": 74
+    },
+    "tileGrass_slopeLeft.png": {
+      "x": 256,
+      "y": 74,
+      "width": 64,
+      "height": 72
+    },
+    "tileGrass_slopeLeftRound.png": {
+      "x": 256,
+      "y": 0,
+      "width": 64,
+      "height": 74
+    },
+    "tileGrass_slopeRight.png": {
+      "x": 192,
+      "y": 521,
+      "width": 64,
+      "height": 72
+    },
+    "tileGrass_slopeRightRound.png": {
+      "x": 192,
+      "y": 447,
+      "width": 64,
+      "height": 74
+    },
+    "tileLava_1.png": {
+      "x": 192,
+      "y": 372,
+      "width": 64,
+      "height": 75
+    },
+    "tileLava_2.png": {
+      "x": 192,
+      "y": 298,
+      "width": 64,
+      "height": 74
+    },
+    "tileLava_3.png": {
+      "x": 192,
+      "y": 223,
+      "width": 64,
+      "height": 75
+    },
+    "tileLava_4.png": {
+      "x": 192,
+      "y": 148,
+      "width": 64,
+      "height": 75
+    },
+    "tileSand.png": {
+      "x": 192,
+      "y": 74,
+      "width": 64,
+      "height": 74
+    },
+    "tileSand_slope.png": {
+      "x": 192,
+      "y": 0,
+      "width": 64,
+      "height": 74
+    },
+    "tileSand_slopeLeft.png": {
+      "x": 128,
+      "y": 514,
+      "width": 64,
+      "height": 72
+    },
+    "tileSand_slopeLeftRound.png": {
+      "x": 128,
+      "y": 440,
+      "width": 64,
+      "height": 74
+    },
+    "tileSand_slopeRight.png": {
+      "x": 128,
+      "y": 368,
+      "width": 64,
+      "height": 72
+    },
+    "tileSand_slopeRightRound.png": {
+      "x": 128,
+      "y": 294,
+      "width": 64,
+      "height": 74
+    },
+    "tileSnow.png": {
+      "x": 128,
+      "y": 220,
+      "width": 64,
+      "height": 74
+    },
+    "tileSnow_slope.png": {
+      "x": 128,
+      "y": 146,
+      "width": 64,
+      "height": 74
+    },
+    "tileSnow_slopeLeft.png": {
+      "x": 128,
+      "y": 74,
+      "width": 64,
+      "height": 72
+    },
+    "tileSnow_slopeLeftRound.png": {
+      "x": 128,
+      "y": 0,
+      "width": 64,
+      "height": 74
+    },
+    "tileSnow_slopeRight.png": {
+      "x": 64,
+      "y": 514,
+      "width": 64,
+      "height": 72
+    },
+    "tileSnow_slopeRightRound.png": {
+      "x": 64,
+      "y": 440,
+      "width": 64,
+      "height": 74
+    },
+    "tileStone.png": {
+      "x": 64,
+      "y": 366,
+      "width": 64,
+      "height": 74
+    },
+    "tileStone_slope.png": {
+      "x": 64,
+      "y": 292,
+      "width": 64,
+      "height": 74
+    },
+    "tileStone_slopeLeft.png": {
+      "x": 64,
+      "y": 220,
+      "width": 64,
+      "height": 72
+    },
+    "tileStone_slopeLeftRound.png": {
+      "x": 64,
+      "y": 146,
+      "width": 64,
+      "height": 74
+    },
+    "tileStone_slopeRight.png": {
+      "x": 64,
+      "y": 74,
+      "width": 64,
+      "height": 72
+    },
+    "tileStone_slopeRightRound.png": {
+      "x": 64,
+      "y": 0,
+      "width": 64,
+      "height": 74
+    },
+    "tileWater_1.png": {
+      "x": 0,
+      "y": 489,
+      "width": 64,
+      "height": 75
+    },
+    "tileWater_2.png": {
+      "x": 0,
+      "y": 415,
+      "width": 64,
+      "height": 74
+    },
+    "tileWater_3.png": {
+      "x": 0,
+      "y": 340,
+      "width": 64,
+      "height": 75
+    },
+    "tileWater_4.png": {
+      "x": 0,
+      "y": 265,
+      "width": 64,
+      "height": 75
+    },
+    "tileWood.png": {
+      "x": 0,
+      "y": 191,
+      "width": 64,
+      "height": 74
+    },
+    "tileWood_flat.png": {
+      "x": 0,
+      "y": 138,
+      "width": 64,
+      "height": 53
+    }
+  }
+}

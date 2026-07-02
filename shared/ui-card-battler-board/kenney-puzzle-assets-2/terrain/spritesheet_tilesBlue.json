@@ -1,0 +1,437 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "tileBlue_01.png": {
+      "x": 905,
+      "y": 1134,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_02.png": {
+      "x": 0,
+      "y": 530,
+      "width": 188,
+      "height": 88
+    },
+    "tileBlue_03.png": {
+      "x": 0,
+      "y": 1180,
+      "width": 88,
+      "height": 88
+    },
+    "tileBlue_04.png": {
+      "x": 1035,
+      "y": 1134,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_05.png": {
+      "x": 1036,
+      "y": 390,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_06.png": {
+      "x": 1035,
+      "y": 1004,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_07.png": {
+      "x": 1035,
+      "y": 874,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_08.png": {
+      "x": 1036,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_09.png": {
+      "x": 812,
+      "y": 240,
+      "width": 129,
+      "height": 120
+    },
+    "tileBlue_10.png": {
+      "x": 303,
+      "y": 1166,
+      "width": 129,
+      "height": 104
+    },
+    "tileBlue_11.png": {
+      "x": 905,
+      "y": 614,
+      "width": 129,
+      "height": 128
+    },
+    "tileBlue_12.png": {
+      "x": 812,
+      "y": 0,
+      "width": 130,
+      "height": 118
+    },
+    "tileBlue_13.png": {
+      "x": 944,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_14.png": {
+      "x": 0,
+      "y": 440,
+      "width": 188,
+      "height": 88
+    },
+    "tileBlue_15.png": {
+      "x": 943,
+      "y": 260,
+      "width": 88,
+      "height": 88
+    },
+    "tileBlue_16.png": {
+      "x": 1035,
+      "y": 744,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_17.png": {
+      "x": 944,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_18.png": {
+      "x": 905,
+      "y": 1004,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_19.png": {
+      "x": 905,
+      "y": 744,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_20.png": {
+      "x": 905,
+      "y": 874,
+      "width": 128,
+      "height": 128
+    },
+    "tileBlue_21.png": {
+      "x": 905,
+      "y": 492,
+      "width": 129,
+      "height": 120
+    },
+    "tileBlue_22.png": {
+      "x": 434,
+      "y": 1166,
+      "width": 129,
+      "height": 104
+    },
+    "tileBlue_23.png": {
+      "x": 905,
+      "y": 362,
+      "width": 129,
+      "height": 128
+    },
+    "tileBlue_24.png": {
+      "x": 812,
+      "y": 120,
+      "width": 130,
+      "height": 118
+    },
+    "tileBlue_25.png": {
+      "x": 755,
+      "y": 1050,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_26.png": {
+      "x": 0,
+      "y": 220,
+      "width": 208,
+      "height": 108
+    },
+    "tileBlue_27.png": {
+      "x": 1036,
+      "y": 520,
+      "width": 108,
+      "height": 108
+    },
+    "tileBlue_28.png": {
+      "x": 755,
+      "y": 900,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_29.png": {
+      "x": 755,
+      "y": 750,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_30.png": {
+      "x": 454,
+      "y": 1010,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_31.png": {
+      "x": 755,
+      "y": 450,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_32.png": {
+      "x": 303,
+      "y": 890,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_33.png": {
+      "x": 341,
+      "y": 418,
+      "width": 149,
+      "height": 140
+    },
+    "tileBlue_34.png": {
+      "x": 210,
+      "y": 292,
+      "width": 149,
+      "height": 124
+    },
+    "tileBlue_35.png": {
+      "x": 454,
+      "y": 710,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_36.png": {
+      "x": 0,
+      "y": 620,
+      "width": 150,
+      "height": 138
+    },
+    "tileBlue_37.png": {
+      "x": 755,
+      "y": 600,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_38.png": {
+      "x": 0,
+      "y": 330,
+      "width": 208,
+      "height": 108
+    },
+    "tileBlue_39.png": {
+      "x": 492,
+      "y": 450,
+      "width": 108,
+      "height": 108
+    },
+    "tileBlue_40.png": {
+      "x": 512,
+      "y": 300,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_41.png": {
+      "x": 662,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_42.png": {
+      "x": 361,
+      "y": 0,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_43.png": {
+      "x": 605,
+      "y": 750,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_44.png": {
+      "x": 454,
+      "y": 860,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_45.png": {
+      "x": 361,
+      "y": 150,
+      "width": 149,
+      "height": 140
+    },
+    "tileBlue_46.png": {
+      "x": 361,
+      "y": 292,
+      "width": 149,
+      "height": 124
+    },
+    "tileBlue_47.png": {
+      "x": 454,
+      "y": 560,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_48.png": {
+      "x": 0,
+      "y": 760,
+      "width": 150,
+      "height": 138
+    },
+    "tileBlue_49.png": {
+      "x": 512,
+      "y": 150,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_50.png": {
+      "x": 0,
+      "y": 110,
+      "width": 208,
+      "height": 108
+    },
+    "tileBlue_51.png": {
+      "x": 1036,
+      "y": 630,
+      "width": 108,
+      "height": 108
+    },
+    "tileBlue_52.png": {
+      "x": 662,
+      "y": 300,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_53.png": {
+      "x": 662,
+      "y": 150,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_54.png": {
+      "x": 303,
+      "y": 740,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_55.png": {
+      "x": 605,
+      "y": 1050,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_56.png": {
+      "x": 210,
+      "y": 142,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_57.png": {
+      "x": 210,
+      "y": 0,
+      "width": 149,
+      "height": 140
+    },
+    "tileBlue_58.png": {
+      "x": 303,
+      "y": 1040,
+      "width": 149,
+      "height": 124
+    },
+    "tileBlue_59.png": {
+      "x": 152,
+      "y": 1038,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_60.png": {
+      "x": 0,
+      "y": 1040,
+      "width": 150,
+      "height": 138
+    },
+    "tileBlue_61.png": {
+      "x": 512,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_62.png": {
+      "x": 0,
+      "y": 0,
+      "width": 208,
+      "height": 108
+    },
+    "tileBlue_63.png": {
+      "x": 1074,
+      "y": 0,
+      "width": 108,
+      "height": 108
+    },
+    "tileBlue_64.png": {
+      "x": 605,
+      "y": 450,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_65.png": {
+      "x": 605,
+      "y": 600,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_66.png": {
+      "x": 190,
+      "y": 440,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_67.png": {
+      "x": 605,
+      "y": 900,
+      "width": 148,
+      "height": 148
+    },
+    "tileBlue_68.png": {
+      "x": 152,
+      "y": 620,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_69.png": {
+      "x": 152,
+      "y": 770,
+      "width": 149,
+      "height": 140
+    },
+    "tileBlue_70.png": {
+      "x": 152,
+      "y": 912,
+      "width": 149,
+      "height": 124
+    },
+    "tileBlue_71.png": {
+      "x": 303,
+      "y": 590,
+      "width": 149,
+      "height": 148
+    },
+    "tileBlue_72.png": {
+      "x": 0,
+      "y": 900,
+      "width": 150,
+      "height": 138
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "imagePath": "cardsLarge_tilemap_packed.png",
+  "tileWidth": 64,
+  "tileHeight": 64,
+  "columns": 14,
+  "rows": 4
+}

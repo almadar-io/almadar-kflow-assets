@@ -1,0 +1,533 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "pipeGreen_01.png": {
+      "x": 858,
+      "y": 1658,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGreen_02.png": {
+      "x": 1554,
+      "y": 1417,
+      "width": 160,
+      "height": 161
+    },
+    "pipeGreen_03.png": {
+      "x": 1716,
+      "y": 798,
+      "width": 102,
+      "height": 219
+    },
+    "pipeGreen_04.png": {
+      "x": 475,
+      "y": 0,
+      "width": 219,
+      "height": 102
+    },
+    "pipeGreen_05.png": {
+      "x": 475,
+      "y": 104,
+      "width": 219,
+      "height": 160
+    },
+    "pipeGreen_06.png": {
+      "x": 460,
+      "y": 1173,
+      "width": 220,
+      "height": 219
+    },
+    "pipeGreen_07.png": {
+      "x": 1554,
+      "y": 1255,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGreen_08.png": {
+      "x": 1554,
+      "y": 1580,
+      "width": 160,
+      "height": 161
+    },
+    "pipeGreen_09.png": {
+      "x": 1716,
+      "y": 1019,
+      "width": 102,
+      "height": 219
+    },
+    "pipeGreen_10.png": {
+      "x": 475,
+      "y": 532,
+      "width": 219,
+      "height": 102
+    },
+    "pipeGreen_11.png": {
+      "x": 475,
+      "y": 370,
+      "width": 219,
+      "height": 160
+    },
+    "pipeGreen_12.png": {
+      "x": 238,
+      "y": 952,
+      "width": 220,
+      "height": 219
+    },
+    "pipeGreen_13.png": {
+      "x": 1554,
+      "y": 931,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGreen_14.png": {
+      "x": 1554,
+      "y": 162,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGreen_15.png": {
+      "x": 1554,
+      "y": 0,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGreen_16.png": {
+      "x": 1421,
+      "y": 547,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGreen_17.png": {
+      "x": 1421,
+      "y": 325,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGreen_18.png": {
+      "x": 1394,
+      "y": 709,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGreen_19.png": {
+      "x": 238,
+      "y": 1336,
+      "width": 220,
+      "height": 161
+    },
+    "pipeGreen_20.png": {
+      "x": 1392,
+      "y": 1291,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGreen_21.png": {
+      "x": 1392,
+      "y": 1069,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGreen_22.png": {
+      "x": 238,
+      "y": 1173,
+      "width": 220,
+      "height": 161
+    },
+    "pipeGreen_23.png": {
+      "x": 860,
+      "y": 1302,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGreen_24.png": {
+      "x": 696,
+      "y": 416,
+      "width": 176,
+      "height": 177
+    },
+    "pipeGreen_25.png": {
+      "x": 1583,
+      "y": 324,
+      "width": 118,
+      "height": 235
+    },
+    "pipeGreen_26.png": {
+      "x": 0,
+      "y": 1664,
+      "width": 235,
+      "height": 118
+    },
+    "pipeGreen_27.png": {
+      "x": 238,
+      "y": 0,
+      "width": 235,
+      "height": 176
+    },
+    "pipeGreen_28.png": {
+      "x": 0,
+      "y": 774,
+      "width": 236,
+      "height": 235
+    },
+    "pipeGreen_29.png": {
+      "x": 1216,
+      "y": 712,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGreen_30.png": {
+      "x": 1216,
+      "y": 890,
+      "width": 176,
+      "height": 177
+    },
+    "pipeGreen_31.png": {
+      "x": 1703,
+      "y": 324,
+      "width": 118,
+      "height": 235
+    },
+    "pipeGreen_32.png": {
+      "x": 237,
+      "y": 1664,
+      "width": 235,
+      "height": 118
+    },
+    "pipeGreen_33.png": {
+      "x": 238,
+      "y": 356,
+      "width": 235,
+      "height": 176
+    },
+    "pipeGreen_34.png": {
+      "x": 0,
+      "y": 1427,
+      "width": 236,
+      "height": 235
+    },
+    "pipeGreen_35.png": {
+      "x": 1081,
+      "y": 534,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGreen_36.png": {
+      "x": 874,
+      "y": 1480,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGreen_37.png": {
+      "x": 682,
+      "y": 1302,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGreen_38.png": {
+      "x": 696,
+      "y": 1480,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGreen_39.png": {
+      "x": 1052,
+      "y": 1487,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGreen_40.png": {
+      "x": 682,
+      "y": 1064,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGreen_41.png": {
+      "x": 0,
+      "y": 1248,
+      "width": 236,
+      "height": 177
+    },
+    "pipeGreen_42.png": {
+      "x": 1038,
+      "y": 832,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGreen_43.png": {
+      "x": 903,
+      "y": 594,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGreen_44.png": {
+      "x": 0,
+      "y": 416,
+      "width": 236,
+      "height": 177
+    },
+    "pipeGrey_01.png": {
+      "x": 1554,
+      "y": 1093,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGrey_02.png": {
+      "x": 1230,
+      "y": 0,
+      "width": 160,
+      "height": 161
+    },
+    "pipeGrey_03.png": {
+      "x": 903,
+      "y": 832,
+      "width": 102,
+      "height": 219
+    },
+    "pipeGrey_04.png": {
+      "x": 682,
+      "y": 960,
+      "width": 219,
+      "height": 102
+    },
+    "pipeGrey_05.png": {
+      "x": 682,
+      "y": 798,
+      "width": 219,
+      "height": 160
+    },
+    "pipeGrey_06.png": {
+      "x": 460,
+      "y": 952,
+      "width": 220,
+      "height": 219
+    },
+    "pipeGrey_07.png": {
+      "x": 696,
+      "y": 1658,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGrey_08.png": {
+      "x": 1392,
+      "y": 0,
+      "width": 160,
+      "height": 161
+    },
+    "pipeGrey_09.png": {
+      "x": 1716,
+      "y": 1240,
+      "width": 102,
+      "height": 219
+    },
+    "pipeGrey_10.png": {
+      "x": 475,
+      "y": 266,
+      "width": 219,
+      "height": 102
+    },
+    "pipeGrey_11.png": {
+      "x": 475,
+      "y": 636,
+      "width": 219,
+      "height": 160
+    },
+    "pipeGrey_12.png": {
+      "x": 474,
+      "y": 1557,
+      "width": 220,
+      "height": 219
+    },
+    "pipeGrey_13.png": {
+      "x": 1392,
+      "y": 163,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGrey_14.png": {
+      "x": 1230,
+      "y": 163,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGrey_15.png": {
+      "x": 1230,
+      "y": 1513,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGrey_16.png": {
+      "x": 1230,
+      "y": 325,
+      "width": 160,
+      "height": 160
+    },
+    "pipeGrey_17.png": {
+      "x": 1230,
+      "y": 1291,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGrey_18.png": {
+      "x": 1230,
+      "y": 1069,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGrey_19.png": {
+      "x": 238,
+      "y": 1499,
+      "width": 220,
+      "height": 161
+    },
+    "pipeGrey_20.png": {
+      "x": 1392,
+      "y": 1513,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGrey_21.png": {
+      "x": 1259,
+      "y": 487,
+      "width": 160,
+      "height": 220
+    },
+    "pipeGrey_22.png": {
+      "x": 460,
+      "y": 1394,
+      "width": 220,
+      "height": 161
+    },
+    "pipeGrey_23.png": {
+      "x": 696,
+      "y": 0,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGrey_24.png": {
+      "x": 696,
+      "y": 595,
+      "width": 176,
+      "height": 177
+    },
+    "pipeGrey_25.png": {
+      "x": 1583,
+      "y": 561,
+      "width": 118,
+      "height": 235
+    },
+    "pipeGrey_26.png": {
+      "x": 238,
+      "y": 654,
+      "width": 235,
+      "height": 118
+    },
+    "pipeGrey_27.png": {
+      "x": 238,
+      "y": 774,
+      "width": 235,
+      "height": 176
+    },
+    "pipeGrey_28.png": {
+      "x": 0,
+      "y": 179,
+      "width": 236,
+      "height": 235
+    },
+    "pipeGrey_29.png": {
+      "x": 874,
+      "y": 416,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGrey_30.png": {
+      "x": 1038,
+      "y": 1070,
+      "width": 176,
+      "height": 177
+    },
+    "pipeGrey_31.png": {
+      "x": 1703,
+      "y": 561,
+      "width": 118,
+      "height": 235
+    },
+    "pipeGrey_32.png": {
+      "x": 238,
+      "y": 534,
+      "width": 235,
+      "height": 118
+    },
+    "pipeGrey_33.png": {
+      "x": 238,
+      "y": 178,
+      "width": 235,
+      "height": 176
+    },
+    "pipeGrey_34.png": {
+      "x": 0,
+      "y": 1011,
+      "width": 236,
+      "height": 235
+    },
+    "pipeGrey_35.png": {
+      "x": 1052,
+      "y": 0,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGrey_36.png": {
+      "x": 1052,
+      "y": 178,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGrey_37.png": {
+      "x": 1052,
+      "y": 356,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGrey_38.png": {
+      "x": 874,
+      "y": 238,
+      "width": 176,
+      "height": 176
+    },
+    "pipeGrey_39.png": {
+      "x": 874,
+      "y": 0,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGrey_40.png": {
+      "x": 1052,
+      "y": 1249,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGrey_41.png": {
+      "x": 0,
+      "y": 595,
+      "width": 236,
+      "height": 177
+    },
+    "pipeGrey_42.png": {
+      "x": 860,
+      "y": 1064,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGrey_43.png": {
+      "x": 696,
+      "y": 178,
+      "width": 176,
+      "height": 236
+    },
+    "pipeGrey_44.png": {
+      "x": 0,
+      "y": 0,
+      "width": 236,
+      "height": 177
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "imagePath": "spritesheet_retina.png",
+  "subTextures": {
+    "bush1.png": {
+      "x": 500,
+      "y": 834,
+      "width": 240,
+      "height": 120
+    },
+    "bush2.png": {
+      "x": 778,
+      "y": 346,
+      "width": 105,
+      "height": 88
+    },
+    "bush3.png": {
+      "x": 730,
+      "y": 1315,
+      "width": 117,
+      "height": 104
+    },
+    "bush4.png": {
+      "x": 1119,
+      "y": 735,
+      "width": 100,
+      "height": 92
+    },
+    "bushAlt1.png": {
+      "x": 0,
+      "y": 2008,
+      "width": 282,
+      "height": 95
+    },
+    "bushAlt2.png": {
+      "x": 1484,
+      "y": 1026,
+      "width": 90,
+      "height": 110
+    },
+    "bushAlt3.png": {
+      "x": 1582,
+      "y": 1304,
+      "width": 87,
+      "height": 105
+    },
+    "bushAlt4.png": {
+      "x": 1019,
+      "y": 735,
+      "width": 100,
+      "height": 96
+    },
+    "bushOrange1.png": {
+      "x": 482,
+      "y": 1315,
+      "width": 248,
+      "height": 118
+    },
+    "bushOrange2.png": {
+      "x": 908,
+      "y": 735,
+      "width": 111,
+      "height": 92
+    },
+    "bushOrange3.png": {
+      "x": 778,
+      "y": 242,
+      "width": 113,
+      "height": 104
+    },
+    "bushOrange4.png": {
+      "x": 740,
+      "y": 934,
+      "width": 99,
+      "height": 70
+    },
+    "cactus1.png": {
+      "x": 1582,
+      "y": 1026,
+      "width": 192,
+      "height": 278
+    },
+    "cactus2.png": {
+      "x": 1995,
+      "y": 1814,
+      "width": 141,
+      "height": 270
+    },
+    "cactus3.png": {
+      "x": 1863,
+      "y": 140,
+      "width": 136,
+      "height": 266
+    },
+    "castleSmall.png": {
+      "x": 1208,
+      "y": 0,
+      "width": 216,
+      "height": 170
+    },
+    "castleSmallAlt.png": {
+      "x": 562,
+      "y": 242,
+      "width": 216,
+      "height": 170
+    },
+    "castleWall.png": {
+      "x": 282,
+      "y": 2008,
+      "width": 120,
+      "height": 120
+    },
+    "castleWallAlt.png": {
+      "x": 1686,
+      "y": 906,
+      "width": 120,
+      "height": 120
+    },
+    "cloud1.png": {
+      "x": 562,
+      "y": 0,
+      "width": 406,
+      "height": 242
+    },
+    "cloud2.png": {
+      "x": 847,
+      "y": 1791,
+      "width": 392,
+      "height": 312
+    },
+    "cloud3.png": {
+      "x": 0,
+      "y": 1730,
+      "width": 432,
+      "height": 278
+    },
+    "cloud4.png": {
+      "x": 0,
+      "y": 434,
+      "width": 500,
+      "height": 292
+    },
+    "cloud5.png": {
+      "x": 432,
+      "y": 1900,
+      "width": 406,
+      "height": 242
+    },
+    "cloud6.png": {
+      "x": 890,
+      "y": 834,
+      "width": 392,
+      "height": 312
+    },
+    "cloud7.png": {
+      "x": 0,
+      "y": 1452,
+      "width": 432,
+      "height": 278
+    },
+    "cloud8.png": {
+      "x": 0,
+      "y": 726,
+      "width": 500,
+      "height": 292
+    },
+    "fence.png": {
+      "x": 890,
+      "y": 1146,
+      "width": 207,
+      "height": 155
+    },
+    "fenceIron.png": {
+      "x": 968,
+      "y": 0,
+      "width": 240,
+      "height": 242
+    },
+    "house1.png": {
+      "x": 432,
+      "y": 1452,
+      "width": 415,
+      "height": 448
+    },
+    "house2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 562,
+      "height": 434
+    },
+    "houseAlt1.png": {
+      "x": 1247,
+      "y": 1146,
+      "width": 335,
+      "height": 448
+    },
+    "houseAlt2.png": {
+      "x": 0,
+      "y": 1018,
+      "width": 482,
+      "height": 434
+    },
+    "houseSmall1.png": {
+      "x": 1097,
+      "y": 1146,
+      "width": 150,
+      "height": 100
+    },
+    "houseSmall2.png": {
+      "x": 1863,
+      "y": 0,
+      "width": 153,
+      "height": 140
+    },
+    "houseSmallAlt1.png": {
+      "x": 740,
+      "y": 834,
+      "width": 150,
+      "height": 100
+    },
+    "houseSmallAlt2.png": {
+      "x": 1839,
+      "y": 1974,
+      "width": 153,
+      "height": 140
+    },
+    "moon.png": {
+      "x": 1839,
+      "y": 1814,
+      "width": 156,
+      "height": 160
+    },
+    "moonFull.png": {
+      "x": 1671,
+      "y": 1770,
+      "width": 168,
+      "height": 168
+    },
+    "pyramid.png": {
+      "x": 500,
+      "y": 434,
+      "width": 408,
+      "height": 400
+    },
+    "pyramidMayan.png": {
+      "x": 482,
+      "y": 1018,
+      "width": 408,
+      "height": 297
+    },
+    "sun.png": {
+      "x": 1671,
+      "y": 1938,
+      "width": 168,
+      "height": 168
+    },
+    "tower.png": {
+      "x": 2022,
+      "y": 630,
+      "width": 146,
+      "height": 490
+    },
+    "towerAlt.png": {
+      "x": 2012,
+      "y": 140,
+      "width": 146,
+      "height": 490
+    },
+    "towerSmall.png": {
+      "x": 1582,
+      "y": 1409,
+      "width": 76,
+      "height": 180
+    },
+    "towerSmallAlt.png": {
+      "x": 1774,
+      "y": 1026,
+      "width": 76,
+      "height": 180
+    },
+    "tree.png": {
+      "x": 1675,
+      "y": 0,
+      "width": 188,
+      "height": 408
+    },
+    "treeDead.png": {
+      "x": 908,
+      "y": 242,
+      "width": 343,
+      "height": 493
+    },
+    "treeFrozen.png": {
+      "x": 1671,
+      "y": 1304,
+      "width": 188,
+      "height": 466
+    },
+    "treeLong.png": {
+      "x": 1686,
+      "y": 408,
+      "width": 163,
+      "height": 498
+    },
+    "treeLongFrozen.png": {
+      "x": 1849,
+      "y": 408,
+      "width": 163,
+      "height": 430
+    },
+    "treeLongOrange.png": {
+      "x": 1859,
+      "y": 1316,
+      "width": 163,
+      "height": 498
+    },
+    "treeLongSnow.png": {
+      "x": 1859,
+      "y": 838,
+      "width": 163,
+      "height": 478
+    },
+    "treeOrange.png": {
+      "x": 1484,
+      "y": 508,
+      "width": 202,
+      "height": 518
+    },
+    "treePalm.png": {
+      "x": 847,
+      "y": 1315,
+      "width": 400,
+      "height": 476
+    },
+    "treePine.png": {
+      "x": 1247,
+      "y": 1594,
+      "width": 212,
+      "height": 508
+    },
+    "treePineFrozen.png": {
+      "x": 1251,
+      "y": 170,
+      "width": 212,
+      "height": 514
+    },
+    "treePineOrange.png": {
+      "x": 1463,
+      "y": 0,
+      "width": 212,
+      "height": 508
+    },
+    "treePineSnow.png": {
+      "x": 1459,
+      "y": 1594,
+      "width": 212,
+      "height": 494
+    },
+    "treeSmall_green1.png": {
+      "x": 2022,
+      "y": 1508,
+      "width": 40,
+      "height": 86
+    },
+    "treeSmall_green2.png": {
+      "x": 2022,
+      "y": 1250,
+      "width": 46,
+      "height": 136
+    },
+    "treeSmall_green3.png": {
+      "x": 2016,
+      "y": 0,
+      "width": 60,
+      "height": 98
+    },
+    "treeSmall_greenAlt1.png": {
+      "x": 1806,
+      "y": 906,
+      "width": 40,
+      "height": 86
+    },
+    "treeSmall_greenAlt2.png": {
+      "x": 2022,
+      "y": 1120,
+      "width": 46,
+      "height": 130
+    },
+    "treeSmall_greenAlt3.png": {
+      "x": 1774,
+      "y": 1206,
+      "width": 60,
+      "height": 98
+    },
+    "treeSmall_orange1.png": {
+      "x": 2022,
+      "y": 1594,
+      "width": 40,
+      "height": 86
+    },
+    "treeSmall_orange2.png": {
+      "x": 2022,
+      "y": 1386,
+      "width": 46,
+      "height": 122
+    },
+    "treeSmall_orange3.png": {
+      "x": 1219,
+      "y": 735,
+      "width": 60,
+      "height": 98
+    },
+    "treeSnow.png": {
+      "x": 1282,
+      "y": 684,
+      "width": 202,
+      "height": 462
+    }
+  }
+}

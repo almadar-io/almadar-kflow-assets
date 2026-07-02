@@ -1,0 +1,7 @@
+{
+  "imagePath": "roadTextures_tilesheet.png",
+  "tileWidth": 64,
+  "tileHeight": 64,
+  "columns": 12,
+  "rows": 8
+}

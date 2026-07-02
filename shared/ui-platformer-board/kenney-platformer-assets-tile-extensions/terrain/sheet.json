@@ -1,0 +1,221 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "slice01_01.png": {
+      "x": 0,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "slice02_02.png": {
+      "x": 0,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "slice03_03.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "slice04_04.png": {
+      "x": 140,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "slice05_05.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "slice06_06.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "slice07_07.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "slice12_12.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "slice13_13.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "slice14_14.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "slice15_15.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "slice16_16.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "slice17_17.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "slice18_18.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "slice19_19.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "slice20_20.png": {
+      "x": 210,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "slice21_21.png": {
+      "x": 210,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "slice22_22.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "slice23_23.png": {
+      "x": 140,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "slice24_24.png": {
+      "x": 140,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "slice25_25.png": {
+      "x": 140,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "slice26_26.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "slice27_27.png": {
+      "x": 140,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "slice28_28.png": {
+      "x": 140,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "slice29_29.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "slice30_30.png": {
+      "x": 70,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "slice31_31.png": {
+      "x": 70,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "slice32_32.png": {
+      "x": 70,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "slice33_33.png": {
+      "x": 70,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "slice34_34.png": {
+      "x": 70,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "slice35_35.png": {
+      "x": 70,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "slice36_36.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalf.png": {
+      "x": 0,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalfLeft.png": {
+      "x": 0,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalfMid.png": {
+      "x": 0,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalfRight.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

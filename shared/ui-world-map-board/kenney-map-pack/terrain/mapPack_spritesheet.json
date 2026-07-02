@@ -1,0 +1,1133 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "mapTile_001.png": {
+      "x": 0,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_002.png": {
+      "x": 0,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_003.png": {
+      "x": 0,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_004.png": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_005.png": {
+      "x": 384,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_006.png": {
+      "x": 832,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_007.png": {
+      "x": 832,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_008.png": {
+      "x": 832,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_009.png": {
+      "x": 832,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_010.png": {
+      "x": 832,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_011.png": {
+      "x": 768,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_012.png": {
+      "x": 768,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_013.png": {
+      "x": 768,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_014.png": {
+      "x": 768,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_015.png": {
+      "x": 768,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_016.png": {
+      "x": 768,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_017.png": {
+      "x": 768,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_018.png": {
+      "x": 768,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_019.png": {
+      "x": 768,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_020.png": {
+      "x": 768,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_021.png": {
+      "x": 768,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_022.png": {
+      "x": 768,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_023.png": {
+      "x": 768,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_024.png": {
+      "x": 768,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_025.png": {
+      "x": 704,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_026.png": {
+      "x": 704,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_027.png": {
+      "x": 704,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_028.png": {
+      "x": 704,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_029.png": {
+      "x": 704,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_030.png": {
+      "x": 704,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_031.png": {
+      "x": 704,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_032.png": {
+      "x": 704,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_033.png": {
+      "x": 704,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_034.png": {
+      "x": 704,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_035.png": {
+      "x": 704,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_036.png": {
+      "x": 704,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_037.png": {
+      "x": 704,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_038.png": {
+      "x": 704,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_039.png": {
+      "x": 640,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_040.png": {
+      "x": 640,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_041.png": {
+      "x": 640,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_042.png": {
+      "x": 640,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_043.png": {
+      "x": 640,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_044.png": {
+      "x": 640,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_045.png": {
+      "x": 640,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_046.png": {
+      "x": 640,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_047.png": {
+      "x": 640,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_048.png": {
+      "x": 640,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_049.png": {
+      "x": 640,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_050.png": {
+      "x": 640,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_051.png": {
+      "x": 640,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_052.png": {
+      "x": 640,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_053.png": {
+      "x": 576,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_054.png": {
+      "x": 576,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_055.png": {
+      "x": 576,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_056.png": {
+      "x": 576,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_057.png": {
+      "x": 576,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_058.png": {
+      "x": 576,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_059.png": {
+      "x": 576,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_060.png": {
+      "x": 576,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_061.png": {
+      "x": 576,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_062.png": {
+      "x": 576,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_063.png": {
+      "x": 576,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_064.png": {
+      "x": 576,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_065.png": {
+      "x": 576,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_066.png": {
+      "x": 576,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_067.png": {
+      "x": 512,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_068.png": {
+      "x": 512,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_069.png": {
+      "x": 512,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_070.png": {
+      "x": 512,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_071.png": {
+      "x": 512,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_072.png": {
+      "x": 512,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_073.png": {
+      "x": 512,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_074.png": {
+      "x": 512,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_075.png": {
+      "x": 512,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_076.png": {
+      "x": 512,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_077.png": {
+      "x": 512,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_078.png": {
+      "x": 512,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_079.png": {
+      "x": 512,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_080.png": {
+      "x": 512,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_081.png": {
+      "x": 448,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_082.png": {
+      "x": 448,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_083.png": {
+      "x": 448,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_084.png": {
+      "x": 448,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_085.png": {
+      "x": 448,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_086.png": {
+      "x": 448,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_087.png": {
+      "x": 448,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_088.png": {
+      "x": 448,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_089.png": {
+      "x": 448,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_090.png": {
+      "x": 448,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_091.png": {
+      "x": 448,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_092.png": {
+      "x": 448,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_093.png": {
+      "x": 448,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_094.png": {
+      "x": 448,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_095.png": {
+      "x": 384,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_096.png": {
+      "x": 384,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_097.png": {
+      "x": 384,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_098.png": {
+      "x": 384,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_099.png": {
+      "x": 832,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_100.png": {
+      "x": 384,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_101.png": {
+      "x": 384,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_102.png": {
+      "x": 384,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_103.png": {
+      "x": 384,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_104.png": {
+      "x": 384,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_105.png": {
+      "x": 384,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_106.png": {
+      "x": 384,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_107.png": {
+      "x": 384,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_108.png": {
+      "x": 384,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_109.png": {
+      "x": 320,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_110.png": {
+      "x": 320,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_111.png": {
+      "x": 320,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_112.png": {
+      "x": 320,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_113.png": {
+      "x": 320,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_114.png": {
+      "x": 320,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_115.png": {
+      "x": 320,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_116.png": {
+      "x": 320,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_117.png": {
+      "x": 320,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_118.png": {
+      "x": 320,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_119.png": {
+      "x": 320,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_120.png": {
+      "x": 320,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_121.png": {
+      "x": 320,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_122.png": {
+      "x": 320,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_123.png": {
+      "x": 256,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_124.png": {
+      "x": 256,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_125.png": {
+      "x": 256,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_126.png": {
+      "x": 256,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_127.png": {
+      "x": 256,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_128.png": {
+      "x": 256,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_129.png": {
+      "x": 256,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_130.png": {
+      "x": 256,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_131.png": {
+      "x": 256,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_132.png": {
+      "x": 256,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_133.png": {
+      "x": 256,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_134.png": {
+      "x": 256,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_135.png": {
+      "x": 256,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_136.png": {
+      "x": 256,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_137.png": {
+      "x": 192,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_138.png": {
+      "x": 192,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_139.png": {
+      "x": 192,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_140.png": {
+      "x": 192,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_141.png": {
+      "x": 192,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_142.png": {
+      "x": 192,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_143.png": {
+      "x": 192,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_144.png": {
+      "x": 192,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_145.png": {
+      "x": 192,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_146.png": {
+      "x": 192,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_147.png": {
+      "x": 192,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_148.png": {
+      "x": 192,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_149.png": {
+      "x": 192,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_150.png": {
+      "x": 192,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_151.png": {
+      "x": 128,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_152.png": {
+      "x": 128,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_153.png": {
+      "x": 128,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_154.png": {
+      "x": 128,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_155.png": {
+      "x": 128,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_156.png": {
+      "x": 128,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_157.png": {
+      "x": 128,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_158.png": {
+      "x": 128,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_159.png": {
+      "x": 128,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_160.png": {
+      "x": 128,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_161.png": {
+      "x": 128,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_162.png": {
+      "x": 128,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_163.png": {
+      "x": 128,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_164.png": {
+      "x": 128,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_165.png": {
+      "x": 64,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_166.png": {
+      "x": 64,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_167.png": {
+      "x": 64,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_168.png": {
+      "x": 64,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_169.png": {
+      "x": 64,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_170.png": {
+      "x": 64,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_171.png": {
+      "x": 64,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_172.png": {
+      "x": 64,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_173.png": {
+      "x": 64,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_174.png": {
+      "x": 64,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_175.png": {
+      "x": 64,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_176.png": {
+      "x": 64,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_177.png": {
+      "x": 64,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_178.png": {
+      "x": 64,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_179.png": {
+      "x": 0,
+      "y": 832,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_180.png": {
+      "x": 0,
+      "y": 768,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_181.png": {
+      "x": 0,
+      "y": 704,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_182.png": {
+      "x": 0,
+      "y": 640,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_183.png": {
+      "x": 0,
+      "y": 576,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_184.png": {
+      "x": 0,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_185.png": {
+      "x": 0,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_186.png": {
+      "x": 0,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_187.png": {
+      "x": 0,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "mapTile_188.png": {
+      "x": 0,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    }
+  }
+}

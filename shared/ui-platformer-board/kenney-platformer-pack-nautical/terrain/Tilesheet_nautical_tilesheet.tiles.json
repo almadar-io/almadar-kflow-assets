@@ -1,0 +1,7 @@
+{
+  "imagePath": "nautical_tilesheet.png",
+  "tileWidth": 64,
+  "tileHeight": 64,
+  "columns": 19,
+  "rows": 16
+}

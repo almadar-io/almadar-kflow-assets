@@ -1,0 +1,395 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "medieval_archery.png": {
+      "x": 122,
+      "y": 994,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_archway.png": {
+      "x": 122,
+      "y": 852,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_blacksmith.png": {
+      "x": 122,
+      "y": 710,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_cabin.png": {
+      "x": 122,
+      "y": 568,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_church.png": {
+      "x": 122,
+      "y": 426,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_farm.png": {
+      "x": 122,
+      "y": 284,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_house.png": {
+      "x": 122,
+      "y": 142,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_largeCastle.png": {
+      "x": 122,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_lumber.png": {
+      "x": 0,
+      "y": 1846,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_mine.png": {
+      "x": 0,
+      "y": 1704,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_openCastle.png": {
+      "x": 0,
+      "y": 1562,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_ruins.png": {
+      "x": 0,
+      "y": 1420,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_smallCastle.png": {
+      "x": 0,
+      "y": 1278,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_tower.png": {
+      "x": 0,
+      "y": 1136,
+      "width": 120,
+      "height": 140
+    },
+    "medieval_windmill.png": {
+      "x": 0,
+      "y": 994,
+      "width": 120,
+      "height": 140
+    },
+    "military_entrance.png": {
+      "x": 0,
+      "y": 852,
+      "width": 120,
+      "height": 140
+    },
+    "military_hangar.png": {
+      "x": 0,
+      "y": 710,
+      "width": 120,
+      "height": 140
+    },
+    "military_rockets.png": {
+      "x": 0,
+      "y": 568,
+      "width": 120,
+      "height": 140
+    },
+    "military_tanks.png": {
+      "x": 0,
+      "y": 426,
+      "width": 120,
+      "height": 140
+    },
+    "military_turretLarge.png": {
+      "x": 0,
+      "y": 284,
+      "width": 120,
+      "height": 140
+    },
+    "military_turretMedium.png": {
+      "x": 0,
+      "y": 142,
+      "width": 120,
+      "height": 140
+    },
+    "military_turretSmall.png": {
+      "x": 0,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "mill_crane.png": {
+      "x": 244,
+      "y": 568,
+      "width": 120,
+      "height": 140
+    },
+    "mill_cutter.png": {
+      "x": 488,
+      "y": 994,
+      "width": 120,
+      "height": 140
+    },
+    "mill_factory.png": {
+      "x": 488,
+      "y": 852,
+      "width": 120,
+      "height": 140
+    },
+    "mill_stoneWarehouse.png": {
+      "x": 488,
+      "y": 710,
+      "width": 120,
+      "height": 140
+    },
+    "mill_storage.png": {
+      "x": 488,
+      "y": 568,
+      "width": 120,
+      "height": 140
+    },
+    "mill_warehouse.png": {
+      "x": 488,
+      "y": 426,
+      "width": 120,
+      "height": 140
+    },
+    "modern_campsite.png": {
+      "x": 488,
+      "y": 284,
+      "width": 120,
+      "height": 140
+    },
+    "modern_cornerShop.png": {
+      "x": 488,
+      "y": 142,
+      "width": 120,
+      "height": 140
+    },
+    "modern_house.png": {
+      "x": 488,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "modern_houseSmall.png": {
+      "x": 366,
+      "y": 1846,
+      "width": 120,
+      "height": 140
+    },
+    "modern_largeBuilding.png": {
+      "x": 366,
+      "y": 1704,
+      "width": 120,
+      "height": 140
+    },
+    "modern_oldBuilding.png": {
+      "x": 366,
+      "y": 1562,
+      "width": 120,
+      "height": 140
+    },
+    "modern_petrol.png": {
+      "x": 366,
+      "y": 1420,
+      "width": 120,
+      "height": 140
+    },
+    "modern_shop.png": {
+      "x": 366,
+      "y": 1278,
+      "width": 120,
+      "height": 140
+    },
+    "modern_skyscraper.png": {
+      "x": 366,
+      "y": 1136,
+      "width": 120,
+      "height": 140
+    },
+    "modern_skyscraperGlass.png": {
+      "x": 366,
+      "y": 994,
+      "width": 120,
+      "height": 140
+    },
+    "modern_trailerpark.png": {
+      "x": 366,
+      "y": 852,
+      "width": 120,
+      "height": 140
+    },
+    "modern_villa.png": {
+      "x": 366,
+      "y": 710,
+      "width": 120,
+      "height": 140
+    },
+    "modern_villageLarge.png": {
+      "x": 366,
+      "y": 568,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_base.png": {
+      "x": 366,
+      "y": 426,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_building.png": {
+      "x": 366,
+      "y": 284,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_cargo.png": {
+      "x": 366,
+      "y": 142,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_corner.png": {
+      "x": 366,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_domes.png": {
+      "x": 244,
+      "y": 1846,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_energy.png": {
+      "x": 244,
+      "y": 1704,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_factory.png": {
+      "x": 244,
+      "y": 1562,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_factoryHangar.png": {
+      "x": 244,
+      "y": 1420,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_factoryHigh.png": {
+      "x": 244,
+      "y": 1278,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_foliage.png": {
+      "x": 244,
+      "y": 1136,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_hangar.png": {
+      "x": 244,
+      "y": 994,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_headquarters.png": {
+      "x": 244,
+      "y": 852,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_living.png": {
+      "x": 244,
+      "y": 710,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_port.png": {
+      "x": 488,
+      "y": 1136,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_silo.png": {
+      "x": 244,
+      "y": 426,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_skyscraper.png": {
+      "x": 244,
+      "y": 284,
+      "width": 120,
+      "height": 140
+    },
+    "scifi_tower.png": {
+      "x": 244,
+      "y": 142,
+      "width": 120,
+      "height": 140
+    },
+    "western_bank.png": {
+      "x": 244,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "western_general.png": {
+      "x": 122,
+      "y": 1846,
+      "width": 120,
+      "height": 140
+    },
+    "western_indians.png": {
+      "x": 122,
+      "y": 1704,
+      "width": 120,
+      "height": 140
+    },
+    "western_saloon.png": {
+      "x": 122,
+      "y": 1562,
+      "width": 120,
+      "height": 140
+    },
+    "western_sheriff.png": {
+      "x": 122,
+      "y": 1420,
+      "width": 120,
+      "height": 140
+    },
+    "western_station.png": {
+      "x": 122,
+      "y": 1278,
+      "width": 120,
+      "height": 140
+    },
+    "western_watertower.png": {
+      "x": 122,
+      "y": 1136,
+      "width": 120,
+      "height": 140
+    }
+  }
+}

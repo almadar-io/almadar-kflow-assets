@@ -1,0 +1,143 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "bushAutumn.png": {
+      "x": 58,
+      "y": 106,
+      "width": 15,
+      "height": 20
+    },
+    "bushDirt.png": {
+      "x": 62,
+      "y": 0,
+      "width": 15,
+      "height": 20
+    },
+    "bushGrass.png": {
+      "x": 48,
+      "y": 66,
+      "width": 15,
+      "height": 20
+    },
+    "bushMagic.png": {
+      "x": 33,
+      "y": 66,
+      "width": 15,
+      "height": 20
+    },
+    "bushSand.png": {
+      "x": 62,
+      "y": 20,
+      "width": 15,
+      "height": 20
+    },
+    "bushSnow.png": {
+      "x": 58,
+      "y": 86,
+      "width": 15,
+      "height": 20
+    },
+    "flowerBlue.png": {
+      "x": 63,
+      "y": 62,
+      "width": 12,
+      "height": 11
+    },
+    "flowerGreen.png": {
+      "x": 62,
+      "y": 40,
+      "width": 12,
+      "height": 11
+    },
+    "flowerRed.png": {
+      "x": 62,
+      "y": 51,
+      "width": 12,
+      "height": 11
+    },
+    "flowerWhite.png": {
+      "x": 73,
+      "y": 84,
+      "width": 12,
+      "height": 11
+    },
+    "flowerYellow.png": {
+      "x": 63,
+      "y": 73,
+      "width": 12,
+      "height": 11
+    },
+    "hillAutumn.png": {
+      "x": 0,
+      "y": 70,
+      "width": 33,
+      "height": 12
+    },
+    "hillDirt.png": {
+      "x": 0,
+      "y": 36,
+      "width": 33,
+      "height": 12
+    },
+    "hillGrass.png": {
+      "x": 0,
+      "y": 24,
+      "width": 33,
+      "height": 12
+    },
+    "hillMagic.png": {
+      "x": 0,
+      "y": 12,
+      "width": 33,
+      "height": 12
+    },
+    "hillSand.png": {
+      "x": 0,
+      "y": 0,
+      "width": 33,
+      "height": 12
+    },
+    "hillSnow.png": {
+      "x": 0,
+      "y": 58,
+      "width": 33,
+      "height": 12
+    },
+    "smallRockDirt.png": {
+      "x": 33,
+      "y": 0,
+      "width": 29,
+      "height": 33
+    },
+    "smallRockGrass.png": {
+      "x": 29,
+      "y": 92,
+      "width": 29,
+      "height": 33
+    },
+    "smallRockSnow.png": {
+      "x": 0,
+      "y": 92,
+      "width": 29,
+      "height": 33
+    },
+    "smallRockStone.png": {
+      "x": 33,
+      "y": 33,
+      "width": 29,
+      "height": 33
+    },
+    "waveLava.png": {
+      "x": 0,
+      "y": 48,
+      "width": 33,
+      "height": 10
+    },
+    "waveWater.png": {
+      "x": 0,
+      "y": 82,
+      "width": 33,
+      "height": 10
+    }
+  }
+}

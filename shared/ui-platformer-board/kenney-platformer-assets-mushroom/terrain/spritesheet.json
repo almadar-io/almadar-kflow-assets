@@ -1,0 +1,287 @@
+{
+  "imagePath": "spritesheet.png",
+  "subTextures": {
+    "bush.png": {
+      "x": 0,
+      "y": 0,
+      "width": 216,
+      "height": 72
+    },
+    "shroomBrownAltLeft.png": {
+      "x": 0,
+      "y": 142,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltMid.png": {
+      "x": 0,
+      "y": 212,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltMidAlt.png": {
+      "x": 0,
+      "y": 72,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltRight.png": {
+      "x": 210,
+      "y": 352,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltSpotsLeft.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltSpotsMid.png": {
+      "x": 420,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltSpotsMidAlt.png": {
+      "x": 420,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownAltSpotsRight.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownLeft.png": {
+      "x": 420,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownMid.png": {
+      "x": 420,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownMidAlt.png": {
+      "x": 356,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownRight.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownSpotsLeft.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownSpotsMid.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownSpotsMidAlt.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "shroomBrownSpotsRight.png": {
+      "x": 350,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedAltLeft.png": {
+      "x": 350,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedAltMid.png": {
+      "x": 286,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedAltMidAlt.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedAltRight.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedLeft.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedMid.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedMidAlt.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "shroomRedRight.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanAltLeft.png": {
+      "x": 216,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanAltMid.png": {
+      "x": 210,
+      "y": 422,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanAltMidAlt.png": {
+      "x": 426,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanAltRight.png": {
+      "x": 210,
+      "y": 282,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanLeft.png": {
+      "x": 210,
+      "y": 212,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanMid.png": {
+      "x": 210,
+      "y": 142,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanMidAlt.png": {
+      "x": 210,
+      "y": 72,
+      "width": 70,
+      "height": 70
+    },
+    "shroomTanRight.png": {
+      "x": 140,
+      "y": 422,
+      "width": 70,
+      "height": 70
+    },
+    "stem.png": {
+      "x": 140,
+      "y": 352,
+      "width": 70,
+      "height": 70
+    },
+    "stemBase.png": {
+      "x": 140,
+      "y": 282,
+      "width": 70,
+      "height": 70
+    },
+    "stemBaseAlt.png": {
+      "x": 140,
+      "y": 212,
+      "width": 70,
+      "height": 70
+    },
+    "stemCrown.png": {
+      "x": 140,
+      "y": 142,
+      "width": 70,
+      "height": 70
+    },
+    "stemShroom.png": {
+      "x": 140,
+      "y": 72,
+      "width": 70,
+      "height": 70
+    },
+    "stemTop.png": {
+      "x": 70,
+      "y": 422,
+      "width": 70,
+      "height": 70
+    },
+    "stemTopAlt.png": {
+      "x": 70,
+      "y": 352,
+      "width": 70,
+      "height": 70
+    },
+    "stemVine.png": {
+      "x": 70,
+      "y": 282,
+      "width": 70,
+      "height": 70
+    },
+    "tallShroom_brown.png": {
+      "x": 70,
+      "y": 212,
+      "width": 70,
+      "height": 70
+    },
+    "tallShroom_red.png": {
+      "x": 70,
+      "y": 142,
+      "width": 70,
+      "height": 70
+    },
+    "tallShroom_tan.png": {
+      "x": 70,
+      "y": 72,
+      "width": 70,
+      "height": 70
+    },
+    "tinyShroom_brown.png": {
+      "x": 0,
+      "y": 422,
+      "width": 70,
+      "height": 70
+    },
+    "tinyShroom_red.png": {
+      "x": 0,
+      "y": 352,
+      "width": 70,
+      "height": 70
+    },
+    "tinyShroom_tan.png": {
+      "x": 0,
+      "y": 282,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

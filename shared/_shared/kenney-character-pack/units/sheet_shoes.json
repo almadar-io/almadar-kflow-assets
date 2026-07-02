@@ -1,0 +1,215 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "blackShoe1.png": {
+      "x": 0,
+      "y": 378,
+      "width": 94,
+      "height": 42
+    },
+    "blackShoe2.png": {
+      "x": 0,
+      "y": 336,
+      "width": 94,
+      "height": 42
+    },
+    "blackShoe3.png": {
+      "x": 0,
+      "y": 294,
+      "width": 94,
+      "height": 42
+    },
+    "blackShoe4.png": {
+      "x": 0,
+      "y": 252,
+      "width": 94,
+      "height": 42
+    },
+    "blackShoe5.png": {
+      "x": 0,
+      "y": 210,
+      "width": 94,
+      "height": 42
+    },
+    "blueShoe1.png": {
+      "x": 0,
+      "y": 168,
+      "width": 94,
+      "height": 42
+    },
+    "blueShoe2.png": {
+      "x": 0,
+      "y": 126,
+      "width": 94,
+      "height": 42
+    },
+    "blueShoe3.png": {
+      "x": 0,
+      "y": 84,
+      "width": 94,
+      "height": 42
+    },
+    "blueShoe4.png": {
+      "x": 0,
+      "y": 42,
+      "width": 94,
+      "height": 42
+    },
+    "blueShoe5.png": {
+      "x": 0,
+      "y": 0,
+      "width": 94,
+      "height": 42
+    },
+    "brown2Shoe1.png": {
+      "x": 188,
+      "y": 210,
+      "width": 94,
+      "height": 42
+    },
+    "brown2Shoe2.png": {
+      "x": 188,
+      "y": 168,
+      "width": 94,
+      "height": 42
+    },
+    "brown2Shoe3.png": {
+      "x": 188,
+      "y": 126,
+      "width": 94,
+      "height": 42
+    },
+    "brown2Shoe4.png": {
+      "x": 188,
+      "y": 84,
+      "width": 94,
+      "height": 42
+    },
+    "brown2Shoe5.png": {
+      "x": 188,
+      "y": 42,
+      "width": 94,
+      "height": 42
+    },
+    "brownShoe1.png": {
+      "x": 94,
+      "y": 210,
+      "width": 94,
+      "height": 42
+    },
+    "brownShoe2.png": {
+      "x": 188,
+      "y": 378,
+      "width": 94,
+      "height": 42
+    },
+    "brownShoe3.png": {
+      "x": 188,
+      "y": 336,
+      "width": 94,
+      "height": 42
+    },
+    "brownShoe4.png": {
+      "x": 188,
+      "y": 294,
+      "width": 94,
+      "height": 42
+    },
+    "brownShoe5.png": {
+      "x": 188,
+      "y": 252,
+      "width": 94,
+      "height": 42
+    },
+    "greyShoe1.png": {
+      "x": 188,
+      "y": 0,
+      "width": 94,
+      "height": 42
+    },
+    "greyShoe2.png": {
+      "x": 94,
+      "y": 462,
+      "width": 94,
+      "height": 42
+    },
+    "greyShoe3.png": {
+      "x": 94,
+      "y": 420,
+      "width": 94,
+      "height": 42
+    },
+    "greyShoe4.png": {
+      "x": 94,
+      "y": 378,
+      "width": 94,
+      "height": 42
+    },
+    "greyShoe5.png": {
+      "x": 94,
+      "y": 336,
+      "width": 94,
+      "height": 42
+    },
+    "redShoe1.png": {
+      "x": 94,
+      "y": 294,
+      "width": 94,
+      "height": 42
+    },
+    "redShoe2.png": {
+      "x": 94,
+      "y": 252,
+      "width": 94,
+      "height": 42
+    },
+    "redShoe3.png": {
+      "x": 188,
+      "y": 420,
+      "width": 94,
+      "height": 42
+    },
+    "redShoe4.png": {
+      "x": 94,
+      "y": 168,
+      "width": 94,
+      "height": 42
+    },
+    "redShoe5.png": {
+      "x": 94,
+      "y": 126,
+      "width": 94,
+      "height": 42
+    },
+    "tanShoe1.png": {
+      "x": 94,
+      "y": 84,
+      "width": 94,
+      "height": 42
+    },
+    "tanShoe2.png": {
+      "x": 94,
+      "y": 42,
+      "width": 94,
+      "height": 42
+    },
+    "tanShoe3.png": {
+      "x": 94,
+      "y": 0,
+      "width": 94,
+      "height": 42
+    },
+    "tanShoe4.png": {
+      "x": 0,
+      "y": 462,
+      "width": 94,
+      "height": 42
+    },
+    "tanShoe5.png": {
+      "x": 0,
+      "y": 420,
+      "width": 94,
+      "height": 42
+    }
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "barHorizontal_blue_left.png": {
+      "x": 400,
+      "y": 78,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_blue_mid.png": {
+      "x": 388,
+      "y": 420,
+      "width": 16,
+      "height": 26
+    },
+    "barHorizontal_blue_right.png": {
+      "x": 400,
+      "y": 0,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_green_left.png": {
+      "x": 400,
+      "y": 104,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_green_mid.png": {
+      "x": 386,
+      "y": 366,
+      "width": 16,
+      "height": 26
+    },
+    "barHorizontal_green_right.png": {
+      "x": 400,
+      "y": 26,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_red_left.png": {
+      "x": 400,
+      "y": 130,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_red_mid.png": {
+      "x": 386,
+      "y": 340,
+      "width": 16,
+      "height": 26
+    },
+    "barHorizontal_red_right.png": {
+      "x": 400,
+      "y": 156,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_shadow_left.png": {
+      "x": 400,
+      "y": 182,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_shadow_mid.png": {
+      "x": 386,
+      "y": 314,
+      "width": 16,
+      "height": 26
+    },
+    "barHorizontal_shadow_right.png": {
+      "x": 400,
+      "y": 208,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_white_left.png": {
+      "x": 402,
+      "y": 314,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_white_mid.png": {
+      "x": 399,
+      "y": 236,
+      "width": 16,
+      "height": 26
+    },
+    "barHorizontal_white_right.png": {
+      "x": 402,
+      "y": 366,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_yellow_left.png": {
+      "x": 400,
+      "y": 52,
+      "width": 6,
+      "height": 26
+    },
+    "barHorizontal_yellow_mid.png": {
+      "x": 399,
+      "y": 262,
+      "width": 16,
+      "height": 26
+    },
+    "barHorizontal_yellow_right.png": {
+      "x": 402,
+      "y": 340,
+      "width": 6,
+      "height": 26
+    },
+    "barVertical_blue_bottom.png": {
+      "x": 26,
+      "y": 500,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_blue_mid.png": {
+      "x": 336,
+      "y": 322,
+      "width": 26,
+      "height": 16
+    },
+    "barVertical_blue_top.png": {
+      "x": 104,
+      "y": 506,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_green_bottom.png": {
+      "x": 130,
+      "y": 506,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_green_mid.png": {
+      "x": 336,
+      "y": 370,
+      "width": 26,
+      "height": 16
+    },
+    "barVertical_green_top.png": {
+      "x": 78,
+      "y": 506,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_red_bottom.png": {
+      "x": 130,
+      "y": 500,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_red_mid.png": {
+      "x": 336,
+      "y": 386,
+      "width": 26,
+      "height": 16
+    },
+    "barVertical_red_top.png": {
+      "x": 0,
+      "y": 506,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_shadow_bottom.png": {
+      "x": 104,
+      "y": 500,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_shadow_mid.png": {
+      "x": 386,
+      "y": 314,
+      "width": 16,
+      "height": 26
+    },
+    "barVertical_shadow_top.png": {
+      "x": 0,
+      "y": 500,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_white_bottom.png": {
+      "x": 26,
+      "y": 506,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_white_mid.png": {
+      "x": 336,
+      "y": 354,
+      "width": 26,
+      "height": 16
+    },
+    "barVertical_white_top.png": {
+      "x": 78,
+      "y": 500,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_yellow_bottom.png": {
+      "x": 52,
+      "y": 506,
+      "width": 26,
+      "height": 6
+    },
+    "barVertical_yellow_mid.png": {
+      "x": 336,
+      "y": 338,
+      "width": 26,
+      "height": 16
+    },
+    "barVertical_yellow_top.png": {
+      "x": 52,
+      "y": 500,
+      "width": 26,
+      "height": 6
+    },
+    "crossair_black.png": {
+      "x": 300,
+      "y": 468,
+      "width": 32,
+      "height": 32
+    },
+    "crossair_blackOutline.png": {
+      "x": 300,
+      "y": 400,
+      "width": 36,
+      "height": 36
+    },
+    "crossair_blue.png": {
+      "x": 332,
+      "y": 436,
+      "width": 32,
+      "height": 32
+    },
+    "crossair_blueOutline.png": {
+      "x": 300,
+      "y": 328,
+      "width": 36,
+      "height": 36
+    },
+    "crossair_red.png": {
+      "x": 300,
+      "y": 436,
+      "width": 32,
+      "height": 32
+    },
+    "crossair_redOutline.png": {
+      "x": 300,
+      "y": 364,
+      "width": 36,
+      "height": 36
+    },
+    "crossair_white.png": {
+      "x": 332,
+      "y": 468,
+      "width": 32,
+      "height": 32
+    },
+    "crossair_whiteOutline.png": {
+      "x": 300,
+      "y": 292,
+      "width": 36,
+      "height": 36
+    },
+    "cursor_hand.png": {
+      "x": 336,
+      "y": 292,
+      "width": 30,
+      "height": 30
+    },
+    "cursor_pointer3D.png": {
+      "x": 380,
+      "y": 212,
+      "width": 20,
+      "height": 24
+    },
+    "cursor_pointer3D_shadow.png": {
+      "x": 364,
+      "y": 450,
+      "width": 20,
+      "height": 27
+    },
+    "cursor_pointerFlat.png": {
+      "x": 364,
+      "y": 477,
+      "width": 20,
+      "height": 24
+    },
+    "cursor_pointerFlat_shadow.png": {
+      "x": 366,
+      "y": 292,
+      "width": 20,
+      "height": 27
+    },
+    "dotBlue.png": {
+      "x": 362,
+      "y": 322,
+      "width": 24,
+      "height": 24
+    },
+    "dotGreen.png": {
+      "x": 364,
+      "y": 426,
+      "width": 24,
+      "height": 24
+    },
+    "dotRed.png": {
+      "x": 362,
+      "y": 370,
+      "width": 24,
+      "height": 24
+    },
+    "dotWhite.png": {
+      "x": 362,
+      "y": 346,
+      "width": 24,
+      "height": 24
+    },
+    "dotYellow.png": {
+      "x": 360,
+      "y": 402,
+      "width": 24,
+      "height": 24
+    },
+    "dot_shadow.png": {
+      "x": 336,
+      "y": 402,
+      "width": 24,
+      "height": 24
+    },
+    "glassPanel.png": {
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_cornerBL.png": {
+      "x": 0,
+      "y": 100,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_cornerBR.png": {
+      "x": 0,
+      "y": 200,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_cornerTL.png": {
+      "x": 200,
+      "y": 400,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_cornerTR.png": {
+      "x": 300,
+      "y": 0,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_corners.png": {
+      "x": 100,
+      "y": 200,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_projection.png": {
+      "x": 200,
+      "y": 300,
+      "width": 100,
+      "height": 100
+    },
+    "glassPanel_tab.png": {
+      "x": 300,
+      "y": 100,
+      "width": 100,
+      "height": 112
+    },
+    "metalPanel.png": {
+      "x": 200,
+      "y": 200,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_blue.png": {
+      "x": 200,
+      "y": 100,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_blueCorner.png": {
+      "x": 200,
+      "y": 0,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_green.png": {
+      "x": 100,
+      "y": 400,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_greenCorner.png": {
+      "x": 100,
+      "y": 300,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_plate.png": {
+      "x": 300,
+      "y": 212,
+      "width": 80,
+      "height": 80
+    },
+    "metalPanel_red.png": {
+      "x": 100,
+      "y": 100,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_redCorner.png": {
+      "x": 100,
+      "y": 0,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_yellow.png": {
+      "x": 0,
+      "y": 400,
+      "width": 100,
+      "height": 100
+    },
+    "metalPanel_yellowCorner.png": {
+      "x": 0,
+      "y": 300,
+      "width": 100,
+      "height": 100
+    },
+    "squareBlue.png": {
+      "x": 384,
+      "y": 450,
+      "width": 19,
+      "height": 26
+    },
+    "squareGreen.png": {
+      "x": 380,
+      "y": 262,
+      "width": 19,
+      "height": 26
+    },
+    "squareRed.png": {
+      "x": 384,
+      "y": 394,
+      "width": 19,
+      "height": 26
+    },
+    "squareWhite.png": {
+      "x": 384,
+      "y": 476,
+      "width": 19,
+      "height": 26
+    },
+    "squareYellow.png": {
+      "x": 380,
+      "y": 236,
+      "width": 19,
+      "height": 26
+    },
+    "square_shadow.png": {
+      "x": 386,
+      "y": 288,
+      "width": 19,
+      "height": 26
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "imagePath": "spritesheet.png",
+  "subTextures": {
+    "cake.png": {
+      "x": 280,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "cakeCenter.png": {
+      "x": 630,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "cakeCenter_rounded.png": {
+      "x": 630,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "cakeCliffLeft.png": {
+      "x": 630,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "cakeCliffLeftAlt.png": {
+      "x": 630,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "cakeCliffRight.png": {
+      "x": 560,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "cakeCliffRightAlt.png": {
+      "x": 560,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalf.png": {
+      "x": 560,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfAlt.png": {
+      "x": 560,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfAltLeft.png": {
+      "x": 560,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfAltMid.png": {
+      "x": 560,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfAltRight.png": {
+      "x": 560,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfLeft.png": {
+      "x": 560,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfMid.png": {
+      "x": 560,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHalfRight.png": {
+      "x": 560,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHillLeft.png": {
+      "x": 490,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHillLeft2.png": {
+      "x": 490,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHillRight.png": {
+      "x": 490,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "cakeHillRight2.png": {
+      "x": 490,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "cakeLedgeLeft.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "cakeLedgeRight.png": {
+      "x": 490,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "cakeLeft.png": {
+      "x": 490,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "cakeMid.png": {
+      "x": 490,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "cakeRight.png": {
+      "x": 490,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "candyBlue.png": {
+      "x": 490,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "candyGreen.png": {
+      "x": 420,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "candyRed.png": {
+      "x": 420,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "candyYellow.png": {
+      "x": 420,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "canePink.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "canePinkSmall.png": {
+      "x": 420,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "canePinkTop.png": {
+      "x": 420,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "canePinkTopAlt.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "cherry.png": {
+      "x": 420,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "choco.png": {
+      "x": 420,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "chocoCenter.png": {
+      "x": 420,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "chocoCenter_rounded.png": {
+      "x": 350,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "chocoCliffLeft.png": {
+      "x": 350,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "chocoCliffLeftAlt.png": {
+      "x": 350,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "chocoCliffRight.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "chocoCliffRightAlt.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalf.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfAlt.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfAltLeft.png": {
+      "x": 350,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfAltMid.png": {
+      "x": 350,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfAltRight.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfLeft.png": {
+      "x": 280,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfMid.png": {
+      "x": 280,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHalfRight.png": {
+      "x": 630,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHillLeft.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHillLeft2.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHillRight.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "chocoHillRight2.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "chocoLedgeLeft.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "chocoLedgeRight.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "chocoLeft.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "chocoMid.png": {
+      "x": 210,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "chocoRight.png": {
+      "x": 210,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "cookieBrown.png": {
+      "x": 210,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "cookieChoco.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "cookiePink.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "creamChoco.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "creamMocca.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "creamPink.png": {
+      "x": 210,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "creamVanilla.png": {
+      "x": 210,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "cupCake.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "gummyWormGreenEnd.png": {
+      "x": 140,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "gummyWormGreenHead.png": {
+      "x": 140,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "gummyWormGreenMid.png": {
+      "x": 140,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "gummyWormRedEnd.png": {
+      "x": 140,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "gummyWormRedHead.png": {
+      "x": 140,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "gummyWormRedMid.png": {
+      "x": 140,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "heart.png": {
+      "x": 140,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "hillCaneChoco.png": {
+      "x": 140,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "hillCaneChocoTop.png": {
+      "x": 140,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "hillCaneGreen.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "hillCaneGreenTop.png": {
+      "x": 70,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "hillCanePink.png": {
+      "x": 70,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "hillCanePinkTop.png": {
+      "x": 70,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "hillCaneRed.png": {
+      "x": 70,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "hillCaneRedTop.png": {
+      "x": 70,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopBase.png": {
+      "x": 70,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopBaseBeige.png": {
+      "x": 70,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopBaseBrown.png": {
+      "x": 70,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopBaseCake.png": {
+      "x": 70,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopBasePink.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopFruitGreen.png": {
+      "x": 0,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopFruitRed.png": {
+      "x": 0,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopFruitYellow.png": {
+      "x": 0,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopGreen.png": {
+      "x": 0,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopRed.png": {
+      "x": 0,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopWhiteGreen.png": {
+      "x": 0,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "lollipopWhiteRed.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "waffleChoco.png": {
+      "x": 0,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "wafflePink.png": {
+      "x": 0,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "waffleWhite.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "blackMan1.png": {
+      "x": 979,
+      "y": 524,
+      "width": 158,
+      "height": 119
+    },
+    "blackMan2.png": {
+      "x": 1454,
+      "y": 119,
+      "width": 158,
+      "height": 138
+    },
+    "blackMan3.png": {
+      "x": 1454,
+      "y": 1381,
+      "width": 158,
+      "height": 119
+    },
+    "blackMan4.png": {
+      "x": 1454,
+      "y": 1262,
+      "width": 158,
+      "height": 119
+    },
+    "blackMan5.png": {
+      "x": 0,
+      "y": 910,
+      "width": 171,
+      "height": 130
+    },
+    "blackMan6.png": {
+      "x": 1454,
+      "y": 0,
+      "width": 158,
+      "height": 119
+    },
+    "blackMan7.png": {
+      "x": 1453,
+      "y": 1922,
+      "width": 158,
+      "height": 119
+    },
+    "blackMan8.png": {
+      "x": 821,
+      "y": 405,
+      "width": 158,
+      "height": 47
+    },
+    "blackWoman1.png": {
+      "x": 171,
+      "y": 454,
+      "width": 165,
+      "height": 227
+    },
+    "blackWoman2.png": {
+      "x": 1453,
+      "y": 1637,
+      "width": 158,
+      "height": 285
+    },
+    "blackWoman3.png": {
+      "x": 501,
+      "y": 227,
+      "width": 160,
+      "height": 227
+    },
+    "blackWoman4.png": {
+      "x": 1298,
+      "y": 690,
+      "width": 158,
+      "height": 286
+    },
+    "blackWoman5.png": {
+      "x": 168,
+      "y": 1466,
+      "width": 168,
+      "height": 213
+    },
+    "blackWoman6.png": {
+      "x": 336,
+      "y": 908,
+      "width": 164,
+      "height": 213
+    },
+    "blondeMan1.png": {
+      "x": 823,
+      "y": 1087,
+      "width": 159,
+      "height": 119
+    },
+    "blondeMan2.png": {
+      "x": 979,
+      "y": 1206,
+      "width": 159,
+      "height": 138
+    },
+    "blondeMan3.png": {
+      "x": 979,
+      "y": 1344,
+      "width": 159,
+      "height": 119
+    },
+    "blondeMan4.png": {
+      "x": 979,
+      "y": 1463,
+      "width": 159,
+      "height": 119
+    },
+    "blondeMan5.png": {
+      "x": 0,
+      "y": 260,
+      "width": 171,
+      "height": 130
+    },
+    "blondeMan6.png": {
+      "x": 979,
+      "y": 1582,
+      "width": 159,
+      "height": 119
+    },
+    "blondeMan7.png": {
+      "x": 979,
+      "y": 1701,
+      "width": 159,
+      "height": 119
+    },
+    "blondeMan8.png": {
+      "x": 634,
+      "y": 2001,
+      "width": 158,
+      "height": 47
+    },
+    "blondeWoman1.png": {
+      "x": 1296,
+      "y": 1114,
+      "width": 158,
+      "height": 285
+    },
+    "blondeWoman2.png": {
+      "x": 501,
+      "y": 0,
+      "width": 160,
+      "height": 227
+    },
+    "blondeWoman3.png": {
+      "x": 1295,
+      "y": 404,
+      "width": 158,
+      "height": 286
+    },
+    "blondeWoman4.png": {
+      "x": 336,
+      "y": 227,
+      "width": 165,
+      "height": 227
+    },
+    "blondeWoman5.png": {
+      "x": 336,
+      "y": 1334,
+      "width": 164,
+      "height": 213
+    },
+    "blondeWoman6.png": {
+      "x": 168,
+      "y": 1040,
+      "width": 168,
+      "height": 213
+    },
+    "brown1Man1.png": {
+      "x": 1138,
+      "y": 1590,
+      "width": 158,
+      "height": 119
+    },
+    "brown1Man2.png": {
+      "x": 1138,
+      "y": 1452,
+      "width": 158,
+      "height": 138
+    },
+    "brown1Man3.png": {
+      "x": 1137,
+      "y": 1820,
+      "width": 158,
+      "height": 119
+    },
+    "brown1Man4.png": {
+      "x": 1296,
+      "y": 119,
+      "width": 158,
+      "height": 119
+    },
+    "brown1Man5.png": {
+      "x": 0,
+      "y": 650,
+      "width": 171,
+      "height": 130
+    },
+    "brown1Man6.png": {
+      "x": 1295,
+      "y": 1828,
+      "width": 158,
+      "height": 119
+    },
+    "brown1Man7.png": {
+      "x": 982,
+      "y": 1047,
+      "width": 158,
+      "height": 119
+    },
+    "brown1Man8.png": {
+      "x": 476,
+      "y": 2001,
+      "width": 158,
+      "height": 47
+    },
+    "brown1Woman1.png": {
+      "x": 982,
+      "y": 762,
+      "width": 158,
+      "height": 285
+    },
+    "brown1Woman2.png": {
+      "x": 661,
+      "y": 0,
+      "width": 160,
+      "height": 227
+    },
+    "brown1Woman3.png": {
+      "x": 1137,
+      "y": 405,
+      "width": 158,
+      "height": 286
+    },
+    "brown1Woman4.png": {
+      "x": 336,
+      "y": 0,
+      "width": 165,
+      "height": 227
+    },
+    "brown1Woman5.png": {
+      "x": 500,
+      "y": 1121,
+      "width": 164,
+      "height": 213
+    },
+    "brown1Woman6.png": {
+      "x": 0,
+      "y": 1040,
+      "width": 168,
+      "height": 213
+    },
+    "brown2Man1.png": {
+      "x": 979,
+      "y": 405,
+      "width": 158,
+      "height": 119
+    },
+    "brown2Man2.png": {
+      "x": 979,
+      "y": 1820,
+      "width": 158,
+      "height": 138
+    },
+    "brown2Man3.png": {
+      "x": 980,
+      "y": 0,
+      "width": 158,
+      "height": 119
+    },
+    "brown2Man4.png": {
+      "x": 979,
+      "y": 643,
+      "width": 158,
+      "height": 119
+    },
+    "brown2Man5.png": {
+      "x": 0,
+      "y": 130,
+      "width": 171,
+      "height": 130
+    },
+    "brown2Man6.png": {
+      "x": 1296,
+      "y": 1399,
+      "width": 158,
+      "height": 119
+    },
+    "brown2Man7.png": {
+      "x": 1296,
+      "y": 0,
+      "width": 158,
+      "height": 119
+    },
+    "brown2Man8.png": {
+      "x": 661,
+      "y": 1952,
+      "width": 158,
+      "height": 47
+    },
+    "brown2Woman1.png": {
+      "x": 1140,
+      "y": 829,
+      "width": 158,
+      "height": 285
+    },
+    "brown2Woman2.png": {
+      "x": 661,
+      "y": 227,
+      "width": 160,
+      "height": 227
+    },
+    "brown2Woman3.png": {
+      "x": 1138,
+      "y": 1166,
+      "width": 158,
+      "height": 286
+    },
+    "brown2Woman4.png": {
+      "x": 336,
+      "y": 454,
+      "width": 165,
+      "height": 227
+    },
+    "brown2Woman5.png": {
+      "x": 500,
+      "y": 1334,
+      "width": 164,
+      "height": 213
+    },
+    "brown2Woman6.png": {
+      "x": 0,
+      "y": 1466,
+      "width": 168,
+      "height": 213
+    },
+    "greyMan1.png": {
+      "x": 823,
+      "y": 968,
+      "width": 159,
+      "height": 119
+    },
+    "greyMan2.png": {
+      "x": 820,
+      "y": 1857,
+      "width": 159,
+      "height": 138
+    },
+    "greyMan3.png": {
+      "x": 820,
+      "y": 1738,
+      "width": 159,
+      "height": 119
+    },
+    "greyMan4.png": {
+      "x": 820,
+      "y": 1619,
+      "width": 159,
+      "height": 119
+    },
+    "greyMan5.png": {
+      "x": 0,
+      "y": 390,
+      "width": 171,
+      "height": 130
+    },
+    "greyMan6.png": {
+      "x": 664,
+      "y": 1215,
+      "width": 159,
+      "height": 119
+    },
+    "greyMan7.png": {
+      "x": 664,
+      "y": 1096,
+      "width": 159,
+      "height": 119
+    },
+    "greyMan8.png": {
+      "x": 318,
+      "y": 2001,
+      "width": 158,
+      "height": 47
+    },
+    "greyWoman1.png": {
+      "x": 1138,
+      "y": 0,
+      "width": 158,
+      "height": 285
+    },
+    "greyWoman2.png": {
+      "x": 501,
+      "y": 454,
+      "width": 160,
+      "height": 227
+    },
+    "greyWoman3.png": {
+      "x": 980,
+      "y": 119,
+      "width": 158,
+      "height": 286
+    },
+    "greyWoman4.png": {
+      "x": 336,
+      "y": 681,
+      "width": 165,
+      "height": 227
+    },
+    "greyWoman5.png": {
+      "x": 336,
+      "y": 1760,
+      "width": 164,
+      "height": 213
+    },
+    "greyWoman6.png": {
+      "x": 168,
+      "y": 1253,
+      "width": 168,
+      "height": 213
+    },
+    "redMan1.png": {
+      "x": 664,
+      "y": 858,
+      "width": 159,
+      "height": 119
+    },
+    "redMan2.png": {
+      "x": 823,
+      "y": 830,
+      "width": 159,
+      "height": 138
+    },
+    "redMan3.png": {
+      "x": 821,
+      "y": 286,
+      "width": 159,
+      "height": 119
+    },
+    "redMan4.png": {
+      "x": 664,
+      "y": 977,
+      "width": 159,
+      "height": 119
+    },
+    "redMan5.png": {
+      "x": 0,
+      "y": 780,
+      "width": 171,
+      "height": 130
+    },
+    "redMan6.png": {
+      "x": 159,
+      "y": 1892,
+      "width": 159,
+      "height": 119
+    },
+    "redMan7.png": {
+      "x": 661,
+      "y": 1833,
+      "width": 159,
+      "height": 119
+    },
+    "redMan8.png": {
+      "x": 792,
+      "y": 1999,
+      "width": 158,
+      "height": 47
+    },
+    "redWoman1.png": {
+      "x": 661,
+      "y": 454,
+      "width": 159,
+      "height": 285
+    },
+    "redWoman2.png": {
+      "x": 500,
+      "y": 1547,
+      "width": 161,
+      "height": 227
+    },
+    "redWoman3.png": {
+      "x": 661,
+      "y": 1547,
+      "width": 159,
+      "height": 286
+    },
+    "redWoman4.png": {
+      "x": 171,
+      "y": 681,
+      "width": 165,
+      "height": 227
+    },
+    "redWoman5.png": {
+      "x": 500,
+      "y": 908,
+      "width": 164,
+      "height": 213
+    },
+    "redWoman6.png": {
+      "x": 0,
+      "y": 1679,
+      "width": 168,
+      "height": 213
+    },
+    "tanMan1.png": {
+      "x": 1138,
+      "y": 285,
+      "width": 158,
+      "height": 119
+    },
+    "tanMan2.png": {
+      "x": 1140,
+      "y": 691,
+      "width": 158,
+      "height": 138
+    },
+    "tanMan3.png": {
+      "x": 1454,
+      "y": 257,
+      "width": 158,
+      "height": 119
+    },
+    "tanMan4.png": {
+      "x": 1295,
+      "y": 1709,
+      "width": 158,
+      "height": 119
+    },
+    "tanMan5.png": {
+      "x": 0,
+      "y": 520,
+      "width": 171,
+      "height": 130
+    },
+    "tanMan6.png": {
+      "x": 1296,
+      "y": 1518,
+      "width": 158,
+      "height": 119
+    },
+    "tanMan7.png": {
+      "x": 1296,
+      "y": 238,
+      "width": 158,
+      "height": 119
+    },
+    "tanMan8.png": {
+      "x": 1296,
+      "y": 357,
+      "width": 158,
+      "height": 47
+    },
+    "tanWoman1.png": {
+      "x": 1453,
+      "y": 404,
+      "width": 158,
+      "height": 285
+    },
+    "tanWoman2.png": {
+      "x": 501,
+      "y": 681,
+      "width": 160,
+      "height": 227
+    },
+    "tanWoman3.png": {
+      "x": 168,
+      "y": 1679,
+      "width": 168,
+      "height": 213
+    },
+    "tanWoman4.png": {
+      "x": 1454,
+      "y": 976,
+      "width": 158,
+      "height": 286
+    },
+    "tanWoman5.png": {
+      "x": 171,
+      "y": 0,
+      "width": 165,
+      "height": 227
+    },
+    "tanWoman6.png": {
+      "x": 336,
+      "y": 1121,
+      "width": 164,
+      "height": 213
+    },
+    "whiteMan1.png": {
+      "x": 171,
+      "y": 908,
+      "width": 159,
+      "height": 119
+    },
+    "whiteMan2.png": {
+      "x": 820,
+      "y": 692,
+      "width": 159,
+      "height": 138
+    },
+    "whiteMan3.png": {
+      "x": 820,
+      "y": 573,
+      "width": 159,
+      "height": 119
+    },
+    "whiteMan4.png": {
+      "x": 661,
+      "y": 739,
+      "width": 159,
+      "height": 119
+    },
+    "whiteMan5.png": {
+      "x": 0,
+      "y": 0,
+      "width": 171,
+      "height": 130
+    },
+    "whiteMan6.png": {
+      "x": 0,
+      "y": 1892,
+      "width": 159,
+      "height": 119
+    },
+    "whiteMan7.png": {
+      "x": 820,
+      "y": 454,
+      "width": 159,
+      "height": 119
+    },
+    "whiteMan8.png": {
+      "x": 950,
+      "y": 1995,
+      "width": 158,
+      "height": 47
+    },
+    "whiteWoman1.png": {
+      "x": 820,
+      "y": 1334,
+      "width": 159,
+      "height": 285
+    },
+    "whiteWoman2.png": {
+      "x": 500,
+      "y": 1774,
+      "width": 161,
+      "height": 227
+    },
+    "whiteWoman3.png": {
+      "x": 821,
+      "y": 0,
+      "width": 159,
+      "height": 286
+    },
+    "whiteWoman4.png": {
+      "x": 171,
+      "y": 227,
+      "width": 165,
+      "height": 227
+    },
+    "whiteWoman5.png": {
+      "x": 336,
+      "y": 1547,
+      "width": 164,
+      "height": 213
+    },
+    "whiteWoman6.png": {
+      "x": 0,
+      "y": 1253,
+      "width": 168,
+      "height": 213
+    }
+  }
+}

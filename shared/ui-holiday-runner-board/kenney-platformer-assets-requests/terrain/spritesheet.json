@@ -1,0 +1,593 @@
+{
+  "imagePath": "spritesheet.png",
+  "subTextures": {
+    "beam.png": {
+      "x": 0,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "beamBolts.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "beamBoltsHoles.png": {
+      "x": 280,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "beamBoltsNarrow.png": {
+      "x": 630,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "beamDiagonalLeft.png": {
+      "x": 630,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "beamDiagonalRight.png": {
+      "x": 630,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "beamHoles.png": {
+      "x": 630,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "beamNarrow.png": {
+      "x": 630,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveBL.png": {
+      "x": 630,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveBR.png": {
+      "x": 560,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveBottom.png": {
+      "x": 630,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveRockLarge.png": {
+      "x": 560,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveRockSmall.png": {
+      "x": 560,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveSpikeBottom.png": {
+      "x": 560,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveSpikeTop.png": {
+      "x": 560,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveTop.png": {
+      "x": 560,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveUL.png": {
+      "x": 560,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "dirtCaveUR.png": {
+      "x": 560,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "laserBlueBurst.png": {
+      "x": 560,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "laserBlueHorizontal.png": {
+      "x": 560,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "laserBlueVertical.png": {
+      "x": 490,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "laserDown.png": {
+      "x": 490,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "laserDownShoot.png": {
+      "x": 490,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "laserGreenBurst.png": {
+      "x": 490,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "laserGreenHorizontal.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "laserGreenVertical.png": {
+      "x": 490,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "laserLeft.png": {
+      "x": 490,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "laserLeftShoot.png": {
+      "x": 490,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "laserPurple.png": {
+      "x": 490,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "laserPurpleDot.png": {
+      "x": 490,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "laserRedBurst.png": {
+      "x": 420,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "laserRedHorizontal.png": {
+      "x": 420,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "laserRedVertical.png": {
+      "x": 420,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "laserRight.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "laserRightShoot.png": {
+      "x": 420,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchBlueOff.png": {
+      "x": 420,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchBlueOn.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchGreenOff.png": {
+      "x": 420,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchGreenOn.png": {
+      "x": 420,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchRedOff.png": {
+      "x": 420,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchRedOn.png": {
+      "x": 350,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchYellowOff.png": {
+      "x": 350,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "laserSwitchYellowOn.png": {
+      "x": 350,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "laserUp.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "laserUpShoot.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "laserYellowBurst.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "laserYellowHorizontal.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "laserYellowVertical.png": {
+      "x": 350,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "metal.png": {
+      "x": 350,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "metalCenter.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "metalCenterSticker.png": {
+      "x": 280,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "metalCenterWarning.png": {
+      "x": 630,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "metalCliffLeft.png": {
+      "x": 280,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "metalCliffLeftAlt.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "metalCliffRight.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "metalCliffRightAlt.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "metalFence.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "metalFenceAlt.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "metalHalf.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "metalHalfLeft.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "metalHalfMid.png": {
+      "x": 210,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "metalHalfRight.png": {
+      "x": 210,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "metalLeft.png": {
+      "x": 210,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "metalMid.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "metalPlatform.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "metalPlatformWire.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "metalPlatformWireAlt.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "metalRight.png": {
+      "x": 210,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "metalRounded.png": {
+      "x": 210,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "raygun.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "raygunBig.png": {
+      "x": 140,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "raygunPurple.png": {
+      "x": 140,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "raygunPurpleBig.png": {
+      "x": 140,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "shieldBronze.png": {
+      "x": 140,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "shieldGold.png": {
+      "x": 140,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "shieldSilver.png": {
+      "x": 140,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveBL.png": {
+      "x": 140,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveBR.png": {
+      "x": 140,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveBottom.png": {
+      "x": 140,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveRockLarge.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveRockSmall.png": {
+      "x": 70,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveSpikeBottom.png": {
+      "x": 70,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveSpikeTop.png": {
+      "x": 70,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveTop.png": {
+      "x": 70,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveUL.png": {
+      "x": 70,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "stoneCaveUR.png": {
+      "x": 70,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "swordBronze.png": {
+      "x": 70,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "swordGold.png": {
+      "x": 70,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "swordSilver.png": {
+      "x": 70,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "tile_20.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "tile_21.png": {
+      "x": 0,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "umbrellaClosed.png": {
+      "x": 0,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "umbrellaOpen.png": {
+      "x": 0,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "wireBottomLeft.png": {
+      "x": 0,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "wireBottomRight.png": {
+      "x": 0,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "wireHook.png": {
+      "x": 0,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "wireLeft.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "wireRight.png": {
+      "x": 0,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

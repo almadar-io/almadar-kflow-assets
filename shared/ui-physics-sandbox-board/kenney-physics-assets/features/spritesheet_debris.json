@@ -1,0 +1,59 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "debrisGlass_1.png": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 56
+    },
+    "debrisGlass_2.png": {
+      "x": 0,
+      "y": 385,
+      "width": 55,
+      "height": 61
+    },
+    "debrisGlass_3.png": {
+      "x": 0,
+      "y": 272,
+      "width": 59,
+      "height": 52
+    },
+    "debrisStone_1.png": {
+      "x": 0,
+      "y": 112,
+      "width": 64,
+      "height": 56
+    },
+    "debrisStone_2.png": {
+      "x": 0,
+      "y": 324,
+      "width": 55,
+      "height": 61
+    },
+    "debrisStone_3.png": {
+      "x": 0,
+      "y": 220,
+      "width": 59,
+      "height": 52
+    },
+    "debrisWood_1.png": {
+      "x": 0,
+      "y": 56,
+      "width": 64,
+      "height": 56
+    },
+    "debrisWood_2.png": {
+      "x": 0,
+      "y": 446,
+      "width": 55,
+      "height": 61
+    },
+    "debrisWood_3.png": {
+      "x": 0,
+      "y": 168,
+      "width": 59,
+      "height": 52
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "tileAutumn.png": {
+      "x": 0,
+      "y": 178,
+      "width": 65,
+      "height": 89
+    },
+    "tileAutumn_full.png": {
+      "x": 0,
+      "y": 89,
+      "width": 65,
+      "height": 89
+    },
+    "tileDirt.png": {
+      "x": 0,
+      "y": 0,
+      "width": 65,
+      "height": 89
+    },
+    "tileDirt_full.png": {
+      "x": 65,
+      "y": 356,
+      "width": 65,
+      "height": 89
+    },
+    "tileGrass.png": {
+      "x": 195,
+      "y": 267,
+      "width": 65,
+      "height": 89
+    },
+    "tileGrass_full.png": {
+      "x": 195,
+      "y": 178,
+      "width": 65,
+      "height": 89
+    },
+    "tileLava.png": {
+      "x": 195,
+      "y": 89,
+      "width": 65,
+      "height": 89
+    },
+    "tileLava_full.png": {
+      "x": 195,
+      "y": 0,
+      "width": 65,
+      "height": 89
+    },
+    "tileMagic.png": {
+      "x": 130,
+      "y": 356,
+      "width": 65,
+      "height": 89
+    },
+    "tileMagic_full.png": {
+      "x": 130,
+      "y": 267,
+      "width": 65,
+      "height": 89
+    },
+    "tileRock.png": {
+      "x": 130,
+      "y": 178,
+      "width": 65,
+      "height": 89
+    },
+    "tileRock_full.png": {
+      "x": 130,
+      "y": 89,
+      "width": 65,
+      "height": 89
+    },
+    "tileSand.png": {
+      "x": 130,
+      "y": 0,
+      "width": 65,
+      "height": 89
+    },
+    "tileSand_full.png": {
+      "x": 195,
+      "y": 356,
+      "width": 65,
+      "height": 89
+    },
+    "tileSnow.png": {
+      "x": 65,
+      "y": 267,
+      "width": 65,
+      "height": 89
+    },
+    "tileSnow_full.png": {
+      "x": 65,
+      "y": 178,
+      "width": 65,
+      "height": 89
+    },
+    "tileStone.png": {
+      "x": 65,
+      "y": 89,
+      "width": 65,
+      "height": 89
+    },
+    "tileStone_full.png": {
+      "x": 65,
+      "y": 0,
+      "width": 65,
+      "height": 89
+    },
+    "tileWater.png": {
+      "x": 0,
+      "y": 356,
+      "width": 65,
+      "height": 89
+    },
+    "tileWater_full.png": {
+      "x": 0,
+      "y": 267,
+      "width": 65,
+      "height": 89
+    }
+  }
+}

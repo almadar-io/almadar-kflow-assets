@@ -1,0 +1,7 @@
+{
+  "imagePath": "terrainTiles_default.png",
+  "tileWidth": 64,
+  "tileHeight": 64,
+  "columns": 10,
+  "rows": 4
+}

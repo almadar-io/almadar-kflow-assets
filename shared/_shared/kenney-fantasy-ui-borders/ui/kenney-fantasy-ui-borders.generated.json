@@ -1,0 +1,197 @@
+{
+  "imagePath": "kenney-fantasy-ui-borders.generated.png",
+  "subTextures": {
+    "panel-border-000.png": {
+      "x": 1,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-001.png": {
+      "x": 50,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-002.png": {
+      "x": 99,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-003.png": {
+      "x": 148,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-004.png": {
+      "x": 197,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-005.png": {
+      "x": 246,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-006.png": {
+      "x": 295,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-007.png": {
+      "x": 344,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-008.png": {
+      "x": 393,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-009.png": {
+      "x": 442,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-010.png": {
+      "x": 491,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-011.png": {
+      "x": 540,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-012.png": {
+      "x": 589,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-013.png": {
+      "x": 638,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-014.png": {
+      "x": 687,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-015.png": {
+      "x": 736,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-016.png": {
+      "x": 785,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-017.png": {
+      "x": 834,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-018.png": {
+      "x": 883,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-019.png": {
+      "x": 932,
+      "y": 1,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-020.png": {
+      "x": 1,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-021.png": {
+      "x": 50,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-022.png": {
+      "x": 99,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-023.png": {
+      "x": 148,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-024.png": {
+      "x": 197,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-025.png": {
+      "x": 246,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-026.png": {
+      "x": 295,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-027.png": {
+      "x": 344,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-028.png": {
+      "x": 393,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-029.png": {
+      "x": 442,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-030.png": {
+      "x": 491,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "panel-border-031.png": {
+      "x": 540,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    }
+  }
+}

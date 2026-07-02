@@ -1,0 +1,197 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "awning000.png": {
+      "x": 0,
+      "y": 176,
+      "width": 33,
+      "height": 22
+    },
+    "awning001.png": {
+      "x": 0,
+      "y": 154,
+      "width": 33,
+      "height": 22
+    },
+    "awning002.png": {
+      "x": 0,
+      "y": 132,
+      "width": 33,
+      "height": 22
+    },
+    "awning003.png": {
+      "x": 0,
+      "y": 110,
+      "width": 33,
+      "height": 22
+    },
+    "awning004.png": {
+      "x": 0,
+      "y": 88,
+      "width": 33,
+      "height": 22
+    },
+    "awning005.png": {
+      "x": 0,
+      "y": 66,
+      "width": 33,
+      "height": 22
+    },
+    "awning006.png": {
+      "x": 0,
+      "y": 44,
+      "width": 33,
+      "height": 22
+    },
+    "awning007.png": {
+      "x": 0,
+      "y": 22,
+      "width": 33,
+      "height": 22
+    },
+    "awning008.png": {
+      "x": 0,
+      "y": 0,
+      "width": 33,
+      "height": 22
+    },
+    "awning009.png": {
+      "x": 33,
+      "y": 88,
+      "width": 33,
+      "height": 22
+    },
+    "awning010.png": {
+      "x": 66,
+      "y": 176,
+      "width": 33,
+      "height": 22
+    },
+    "awning011.png": {
+      "x": 66,
+      "y": 154,
+      "width": 33,
+      "height": 22
+    },
+    "awning012.png": {
+      "x": 66,
+      "y": 132,
+      "width": 33,
+      "height": 22
+    },
+    "awning013.png": {
+      "x": 66,
+      "y": 110,
+      "width": 33,
+      "height": 22
+    },
+    "awning014.png": {
+      "x": 66,
+      "y": 88,
+      "width": 33,
+      "height": 22
+    },
+    "awning015.png": {
+      "x": 66,
+      "y": 66,
+      "width": 33,
+      "height": 22
+    },
+    "awning016.png": {
+      "x": 66,
+      "y": 44,
+      "width": 33,
+      "height": 22
+    },
+    "awning017.png": {
+      "x": 66,
+      "y": 22,
+      "width": 33,
+      "height": 22
+    },
+    "awning018.png": {
+      "x": 66,
+      "y": 0,
+      "width": 33,
+      "height": 22
+    },
+    "awning019.png": {
+      "x": 33,
+      "y": 220,
+      "width": 33,
+      "height": 22
+    },
+    "awning020.png": {
+      "x": 33,
+      "y": 198,
+      "width": 33,
+      "height": 22
+    },
+    "awning021.png": {
+      "x": 33,
+      "y": 176,
+      "width": 33,
+      "height": 22
+    },
+    "awning022.png": {
+      "x": 33,
+      "y": 154,
+      "width": 33,
+      "height": 22
+    },
+    "awning023.png": {
+      "x": 33,
+      "y": 132,
+      "width": 33,
+      "height": 22
+    },
+    "awning024.png": {
+      "x": 33,
+      "y": 110,
+      "width": 33,
+      "height": 22
+    },
+    "awning025.png": {
+      "x": 66,
+      "y": 198,
+      "width": 33,
+      "height": 22
+    },
+    "awning026.png": {
+      "x": 33,
+      "y": 66,
+      "width": 33,
+      "height": 22
+    },
+    "awning027.png": {
+      "x": 33,
+      "y": 44,
+      "width": 33,
+      "height": 22
+    },
+    "awning028.png": {
+      "x": 33,
+      "y": 22,
+      "width": 33,
+      "height": 22
+    },
+    "awning029.png": {
+      "x": 33,
+      "y": 0,
+      "width": 33,
+      "height": 22
+    },
+    "awning030.png": {
+      "x": 0,
+      "y": 220,
+      "width": 33,
+      "height": 22
+    },
+    "awning031.png": {
+      "x": 0,
+      "y": 198,
+      "width": 33,
+      "height": 22
+    }
+  }
+}

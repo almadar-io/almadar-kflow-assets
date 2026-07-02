@@ -1,0 +1,77 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "planeBlue1.png": {
+      "x": 0,
+      "y": 73,
+      "width": 88,
+      "height": 73
+    },
+    "planeBlue2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 88,
+      "height": 73
+    },
+    "planeBlue3.png": {
+      "x": 0,
+      "y": 365,
+      "width": 88,
+      "height": 73
+    },
+    "planeGreen1.png": {
+      "x": 88,
+      "y": 219,
+      "width": 88,
+      "height": 73
+    },
+    "planeGreen2.png": {
+      "x": 88,
+      "y": 146,
+      "width": 88,
+      "height": 73
+    },
+    "planeGreen3.png": {
+      "x": 88,
+      "y": 73,
+      "width": 88,
+      "height": 73
+    },
+    "planeRed1.png": {
+      "x": 88,
+      "y": 0,
+      "width": 88,
+      "height": 73
+    },
+    "planeRed2.png": {
+      "x": 0,
+      "y": 438,
+      "width": 88,
+      "height": 73
+    },
+    "planeRed3.png": {
+      "x": 88,
+      "y": 292,
+      "width": 88,
+      "height": 73
+    },
+    "planeYellow1.png": {
+      "x": 0,
+      "y": 292,
+      "width": 88,
+      "height": 73
+    },
+    "planeYellow2.png": {
+      "x": 0,
+      "y": 219,
+      "width": 88,
+      "height": 73
+    },
+    "planeYellow3.png": {
+      "x": 0,
+      "y": 146,
+      "width": 88,
+      "height": 73
+    }
+  }
+}

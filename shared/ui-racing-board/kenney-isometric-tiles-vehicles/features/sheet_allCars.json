@@ -1,0 +1,3269 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "ambulance_E.png": {
+      "x": 139,
+      "y": 94,
+      "width": 33,
+      "height": 29
+    },
+    "ambulance_N.png": {
+      "x": 812,
+      "y": 481,
+      "width": 19,
+      "height": 27
+    },
+    "ambulance_NE.png": {
+      "x": 0,
+      "y": 296,
+      "width": 35,
+      "height": 31
+    },
+    "ambulance_NED.png": {
+      "x": 0,
+      "y": 378,
+      "width": 35,
+      "height": 28
+    },
+    "ambulance_NEU.png": {
+      "x": 0,
+      "y": 87,
+      "width": 38,
+      "height": 32
+    },
+    "ambulance_NW.png": {
+      "x": 35,
+      "y": 296,
+      "width": 35,
+      "height": 31
+    },
+    "ambulance_NWD.png": {
+      "x": 70,
+      "y": 302,
+      "width": 34,
+      "height": 28
+    },
+    "ambulance_NWU.png": {
+      "x": 0,
+      "y": 0,
+      "width": 38,
+      "height": 31
+    },
+    "ambulance_S.png": {
+      "x": 813,
+      "y": 0,
+      "width": 19,
+      "height": 33
+    },
+    "ambulance_SE.png": {
+      "x": 37,
+      "y": 151,
+      "width": 35,
+      "height": 35
+    },
+    "ambulance_SED.png": {
+      "x": 70,
+      "y": 399,
+      "width": 34,
+      "height": 40
+    },
+    "ambulance_SEU.png": {
+      "x": 0,
+      "y": 31,
+      "width": 38,
+      "height": 28
+    },
+    "ambulance_SW.png": {
+      "x": 38,
+      "y": 0,
+      "width": 35,
+      "height": 36
+    },
+    "ambulance_SWD.png": {
+      "x": 35,
+      "y": 384,
+      "width": 35,
+      "height": 40
+    },
+    "ambulance_SWU.png": {
+      "x": 0,
+      "y": 59,
+      "width": 38,
+      "height": 28
+    },
+    "ambulance_W.png": {
+      "x": 104,
+      "y": 430,
+      "width": 33,
+      "height": 29
+    },
+    "carBlack1_000.png": {
+      "x": 655,
+      "y": 298,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack1_001.png": {
+      "x": 813,
+      "y": 114,
+      "width": 18,
+      "height": 24
+    },
+    "carBlack1_002.png": {
+      "x": 560,
+      "y": 49,
+      "width": 32,
+      "height": 27
+    },
+    "carBlack1_003.png": {
+      "x": 270,
+      "y": 160,
+      "width": 33,
+      "height": 30
+    },
+    "carBlack1_004.png": {
+      "x": 687,
+      "y": 55,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack1_005.png": {
+      "x": 812,
+      "y": 435,
+      "width": 31,
+      "height": 23
+    },
+    "carBlack1_006.png": {
+      "x": 591,
+      "y": 314,
+      "width": 32,
+      "height": 25
+    },
+    "carBlack1_007.png": {
+      "x": 105,
+      "y": 189,
+      "width": 33,
+      "height": 26
+    },
+    "carBlack1_008.png": {
+      "x": 812,
+      "y": 358,
+      "width": 31,
+      "height": 23
+    },
+    "carBlack1_009.png": {
+      "x": 592,
+      "y": 43,
+      "width": 32,
+      "height": 31
+    },
+    "carBlack1_010.png": {
+      "x": 687,
+      "y": 306,
+      "width": 32,
+      "height": 23
+    },
+    "carBlack1_011.png": {
+      "x": 843,
+      "y": 275,
+      "width": 17,
+      "height": 24
+    },
+    "carBlack1_012.png": {
+      "x": 302,
+      "y": 277,
+      "width": 33,
+      "height": 22
+    },
+    "carBlack1_013.png": {
+      "x": 687,
+      "y": 329,
+      "width": 32,
+      "height": 31
+    },
+    "carBlack1_014.png": {
+      "x": 655,
+      "y": 201,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack1_015.png": {
+      "x": 302,
+      "y": 321,
+      "width": 33,
+      "height": 30
+    },
+    "carBlack2_000.png": {
+      "x": 655,
+      "y": 276,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack2_001.png": {
+      "x": 655,
+      "y": 400,
+      "width": 32,
+      "height": 29
+    },
+    "carBlack2_002.png": {
+      "x": 302,
+      "y": 373,
+      "width": 33,
+      "height": 25
+    },
+    "carBlack2_003.png": {
+      "x": 860,
+      "y": 184,
+      "width": 17,
+      "height": 22
+    },
+    "carBlack2_004.png": {
+      "x": 719,
+      "y": 64,
+      "width": 32,
+      "height": 25
+    },
+    "carBlack2_005.png": {
+      "x": 687,
+      "y": 412,
+      "width": 32,
+      "height": 29
+    },
+    "carBlack2_006.png": {
+      "x": 782,
+      "y": 24,
+      "width": 31,
+      "height": 22
+    },
+    "carBlack2_007.png": {
+      "x": 782,
+      "y": 0,
+      "width": 31,
+      "height": 24
+    },
+    "carBlack2_008.png": {
+      "x": 687,
+      "y": 229,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack2_009.png": {
+      "x": 687,
+      "y": 77,
+      "width": 32,
+      "height": 25
+    },
+    "carBlack2_010.png": {
+      "x": 781,
+      "y": 440,
+      "width": 31,
+      "height": 23
+    },
+    "carBlack2_011.png": {
+      "x": 781,
+      "y": 410,
+      "width": 31,
+      "height": 30
+    },
+    "carBlack2_012.png": {
+      "x": 302,
+      "y": 398,
+      "width": 33,
+      "height": 22
+    },
+    "carBlack2_013.png": {
+      "x": 865,
+      "y": 451,
+      "width": 17,
+      "height": 22
+    },
+    "carBlack2_014.png": {
+      "x": 172,
+      "y": 68,
+      "width": 33,
+      "height": 22
+    },
+    "carBlack2_015.png": {
+      "x": 781,
+      "y": 310,
+      "width": 31,
+      "height": 30
+    },
+    "carBlack3_000.png": {
+      "x": 656,
+      "y": 0,
+      "width": 32,
+      "height": 30
+    },
+    "carBlack3_001.png": {
+      "x": 656,
+      "y": 30,
+      "width": 32,
+      "height": 25
+    },
+    "carBlack3_002.png": {
+      "x": 866,
+      "y": 83,
+      "width": 17,
+      "height": 23
+    },
+    "carBlack3_003.png": {
+      "x": 655,
+      "y": 454,
+      "width": 32,
+      "height": 25
+    },
+    "carBlack3_004.png": {
+      "x": 655,
+      "y": 121,
+      "width": 32,
+      "height": 29
+    },
+    "carBlack3_005.png": {
+      "x": 624,
+      "y": 22,
+      "width": 32,
+      "height": 23
+    },
+    "carBlack3_006.png": {
+      "x": 751,
+      "y": 136,
+      "width": 31,
+      "height": 23
+    },
+    "carBlack3_007.png": {
+      "x": 172,
+      "y": 90,
+      "width": 33,
+      "height": 26
+    },
+    "carBlack3_008.png": {
+      "x": 687,
+      "y": 123,
+      "width": 32,
+      "height": 27
+    },
+    "carBlack3_009.png": {
+      "x": 751,
+      "y": 68,
+      "width": 31,
+      "height": 23
+    },
+    "carBlack3_010.png": {
+      "x": 655,
+      "y": 479,
+      "width": 32,
+      "height": 30
+    },
+    "carBlack3_011.png": {
+      "x": 687,
+      "y": 150,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack3_012.png": {
+      "x": 832,
+      "y": 22,
+      "width": 17,
+      "height": 24
+    },
+    "carBlack3_013.png": {
+      "x": 623,
+      "y": 397,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack3_014.png": {
+      "x": 623,
+      "y": 419,
+      "width": 32,
+      "height": 30
+    },
+    "carBlack3_015.png": {
+      "x": 624,
+      "y": 0,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack4_000.png": {
+      "x": 203,
+      "y": 485,
+      "width": 33,
+      "height": 21
+    },
+    "carBlack4_001.png": {
+      "x": 138,
+      "y": 161,
+      "width": 33,
+      "height": 31
+    },
+    "carBlack4_002.png": {
+      "x": 687,
+      "y": 386,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack4_003.png": {
+      "x": 877,
+      "y": 357,
+      "width": 17,
+      "height": 24
+    },
+    "carBlack4_004.png": {
+      "x": 559,
+      "y": 419,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack4_005.png": {
+      "x": 137,
+      "y": 377,
+      "width": 33,
+      "height": 32
+    },
+    "carBlack4_006.png": {
+      "x": 137,
+      "y": 236,
+      "width": 33,
+      "height": 22
+    },
+    "carBlack4_007.png": {
+      "x": 750,
+      "y": 234,
+      "width": 31,
+      "height": 22
+    },
+    "carBlack4_008.png": {
+      "x": 106,
+      "y": 29,
+      "width": 33,
+      "height": 27
+    },
+    "carBlack4_009.png": {
+      "x": 687,
+      "y": 172,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack4_010.png": {
+      "x": 720,
+      "y": 0,
+      "width": 31,
+      "height": 22
+    },
+    "carBlack4_011.png": {
+      "x": 271,
+      "y": 32,
+      "width": 33,
+      "height": 31
+    },
+    "carBlack4_012.png": {
+      "x": 269,
+      "y": 322,
+      "width": 33,
+      "height": 21
+    },
+    "carBlack4_013.png": {
+      "x": 860,
+      "y": 427,
+      "width": 17,
+      "height": 24
+    },
+    "carBlack4_014.png": {
+      "x": 687,
+      "y": 102,
+      "width": 32,
+      "height": 21
+    },
+    "carBlack4_015.png": {
+      "x": 688,
+      "y": 0,
+      "width": 32,
+      "height": 32
+    },
+    "carBlack5_000.png": {
+      "x": 236,
+      "y": 390,
+      "width": 33,
+      "height": 30
+    },
+    "carBlack5_001.png": {
+      "x": 687,
+      "y": 255,
+      "width": 32,
+      "height": 25
+    },
+    "carBlack5_002.png": {
+      "x": 860,
+      "y": 312,
+      "width": 17,
+      "height": 23
+    },
+    "carBlack5_003.png": {
+      "x": 719,
+      "y": 89,
+      "width": 32,
+      "height": 24
+    },
+    "carBlack5_004.png": {
+      "x": 238,
+      "y": 0,
+      "width": 33,
+      "height": 29
+    },
+    "carBlack5_005.png": {
+      "x": 719,
+      "y": 166,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack5_006.png": {
+      "x": 719,
+      "y": 218,
+      "width": 31,
+      "height": 24
+    },
+    "carBlack5_007.png": {
+      "x": 719,
+      "y": 113,
+      "width": 32,
+      "height": 27
+    },
+    "carBlack5_008.png": {
+      "x": 719,
+      "y": 140,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack5_009.png": {
+      "x": 719,
+      "y": 289,
+      "width": 31,
+      "height": 23
+    },
+    "carBlack5_010.png": {
+      "x": 719,
+      "y": 32,
+      "width": 32,
+      "height": 32
+    },
+    "carBlack5_011.png": {
+      "x": 687,
+      "y": 471,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack5_012.png": {
+      "x": 860,
+      "y": 288,
+      "width": 17,
+      "height": 24
+    },
+    "carBlack5_013.png": {
+      "x": 269,
+      "y": 409,
+      "width": 33,
+      "height": 22
+    },
+    "carBlack5_014.png": {
+      "x": 687,
+      "y": 198,
+      "width": 32,
+      "height": 31
+    },
+    "carBlack5_015.png": {
+      "x": 655,
+      "y": 378,
+      "width": 32,
+      "height": 22
+    },
+    "carBlack6_000.png": {
+      "x": 70,
+      "y": 467,
+      "width": 34,
+      "height": 32
+    },
+    "carBlack6_001.png": {
+      "x": 205,
+      "y": 108,
+      "width": 33,
+      "height": 31
+    },
+    "carBlack6_002.png": {
+      "x": 843,
+      "y": 323,
+      "width": 17,
+      "height": 28
+    },
+    "carBlack6_003.png": {
+      "x": 687,
+      "y": 441,
+      "width": 32,
+      "height": 30
+    },
+    "carBlack6_004.png": {
+      "x": 35,
+      "y": 264,
+      "width": 35,
+      "height": 32
+    },
+    "carBlack6_005.png": {
+      "x": 236,
+      "y": 312,
+      "width": 33,
+      "height": 26
+    },
+    "carBlack6_006.png": {
+      "x": 687,
+      "y": 360,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack6_007.png": {
+      "x": 236,
+      "y": 420,
+      "width": 33,
+      "height": 32
+    },
+    "carBlack6_008.png": {
+      "x": 204,
+      "y": 148,
+      "width": 33,
+      "height": 32
+    },
+    "carBlack6_009.png": {
+      "x": 687,
+      "y": 280,
+      "width": 32,
+      "height": 26
+    },
+    "carBlack6_010.png": {
+      "x": 623,
+      "y": 362,
+      "width": 32,
+      "height": 35
+    },
+    "carBlack6_011.png": {
+      "x": 35,
+      "y": 238,
+      "width": 35,
+      "height": 26
+    },
+    "carBlack6_012.png": {
+      "x": 832,
+      "y": 46,
+      "width": 17,
+      "height": 30
+    },
+    "carBlack6_013.png": {
+      "x": 0,
+      "y": 353,
+      "width": 35,
+      "height": 25
+    },
+    "carBlack6_014.png": {
+      "x": 304,
+      "y": 0,
+      "width": 33,
+      "height": 36
+    },
+    "carBlack6_015.png": {
+      "x": 591,
+      "y": 448,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue1_000.png": {
+      "x": 303,
+      "y": 124,
+      "width": 33,
+      "height": 30
+    },
+    "carBlue1_001.png": {
+      "x": 591,
+      "y": 288,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue1_002.png": {
+      "x": 813,
+      "y": 90,
+      "width": 18,
+      "height": 24
+    },
+    "carBlue1_003.png": {
+      "x": 591,
+      "y": 125,
+      "width": 32,
+      "height": 27
+    },
+    "carBlue1_004.png": {
+      "x": 170,
+      "y": 412,
+      "width": 33,
+      "height": 30
+    },
+    "carBlue1_005.png": {
+      "x": 559,
+      "y": 471,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue1_006.png": {
+      "x": 750,
+      "y": 188,
+      "width": 31,
+      "height": 23
+    },
+    "carBlue1_007.png": {
+      "x": 655,
+      "y": 429,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue1_008.png": {
+      "x": 170,
+      "y": 309,
+      "width": 33,
+      "height": 26
+    },
+    "carBlue1_009.png": {
+      "x": 719,
+      "y": 381,
+      "width": 31,
+      "height": 23
+    },
+    "carBlue1_010.png": {
+      "x": 655,
+      "y": 347,
+      "width": 32,
+      "height": 31
+    },
+    "carBlue1_011.png": {
+      "x": 655,
+      "y": 324,
+      "width": 32,
+      "height": 23
+    },
+    "carBlue1_012.png": {
+      "x": 843,
+      "y": 351,
+      "width": 17,
+      "height": 24
+    },
+    "carBlue1_013.png": {
+      "x": 170,
+      "y": 287,
+      "width": 33,
+      "height": 22
+    },
+    "carBlue1_014.png": {
+      "x": 655,
+      "y": 245,
+      "width": 32,
+      "height": 31
+    },
+    "carBlue1_015.png": {
+      "x": 655,
+      "y": 223,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue2_000.png": {
+      "x": 719,
+      "y": 449,
+      "width": 31,
+      "height": 30
+    },
+    "carBlue2_001.png": {
+      "x": 655,
+      "y": 179,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue2_002.png": {
+      "x": 655,
+      "y": 150,
+      "width": 32,
+      "height": 29
+    },
+    "carBlue2_003.png": {
+      "x": 170,
+      "y": 387,
+      "width": 33,
+      "height": 25
+    },
+    "carBlue2_004.png": {
+      "x": 843,
+      "y": 160,
+      "width": 17,
+      "height": 22
+    },
+    "carBlue2_005.png": {
+      "x": 655,
+      "y": 74,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue2_006.png": {
+      "x": 624,
+      "y": 45,
+      "width": 32,
+      "height": 29
+    },
+    "carBlue2_007.png": {
+      "x": 624,
+      "y": 74,
+      "width": 31,
+      "height": 22
+    },
+    "carBlue2_008.png": {
+      "x": 750,
+      "y": 374,
+      "width": 31,
+      "height": 24
+    },
+    "carBlue2_009.png": {
+      "x": 623,
+      "y": 474,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue2_010.png": {
+      "x": 623,
+      "y": 449,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue2_011.png": {
+      "x": 750,
+      "y": 398,
+      "width": 31,
+      "height": 23
+    },
+    "carBlue2_012.png": {
+      "x": 750,
+      "y": 421,
+      "width": 31,
+      "height": 30
+    },
+    "carBlue2_013.png": {
+      "x": 170,
+      "y": 365,
+      "width": 33,
+      "height": 22
+    },
+    "carBlue2_014.png": {
+      "x": 831,
+      "y": 138,
+      "width": 17,
+      "height": 22
+    },
+    "carBlue2_015.png": {
+      "x": 172,
+      "y": 0,
+      "width": 33,
+      "height": 22
+    },
+    "carBlue3_000.png": {
+      "x": 623,
+      "y": 284,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue3_001.png": {
+      "x": 623,
+      "y": 254,
+      "width": 32,
+      "height": 30
+    },
+    "carBlue3_002.png": {
+      "x": 623,
+      "y": 232,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue3_003.png": {
+      "x": 623,
+      "y": 202,
+      "width": 32,
+      "height": 30
+    },
+    "carBlue3_004.png": {
+      "x": 623,
+      "y": 177,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue3_005.png": {
+      "x": 877,
+      "y": 240,
+      "width": 17,
+      "height": 23
+    },
+    "carBlue3_006.png": {
+      "x": 623,
+      "y": 126,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue3_007.png": {
+      "x": 623,
+      "y": 97,
+      "width": 32,
+      "height": 29
+    },
+    "carBlue3_008.png": {
+      "x": 592,
+      "y": 74,
+      "width": 32,
+      "height": 23
+    },
+    "carBlue3_009.png": {
+      "x": 688,
+      "y": 32,
+      "width": 31,
+      "height": 23
+    },
+    "carBlue3_010.png": {
+      "x": 139,
+      "y": 123,
+      "width": 33,
+      "height": 26
+    },
+    "carBlue3_011.png": {
+      "x": 591,
+      "y": 473,
+      "width": 32,
+      "height": 27
+    },
+    "carBlue3_012.png": {
+      "x": 719,
+      "y": 335,
+      "width": 31,
+      "height": 23
+    },
+    "carBlue3_013.png": {
+      "x": 591,
+      "y": 418,
+      "width": 32,
+      "height": 30
+    },
+    "carBlue3_014.png": {
+      "x": 591,
+      "y": 396,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue3_015.png": {
+      "x": 848,
+      "y": 470,
+      "width": 17,
+      "height": 24
+    },
+    "carBlue4_000.png": {
+      "x": 561,
+      "y": 0,
+      "width": 32,
+      "height": 21
+    },
+    "carBlue4_001.png": {
+      "x": 591,
+      "y": 339,
+      "width": 32,
+      "height": 32
+    },
+    "carBlue4_002.png": {
+      "x": 172,
+      "y": 22,
+      "width": 33,
+      "height": 21
+    },
+    "carBlue4_003.png": {
+      "x": 139,
+      "y": 0,
+      "width": 33,
+      "height": 31
+    },
+    "carBlue4_004.png": {
+      "x": 591,
+      "y": 262,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue4_005.png": {
+      "x": 843,
+      "y": 228,
+      "width": 17,
+      "height": 24
+    },
+    "carBlue4_006.png": {
+      "x": 591,
+      "y": 211,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue4_007.png": {
+      "x": 303,
+      "y": 154,
+      "width": 33,
+      "height": 32
+    },
+    "carBlue4_008.png": {
+      "x": 137,
+      "y": 409,
+      "width": 33,
+      "height": 22
+    },
+    "carBlue4_009.png": {
+      "x": 592,
+      "y": 97,
+      "width": 31,
+      "height": 22
+    },
+    "carBlue4_010.png": {
+      "x": 302,
+      "y": 220,
+      "width": 33,
+      "height": 27
+    },
+    "carBlue4_011.png": {
+      "x": 560,
+      "y": 76,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue4_012.png": {
+      "x": 719,
+      "y": 404,
+      "width": 31,
+      "height": 22
+    },
+    "carBlue4_013.png": {
+      "x": 106,
+      "y": 86,
+      "width": 33,
+      "height": 31
+    },
+    "carBlue4_014.png": {
+      "x": 137,
+      "y": 215,
+      "width": 33,
+      "height": 21
+    },
+    "carBlue4_015.png": {
+      "x": 849,
+      "y": 94,
+      "width": 17,
+      "height": 24
+    },
+    "carBlue5_000.png": {
+      "x": 302,
+      "y": 472,
+      "width": 33,
+      "height": 30
+    },
+    "carBlue5_001.png": {
+      "x": 559,
+      "y": 394,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue5_002.png": {
+      "x": 882,
+      "y": 463,
+      "width": 17,
+      "height": 23
+    },
+    "carBlue5_003.png": {
+      "x": 559,
+      "y": 341,
+      "width": 32,
+      "height": 24
+    },
+    "carBlue5_004.png": {
+      "x": 271,
+      "y": 95,
+      "width": 33,
+      "height": 29
+    },
+    "carBlue5_005.png": {
+      "x": 559,
+      "y": 293,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue5_006.png": {
+      "x": 750,
+      "y": 326,
+      "width": 31,
+      "height": 24
+    },
+    "carBlue5_007.png": {
+      "x": 559,
+      "y": 241,
+      "width": 32,
+      "height": 27
+    },
+    "carBlue5_008.png": {
+      "x": 559,
+      "y": 215,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue5_009.png": {
+      "x": 719,
+      "y": 426,
+      "width": 31,
+      "height": 23
+    },
+    "carBlue5_010.png": {
+      "x": 559,
+      "y": 156,
+      "width": 32,
+      "height": 32
+    },
+    "carBlue5_011.png": {
+      "x": 559,
+      "y": 134,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue5_012.png": {
+      "x": 849,
+      "y": 23,
+      "width": 17,
+      "height": 24
+    },
+    "carBlue5_013.png": {
+      "x": 106,
+      "y": 117,
+      "width": 33,
+      "height": 22
+    },
+    "carBlue5_014.png": {
+      "x": 528,
+      "y": 73,
+      "width": 32,
+      "height": 31
+    },
+    "carBlue5_015.png": {
+      "x": 528,
+      "y": 51,
+      "width": 32,
+      "height": 22
+    },
+    "carBlue6_000.png": {
+      "x": 0,
+      "y": 431,
+      "width": 35,
+      "height": 25
+    },
+    "carBlue6_001.png": {
+      "x": 137,
+      "y": 289,
+      "width": 33,
+      "height": 36
+    },
+    "carBlue6_002.png": {
+      "x": 527,
+      "y": 461,
+      "width": 32,
+      "height": 25
+    },
+    "carBlue6_003.png": {
+      "x": 72,
+      "y": 102,
+      "width": 34,
+      "height": 32
+    },
+    "carBlue6_004.png": {
+      "x": 137,
+      "y": 258,
+      "width": 33,
+      "height": 31
+    },
+    "carBlue6_005.png": {
+      "x": 877,
+      "y": 212,
+      "width": 17,
+      "height": 28
+    },
+    "carBlue6_006.png": {
+      "x": 527,
+      "y": 345,
+      "width": 32,
+      "height": 30
+    },
+    "carBlue6_007.png": {
+      "x": 0,
+      "y": 238,
+      "width": 35,
+      "height": 32
+    },
+    "carBlue6_008.png": {
+      "x": 137,
+      "y": 351,
+      "width": 33,
+      "height": 26
+    },
+    "carBlue6_009.png": {
+      "x": 527,
+      "y": 268,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue6_010.png": {
+      "x": 137,
+      "y": 431,
+      "width": 33,
+      "height": 32
+    },
+    "carBlue6_011.png": {
+      "x": 271,
+      "y": 63,
+      "width": 33,
+      "height": 32
+    },
+    "carBlue6_012.png": {
+      "x": 527,
+      "y": 220,
+      "width": 32,
+      "height": 26
+    },
+    "carBlue6_013.png": {
+      "x": 527,
+      "y": 185,
+      "width": 32,
+      "height": 35
+    },
+    "carBlue6_014.png": {
+      "x": 0,
+      "y": 270,
+      "width": 35,
+      "height": 26
+    },
+    "carBlue6_015.png": {
+      "x": 866,
+      "y": 30,
+      "width": 17,
+      "height": 30
+    },
+    "carGreen1_000.png": {
+      "x": 302,
+      "y": 190,
+      "width": 33,
+      "height": 30
+    },
+    "carGreen1_001.png": {
+      "x": 496,
+      "y": 78,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen1_002.png": {
+      "x": 831,
+      "y": 114,
+      "width": 18,
+      "height": 24
+    },
+    "carGreen1_003.png": {
+      "x": 496,
+      "y": 22,
+      "width": 32,
+      "height": 27
+    },
+    "carGreen1_004.png": {
+      "x": 302,
+      "y": 420,
+      "width": 33,
+      "height": 30
+    },
+    "carGreen1_005.png": {
+      "x": 495,
+      "y": 448,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen1_006.png": {
+      "x": 751,
+      "y": 45,
+      "width": 31,
+      "height": 23
+    },
+    "carGreen1_007.png": {
+      "x": 495,
+      "y": 400,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen1_008.png": {
+      "x": 139,
+      "y": 31,
+      "width": 33,
+      "height": 26
+    },
+    "carGreen1_009.png": {
+      "x": 751,
+      "y": 22,
+      "width": 31,
+      "height": 23
+    },
+    "carGreen1_010.png": {
+      "x": 495,
+      "y": 318,
+      "width": 32,
+      "height": 31
+    },
+    "carGreen1_011.png": {
+      "x": 495,
+      "y": 295,
+      "width": 32,
+      "height": 23
+    },
+    "carGreen1_012.png": {
+      "x": 843,
+      "y": 299,
+      "width": 17,
+      "height": 24
+    },
+    "carGreen1_013.png": {
+      "x": 170,
+      "y": 214,
+      "width": 33,
+      "height": 22
+    },
+    "carGreen1_014.png": {
+      "x": 495,
+      "y": 211,
+      "width": 32,
+      "height": 31
+    },
+    "carGreen1_015.png": {
+      "x": 465,
+      "y": 0,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen2_000.png": {
+      "x": 559,
+      "y": 365,
+      "width": 32,
+      "height": 29
+    },
+    "carGreen2_001.png": {
+      "x": 170,
+      "y": 262,
+      "width": 33,
+      "height": 25
+    },
+    "carGreen2_002.png": {
+      "x": 832,
+      "y": 0,
+      "width": 17,
+      "height": 22
+    },
+    "carGreen2_003.png": {
+      "x": 464,
+      "y": 102,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen2_004.png": {
+      "x": 464,
+      "y": 73,
+      "width": 32,
+      "height": 29
+    },
+    "carGreen2_005.png": {
+      "x": 750,
+      "y": 451,
+      "width": 31,
+      "height": 22
+    },
+    "carGreen2_006.png": {
+      "x": 719,
+      "y": 242,
+      "width": 31,
+      "height": 24
+    },
+    "carGreen2_007.png": {
+      "x": 463,
+      "y": 476,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen2_008.png": {
+      "x": 463,
+      "y": 451,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen2_009.png": {
+      "x": 750,
+      "y": 211,
+      "width": 31,
+      "height": 23
+    },
+    "carGreen2_010.png": {
+      "x": 719,
+      "y": 479,
+      "width": 31,
+      "height": 30
+    },
+    "carGreen2_011.png": {
+      "x": 171,
+      "y": 149,
+      "width": 33,
+      "height": 22
+    },
+    "carGreen2_012.png": {
+      "x": 848,
+      "y": 138,
+      "width": 17,
+      "height": 22
+    },
+    "carGreen2_013.png": {
+      "x": 170,
+      "y": 472,
+      "width": 33,
+      "height": 22
+    },
+    "carGreen2_014.png": {
+      "x": 719,
+      "y": 188,
+      "width": 31,
+      "height": 30
+    },
+    "carGreen2_015.png": {
+      "x": 463,
+      "y": 272,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen3_000.png": {
+      "x": 463,
+      "y": 242,
+      "width": 32,
+      "height": 30
+    },
+    "carGreen3_001.png": {
+      "x": 463,
+      "y": 217,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen3_002.png": {
+      "x": 843,
+      "y": 423,
+      "width": 17,
+      "height": 23
+    },
+    "carGreen3_003.png": {
+      "x": 433,
+      "y": 0,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen3_004.png": {
+      "x": 463,
+      "y": 162,
+      "width": 32,
+      "height": 29
+    },
+    "carGreen3_005.png": {
+      "x": 432,
+      "y": 139,
+      "width": 32,
+      "height": 23
+    },
+    "carGreen3_006.png": {
+      "x": 719,
+      "y": 358,
+      "width": 31,
+      "height": 23
+    },
+    "carGreen3_007.png": {
+      "x": 205,
+      "y": 31,
+      "width": 33,
+      "height": 26
+    },
+    "carGreen3_008.png": {
+      "x": 432,
+      "y": 56,
+      "width": 32,
+      "height": 27
+    },
+    "carGreen3_009.png": {
+      "x": 719,
+      "y": 312,
+      "width": 31,
+      "height": 23
+    },
+    "carGreen3_010.png": {
+      "x": 432,
+      "y": 26,
+      "width": 32,
+      "height": 30
+    },
+    "carGreen3_011.png": {
+      "x": 431,
+      "y": 462,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen3_012.png": {
+      "x": 843,
+      "y": 446,
+      "width": 17,
+      "height": 24
+    },
+    "carGreen3_013.png": {
+      "x": 431,
+      "y": 415,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen3_014.png": {
+      "x": 431,
+      "y": 385,
+      "width": 32,
+      "height": 30
+    },
+    "carGreen3_015.png": {
+      "x": 431,
+      "y": 363,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen4_000.png": {
+      "x": 431,
+      "y": 342,
+      "width": 32,
+      "height": 21
+    },
+    "carGreen4_001.png": {
+      "x": 431,
+      "y": 310,
+      "width": 32,
+      "height": 32
+    },
+    "carGreen4_002.png": {
+      "x": 203,
+      "y": 239,
+      "width": 33,
+      "height": 21
+    },
+    "carGreen4_003.png": {
+      "x": 203,
+      "y": 286,
+      "width": 33,
+      "height": 31
+    },
+    "carGreen4_004.png": {
+      "x": 431,
+      "y": 223,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen4_005.png": {
+      "x": 860,
+      "y": 264,
+      "width": 17,
+      "height": 24
+    },
+    "carGreen4_006.png": {
+      "x": 431,
+      "y": 168,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen4_007.png": {
+      "x": 203,
+      "y": 317,
+      "width": 33,
+      "height": 32
+    },
+    "carGreen4_008.png": {
+      "x": 203,
+      "y": 433,
+      "width": 33,
+      "height": 22
+    },
+    "carGreen4_009.png": {
+      "x": 750,
+      "y": 473,
+      "width": 31,
+      "height": 22
+    },
+    "carGreen4_010.png": {
+      "x": 236,
+      "y": 256,
+      "width": 33,
+      "height": 27
+    },
+    "carGreen4_011.png": {
+      "x": 401,
+      "y": 0,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen4_012.png": {
+      "x": 751,
+      "y": 0,
+      "width": 31,
+      "height": 22
+    },
+    "carGreen4_013.png": {
+      "x": 236,
+      "y": 202,
+      "width": 33,
+      "height": 31
+    },
+    "carGreen4_014.png": {
+      "x": 205,
+      "y": 57,
+      "width": 33,
+      "height": 21
+    },
+    "carGreen4_015.png": {
+      "x": 843,
+      "y": 399,
+      "width": 17,
+      "height": 24
+    },
+    "carGreen5_000.png": {
+      "x": 399,
+      "y": 399,
+      "width": 32,
+      "height": 31
+    },
+    "carGreen5_001.png": {
+      "x": 399,
+      "y": 377,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen5_002.png": {
+      "x": 269,
+      "y": 261,
+      "width": 33,
+      "height": 30
+    },
+    "carGreen5_003.png": {
+      "x": 399,
+      "y": 325,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen5_004.png": {
+      "x": 849,
+      "y": 0,
+      "width": 17,
+      "height": 23
+    },
+    "carGreen5_005.png": {
+      "x": 399,
+      "y": 275,
+      "width": 32,
+      "height": 24
+    },
+    "carGreen5_006.png": {
+      "x": 269,
+      "y": 202,
+      "width": 33,
+      "height": 29
+    },
+    "carGreen5_007.png": {
+      "x": 399,
+      "y": 221,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen5_008.png": {
+      "x": 750,
+      "y": 350,
+      "width": 31,
+      "height": 24
+    },
+    "carGreen5_009.png": {
+      "x": 399,
+      "y": 172,
+      "width": 32,
+      "height": 27
+    },
+    "carGreen5_010.png": {
+      "x": 369,
+      "y": 0,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen5_011.png": {
+      "x": 719,
+      "y": 266,
+      "width": 31,
+      "height": 23
+    },
+    "carGreen5_012.png": {
+      "x": 368,
+      "y": 110,
+      "width": 32,
+      "height": 32
+    },
+    "carGreen5_013.png": {
+      "x": 368,
+      "y": 88,
+      "width": 32,
+      "height": 22
+    },
+    "carGreen5_014.png": {
+      "x": 860,
+      "y": 403,
+      "width": 17,
+      "height": 24
+    },
+    "carGreen5_015.png": {
+      "x": 302,
+      "y": 450,
+      "width": 33,
+      "height": 22
+    },
+    "carGreen6_000.png": {
+      "x": 35,
+      "y": 359,
+      "width": 35,
+      "height": 25
+    },
+    "carGreen6_001.png": {
+      "x": 269,
+      "y": 343,
+      "width": 33,
+      "height": 36
+    },
+    "carGreen6_002.png": {
+      "x": 367,
+      "y": 437,
+      "width": 32,
+      "height": 25
+    },
+    "carGreen6_003.png": {
+      "x": 70,
+      "y": 270,
+      "width": 34,
+      "height": 32
+    },
+    "carGreen6_004.png": {
+      "x": 269,
+      "y": 291,
+      "width": 33,
+      "height": 31
+    },
+    "carGreen6_005.png": {
+      "x": 865,
+      "y": 473,
+      "width": 17,
+      "height": 28
+    },
+    "carGreen6_006.png": {
+      "x": 367,
+      "y": 329,
+      "width": 32,
+      "height": 30
+    },
+    "carGreen6_007.png": {
+      "x": 37,
+      "y": 119,
+      "width": 35,
+      "height": 32
+    },
+    "carGreen6_008.png": {
+      "x": 269,
+      "y": 486,
+      "width": 33,
+      "height": 26
+    },
+    "carGreen6_009.png": {
+      "x": 367,
+      "y": 257,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen6_010.png": {
+      "x": 269,
+      "y": 431,
+      "width": 33,
+      "height": 32
+    },
+    "carGreen6_011.png": {
+      "x": 271,
+      "y": 0,
+      "width": 33,
+      "height": 32
+    },
+    "carGreen6_012.png": {
+      "x": 367,
+      "y": 183,
+      "width": 32,
+      "height": 26
+    },
+    "carGreen6_013.png": {
+      "x": 337,
+      "y": 0,
+      "width": 32,
+      "height": 35
+    },
+    "carGreen6_014.png": {
+      "x": 37,
+      "y": 186,
+      "width": 35,
+      "height": 26
+    },
+    "carGreen6_015.png": {
+      "x": 866,
+      "y": 0,
+      "width": 17,
+      "height": 30
+    },
+    "carRed1_000.png": {
+      "x": 336,
+      "y": 114,
+      "width": 32,
+      "height": 22
+    },
+    "carRed1_001.png": {
+      "x": 302,
+      "y": 247,
+      "width": 33,
+      "height": 30
+    },
+    "carRed1_002.png": {
+      "x": 559,
+      "y": 315,
+      "width": 32,
+      "height": 26
+    },
+    "carRed1_003.png": {
+      "x": 813,
+      "y": 138,
+      "width": 18,
+      "height": 24
+    },
+    "carRed1_004.png": {
+      "x": 559,
+      "y": 188,
+      "width": 32,
+      "height": 27
+    },
+    "carRed1_005.png": {
+      "x": 106,
+      "y": 56,
+      "width": 33,
+      "height": 30
+    },
+    "carRed1_006.png": {
+      "x": 529,
+      "y": 0,
+      "width": 32,
+      "height": 22
+    },
+    "carRed1_007.png": {
+      "x": 750,
+      "y": 256,
+      "width": 31,
+      "height": 23
+    },
+    "carRed1_008.png": {
+      "x": 527,
+      "y": 294,
+      "width": 32,
+      "height": 25
+    },
+    "carRed1_009.png": {
+      "x": 137,
+      "y": 325,
+      "width": 33,
+      "height": 26
+    },
+    "carRed1_010.png": {
+      "x": 750,
+      "y": 279,
+      "width": 31,
+      "height": 23
+    },
+    "carRed1_011.png": {
+      "x": 495,
+      "y": 470,
+      "width": 32,
+      "height": 31
+    },
+    "carRed1_012.png": {
+      "x": 495,
+      "y": 425,
+      "width": 32,
+      "height": 23
+    },
+    "carRed1_013.png": {
+      "x": 882,
+      "y": 486,
+      "width": 17,
+      "height": 24
+    },
+    "carRed1_014.png": {
+      "x": 137,
+      "y": 488,
+      "width": 33,
+      "height": 22
+    },
+    "carRed1_015.png": {
+      "x": 495,
+      "y": 180,
+      "width": 32,
+      "height": 31
+    },
+    "carRed2_000.png": {
+      "x": 463,
+      "y": 422,
+      "width": 32,
+      "height": 29
+    },
+    "carRed2_001.png": {
+      "x": 172,
+      "y": 43,
+      "width": 33,
+      "height": 25
+    },
+    "carRed2_002.png": {
+      "x": 843,
+      "y": 206,
+      "width": 17,
+      "height": 22
+    },
+    "carRed2_003.png": {
+      "x": 431,
+      "y": 437,
+      "width": 32,
+      "height": 25
+    },
+    "carRed2_004.png": {
+      "x": 431,
+      "y": 194,
+      "width": 32,
+      "height": 29
+    },
+    "carRed2_005.png": {
+      "x": 751,
+      "y": 114,
+      "width": 31,
+      "height": 22
+    },
+    "carRed2_006.png": {
+      "x": 781,
+      "y": 340,
+      "width": 31,
+      "height": 24
+    },
+    "carRed2_007.png": {
+      "x": 368,
+      "y": 62,
+      "width": 32,
+      "height": 26
+    },
+    "carRed2_008.png": {
+      "x": 335,
+      "y": 210,
+      "width": 32,
+      "height": 25
+    },
+    "carRed2_009.png": {
+      "x": 781,
+      "y": 387,
+      "width": 31,
+      "height": 23
+    },
+    "carRed2_010.png": {
+      "x": 782,
+      "y": 116,
+      "width": 31,
+      "height": 30
+    },
+    "carRed2_011.png": {
+      "x": 302,
+      "y": 351,
+      "width": 33,
+      "height": 22
+    },
+    "carRed2_012.png": {
+      "x": 860,
+      "y": 381,
+      "width": 17,
+      "height": 22
+    },
+    "carRed2_013.png": {
+      "x": 302,
+      "y": 299,
+      "width": 33,
+      "height": 22
+    },
+    "carRed2_014.png": {
+      "x": 812,
+      "y": 261,
+      "width": 31,
+      "height": 30
+    },
+    "carRed2_015.png": {
+      "x": 335,
+      "y": 314,
+      "width": 32,
+      "height": 22
+    },
+    "carRed3_000.png": {
+      "x": 335,
+      "y": 336,
+      "width": 32,
+      "height": 30
+    },
+    "carRed3_001.png": {
+      "x": 335,
+      "y": 289,
+      "width": 32,
+      "height": 25
+    },
+    "carRed3_002.png": {
+      "x": 831,
+      "y": 481,
+      "width": 17,
+      "height": 23
+    },
+    "carRed3_003.png": {
+      "x": 304,
+      "y": 36,
+      "width": 32,
+      "height": 25
+    },
+    "carRed3_004.png": {
+      "x": 335,
+      "y": 260,
+      "width": 32,
+      "height": 29
+    },
+    "carRed3_005.png": {
+      "x": 336,
+      "y": 36,
+      "width": 32,
+      "height": 23
+    },
+    "carRed3_006.png": {
+      "x": 782,
+      "y": 69,
+      "width": 31,
+      "height": 23
+    },
+    "carRed3_007.png": {
+      "x": 270,
+      "y": 134,
+      "width": 33,
+      "height": 26
+    },
+    "carRed3_008.png": {
+      "x": 304,
+      "y": 61,
+      "width": 32,
+      "height": 27
+    },
+    "carRed3_009.png": {
+      "x": 812,
+      "y": 381,
+      "width": 31,
+      "height": 23
+    },
+    "carRed3_010.png": {
+      "x": 336,
+      "y": 84,
+      "width": 32,
+      "height": 30
+    },
+    "carRed3_011.png": {
+      "x": 336,
+      "y": 136,
+      "width": 32,
+      "height": 22
+    },
+    "carRed3_012.png": {
+      "x": 877,
+      "y": 333,
+      "width": 17,
+      "height": 24
+    },
+    "carRed3_013.png": {
+      "x": 367,
+      "y": 209,
+      "width": 32,
+      "height": 22
+    },
+    "carRed3_014.png": {
+      "x": 367,
+      "y": 359,
+      "width": 32,
+      "height": 30
+    },
+    "carRed3_015.png": {
+      "x": 367,
+      "y": 283,
+      "width": 32,
+      "height": 22
+    },
+    "carRed4_000.png": {
+      "x": 304,
+      "y": 88,
+      "width": 32,
+      "height": 26
+    },
+    "carRed4_001.png": {
+      "x": 843,
+      "y": 182,
+      "width": 17,
+      "height": 24
+    },
+    "carRed4_002.png": {
+      "x": 367,
+      "y": 462,
+      "width": 32,
+      "height": 26
+    },
+    "carRed4_003.png": {
+      "x": 238,
+      "y": 102,
+      "width": 33,
+      "height": 32
+    },
+    "carRed4_004.png": {
+      "x": 238,
+      "y": 80,
+      "width": 33,
+      "height": 22
+    },
+    "carRed4_005.png": {
+      "x": 812,
+      "y": 215,
+      "width": 31,
+      "height": 22
+    },
+    "carRed4_006.png": {
+      "x": 238,
+      "y": 29,
+      "width": 33,
+      "height": 27
+    },
+    "carRed4_007.png": {
+      "x": 367,
+      "y": 231,
+      "width": 32,
+      "height": 26
+    },
+    "carRed4_008.png": {
+      "x": 812,
+      "y": 193,
+      "width": 31,
+      "height": 22
+    },
+    "carRed4_009.png": {
+      "x": 237,
+      "y": 139,
+      "width": 33,
+      "height": 31
+    },
+    "carRed4_010.png": {
+      "x": 236,
+      "y": 479,
+      "width": 33,
+      "height": 21
+    },
+    "carRed4_011.png": {
+      "x": 843,
+      "y": 375,
+      "width": 17,
+      "height": 24
+    },
+    "carRed4_012.png": {
+      "x": 335,
+      "y": 428,
+      "width": 32,
+      "height": 21
+    },
+    "carRed4_013.png": {
+      "x": 335,
+      "y": 366,
+      "width": 32,
+      "height": 32
+    },
+    "carRed4_014.png": {
+      "x": 236,
+      "y": 369,
+      "width": 33,
+      "height": 21
+    },
+    "carRed4_015.png": {
+      "x": 236,
+      "y": 338,
+      "width": 33,
+      "height": 31
+    },
+    "carRed5_000.png": {
+      "x": 335,
+      "y": 186,
+      "width": 32,
+      "height": 24
+    },
+    "carRed5_001.png": {
+      "x": 236,
+      "y": 283,
+      "width": 33,
+      "height": 29
+    },
+    "carRed5_002.png": {
+      "x": 367,
+      "y": 488,
+      "width": 32,
+      "height": 22
+    },
+    "carRed5_003.png": {
+      "x": 812,
+      "y": 169,
+      "width": 31,
+      "height": 24
+    },
+    "carRed5_004.png": {
+      "x": 399,
+      "y": 350,
+      "width": 32,
+      "height": 27
+    },
+    "carRed5_005.png": {
+      "x": 367,
+      "y": 389,
+      "width": 32,
+      "height": 26
+    },
+    "carRed5_006.png": {
+      "x": 782,
+      "y": 146,
+      "width": 31,
+      "height": 23
+    },
+    "carRed5_007.png": {
+      "x": 399,
+      "y": 243,
+      "width": 32,
+      "height": 32
+    },
+    "carRed5_008.png": {
+      "x": 400,
+      "y": 89,
+      "width": 32,
+      "height": 22
+    },
+    "carRed5_009.png": {
+      "x": 849,
+      "y": 47,
+      "width": 17,
+      "height": 24
+    },
+    "carRed5_010.png": {
+      "x": 204,
+      "y": 180,
+      "width": 33,
+      "height": 22
+    },
+    "carRed5_011.png": {
+      "x": 400,
+      "y": 58,
+      "width": 32,
+      "height": 31
+    },
+    "carRed5_012.png": {
+      "x": 399,
+      "y": 481,
+      "width": 32,
+      "height": 22
+    },
+    "carRed5_013.png": {
+      "x": 203,
+      "y": 455,
+      "width": 33,
+      "height": 30
+    },
+    "carRed5_014.png": {
+      "x": 399,
+      "y": 456,
+      "width": 32,
+      "height": 25
+    },
+    "carRed5_015.png": {
+      "x": 849,
+      "y": 71,
+      "width": 17,
+      "height": 23
+    },
+    "carRed6_000.png": {
+      "x": 203,
+      "y": 378,
+      "width": 33,
+      "height": 31
+    },
+    "carRed6_001.png": {
+      "x": 860,
+      "y": 206,
+      "width": 17,
+      "height": 28
+    },
+    "carRed6_002.png": {
+      "x": 368,
+      "y": 142,
+      "width": 32,
+      "height": 30
+    },
+    "carRed6_003.png": {
+      "x": 35,
+      "y": 327,
+      "width": 35,
+      "height": 32
+    },
+    "carRed6_004.png": {
+      "x": 203,
+      "y": 260,
+      "width": 33,
+      "height": 26
+    },
+    "carRed6_005.png": {
+      "x": 400,
+      "y": 142,
+      "width": 32,
+      "height": 26
+    },
+    "carRed6_006.png": {
+      "x": 203,
+      "y": 207,
+      "width": 33,
+      "height": 32
+    },
+    "carRed6_007.png": {
+      "x": 172,
+      "y": 116,
+      "width": 33,
+      "height": 32
+    },
+    "carRed6_008.png": {
+      "x": 431,
+      "y": 249,
+      "width": 32,
+      "height": 26
+    },
+    "carRed6_009.png": {
+      "x": 431,
+      "y": 275,
+      "width": 32,
+      "height": 35
+    },
+    "carRed6_010.png": {
+      "x": 37,
+      "y": 212,
+      "width": 35,
+      "height": 26
+    },
+    "carRed6_011.png": {
+      "x": 860,
+      "y": 234,
+      "width": 17,
+      "height": 30
+    },
+    "carRed6_012.png": {
+      "x": 35,
+      "y": 487,
+      "width": 35,
+      "height": 25
+    },
+    "carRed6_013.png": {
+      "x": 171,
+      "y": 171,
+      "width": 33,
+      "height": 36
+    },
+    "carRed6_014.png": {
+      "x": 335,
+      "y": 235,
+      "width": 32,
+      "height": 25
+    },
+    "carRed6_015.png": {
+      "x": 70,
+      "y": 330,
+      "width": 34,
+      "height": 32
+    },
+    "carSilver1_000.png": {
+      "x": 170,
+      "y": 442,
+      "width": 33,
+      "height": 30
+    },
+    "carSilver1_001.png": {
+      "x": 399,
+      "y": 430,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver1_002.png": {
+      "x": 831,
+      "y": 90,
+      "width": 18,
+      "height": 24
+    },
+    "carSilver1_003.png": {
+      "x": 463,
+      "y": 395,
+      "width": 32,
+      "height": 27
+    },
+    "carSilver1_004.png": {
+      "x": 170,
+      "y": 335,
+      "width": 33,
+      "height": 30
+    },
+    "carSilver1_005.png": {
+      "x": 463,
+      "y": 347,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver1_006.png": {
+      "x": 781,
+      "y": 181,
+      "width": 31,
+      "height": 23
+    },
+    "carSilver1_007.png": {
+      "x": 464,
+      "y": 25,
+      "width": 32,
+      "height": 25
+    },
+    "carSilver1_008.png": {
+      "x": 170,
+      "y": 236,
+      "width": 33,
+      "height": 26
+    },
+    "carSilver1_009.png": {
+      "x": 782,
+      "y": 46,
+      "width": 31,
+      "height": 23
+    },
+    "carSilver1_010.png": {
+      "x": 495,
+      "y": 149,
+      "width": 32,
+      "height": 31
+    },
+    "carSilver1_011.png": {
+      "x": 464,
+      "y": 50,
+      "width": 32,
+      "height": 23
+    },
+    "carSilver1_012.png": {
+      "x": 860,
+      "y": 335,
+      "width": 17,
+      "height": 24
+    },
+    "carSilver1_013.png": {
+      "x": 138,
+      "y": 192,
+      "width": 33,
+      "height": 22
+    },
+    "carSilver1_014.png": {
+      "x": 495,
+      "y": 242,
+      "width": 32,
+      "height": 31
+    },
+    "carSilver1_015.png": {
+      "x": 495,
+      "y": 273,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver2_000.png": {
+      "x": 495,
+      "y": 349,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver2_001.png": {
+      "x": 495,
+      "y": 371,
+      "width": 32,
+      "height": 29
+    },
+    "carSilver2_002.png": {
+      "x": 137,
+      "y": 463,
+      "width": 33,
+      "height": 25
+    },
+    "carSilver2_003.png": {
+      "x": 860,
+      "y": 359,
+      "width": 17,
+      "height": 22
+    },
+    "carSilver2_004.png": {
+      "x": 527,
+      "y": 134,
+      "width": 32,
+      "height": 25
+    },
+    "carSilver2_005.png": {
+      "x": 496,
+      "y": 49,
+      "width": 32,
+      "height": 29
+    },
+    "carSilver2_006.png": {
+      "x": 781,
+      "y": 487,
+      "width": 31,
+      "height": 22
+    },
+    "carSilver2_007.png": {
+      "x": 781,
+      "y": 463,
+      "width": 31,
+      "height": 24
+    },
+    "carSilver2_008.png": {
+      "x": 527,
+      "y": 375,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver2_009.png": {
+      "x": 527,
+      "y": 401,
+      "width": 32,
+      "height": 25
+    },
+    "carSilver2_010.png": {
+      "x": 781,
+      "y": 364,
+      "width": 31,
+      "height": 23
+    },
+    "carSilver2_011.png": {
+      "x": 781,
+      "y": 280,
+      "width": 31,
+      "height": 30
+    },
+    "carSilver2_012.png": {
+      "x": 106,
+      "y": 139,
+      "width": 33,
+      "height": 22
+    },
+    "carSilver2_013.png": {
+      "x": 865,
+      "y": 118,
+      "width": 17,
+      "height": 22
+    },
+    "carSilver2_014.png": {
+      "x": 104,
+      "y": 490,
+      "width": 33,
+      "height": 22
+    },
+    "carSilver2_015.png": {
+      "x": 781,
+      "y": 250,
+      "width": 31,
+      "height": 30
+    },
+    "carSilver3_000.png": {
+      "x": 528,
+      "y": 104,
+      "width": 32,
+      "height": 30
+    },
+    "carSilver3_001.png": {
+      "x": 336,
+      "y": 59,
+      "width": 32,
+      "height": 25
+    },
+    "carSilver3_002.png": {
+      "x": 866,
+      "y": 60,
+      "width": 17,
+      "height": 23
+    },
+    "carSilver3_003.png": {
+      "x": 559,
+      "y": 268,
+      "width": 32,
+      "height": 25
+    },
+    "carSilver3_004.png": {
+      "x": 528,
+      "y": 22,
+      "width": 32,
+      "height": 29
+    },
+    "carSilver3_005.png": {
+      "x": 335,
+      "y": 449,
+      "width": 32,
+      "height": 23
+    },
+    "carSilver3_006.png": {
+      "x": 781,
+      "y": 227,
+      "width": 31,
+      "height": 23
+    },
+    "carSilver3_007.png": {
+      "x": 104,
+      "y": 404,
+      "width": 33,
+      "height": 26
+    },
+    "carSilver3_008.png": {
+      "x": 335,
+      "y": 472,
+      "width": 32,
+      "height": 27
+    },
+    "carSilver3_009.png": {
+      "x": 781,
+      "y": 204,
+      "width": 31,
+      "height": 23
+    },
+    "carSilver3_010.png": {
+      "x": 335,
+      "y": 398,
+      "width": 32,
+      "height": 30
+    },
+    "carSilver3_011.png": {
+      "x": 527,
+      "y": 246,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver3_012.png": {
+      "x": 877,
+      "y": 164,
+      "width": 17,
+      "height": 24
+    },
+    "carSilver3_013.png": {
+      "x": 497,
+      "y": 0,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver3_014.png": {
+      "x": 496,
+      "y": 104,
+      "width": 32,
+      "height": 30
+    },
+    "carSilver3_015.png": {
+      "x": 464,
+      "y": 127,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver4_000.png": {
+      "x": 104,
+      "y": 459,
+      "width": 33,
+      "height": 31
+    },
+    "carSilver4_001.png": {
+      "x": 432,
+      "y": 83,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver4_002.png": {
+      "x": 877,
+      "y": 188,
+      "width": 17,
+      "height": 24
+    },
+    "carSilver4_003.png": {
+      "x": 463,
+      "y": 369,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver4_004.png": {
+      "x": 72,
+      "y": 162,
+      "width": 33,
+      "height": 32
+    },
+    "carSilver4_005.png": {
+      "x": 0,
+      "y": 488,
+      "width": 33,
+      "height": 22
+    },
+    "carSilver4_006.png": {
+      "x": 812,
+      "y": 336,
+      "width": 31,
+      "height": 22
+    },
+    "carSilver4_007.png": {
+      "x": 105,
+      "y": 162,
+      "width": 33,
+      "height": 27
+    },
+    "carSilver4_008.png": {
+      "x": 463,
+      "y": 191,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver4_009.png": {
+      "x": 751,
+      "y": 159,
+      "width": 31,
+      "height": 22
+    },
+    "carSilver4_010.png": {
+      "x": 72,
+      "y": 194,
+      "width": 33,
+      "height": 31
+    },
+    "carSilver4_011.png": {
+      "x": 104,
+      "y": 287,
+      "width": 33,
+      "height": 21
+    },
+    "carSilver4_012.png": {
+      "x": 877,
+      "y": 263,
+      "width": 17,
+      "height": 24
+    },
+    "carSilver4_013.png": {
+      "x": 463,
+      "y": 326,
+      "width": 32,
+      "height": 21
+    },
+    "carSilver4_014.png": {
+      "x": 463,
+      "y": 294,
+      "width": 32,
+      "height": 32
+    },
+    "carSilver4_015.png": {
+      "x": 73,
+      "y": 0,
+      "width": 33,
+      "height": 21
+    },
+    "carSilver5_000.png": {
+      "x": 73,
+      "y": 79,
+      "width": 33,
+      "height": 22
+    },
+    "carSilver5_001.png": {
+      "x": 400,
+      "y": 111,
+      "width": 32,
+      "height": 31
+    },
+    "carSilver5_002.png": {
+      "x": 399,
+      "y": 199,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver5_003.png": {
+      "x": 104,
+      "y": 257,
+      "width": 33,
+      "height": 30
+    },
+    "carSilver5_004.png": {
+      "x": 336,
+      "y": 158,
+      "width": 32,
+      "height": 25
+    },
+    "carSilver5_005.png": {
+      "x": 877,
+      "y": 310,
+      "width": 17,
+      "height": 23
+    },
+    "carSilver5_006.png": {
+      "x": 367,
+      "y": 305,
+      "width": 32,
+      "height": 24
+    },
+    "carSilver5_007.png": {
+      "x": 104,
+      "y": 308,
+      "width": 33,
+      "height": 29
+    },
+    "carSilver5_008.png": {
+      "x": 367,
+      "y": 415,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver5_009.png": {
+      "x": 750,
+      "y": 302,
+      "width": 31,
+      "height": 24
+    },
+    "carSilver5_010.png": {
+      "x": 368,
+      "y": 35,
+      "width": 32,
+      "height": 27
+    },
+    "carSilver5_011.png": {
+      "x": 399,
+      "y": 299,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver5_012.png": {
+      "x": 751,
+      "y": 91,
+      "width": 31,
+      "height": 23
+    },
+    "carSilver5_013.png": {
+      "x": 400,
+      "y": 26,
+      "width": 32,
+      "height": 32
+    },
+    "carSilver5_014.png": {
+      "x": 431,
+      "y": 484,
+      "width": 32,
+      "height": 22
+    },
+    "carSilver5_015.png": {
+      "x": 877,
+      "y": 381,
+      "width": 17,
+      "height": 24
+    },
+    "carSilver6_000.png": {
+      "x": 70,
+      "y": 238,
+      "width": 34,
+      "height": 32
+    },
+    "carSilver6_001.png": {
+      "x": 104,
+      "y": 337,
+      "width": 33,
+      "height": 31
+    },
+    "carSilver6_002.png": {
+      "x": 877,
+      "y": 405,
+      "width": 17,
+      "height": 28
+    },
+    "carSilver6_003.png": {
+      "x": 432,
+      "y": 109,
+      "width": 32,
+      "height": 30
+    },
+    "carSilver6_004.png": {
+      "x": 0,
+      "y": 456,
+      "width": 35,
+      "height": 32
+    },
+    "carSilver6_005.png": {
+      "x": 73,
+      "y": 21,
+      "width": 33,
+      "height": 26
+    },
+    "carSilver6_006.png": {
+      "x": 527,
+      "y": 159,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver6_007.png": {
+      "x": 73,
+      "y": 47,
+      "width": 33,
+      "height": 32
+    },
+    "carSilver6_008.png": {
+      "x": 104,
+      "y": 225,
+      "width": 33,
+      "height": 32
+    },
+    "carSilver6_009.png": {
+      "x": 527,
+      "y": 319,
+      "width": 32,
+      "height": 26
+    },
+    "carSilver6_010.png": {
+      "x": 527,
+      "y": 426,
+      "width": 32,
+      "height": 35
+    },
+    "carSilver6_011.png": {
+      "x": 0,
+      "y": 327,
+      "width": 35,
+      "height": 26
+    },
+    "carSilver6_012.png": {
+      "x": 882,
+      "y": 433,
+      "width": 17,
+      "height": 30
+    },
+    "carSilver6_013.png": {
+      "x": 0,
+      "y": 406,
+      "width": 35,
+      "height": 25
+    },
+    "carSilver6_014.png": {
+      "x": 104,
+      "y": 368,
+      "width": 33,
+      "height": 36
+    },
+    "carSilver6_015.png": {
+      "x": 527,
+      "y": 486,
+      "width": 32,
+      "height": 25
+    },
+    "garbage_E.png": {
+      "x": 106,
+      "y": 0,
+      "width": 33,
+      "height": 29
+    },
+    "garbage_N.png": {
+      "x": 813,
+      "y": 63,
+      "width": 19,
+      "height": 27
+    },
+    "garbage_NE.png": {
+      "x": 35,
+      "y": 424,
+      "width": 35,
+      "height": 31
+    },
+    "garbage_NED.png": {
+      "x": 70,
+      "y": 439,
+      "width": 34,
+      "height": 28
+    },
+    "garbage_NEU.png": {
+      "x": 0,
+      "y": 119,
+      "width": 37,
+      "height": 32
+    },
+    "garbage_NW.png": {
+      "x": 35,
+      "y": 455,
+      "width": 35,
+      "height": 32
+    },
+    "garbage_NWD.png": {
+      "x": 72,
+      "y": 134,
+      "width": 34,
+      "height": 28
+    },
+    "garbage_NWU.png": {
+      "x": 0,
+      "y": 179,
+      "width": 37,
+      "height": 31
+    },
+    "garbage_S.png": {
+      "x": 813,
+      "y": 33,
+      "width": 19,
+      "height": 30
+    },
+    "garbage_SE.png": {
+      "x": 38,
+      "y": 36,
+      "width": 35,
+      "height": 33
+    },
+    "garbage_SED.png": {
+      "x": 139,
+      "y": 57,
+      "width": 33,
+      "height": 37
+    },
+    "garbage_SEU.png": {
+      "x": 0,
+      "y": 151,
+      "width": 37,
+      "height": 28
+    },
+    "garbage_SW.png": {
+      "x": 38,
+      "y": 69,
+      "width": 35,
+      "height": 33
+    },
+    "garbage_SWD.png": {
+      "x": 70,
+      "y": 362,
+      "width": 34,
+      "height": 37
+    },
+    "garbage_SWU.png": {
+      "x": 0,
+      "y": 210,
+      "width": 37,
+      "height": 28
+    },
+    "garbage_W.png": {
+      "x": 203,
+      "y": 349,
+      "width": 33,
+      "height": 29
+    },
+    "police_E.png": {
+      "x": 782,
+      "y": 92,
+      "width": 31,
+      "height": 24
+    },
+    "police_N.png": {
+      "x": 860,
+      "y": 160,
+      "width": 17,
+      "height": 24
+    },
+    "police_NE.png": {
+      "x": 559,
+      "y": 445,
+      "width": 32,
+      "height": 26
+    },
+    "police_NED.png": {
+      "x": 203,
+      "y": 409,
+      "width": 33,
+      "height": 24
+    },
+    "police_NEU.png": {
+      "x": 205,
+      "y": 0,
+      "width": 33,
+      "height": 31
+    },
+    "police_NW.png": {
+      "x": 560,
+      "y": 22,
+      "width": 32,
+      "height": 27
+    },
+    "police_NWD.png": {
+      "x": 560,
+      "y": 102,
+      "width": 32,
+      "height": 23
+    },
+    "police_NWU.png": {
+      "x": 205,
+      "y": 78,
+      "width": 33,
+      "height": 30
+    },
+    "police_S.png": {
+      "x": 877,
+      "y": 140,
+      "width": 17,
+      "height": 24
+    },
+    "police_SE.png": {
+      "x": 591,
+      "y": 152,
+      "width": 32,
+      "height": 27
+    },
+    "police_SED.png": {
+      "x": 591,
+      "y": 179,
+      "width": 32,
+      "height": 32
+    },
+    "police_SEU.png": {
+      "x": 236,
+      "y": 233,
+      "width": 33,
+      "height": 23
+    },
+    "police_SW.png": {
+      "x": 236,
+      "y": 452,
+      "width": 33,
+      "height": 27
+    },
+    "police_SWD.png": {
+      "x": 237,
+      "y": 170,
+      "width": 33,
+      "height": 32
+    },
+    "police_SWU.png": {
+      "x": 238,
+      "y": 56,
+      "width": 33,
+      "height": 24
+    },
+    "police_W.png": {
+      "x": 812,
+      "y": 237,
+      "width": 31,
+      "height": 24
+    },
+    "taxi_E.png": {
+      "x": 812,
+      "y": 291,
+      "width": 31,
+      "height": 23
+    },
+    "taxi_N.png": {
+      "x": 843,
+      "y": 252,
+      "width": 17,
+      "height": 23
+    },
+    "taxi_NE.png": {
+      "x": 591,
+      "y": 237,
+      "width": 32,
+      "height": 25
+    },
+    "taxi_NED.png": {
+      "x": 812,
+      "y": 314,
+      "width": 31,
+      "height": 22
+    },
+    "taxi_NEU.png": {
+      "x": 269,
+      "y": 231,
+      "width": 33,
+      "height": 30
+    },
+    "taxi_NW.png": {
+      "x": 591,
+      "y": 371,
+      "width": 32,
+      "height": 25
+    },
+    "taxi_NWD.png": {
+      "x": 592,
+      "y": 21,
+      "width": 32,
+      "height": 22
+    },
+    "taxi_NWU.png": {
+      "x": 269,
+      "y": 379,
+      "width": 33,
+      "height": 30
+    },
+    "taxi_S.png": {
+      "x": 877,
+      "y": 287,
+      "width": 17,
+      "height": 23
+    },
+    "taxi_SE.png": {
+      "x": 623,
+      "y": 151,
+      "width": 32,
+      "height": 26
+    },
+    "taxi_SED.png": {
+      "x": 623,
+      "y": 306,
+      "width": 32,
+      "height": 30
+    },
+    "taxi_SEU.png": {
+      "x": 269,
+      "y": 463,
+      "width": 33,
+      "height": 23
+    },
+    "taxi_SW.png": {
+      "x": 623,
+      "y": 336,
+      "width": 32,
+      "height": 26
+    },
+    "taxi_SWD.png": {
+      "x": 812,
+      "y": 404,
+      "width": 31,
+      "height": 31
+    },
+    "taxi_SWU.png": {
+      "x": 655,
+      "y": 99,
+      "width": 32,
+      "height": 22
+    },
+    "taxi_W.png": {
+      "x": 812,
+      "y": 458,
+      "width": 31,
+      "height": 23
+    }
+  }
+}

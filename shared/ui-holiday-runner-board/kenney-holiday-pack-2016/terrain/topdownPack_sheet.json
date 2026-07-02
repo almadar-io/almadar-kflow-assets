@@ -1,0 +1,317 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "topdownTile_01.png": {
+      "x": 64,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_02.png": {
+      "x": 0,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_03.png": {
+      "x": 0,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_04.png": {
+      "x": 64,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_05.png": {
+      "x": 64,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_06.png": {
+      "x": 64,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_07.png": {
+      "x": 64,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_08.png": {
+      "x": 0,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_09.png": {
+      "x": 192,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_10.png": {
+      "x": 256,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_11.png": {
+      "x": 256,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_12.png": {
+      "x": 128,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_13.png": {
+      "x": 256,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_14.png": {
+      "x": 256,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_15.png": {
+      "x": 256,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_16.png": {
+      "x": 320,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_17.png": {
+      "x": 320,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_18.png": {
+      "x": 320,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_19.png": {
+      "x": 256,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_20.png": {
+      "x": 320,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_21.png": {
+      "x": 320,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_22.png": {
+      "x": 320,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_23.png": {
+      "x": 128,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_24.png": {
+      "x": 128,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_25.png": {
+      "x": 128,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_26.png": {
+      "x": 0,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_27.png": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_28.png": {
+      "x": 64,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_29.png": {
+      "x": 0,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_30.png": {
+      "x": 192,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_31.png": {
+      "x": 192,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_32.png": {
+      "x": 192,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_33.png": {
+      "x": 192,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_34.png": {
+      "x": 192,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_35.png": {
+      "x": 128,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_36.png": {
+      "x": 128,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "topdownTile_37.png": {
+      "x": 63,
+      "y": 384,
+      "width": 53,
+      "height": 39
+    },
+    "topdownTile_38.png": {
+      "x": 116,
+      "y": 384,
+      "width": 48,
+      "height": 34
+    },
+    "topdownTile_39.png": {
+      "x": 164,
+      "y": 384,
+      "width": 44,
+      "height": 55
+    },
+    "topdownTile_40.png": {
+      "x": 0,
+      "y": 384,
+      "width": 63,
+      "height": 59
+    },
+    "topdownTile_41.png": {
+      "x": 63,
+      "y": 423,
+      "width": 20,
+      "height": 20
+    },
+    "topdownTile_42.png": {
+      "x": 234,
+      "y": 384,
+      "width": 26,
+      "height": 26
+    },
+    "topdownTile_43.png": {
+      "x": 286,
+      "y": 384,
+      "width": 20,
+      "height": 32
+    },
+    "topdownTile_44.png": {
+      "x": 208,
+      "y": 384,
+      "width": 26,
+      "height": 26
+    },
+    "topdownTile_45.png": {
+      "x": 103,
+      "y": 423,
+      "width": 20,
+      "height": 20
+    },
+    "topdownTile_46.png": {
+      "x": 208,
+      "y": 410,
+      "width": 26,
+      "height": 26
+    },
+    "topdownTile_47.png": {
+      "x": 326,
+      "y": 384,
+      "width": 20,
+      "height": 32
+    },
+    "topdownTile_48.png": {
+      "x": 260,
+      "y": 384,
+      "width": 26,
+      "height": 26
+    },
+    "topdownTile_49.png": {
+      "x": 83,
+      "y": 423,
+      "width": 20,
+      "height": 20
+    },
+    "topdownTile_50.png": {
+      "x": 234,
+      "y": 410,
+      "width": 26,
+      "height": 26
+    },
+    "topdownTile_51.png": {
+      "x": 306,
+      "y": 384,
+      "width": 20,
+      "height": 32
+    },
+    "topdownTile_52.png": {
+      "x": 260,
+      "y": 410,
+      "width": 26,
+      "height": 26
+    }
+  }
+}

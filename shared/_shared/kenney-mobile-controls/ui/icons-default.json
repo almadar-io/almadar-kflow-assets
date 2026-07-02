@@ -1,0 +1,257 @@
+{
+  "imagePath": "icons-default.png",
+  "subTextures": {
+    "icon_arrow": {
+      "x": 100,
+      "y": 300,
+      "width": 48,
+      "height": 48
+    },
+    "icon_arrow_curved": {
+      "x": 250,
+      "y": 250,
+      "width": 48,
+      "height": 48
+    },
+    "icon_arrow_rotate": {
+      "x": 250,
+      "y": 200,
+      "width": 48,
+      "height": 48
+    },
+    "icon_burst": {
+      "x": 250,
+      "y": 150,
+      "width": 48,
+      "height": 48
+    },
+    "icon_button_a": {
+      "x": 250,
+      "y": 100,
+      "width": 48,
+      "height": 48
+    },
+    "icon_button_b": {
+      "x": 250,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "icon_button_l": {
+      "x": 250,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    },
+    "icon_button_r": {
+      "x": 200,
+      "y": 300,
+      "width": 48,
+      "height": 48
+    },
+    "icon_button_x": {
+      "x": 200,
+      "y": 250,
+      "width": 48,
+      "height": 48
+    },
+    "icon_button_y": {
+      "x": 200,
+      "y": 200,
+      "width": 48,
+      "height": 48
+    },
+    "icon_checkmark": {
+      "x": 200,
+      "y": 150,
+      "width": 48,
+      "height": 48
+    },
+    "icon_cog": {
+      "x": 200,
+      "y": 100,
+      "width": 48,
+      "height": 48
+    },
+    "icon_cross": {
+      "x": 200,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "icon_crosshair": {
+      "x": 200,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    },
+    "icon_fire": {
+      "x": 150,
+      "y": 300,
+      "width": 48,
+      "height": 48
+    },
+    "icon_hand": {
+      "x": 150,
+      "y": 250,
+      "width": 48,
+      "height": 48
+    },
+    "icon_jump": {
+      "x": 150,
+      "y": 200,
+      "width": 48,
+      "height": 48
+    },
+    "icon_key": {
+      "x": 150,
+      "y": 150,
+      "width": 48,
+      "height": 48
+    },
+    "icon_lock": {
+      "x": 150,
+      "y": 100,
+      "width": 48,
+      "height": 48
+    },
+    "icon_menu": {
+      "x": 150,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "icon_microphone": {
+      "x": 150,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    },
+    "icon_money": {
+      "x": 250,
+      "y": 300,
+      "width": 48,
+      "height": 48
+    },
+    "icon_music": {
+      "x": 100,
+      "y": 250,
+      "width": 48,
+      "height": 48
+    },
+    "icon_music_disabled": {
+      "x": 100,
+      "y": 200,
+      "width": 48,
+      "height": 48
+    },
+    "icon_pause": {
+      "x": 100,
+      "y": 150,
+      "width": 48,
+      "height": 48
+    },
+    "icon_pedal": {
+      "x": 100,
+      "y": 100,
+      "width": 48,
+      "height": 48
+    },
+    "icon_pedal_brake": {
+      "x": 100,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "icon_play": {
+      "x": 100,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    },
+    "icon_save": {
+      "x": 50,
+      "y": 300,
+      "width": 48,
+      "height": 48
+    },
+    "icon_search": {
+      "x": 50,
+      "y": 250,
+      "width": 48,
+      "height": 48
+    },
+    "icon_shield": {
+      "x": 50,
+      "y": 200,
+      "width": 48,
+      "height": 48
+    },
+    "icon_size_larger": {
+      "x": 50,
+      "y": 150,
+      "width": 48,
+      "height": 48
+    },
+    "icon_size_smaller": {
+      "x": 50,
+      "y": 100,
+      "width": 48,
+      "height": 48
+    },
+    "icon_skull": {
+      "x": 50,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "icon_sound": {
+      "x": 50,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    },
+    "icon_sound_disabled": {
+      "x": 0,
+      "y": 300,
+      "width": 48,
+      "height": 48
+    },
+    "icon_star": {
+      "x": 0,
+      "y": 250,
+      "width": 48,
+      "height": 48
+    },
+    "icon_steering_wheel": {
+      "x": 0,
+      "y": 200,
+      "width": 48,
+      "height": 48
+    },
+    "icon_sword": {
+      "x": 0,
+      "y": 150,
+      "width": 48,
+      "height": 48
+    },
+    "icon_talk": {
+      "x": 0,
+      "y": 100,
+      "width": 48,
+      "height": 48
+    },
+    "icon_target": {
+      "x": 0,
+      "y": 50,
+      "width": 48,
+      "height": 48
+    },
+    "icon_wrench": {
+      "x": 0,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    }
+  }
+}

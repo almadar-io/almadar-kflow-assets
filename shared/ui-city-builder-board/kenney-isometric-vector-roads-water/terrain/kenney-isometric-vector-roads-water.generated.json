@@ -1,0 +1,257 @@
+{
+  "imagePath": "kenney-isometric-vector-roads-water.generated.png",
+  "subTextures": {
+    "riverBankedHillS.png": {
+      "x": 1,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "riverBankedHillW.png": {
+      "x": 102,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "riverHillS.png": {
+      "x": 203,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "riverHillW.png": {
+      "x": 304,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "bridgeHighBankedEW.png": {
+      "x": 405,
+      "y": 1,
+      "width": 100,
+      "height": 77
+    },
+    "bridgeHighBankedNS.png": {
+      "x": 506,
+      "y": 1,
+      "width": 100,
+      "height": 77
+    },
+    "bridgeHighEW.png": {
+      "x": 607,
+      "y": 1,
+      "width": 100,
+      "height": 77
+    },
+    "bridgeHighNS.png": {
+      "x": 708,
+      "y": 1,
+      "width": 100,
+      "height": 77
+    },
+    "bridgeLowBankedEW.png": {
+      "x": 809,
+      "y": 1,
+      "width": 100,
+      "height": 65
+    },
+    "bridgeLowBankedNS.png": {
+      "x": 910,
+      "y": 1,
+      "width": 100,
+      "height": 65
+    },
+    "bridgeLowEW.png": {
+      "x": 1,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "bridgeLowNS.png": {
+      "x": 102,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedHillE.png": {
+      "x": 203,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedHillN.png": {
+      "x": 304,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedSlopeS.png": {
+      "x": 405,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedSlopeW.png": {
+      "x": 506,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedWaterfallE.png": {
+      "x": 607,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedWaterfallN.png": {
+      "x": 708,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedWaterfallS.png": {
+      "x": 809,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedWaterfallW.png": {
+      "x": 910,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "riverHillE.png": {
+      "x": 1,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverHillN.png": {
+      "x": 102,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverSlopeS.png": {
+      "x": 203,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverSlopeW.png": {
+      "x": 304,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverWaterfallE.png": {
+      "x": 405,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverWaterfallN.png": {
+      "x": 506,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverWaterfallS.png": {
+      "x": 607,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "riverWaterfallW.png": {
+      "x": 708,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "slopeS.png": {
+      "x": 809,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "slopeW.png": {
+      "x": 910,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "waterfallS.png": {
+      "x": 1,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "waterfallW.png": {
+      "x": 102,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedSlopeE.png": {
+      "x": 203,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "riverBankedSlopeN.png": {
+      "x": 304,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "riverSlopeE.png": {
+      "x": 405,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "riverSlopeN.png": {
+      "x": 506,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "slopeE.png": {
+      "x": 607,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "slopeN.png": {
+      "x": 708,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "waterfallEndE.png": {
+      "x": 809,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "waterfallEndN.png": {
+      "x": 910,
+      "y": 214,
+      "width": 100,
+      "height": 58
+    },
+    "waterfallEndS.png": {
+      "x": 1,
+      "y": 280,
+      "width": 100,
+      "height": 58
+    },
+    "waterfallEndW.png": {
+      "x": 102,
+      "y": 280,
+      "width": 100,
+      "height": 58
+    }
+  }
+}

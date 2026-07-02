@@ -1,0 +1,389 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "ambulance_E.png": {
+      "x": 140,
+      "y": 193,
+      "width": 33,
+      "height": 29
+    },
+    "ambulance_N.png": {
+      "x": 236,
+      "y": 206,
+      "width": 19,
+      "height": 27
+    },
+    "ambulance_NE.png": {
+      "x": 37,
+      "y": 178,
+      "width": 35,
+      "height": 31
+    },
+    "ambulance_NED.png": {
+      "x": 37,
+      "y": 150,
+      "width": 35,
+      "height": 28
+    },
+    "ambulance_NEU.png": {
+      "x": 0,
+      "y": 87,
+      "width": 38,
+      "height": 32
+    },
+    "ambulance_NW.png": {
+      "x": 37,
+      "y": 119,
+      "width": 35,
+      "height": 31
+    },
+    "ambulance_NWD.png": {
+      "x": 73,
+      "y": 40,
+      "width": 34,
+      "height": 28
+    },
+    "ambulance_NWU.png": {
+      "x": 0,
+      "y": 56,
+      "width": 38,
+      "height": 31
+    },
+    "ambulance_S.png": {
+      "x": 224,
+      "y": 173,
+      "width": 19,
+      "height": 33
+    },
+    "ambulance_SE.png": {
+      "x": 38,
+      "y": 36,
+      "width": 35,
+      "height": 35
+    },
+    "ambulance_SED.png": {
+      "x": 73,
+      "y": 0,
+      "width": 34,
+      "height": 40
+    },
+    "ambulance_SEU.png": {
+      "x": 0,
+      "y": 0,
+      "width": 38,
+      "height": 28
+    },
+    "ambulance_SW.png": {
+      "x": 38,
+      "y": 0,
+      "width": 35,
+      "height": 36
+    },
+    "ambulance_SWD.png": {
+      "x": 38,
+      "y": 71,
+      "width": 35,
+      "height": 40
+    },
+    "ambulance_SWU.png": {
+      "x": 0,
+      "y": 28,
+      "width": 38,
+      "height": 28
+    },
+    "ambulance_W.png": {
+      "x": 140,
+      "y": 52,
+      "width": 33,
+      "height": 29
+    },
+    "garbage_E.png": {
+      "x": 140,
+      "y": 81,
+      "width": 33,
+      "height": 29
+    },
+    "garbage_N.png": {
+      "x": 236,
+      "y": 26,
+      "width": 19,
+      "height": 27
+    },
+    "garbage_NE.png": {
+      "x": 72,
+      "y": 177,
+      "width": 35,
+      "height": 31
+    },
+    "garbage_NED.png": {
+      "x": 106,
+      "y": 208,
+      "width": 34,
+      "height": 28
+    },
+    "garbage_NEU.png": {
+      "x": 0,
+      "y": 150,
+      "width": 37,
+      "height": 32
+    },
+    "garbage_NW.png": {
+      "x": 37,
+      "y": 209,
+      "width": 35,
+      "height": 32
+    },
+    "garbage_NWD.png": {
+      "x": 73,
+      "y": 68,
+      "width": 34,
+      "height": 28
+    },
+    "garbage_NWU.png": {
+      "x": 0,
+      "y": 119,
+      "width": 37,
+      "height": 31
+    },
+    "garbage_S.png": {
+      "x": 205,
+      "y": 173,
+      "width": 19,
+      "height": 30
+    },
+    "garbage_SE.png": {
+      "x": 72,
+      "y": 144,
+      "width": 35,
+      "height": 33
+    },
+    "garbage_SED.png": {
+      "x": 107,
+      "y": 138,
+      "width": 33,
+      "height": 37
+    },
+    "garbage_SEU.png": {
+      "x": 0,
+      "y": 182,
+      "width": 37,
+      "height": 28
+    },
+    "garbage_SW.png": {
+      "x": 72,
+      "y": 111,
+      "width": 35,
+      "height": 33
+    },
+    "garbage_SWD.png": {
+      "x": 72,
+      "y": 208,
+      "width": 34,
+      "height": 37
+    },
+    "garbage_SWU.png": {
+      "x": 0,
+      "y": 210,
+      "width": 37,
+      "height": 28
+    },
+    "garbage_W.png": {
+      "x": 140,
+      "y": 23,
+      "width": 33,
+      "height": 29
+    },
+    "police_E.png": {
+      "x": 205,
+      "y": 73,
+      "width": 31,
+      "height": 24
+    },
+    "police_N.png": {
+      "x": 236,
+      "y": 77,
+      "width": 17,
+      "height": 24
+    },
+    "police_NE.png": {
+      "x": 173,
+      "y": 50,
+      "width": 32,
+      "height": 26
+    },
+    "police_NED.png": {
+      "x": 107,
+      "y": 51,
+      "width": 33,
+      "height": 24
+    },
+    "police_NEU.png": {
+      "x": 107,
+      "y": 75,
+      "width": 33,
+      "height": 31
+    },
+    "police_NW.png": {
+      "x": 173,
+      "y": 0,
+      "width": 32,
+      "height": 27
+    },
+    "police_NWD.png": {
+      "x": 173,
+      "y": 27,
+      "width": 32,
+      "height": 23
+    },
+    "police_NWU.png": {
+      "x": 107,
+      "y": 175,
+      "width": 33,
+      "height": 30
+    },
+    "police_S.png": {
+      "x": 236,
+      "y": 53,
+      "width": 17,
+      "height": 24
+    },
+    "police_SE.png": {
+      "x": 173,
+      "y": 186,
+      "width": 32,
+      "height": 27
+    },
+    "police_SED.png": {
+      "x": 173,
+      "y": 106,
+      "width": 32,
+      "height": 32
+    },
+    "police_SEU.png": {
+      "x": 140,
+      "y": 0,
+      "width": 33,
+      "height": 23
+    },
+    "police_SW.png": {
+      "x": 107,
+      "y": 24,
+      "width": 33,
+      "height": 27
+    },
+    "police_SWD.png": {
+      "x": 107,
+      "y": 106,
+      "width": 33,
+      "height": 32
+    },
+    "police_SWU.png": {
+      "x": 107,
+      "y": 0,
+      "width": 33,
+      "height": 24
+    },
+    "police_W.png": {
+      "x": 205,
+      "y": 26,
+      "width": 31,
+      "height": 24
+    },
+    "taxi_E.png": {
+      "x": 205,
+      "y": 50,
+      "width": 31,
+      "height": 23
+    },
+    "taxi_N.png": {
+      "x": 236,
+      "y": 101,
+      "width": 17,
+      "height": 23
+    },
+    "taxi_NE.png": {
+      "x": 140,
+      "y": 222,
+      "width": 32,
+      "height": 25
+    },
+    "taxi_NED.png": {
+      "x": 205,
+      "y": 151,
+      "width": 31,
+      "height": 22
+    },
+    "taxi_NEU.png": {
+      "x": 140,
+      "y": 133,
+      "width": 33,
+      "height": 30
+    },
+    "taxi_NW.png": {
+      "x": 172,
+      "y": 222,
+      "width": 32,
+      "height": 25
+    },
+    "taxi_NWD.png": {
+      "x": 173,
+      "y": 138,
+      "width": 32,
+      "height": 22
+    },
+    "taxi_NWU.png": {
+      "x": 140,
+      "y": 163,
+      "width": 33,
+      "height": 30
+    },
+    "taxi_S.png": {
+      "x": 236,
+      "y": 124,
+      "width": 17,
+      "height": 23
+    },
+    "taxi_SE.png": {
+      "x": 173,
+      "y": 160,
+      "width": 32,
+      "height": 26
+    },
+    "taxi_SED.png": {
+      "x": 173,
+      "y": 76,
+      "width": 32,
+      "height": 30
+    },
+    "taxi_SEU.png": {
+      "x": 140,
+      "y": 110,
+      "width": 33,
+      "height": 23
+    },
+    "taxi_SW.png": {
+      "x": 205,
+      "y": 0,
+      "width": 32,
+      "height": 26
+    },
+    "taxi_SWD.png": {
+      "x": 205,
+      "y": 97,
+      "width": 31,
+      "height": 31
+    },
+    "taxi_SWU.png": {
+      "x": 204,
+      "y": 213,
+      "width": 32,
+      "height": 22
+    },
+    "taxi_W.png": {
+      "x": 205,
+      "y": 128,
+      "width": 31,
+      "height": 23
+    }
+  }
+}

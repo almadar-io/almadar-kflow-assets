@@ -1,0 +1,479 @@
+{
+  "imagePath": "roadTextures_sheet.png",
+  "subTextures": {
+    "roadTile1.png": {
+      "x": 0,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile10.png": {
+      "x": 448,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile11.png": {
+      "x": 448,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile12.png": {
+      "x": 448,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile13.png": {
+      "x": 448,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile14.png": {
+      "x": 448,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile15.png": {
+      "x": 448,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile16.png": {
+      "x": 448,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile17.png": {
+      "x": 448,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile18.png": {
+      "x": 448,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile19.png": {
+      "x": 384,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile20.png": {
+      "x": 384,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile21.png": {
+      "x": 384,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile22.png": {
+      "x": 384,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile23.png": {
+      "x": 384,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile24.png": {
+      "x": 384,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile25.png": {
+      "x": 384,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile26.png": {
+      "x": 384,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile27.png": {
+      "x": 384,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile3.png": {
+      "x": 256,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile4.png": {
+      "x": 512,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile5.png": {
+      "x": 512,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile6.png": {
+      "x": 512,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile7.png": {
+      "x": 512,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile8.png": {
+      "x": 512,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "roadTile9.png": {
+      "x": 512,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "terrainTile1.png": {
+      "x": 320,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "terrainTile2.png": {
+      "x": 320,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "terrainTile3.png": {
+      "x": 320,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "terrainTile4.png": {
+      "x": 320,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "terrainTile5.png": {
+      "x": 320,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "terrainTile6.png": {
+      "x": 320,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile1.png": {
+      "x": 320,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile10.png": {
+      "x": 256,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile11.png": {
+      "x": 256,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile12.png": {
+      "x": 256,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile13.png": {
+      "x": 192,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile14.png": {
+      "x": 192,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile15.png": {
+      "x": 192,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile16.png": {
+      "x": 192,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile17.png": {
+      "x": 192,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile18.png": {
+      "x": 192,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile19.png": {
+      "x": 192,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile2.png": {
+      "x": 320,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile20.png": {
+      "x": 192,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile21.png": {
+      "x": 192,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile22.png": {
+      "x": 128,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile23.png": {
+      "x": 128,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile24.png": {
+      "x": 128,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile25.png": {
+      "x": 128,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile26.png": {
+      "x": 128,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile27.png": {
+      "x": 128,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile28.png": {
+      "x": 128,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile29.png": {
+      "x": 128,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile3.png": {
+      "x": 320,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile30.png": {
+      "x": 128,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile31.png": {
+      "x": 64,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile32.png": {
+      "x": 64,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile33.png": {
+      "x": 64,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile34.png": {
+      "x": 64,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile35.png": {
+      "x": 64,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile36.png": {
+      "x": 64,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile37.png": {
+      "x": 64,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile38.png": {
+      "x": 64,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile39.png": {
+      "x": 64,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile4.png": {
+      "x": 256,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile40.png": {
+      "x": 0,
+      "y": 512,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile41.png": {
+      "x": 0,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile42.png": {
+      "x": 0,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile43.png": {
+      "x": 0,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile44.png": {
+      "x": 0,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile45.png": {
+      "x": 0,
+      "y": 192,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile46.png": {
+      "x": 0,
+      "y": 128,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile5.png": {
+      "x": 256,
+      "y": 448,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile6.png": {
+      "x": 256,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile7.png": {
+      "x": 256,
+      "y": 320,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile8.png": {
+      "x": 256,
+      "y": 256,
+      "width": 64,
+      "height": 64
+    },
+    "waterTile9.png": {
+      "x": 512,
+      "y": 384,
+      "width": 64,
+      "height": 64
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "imagePath": "spritesheet_default.png",
+  "subTextures": {
+    "bush1.png": {
+      "x": 419,
+      "y": 950,
+      "width": 120,
+      "height": 60
+    },
+    "bush2.png": {
+      "x": 0,
+      "y": 1051,
+      "width": 53,
+      "height": 44
+    },
+    "bush3.png": {
+      "x": 725,
+      "y": 511,
+      "width": 59,
+      "height": 52
+    },
+    "bush4.png": {
+      "x": 871,
+      "y": 1034,
+      "width": 50,
+      "height": 46
+    },
+    "bushAlt1.png": {
+      "x": 0,
+      "y": 1004,
+      "width": 141,
+      "height": 47
+    },
+    "bushAlt2.png": {
+      "x": 405,
+      "y": 156,
+      "width": 45,
+      "height": 55
+    },
+    "bushAlt3.png": {
+      "x": 961,
+      "y": 978,
+      "width": 43,
+      "height": 53
+    },
+    "bushAlt4.png": {
+      "x": 921,
+      "y": 1034,
+      "width": 50,
+      "height": 48
+    },
+    "bushOrange1.png": {
+      "x": 281,
+      "y": 156,
+      "width": 124,
+      "height": 59
+    },
+    "bushOrange2.png": {
+      "x": 641,
+      "y": 595,
+      "width": 56,
+      "height": 46
+    },
+    "bushOrange3.png": {
+      "x": 725,
+      "y": 563,
+      "width": 56,
+      "height": 52
+    },
+    "bushOrange4.png": {
+      "x": 53,
+      "y": 1051,
+      "width": 50,
+      "height": 35
+    },
+    "cactus1.png": {
+      "x": 624,
+      "y": 866,
+      "width": 96,
+      "height": 139
+    },
+    "cactus2.png": {
+      "x": 720,
+      "y": 866,
+      "width": 71,
+      "height": 135
+    },
+    "cactus3.png": {
+      "x": 893,
+      "y": 901,
+      "width": 68,
+      "height": 133
+    },
+    "castleSmall.png": {
+      "x": 527,
+      "y": 1010,
+      "width": 108,
+      "height": 85
+    },
+    "castleSmallAlt.png": {
+      "x": 419,
+      "y": 1010,
+      "width": 108,
+      "height": 85
+    },
+    "castleWall.png": {
+      "x": 539,
+      "y": 947,
+      "width": 60,
+      "height": 60
+    },
+    "castleWallAlt.png": {
+      "x": 141,
+      "y": 1004,
+      "width": 60,
+      "height": 60
+    },
+    "cloud1.png": {
+      "x": 250,
+      "y": 365,
+      "width": 203,
+      "height": 121
+    },
+    "cloud2.png": {
+      "x": 281,
+      "y": 0,
+      "width": 196,
+      "height": 156
+    },
+    "cloud3.png": {
+      "x": 0,
+      "y": 865,
+      "width": 216,
+      "height": 139
+    },
+    "cloud4.png": {
+      "x": 0,
+      "y": 363,
+      "width": 250,
+      "height": 146
+    },
+    "cloud5.png": {
+      "x": 216,
+      "y": 950,
+      "width": 203,
+      "height": 121
+    },
+    "cloud6.png": {
+      "x": 445,
+      "y": 486,
+      "width": 196,
+      "height": 156
+    },
+    "cloud7.png": {
+      "x": 0,
+      "y": 726,
+      "width": 216,
+      "height": 139
+    },
+    "cloud8.png": {
+      "x": 0,
+      "y": 217,
+      "width": 250,
+      "height": 146
+    },
+    "fence.png": {
+      "x": 453,
+      "y": 403,
+      "width": 104,
+      "height": 77
+    },
+    "fenceIron.png": {
+      "x": 477,
+      "y": 0,
+      "width": 120,
+      "height": 121
+    },
+    "house1.png": {
+      "x": 216,
+      "y": 726,
+      "width": 208,
+      "height": 224
+    },
+    "house2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 281,
+      "height": 217
+    },
+    "houseAlt1.png": {
+      "x": 624,
+      "y": 642,
+      "width": 168,
+      "height": 224
+    },
+    "houseAlt2.png": {
+      "x": 0,
+      "y": 509,
+      "width": 241,
+      "height": 217
+    },
+    "houseSmall1.png": {
+      "x": 521,
+      "y": 642,
+      "width": 76,
+      "height": 50
+    },
+    "houseSmall2.png": {
+      "x": 719,
+      "y": 1005,
+      "width": 76,
+      "height": 70
+    },
+    "houseSmallAlt1.png": {
+      "x": 445,
+      "y": 642,
+      "width": 76,
+      "height": 50
+    },
+    "houseSmallAlt2.png": {
+      "x": 795,
+      "y": 991,
+      "width": 76,
+      "height": 70
+    },
+    "moon.png": {
+      "x": 557,
+      "y": 403,
+      "width": 78,
+      "height": 80
+    },
+    "moonFull.png": {
+      "x": 641,
+      "y": 511,
+      "width": 84,
+      "height": 84
+    },
+    "pyramid.png": {
+      "x": 241,
+      "y": 509,
+      "width": 204,
+      "height": 200
+    },
+    "pyramidMayan.png": {
+      "x": 250,
+      "y": 217,
+      "width": 204,
+      "height": 148
+    },
+    "sun.png": {
+      "x": 635,
+      "y": 1005,
+      "width": 84,
+      "height": 84
+    },
+    "tower.png": {
+      "x": 975,
+      "y": 488,
+      "width": 73,
+      "height": 245
+    },
+    "towerAlt.png": {
+      "x": 975,
+      "y": 733,
+      "width": 73,
+      "height": 245
+    },
+    "towerSmall.png": {
+      "x": 1004,
+      "y": 978,
+      "width": 38,
+      "height": 90
+    },
+    "towerSmallAlt.png": {
+      "x": 1029,
+      "y": 0,
+      "width": 38,
+      "height": 90
+    },
+    "tree.png": {
+      "x": 853,
+      "y": 233,
+      "width": 94,
+      "height": 204
+    },
+    "treeDead.png": {
+      "x": 454,
+      "y": 156,
+      "width": 172,
+      "height": 247
+    },
+    "treeFrozen.png": {
+      "x": 838,
+      "y": 0,
+      "width": 94,
+      "height": 233
+    },
+    "treeLong.png": {
+      "x": 947,
+      "y": 0,
+      "width": 82,
+      "height": 249
+    },
+    "treeLongFrozen.png": {
+      "x": 893,
+      "y": 686,
+      "width": 82,
+      "height": 215
+    },
+    "treeLongOrange.png": {
+      "x": 893,
+      "y": 437,
+      "width": 82,
+      "height": 249
+    },
+    "treeLongSnow.png": {
+      "x": 975,
+      "y": 249,
+      "width": 82,
+      "height": 239
+    },
+    "treeOrange.png": {
+      "x": 792,
+      "y": 732,
+      "width": 101,
+      "height": 259
+    },
+    "treePalm.png": {
+      "x": 424,
+      "y": 709,
+      "width": 200,
+      "height": 238
+    },
+    "treePine.png": {
+      "x": 732,
+      "y": 0,
+      "width": 106,
+      "height": 254
+    },
+    "treePineFrozen.png": {
+      "x": 626,
+      "y": 0,
+      "width": 106,
+      "height": 257
+    },
+    "treePineOrange.png": {
+      "x": 641,
+      "y": 257,
+      "width": 106,
+      "height": 254
+    },
+    "treePineSnow.png": {
+      "x": 747,
+      "y": 254,
+      "width": 106,
+      "height": 247
+    },
+    "treeSmall_green1.png": {
+      "x": 103,
+      "y": 1051,
+      "width": 20,
+      "height": 43
+    },
+    "treeSmall_green2.png": {
+      "x": 597,
+      "y": 65,
+      "width": 23,
+      "height": 68
+    },
+    "treeSmall_green3.png": {
+      "x": 971,
+      "y": 1031,
+      "width": 30,
+      "height": 49
+    },
+    "treeSmall_greenAlt1.png": {
+      "x": 599,
+      "y": 947,
+      "width": 20,
+      "height": 43
+    },
+    "treeSmall_greenAlt2.png": {
+      "x": 597,
+      "y": 0,
+      "width": 23,
+      "height": 65
+    },
+    "treeSmall_greenAlt3.png": {
+      "x": 1029,
+      "y": 90,
+      "width": 30,
+      "height": 49
+    },
+    "treeSmall_orange1.png": {
+      "x": 697,
+      "y": 595,
+      "width": 20,
+      "height": 43
+    },
+    "treeSmall_orange2.png": {
+      "x": 597,
+      "y": 642,
+      "width": 23,
+      "height": 61
+    },
+    "treeSmall_orange3.png": {
+      "x": 853,
+      "y": 437,
+      "width": 30,
+      "height": 49
+    },
+    "treeSnow.png": {
+      "x": 792,
+      "y": 501,
+      "width": 101,
+      "height": 231
+    }
+  }
+}

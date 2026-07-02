@@ -1,0 +1,347 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "barnacle.png": {
+      "x": 390,
+      "y": 1300,
+      "width": 128,
+      "height": 128
+    },
+    "barnacle_attack.png": {
+      "x": 390,
+      "y": 1170,
+      "width": 128,
+      "height": 128
+    },
+    "barnacle_dead.png": {
+      "x": 390,
+      "y": 1040,
+      "width": 128,
+      "height": 128
+    },
+    "bee.png": {
+      "x": 390,
+      "y": 910,
+      "width": 128,
+      "height": 128
+    },
+    "bee_dead.png": {
+      "x": 390,
+      "y": 780,
+      "width": 128,
+      "height": 128
+    },
+    "bee_move.png": {
+      "x": 390,
+      "y": 650,
+      "width": 128,
+      "height": 128
+    },
+    "fishBlue.png": {
+      "x": 390,
+      "y": 520,
+      "width": 128,
+      "height": 128
+    },
+    "fishBlue_dead.png": {
+      "x": 390,
+      "y": 390,
+      "width": 128,
+      "height": 128
+    },
+    "fishBlue_fall.png": {
+      "x": 390,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "fishGreen.png": {
+      "x": 390,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "fishGreen_dead.png": {
+      "x": 390,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "fishGreen_move.png": {
+      "x": 260,
+      "y": 1820,
+      "width": 128,
+      "height": 128
+    },
+    "fishPink.png": {
+      "x": 260,
+      "y": 1690,
+      "width": 128,
+      "height": 128
+    },
+    "fishPink_dead.png": {
+      "x": 260,
+      "y": 1560,
+      "width": 128,
+      "height": 128
+    },
+    "fishPink_move.png": {
+      "x": 260,
+      "y": 1430,
+      "width": 128,
+      "height": 128
+    },
+    "fly.png": {
+      "x": 260,
+      "y": 1300,
+      "width": 128,
+      "height": 128
+    },
+    "fly_dead.png": {
+      "x": 260,
+      "y": 1170,
+      "width": 128,
+      "height": 128
+    },
+    "fly_move.png": {
+      "x": 260,
+      "y": 1040,
+      "width": 128,
+      "height": 128
+    },
+    "frog.png": {
+      "x": 260,
+      "y": 910,
+      "width": 128,
+      "height": 128
+    },
+    "frog_dead.png": {
+      "x": 260,
+      "y": 780,
+      "width": 128,
+      "height": 128
+    },
+    "frog_move.png": {
+      "x": 260,
+      "y": 650,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug.png": {
+      "x": 260,
+      "y": 520,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug_fly.png": {
+      "x": 260,
+      "y": 390,
+      "width": 128,
+      "height": 128
+    },
+    "ladybug_move.png": {
+      "x": 260,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "mouse.png": {
+      "x": 260,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "mouse_dead.png": {
+      "x": 260,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "mouse_move.png": {
+      "x": 130,
+      "y": 1820,
+      "width": 128,
+      "height": 128
+    },
+    "saw.png": {
+      "x": 390,
+      "y": 1430,
+      "width": 128,
+      "height": 128
+    },
+    "sawHalf.png": {
+      "x": 130,
+      "y": 1300,
+      "width": 128,
+      "height": 128
+    },
+    "sawHalf_dead.png": {
+      "x": 130,
+      "y": 1170,
+      "width": 128,
+      "height": 128
+    },
+    "sawHalf_move.png": {
+      "x": 130,
+      "y": 1040,
+      "width": 128,
+      "height": 128
+    },
+    "saw_dead.png": {
+      "x": 130,
+      "y": 1560,
+      "width": 128,
+      "height": 128
+    },
+    "saw_move.png": {
+      "x": 130,
+      "y": 1430,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlock.png": {
+      "x": 130,
+      "y": 910,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlock_dead.png": {
+      "x": 130,
+      "y": 780,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlock_move.png": {
+      "x": 130,
+      "y": 650,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlue.png": {
+      "x": 130,
+      "y": 520,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlue_dead.png": {
+      "x": 130,
+      "y": 390,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlue_hit.png": {
+      "x": 130,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "slimeBlue_move.png": {
+      "x": 130,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "slimeGreen.png": {
+      "x": 130,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "slimeGreen_dead.png": {
+      "x": 0,
+      "y": 1820,
+      "width": 128,
+      "height": 128
+    },
+    "slimeGreen_hit.png": {
+      "x": 0,
+      "y": 1690,
+      "width": 128,
+      "height": 128
+    },
+    "slimeGreen_move.png": {
+      "x": 0,
+      "y": 1560,
+      "width": 128,
+      "height": 128
+    },
+    "slimePurple.png": {
+      "x": 0,
+      "y": 1430,
+      "width": 128,
+      "height": 128
+    },
+    "slimePurple_dead.png": {
+      "x": 0,
+      "y": 1300,
+      "width": 128,
+      "height": 128
+    },
+    "slimePurple_hit.png": {
+      "x": 0,
+      "y": 1170,
+      "width": 128,
+      "height": 128
+    },
+    "slimePurple_move.png": {
+      "x": 0,
+      "y": 1040,
+      "width": 128,
+      "height": 128
+    },
+    "snail.png": {
+      "x": 0,
+      "y": 910,
+      "width": 128,
+      "height": 128
+    },
+    "snail_move.png": {
+      "x": 0,
+      "y": 780,
+      "width": 128,
+      "height": 128
+    },
+    "snail_shell.png": {
+      "x": 0,
+      "y": 650,
+      "width": 128,
+      "height": 128
+    },
+    "wormGreen.png": {
+      "x": 0,
+      "y": 520,
+      "width": 128,
+      "height": 128
+    },
+    "wormGreen_dead.png": {
+      "x": 0,
+      "y": 390,
+      "width": 128,
+      "height": 128
+    },
+    "wormGreen_move.png": {
+      "x": 0,
+      "y": 260,
+      "width": 128,
+      "height": 128
+    },
+    "wormPink.png": {
+      "x": 0,
+      "y": 130,
+      "width": 128,
+      "height": 128
+    },
+    "wormPink_dead.png": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "wormPink_move.png": {
+      "x": 130,
+      "y": 1690,
+      "width": 128,
+      "height": 128
+    }
+  }
+}

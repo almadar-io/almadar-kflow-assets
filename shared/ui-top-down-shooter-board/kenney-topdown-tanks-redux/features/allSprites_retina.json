@@ -1,0 +1,1127 @@
+{
+  "imagePath": "allSprites_retina.png",
+  "subTextures": {
+    "barrelBlack_side.png": {
+      "x": 1016,
+      "y": 510,
+      "width": 40,
+      "height": 56
+    },
+    "barrelBlack_top.png": {
+      "x": 1014,
+      "y": 1032,
+      "width": 48,
+      "height": 48
+    },
+    "barrelGreen_side.png": {
+      "x": 1024,
+      "y": 0,
+      "width": 40,
+      "height": 56
+    },
+    "barrelGreen_top.png": {
+      "x": 1012,
+      "y": 809,
+      "width": 48,
+      "height": 48
+    },
+    "barrelRed_side.png": {
+      "x": 828,
+      "y": 740,
+      "width": 40,
+      "height": 56
+    },
+    "barrelRed_top.png": {
+      "x": 1014,
+      "y": 984,
+      "width": 48,
+      "height": 48
+    },
+    "barrelRust_side.png": {
+      "x": 1016,
+      "y": 753,
+      "width": 40,
+      "height": 56
+    },
+    "barrelRust_top.png": {
+      "x": 1014,
+      "y": 936,
+      "width": 48,
+      "height": 48
+    },
+    "barricadeMetal.png": {
+      "x": 958,
+      "y": 936,
+      "width": 56,
+      "height": 56
+    },
+    "barricadeWood.png": {
+      "x": 958,
+      "y": 1048,
+      "width": 56,
+      "height": 56
+    },
+    "bulletBlue1.png": {
+      "x": 1006,
+      "y": 1104,
+      "width": 8,
+      "height": 20
+    },
+    "bulletBlue1_outline.png": {
+      "x": 1106,
+      "y": 1069,
+      "width": 16,
+      "height": 28
+    },
+    "bulletBlue2.png": {
+      "x": 990,
+      "y": 1104,
+      "width": 16,
+      "height": 24
+    },
+    "bulletBlue2_outline.png": {
+      "x": 1026,
+      "y": 705,
+      "width": 24,
+      "height": 32
+    },
+    "bulletBlue3.png": {
+      "x": 870,
+      "y": 465,
+      "width": 8,
+      "height": 28
+    },
+    "bulletBlue3_outline.png": {
+      "x": 1107,
+      "y": 240,
+      "width": 16,
+      "height": 36
+    },
+    "bulletDark1.png": {
+      "x": 228,
+      "y": 1024,
+      "width": 8,
+      "height": 20
+    },
+    "bulletDark1_outline.png": {
+      "x": 1106,
+      "y": 1097,
+      "width": 16,
+      "height": 28
+    },
+    "bulletDark2.png": {
+      "x": 974,
+      "y": 1104,
+      "width": 16,
+      "height": 24
+    },
+    "bulletDark2_outline.png": {
+      "x": 1085,
+      "y": 654,
+      "width": 24,
+      "height": 32
+    },
+    "bulletDark3.png": {
+      "x": 1024,
+      "y": 158,
+      "width": 8,
+      "height": 28
+    },
+    "bulletDark3_outline.png": {
+      "x": 1106,
+      "y": 492,
+      "width": 16,
+      "height": 36
+    },
+    "bulletGreen1.png": {
+      "x": 308,
+      "y": 1104,
+      "width": 8,
+      "height": 20
+    },
+    "bulletGreen1_outline.png": {
+      "x": 1106,
+      "y": 412,
+      "width": 16,
+      "height": 28
+    },
+    "bulletGreen2.png": {
+      "x": 684,
+      "y": 1099,
+      "width": 16,
+      "height": 24
+    },
+    "bulletGreen2_outline.png": {
+      "x": 1066,
+      "y": 1069,
+      "width": 24,
+      "height": 32
+    },
+    "bulletGreen3.png": {
+      "x": 700,
+      "y": 1099,
+      "width": 8,
+      "height": 28
+    },
+    "bulletGreen3_outline.png": {
+      "x": 1105,
+      "y": 204,
+      "width": 16,
+      "height": 36
+    },
+    "bulletRed1.png": {
+      "x": 236,
+      "y": 1024,
+      "width": 8,
+      "height": 20
+    },
+    "bulletRed1_outline.png": {
+      "x": 668,
+      "y": 1099,
+      "width": 16,
+      "height": 28
+    },
+    "bulletRed2.png": {
+      "x": 958,
+      "y": 1104,
+      "width": 16,
+      "height": 24
+    },
+    "bulletRed2_outline.png": {
+      "x": 1061,
+      "y": 654,
+      "width": 24,
+      "height": 32
+    },
+    "bulletRed3.png": {
+      "x": 308,
+      "y": 1076,
+      "width": 8,
+      "height": 28
+    },
+    "bulletRed3_outline.png": {
+      "x": 1064,
+      "y": 60,
+      "width": 16,
+      "height": 36
+    },
+    "bulletSand1.png": {
+      "x": 212,
+      "y": 1108,
+      "width": 8,
+      "height": 20
+    },
+    "bulletSand1_outline.png": {
+      "x": 652,
+      "y": 1099,
+      "width": 16,
+      "height": 28
+    },
+    "bulletSand2.png": {
+      "x": 1090,
+      "y": 518,
+      "width": 16,
+      "height": 24
+    },
+    "bulletSand2_outline.png": {
+      "x": 1084,
+      "y": 120,
+      "width": 24,
+      "height": 32
+    },
+    "bulletSand3.png": {
+      "x": 952,
+      "y": 753,
+      "width": 8,
+      "height": 28
+    },
+    "bulletSand3_outline.png": {
+      "x": 930,
+      "y": 569,
+      "width": 16,
+      "height": 36
+    },
+    "crateMetal.png": {
+      "x": 958,
+      "y": 992,
+      "width": 56,
+      "height": 56
+    },
+    "crateMetal_side.png": {
+      "x": 960,
+      "y": 434,
+      "width": 56,
+      "height": 56
+    },
+    "crateWood.png": {
+      "x": 960,
+      "y": 753,
+      "width": 56,
+      "height": 56
+    },
+    "crateWood_side.png": {
+      "x": 960,
+      "y": 490,
+      "width": 56,
+      "height": 56
+    },
+    "explosion1.png": {
+      "x": 640,
+      "y": 804,
+      "width": 120,
+      "height": 120
+    },
+    "explosion2.png": {
+      "x": 764,
+      "y": 508,
+      "width": 114,
+      "height": 112
+    },
+    "explosion3.png": {
+      "x": 640,
+      "y": 256,
+      "width": 127,
+      "height": 126
+    },
+    "explosion4.png": {
+      "x": 860,
+      "y": 96,
+      "width": 92,
+      "height": 90
+    },
+    "explosion5.png": {
+      "x": 0,
+      "y": 1024,
+      "width": 106,
+      "height": 104
+    },
+    "explosionSmoke1.png": {
+      "x": 640,
+      "y": 924,
+      "width": 120,
+      "height": 120
+    },
+    "explosionSmoke2.png": {
+      "x": 760,
+      "y": 940,
+      "width": 114,
+      "height": 112
+    },
+    "explosionSmoke3.png": {
+      "x": 640,
+      "y": 382,
+      "width": 126,
+      "height": 126
+    },
+    "explosionSmoke4.png": {
+      "x": 768,
+      "y": 96,
+      "width": 92,
+      "height": 90
+    },
+    "explosionSmoke5.png": {
+      "x": 106,
+      "y": 1024,
+      "width": 106,
+      "height": 104
+    },
+    "fenceRed.png": {
+      "x": 212,
+      "y": 1076,
+      "width": 96,
+      "height": 32
+    },
+    "fenceYellow.png": {
+      "x": 212,
+      "y": 1044,
+      "width": 104,
+      "height": 32
+    },
+    "oilSpill_large.png": {
+      "x": 524,
+      "y": 1024,
+      "width": 100,
+      "height": 100
+    },
+    "oilSpill_small.png": {
+      "x": 624,
+      "y": 1099,
+      "width": 28,
+      "height": 28
+    },
+    "sandbagBeige.png": {
+      "x": 768,
+      "y": 186,
+      "width": 64,
+      "height": 44
+    },
+    "sandbagBeige_open.png": {
+      "x": 624,
+      "y": 1044,
+      "width": 84,
+      "height": 55
+    },
+    "sandbagBrown.png": {
+      "x": 764,
+      "y": 740,
+      "width": 64,
+      "height": 44
+    },
+    "sandbagBrown_open.png": {
+      "x": 708,
+      "y": 1052,
+      "width": 84,
+      "height": 55
+    },
+    "shotLarge.png": {
+      "x": 1024,
+      "y": 56,
+      "width": 40,
+      "height": 50
+    },
+    "shotOrange.png": {
+      "x": 1033,
+      "y": 214,
+      "width": 32,
+      "height": 56
+    },
+    "shotRed.png": {
+      "x": 1016,
+      "y": 434,
+      "width": 42,
+      "height": 76
+    },
+    "shotThin.png": {
+      "x": 1106,
+      "y": 440,
+      "width": 16,
+      "height": 52
+    },
+    "specialBarrel1.png": {
+      "x": 1014,
+      "y": 1080,
+      "width": 28,
+      "height": 44
+    },
+    "specialBarrel1_outline.png": {
+      "x": 1024,
+      "y": 106,
+      "width": 36,
+      "height": 52
+    },
+    "specialBarrel2.png": {
+      "x": 1042,
+      "y": 1080,
+      "width": 24,
+      "height": 48
+    },
+    "specialBarrel2_outline.png": {
+      "x": 1033,
+      "y": 158,
+      "width": 32,
+      "height": 56
+    },
+    "specialBarrel3.png": {
+      "x": 1088,
+      "y": 0,
+      "width": 20,
+      "height": 56
+    },
+    "specialBarrel3_outline.png": {
+      "x": 832,
+      "y": 186,
+      "width": 28,
+      "height": 64
+    },
+    "specialBarrel4.png": {
+      "x": 1088,
+      "y": 746,
+      "width": 20,
+      "height": 64
+    },
+    "specialBarrel4_outline.png": {
+      "x": 1060,
+      "y": 765,
+      "width": 28,
+      "height": 72
+    },
+    "specialBarrel5.png": {
+      "x": 1060,
+      "y": 106,
+      "width": 24,
+      "height": 52
+    },
+    "specialBarrel5_outline.png": {
+      "x": 1058,
+      "y": 362,
+      "width": 32,
+      "height": 60
+    },
+    "specialBarrel6.png": {
+      "x": 1089,
+      "y": 152,
+      "width": 16,
+      "height": 52
+    },
+    "specialBarrel6_outline.png": {
+      "x": 1062,
+      "y": 897,
+      "width": 24,
+      "height": 60
+    },
+    "specialBarrel7.png": {
+      "x": 1106,
+      "y": 360,
+      "width": 16,
+      "height": 52
+    },
+    "specialBarrel7_outline.png": {
+      "x": 1062,
+      "y": 1009,
+      "width": 24,
+      "height": 60
+    },
+    "tankBlue_barrel1.png": {
+      "x": 1086,
+      "y": 957,
+      "width": 24,
+      "height": 52
+    },
+    "tankBlue_barrel1_outline.png": {
+      "x": 1058,
+      "y": 422,
+      "width": 32,
+      "height": 60
+    },
+    "tankBlue_barrel2.png": {
+      "x": 1090,
+      "y": 1069,
+      "width": 16,
+      "height": 52
+    },
+    "tankBlue_barrel2_outline.png": {
+      "x": 1060,
+      "y": 837,
+      "width": 24,
+      "height": 60
+    },
+    "tankBlue_barrel3.png": {
+      "x": 1090,
+      "y": 466,
+      "width": 16,
+      "height": 52
+    },
+    "tankBlue_barrel3_outline.png": {
+      "x": 1061,
+      "y": 542,
+      "width": 24,
+      "height": 60
+    },
+    "tankBody_bigRed.png": {
+      "x": 768,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "tankBody_bigRed_outline.png": {
+      "x": 420,
+      "y": 1024,
+      "width": 104,
+      "height": 104
+    },
+    "tankBody_blue.png": {
+      "x": 792,
+      "y": 1052,
+      "width": 76,
+      "height": 76
+    },
+    "tankBody_blue_outline.png": {
+      "x": 868,
+      "y": 620,
+      "width": 84,
+      "height": 84
+    },
+    "tankBody_dark.png": {
+      "x": 876,
+      "y": 864,
+      "width": 76,
+      "height": 72
+    },
+    "tankBody_darkLarge.png": {
+      "x": 767,
+      "y": 256,
+      "width": 96,
+      "height": 112
+    },
+    "tankBody_darkLarge_outline.png": {
+      "x": 764,
+      "y": 620,
+      "width": 104,
+      "height": 120
+    },
+    "tankBody_dark_outline.png": {
+      "x": 868,
+      "y": 704,
+      "width": 84,
+      "height": 80
+    },
+    "tankBody_green.png": {
+      "x": 947,
+      "y": 290,
+      "width": 76,
+      "height": 72
+    },
+    "tankBody_green_outline.png": {
+      "x": 874,
+      "y": 1032,
+      "width": 84,
+      "height": 80
+    },
+    "tankBody_huge.png": {
+      "x": 760,
+      "y": 804,
+      "width": 116,
+      "height": 136
+    },
+    "tankBody_huge_outline.png": {
+      "x": 640,
+      "y": 660,
+      "width": 124,
+      "height": 144
+    },
+    "tankBody_red.png": {
+      "x": 1023,
+      "y": 290,
+      "width": 68,
+      "height": 72
+    },
+    "tankBody_red_outline.png": {
+      "x": 952,
+      "y": 569,
+      "width": 76,
+      "height": 80
+    },
+    "tankBody_sand.png": {
+      "x": 952,
+      "y": 864,
+      "width": 76,
+      "height": 72
+    },
+    "tankBody_sand_outline.png": {
+      "x": 876,
+      "y": 784,
+      "width": 84,
+      "height": 80
+    },
+    "tankDark_barrel1.png": {
+      "x": 1085,
+      "y": 602,
+      "width": 24,
+      "height": 52
+    },
+    "tankDark_barrel1_outline.png": {
+      "x": 1056,
+      "y": 705,
+      "width": 32,
+      "height": 60
+    },
+    "tankDark_barrel2.png": {
+      "x": 1091,
+      "y": 308,
+      "width": 16,
+      "height": 52
+    },
+    "tankDark_barrel2_outline.png": {
+      "x": 1084,
+      "y": 837,
+      "width": 24,
+      "height": 60
+    },
+    "tankDark_barrel3.png": {
+      "x": 1107,
+      "y": 276,
+      "width": 16,
+      "height": 52
+    },
+    "tankDark_barrel3_outline.png": {
+      "x": 1065,
+      "y": 210,
+      "width": 24,
+      "height": 60
+    },
+    "tankGreen_barrel1.png": {
+      "x": 1062,
+      "y": 957,
+      "width": 24,
+      "height": 52
+    },
+    "tankGreen_barrel1_outline.png": {
+      "x": 1028,
+      "y": 857,
+      "width": 32,
+      "height": 60
+    },
+    "tankGreen_barrel2.png": {
+      "x": 1108,
+      "y": 746,
+      "width": 16,
+      "height": 52
+    },
+    "tankGreen_barrel2_outline.png": {
+      "x": 1086,
+      "y": 897,
+      "width": 24,
+      "height": 60
+    },
+    "tankGreen_barrel3.png": {
+      "x": 1089,
+      "y": 204,
+      "width": 16,
+      "height": 52
+    },
+    "tankGreen_barrel3_outline.png": {
+      "x": 1086,
+      "y": 1009,
+      "width": 24,
+      "height": 60
+    },
+    "tankRed_barrel1.png": {
+      "x": 1061,
+      "y": 602,
+      "width": 24,
+      "height": 52
+    },
+    "tankRed_barrel1_outline.png": {
+      "x": 1026,
+      "y": 362,
+      "width": 32,
+      "height": 60
+    },
+    "tankRed_barrel2.png": {
+      "x": 1090,
+      "y": 414,
+      "width": 16,
+      "height": 52
+    },
+    "tankRed_barrel2_outline.png": {
+      "x": 1085,
+      "y": 542,
+      "width": 24,
+      "height": 60
+    },
+    "tankRed_barrel3.png": {
+      "x": 1090,
+      "y": 362,
+      "width": 16,
+      "height": 52
+    },
+    "tankRed_barrel3_outline.png": {
+      "x": 1088,
+      "y": 686,
+      "width": 24,
+      "height": 60
+    },
+    "tankSand_barrel1.png": {
+      "x": 1065,
+      "y": 158,
+      "width": 24,
+      "height": 52
+    },
+    "tankSand_barrel1_outline.png": {
+      "x": 1058,
+      "y": 482,
+      "width": 32,
+      "height": 60
+    },
+    "tankSand_barrel2.png": {
+      "x": 1105,
+      "y": 152,
+      "width": 16,
+      "height": 52
+    },
+    "tankSand_barrel2_outline.png": {
+      "x": 1064,
+      "y": 0,
+      "width": 24,
+      "height": 60
+    },
+    "tankSand_barrel3.png": {
+      "x": 1091,
+      "y": 256,
+      "width": 16,
+      "height": 52
+    },
+    "tankSand_barrel3_outline.png": {
+      "x": 1084,
+      "y": 60,
+      "width": 24,
+      "height": 60
+    },
+    "tank_bigRed.png": {
+      "x": 316,
+      "y": 1024,
+      "width": 104,
+      "height": 104
+    },
+    "tank_blue.png": {
+      "x": 874,
+      "y": 940,
+      "width": 84,
+      "height": 92
+    },
+    "tank_dark.png": {
+      "x": 870,
+      "y": 373,
+      "width": 84,
+      "height": 92
+    },
+    "tank_darkLarge.png": {
+      "x": 766,
+      "y": 382,
+      "width": 104,
+      "height": 120
+    },
+    "tank_green.png": {
+      "x": 864,
+      "y": 0,
+      "width": 84,
+      "height": 92
+    },
+    "tank_huge.png": {
+      "x": 640,
+      "y": 508,
+      "width": 124,
+      "height": 152
+    },
+    "tank_red.png": {
+      "x": 948,
+      "y": 0,
+      "width": 76,
+      "height": 92
+    },
+    "tank_sand.png": {
+      "x": 863,
+      "y": 281,
+      "width": 84,
+      "height": 92
+    },
+    "tileGrass1.png": {
+      "x": 384,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass2.png": {
+      "x": 384,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadCornerLL.png": {
+      "x": 0,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadCornerLR.png": {
+      "x": 0,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadCornerUL.png": {
+      "x": 128,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadCornerUR.png": {
+      "x": 128,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadCrossing.png": {
+      "x": 128,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadCrossingRound.png": {
+      "x": 384,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadEast.png": {
+      "x": 0,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadNorth.png": {
+      "x": 128,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadSplitE.png": {
+      "x": 128,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadSplitN.png": {
+      "x": 384,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadSplitS.png": {
+      "x": 384,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadSplitW.png": {
+      "x": 512,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionE.png": {
+      "x": 512,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionE_dirt.png": {
+      "x": 512,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionN.png": {
+      "x": 512,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionN_dirt.png": {
+      "x": 640,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionS.png": {
+      "x": 512,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionS_dirt.png": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionW.png": {
+      "x": 0,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_roadTransitionW_dirt.png": {
+      "x": 0,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_transitionE.png": {
+      "x": 640,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_transitionN.png": {
+      "x": 512,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_transitionS.png": {
+      "x": 512,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "tileGrass_transitionW.png": {
+      "x": 512,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand1.png": {
+      "x": 256,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand2.png": {
+      "x": 256,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadCornerLL.png": {
+      "x": 384,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadCornerLR.png": {
+      "x": 0,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadCornerUL.png": {
+      "x": 128,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadCornerUR.png": {
+      "x": 0,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadCrossing.png": {
+      "x": 384,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadCrossingRound.png": {
+      "x": 384,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadEast.png": {
+      "x": 256,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadNorth.png": {
+      "x": 256,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadSplitE.png": {
+      "x": 256,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadSplitN.png": {
+      "x": 256,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadSplitS.png": {
+      "x": 256,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "tileSand_roadSplitW.png": {
+      "x": 256,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "tracksDouble.png": {
+      "x": 951,
+      "y": 186,
+      "width": 82,
+      "height": 104
+    },
+    "tracksLarge.png": {
+      "x": 878,
+      "y": 465,
+      "width": 82,
+      "height": 104
+    },
+    "tracksSmall.png": {
+      "x": 952,
+      "y": 649,
+      "width": 74,
+      "height": 104
+    },
+    "treeBrown_large.png": {
+      "x": 128,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "treeBrown_leaf.png": {
+      "x": 212,
+      "y": 1024,
+      "width": 16,
+      "height": 20
+    },
+    "treeBrown_small.png": {
+      "x": 952,
+      "y": 92,
+      "width": 72,
+      "height": 72
+    },
+    "treeBrown_twigs.png": {
+      "x": 878,
+      "y": 569,
+      "width": 52,
+      "height": 44
+    },
+    "treeGreen_large.png": {
+      "x": 128,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "treeGreen_leaf.png": {
+      "x": 624,
+      "y": 1024,
+      "width": 16,
+      "height": 20
+    },
+    "treeGreen_small.png": {
+      "x": 954,
+      "y": 362,
+      "width": 72,
+      "height": 72
+    },
+    "treeGreen_twigs.png": {
+      "x": 960,
+      "y": 809,
+      "width": 52,
+      "height": 44
+    },
+    "wireCrooked.png": {
+      "x": 863,
+      "y": 186,
+      "width": 88,
+      "height": 95
+    },
+    "wireStraight.png": {
+      "x": 1028,
+      "y": 566,
+      "width": 33,
+      "height": 139
+    }
+  }
+}

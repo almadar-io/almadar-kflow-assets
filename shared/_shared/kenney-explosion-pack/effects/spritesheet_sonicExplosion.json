@@ -1,0 +1,59 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "sonicExplosion00.png": {
+      "x": 0,
+      "y": 284,
+      "width": 192,
+      "height": 192
+    },
+    "sonicExplosion01.png": {
+      "x": 284,
+      "y": 0,
+      "width": 152,
+      "height": 150
+    },
+    "sonicExplosion02.png": {
+      "x": 192,
+      "y": 284,
+      "width": 190,
+      "height": 190
+    },
+    "sonicExplosion03.png": {
+      "x": 0,
+      "y": 0,
+      "width": 284,
+      "height": 284
+    },
+    "sonicExplosion04.png": {
+      "x": 531,
+      "y": 140,
+      "width": 120,
+      "height": 124
+    },
+    "sonicExplosion05.png": {
+      "x": 525,
+      "y": 301,
+      "width": 133,
+      "height": 134
+    },
+    "sonicExplosion06.png": {
+      "x": 436,
+      "y": 0,
+      "width": 138,
+      "height": 140
+    },
+    "sonicExplosion07.png": {
+      "x": 382,
+      "y": 301,
+      "width": 143,
+      "height": 144
+    },
+    "sonicExplosion08.png": {
+      "x": 382,
+      "y": 150,
+      "width": 149,
+      "height": 151
+    }
+  }
+}

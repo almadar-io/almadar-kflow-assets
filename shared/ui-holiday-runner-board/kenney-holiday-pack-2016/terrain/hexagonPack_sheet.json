@@ -1,0 +1,77 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "hexagonTile_01.png": {
+      "x": 120,
+      "y": 280,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_02.png": {
+      "x": 360,
+      "y": 140,
+      "width": 120,
+      "height": 141
+    },
+    "hexagonTile_03.png": {
+      "x": 360,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_04.png": {
+      "x": 240,
+      "y": 280,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_05.png": {
+      "x": 240,
+      "y": 140,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_06.png": {
+      "x": 240,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_07.png": {
+      "x": 360,
+      "y": 281,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_08.png": {
+      "x": 120,
+      "y": 140,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_09.png": {
+      "x": 120,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_10.png": {
+      "x": 0,
+      "y": 280,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_11.png": {
+      "x": 0,
+      "y": 140,
+      "width": 120,
+      "height": 140
+    },
+    "hexagonTile_12.png": {
+      "x": 0,
+      "y": 0,
+      "width": 120,
+      "height": 140
+    }
+  }
+}

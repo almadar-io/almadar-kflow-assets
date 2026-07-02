@@ -1,0 +1,41 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "dieRed1.png": {
+      "x": 64,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "dieRed2.png": {
+      "x": 128,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "dieRed3.png": {
+      "x": 64,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "dieRed4.png": {
+      "x": 128,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "dieRed5.png": {
+      "x": 0,
+      "y": 64,
+      "width": 64,
+      "height": 64
+    },
+    "dieRed6.png": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    }
+  }
+}

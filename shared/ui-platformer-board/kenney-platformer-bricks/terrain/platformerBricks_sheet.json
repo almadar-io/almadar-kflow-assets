@@ -1,0 +1,917 @@
+{
+  "imagePath": "platformerBricks_sheet.png",
+  "subTextures": {
+    "DirtSlopeBottomRight.png": {
+      "x": 700,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "box.png": {
+      "x": 0,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "boxAlt.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoin.png": {
+      "x": 490,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoinAlt.png": {
+      "x": 980,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoinAltSmall.png": {
+      "x": 980,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoinAlt_disabled.png": {
+      "x": 980,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoinAlt_disabledSmall.png": {
+      "x": 980,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoinSmall.png": {
+      "x": 980,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoin_disabled.png": {
+      "x": 980,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "boxCoin_disabledSmall.png": {
+      "x": 980,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "boxEmpty.png": {
+      "x": 980,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "boxExplosive.png": {
+      "x": 980,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "boxExplosiveAlt.png": {
+      "x": 910,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "boxExplosiveSmall.png": {
+      "x": 910,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "boxExplosive_disabled.png": {
+      "x": 910,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "boxExplosive_disabledSmall.png": {
+      "x": 910,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "boxItem.png": {
+      "x": 910,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "boxItemAlt.png": {
+      "x": 910,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "boxItemAltSmall.png": {
+      "x": 840,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "boxItemAlt_disabled.png": {
+      "x": 910,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "boxItemAlt_disabledSmall.png": {
+      "x": 910,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "boxItemSmall.png": {
+      "x": 840,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "boxItem_disabled.png": {
+      "x": 910,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "boxItem_disabledSmall.png": {
+      "x": 910,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "boxWarning.png": {
+      "x": 840,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "brickWall.png": {
+      "x": 840,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "bridge.png": {
+      "x": 840,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "cactus.png": {
+      "x": 840,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "castle.png": {
+      "x": 840,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "castleHalf.png": {
+      "x": 840,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "castleHalfLeft.png": {
+      "x": 840,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "castleHalfMid.png": {
+      "x": 840,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "castleHalfRight.png": {
+      "x": 770,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "castleLeft.png": {
+      "x": 770,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "castleMid.png": {
+      "x": 770,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "castleRight.png": {
+      "x": 770,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "castleSlopeBottomLeft.png": {
+      "x": 770,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "castleSlopeBottomRight.png": {
+      "x": 770,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "castleSlopeTopLeft.png": {
+      "x": 770,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "castleSlopeTopRight.png": {
+      "x": 770,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "castleWall.png": {
+      "x": 770,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "dirt.png": {
+      "x": 770,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "dirtHalf.png": {
+      "x": 700,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "dirtHalfLeft.png": {
+      "x": 700,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "dirtHalfMid.png": {
+      "x": 700,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "dirtHalfRight.png": {
+      "x": 700,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "dirtLeft.png": {
+      "x": 700,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "dirtMid.png": {
+      "x": 700,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "dirtRight.png": {
+      "x": 700,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "dirtSlopeBottomLeft.png": {
+      "x": 700,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "dirtSlopeTopLeft.png": {
+      "x": 700,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "dirtSlopeTopRight.png": {
+      "x": 630,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "grass.png": {
+      "x": 630,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "grassHalf.png": {
+      "x": 630,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "grassHalfLeft.png": {
+      "x": 630,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "grassHalfMid.png": {
+      "x": 630,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "grassHalfRight.png": {
+      "x": 630,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "grassLeft.png": {
+      "x": 630,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "grassMid.png": {
+      "x": 630,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "grassRight.png": {
+      "x": 630,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "grassSlopeBottomLeft.png": {
+      "x": 630,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "grassSlopeBottomLeftAlt.png": {
+      "x": 560,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "grassSlopeBottomRight.png": {
+      "x": 560,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "grassSlopeBottomRightAlt.png": {
+      "x": 560,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "grassSlopeTopLeft.png": {
+      "x": 560,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "grassSlopeTopRight.png": {
+      "x": 560,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "keyBlue.png": {
+      "x": 560,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "keyGreen.png": {
+      "x": 560,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "keyRed.png": {
+      "x": 560,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "keyYellow.png": {
+      "x": 560,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "liquidLavaMid.png": {
+      "x": 560,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "liquidLavaTop.png": {
+      "x": 490,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "liquidWaterMid.png": {
+      "x": 490,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "liquidWaterTop.png": {
+      "x": 490,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "lockBlue.png": {
+      "x": 490,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "lockGreen.png": {
+      "x": 490,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "lockRed.png": {
+      "x": 980,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "lockYellow.png": {
+      "x": 490,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "magic.png": {
+      "x": 490,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "magicHalf.png": {
+      "x": 490,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "magicHalfLeft.png": {
+      "x": 490,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "magicHalfMid.png": {
+      "x": 420,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "magicHalfRight.png": {
+      "x": 420,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "magicLeft.png": {
+      "x": 420,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "magicMid.png": {
+      "x": 420,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "magicRight.png": {
+      "x": 420,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "magicSlopeBottomLeft.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "magicSlopeBottomLeftAlt.png": {
+      "x": 420,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "magicSlopeBottomRight.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "magicSlopeBottomRightAlt.png": {
+      "x": 420,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "magicSlopeTopLeft.png": {
+      "x": 420,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "magicSlopeTopRight.png": {
+      "x": 350,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "mud.png": {
+      "x": 350,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "mudHalf.png": {
+      "x": 350,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "mudHalfLeft.png": {
+      "x": 350,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "mudHalfMid.png": {
+      "x": 350,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "mudHalfRight.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "mudLeft.png": {
+      "x": 350,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "mudMid.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "mudRight.png": {
+      "x": 350,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "mudSlopeBottomLeft.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "mudSlopeBottomLeftAlt.png": {
+      "x": 280,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "mudSlopeBottomRight.png": {
+      "x": 280,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "mudSlopeBottomRightAlt.png": {
+      "x": 280,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "mudSlopeTopLeft.png": {
+      "x": 700,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "mudSlopeTopRight.png": {
+      "x": 630,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "plant.png": {
+      "x": 280,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "plantMagic.png": {
+      "x": 280,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "plantSand.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "sand.png": {
+      "x": 280,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "sandHalf.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "sandHalfLeft.png": {
+      "x": 280,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "sandHalfMid.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "sandHalfRight.png": {
+      "x": 210,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "sandLeft.png": {
+      "x": 210,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "sandMid.png": {
+      "x": 210,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "sandRight.png": {
+      "x": 210,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "sandSlopeBottomLeft.png": {
+      "x": 210,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "sandSlopeBottomLeftAlt.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "sandSlopeBottomRight.png": {
+      "x": 210,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "sandSlopeBottomRightAlt.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "sandSlopeTopLeft.png": {
+      "x": 210,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "sandSlopeTopRight.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "shadowLeft.png": {
+      "x": 140,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "shadowRight.png": {
+      "x": 140,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "snow.png": {
+      "x": 140,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "snowHalf.png": {
+      "x": 140,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "snowHalfLeft.png": {
+      "x": 140,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "snowHalfMid.png": {
+      "x": 140,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "snowHalfRight.png": {
+      "x": 140,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "snowLeft.png": {
+      "x": 140,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "snowMid.png": {
+      "x": 140,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "snowRight.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "snowSlopeBottomLeft.png": {
+      "x": 70,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "snowSlopeBottomLeftAlt.png": {
+      "x": 70,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "snowSlopeBottomRight.png": {
+      "x": 70,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "snowSlopeBottomRightAlt.png": {
+      "x": 70,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "snowSlopeTopLeft.png": {
+      "x": 70,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "snowSlopeTopRight.png": {
+      "x": 70,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "stone.png": {
+      "x": 70,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "stoneHalf.png": {
+      "x": 70,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    },
+    "stoneHalfLeft.png": {
+      "x": 70,
+      "y": 105,
+      "width": 70,
+      "height": 105
+    },
+    "stoneHalfMid.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 105
+    },
+    "stoneHalfRight.png": {
+      "x": 0,
+      "y": 945,
+      "width": 70,
+      "height": 105
+    },
+    "stoneLeft.png": {
+      "x": 0,
+      "y": 840,
+      "width": 70,
+      "height": 105
+    },
+    "stoneMid.png": {
+      "x": 0,
+      "y": 735,
+      "width": 70,
+      "height": 105
+    },
+    "stoneRight.png": {
+      "x": 0,
+      "y": 630,
+      "width": 70,
+      "height": 105
+    },
+    "stoneSlopeBottomLeft.png": {
+      "x": 0,
+      "y": 525,
+      "width": 70,
+      "height": 105
+    },
+    "stoneSlopeBottomRight.png": {
+      "x": 0,
+      "y": 420,
+      "width": 70,
+      "height": 105
+    },
+    "stoneSlopeTopLeft.png": {
+      "x": 0,
+      "y": 315,
+      "width": 70,
+      "height": 105
+    },
+    "stoneSlopeTopRight.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 105
+    }
+  }
+}

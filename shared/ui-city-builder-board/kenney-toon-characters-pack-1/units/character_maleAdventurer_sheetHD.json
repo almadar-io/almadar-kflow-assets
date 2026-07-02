@@ -1,0 +1,275 @@
+{
+  "imagePath": "character_maleAdventurer_sheetHD.png",
+  "subTextures": {
+    "idle": {
+      "x": 0,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "jump": {
+      "x": 192,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "fall": {
+      "x": 384,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "duck": {
+      "x": 576,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "hit": {
+      "x": 768,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "climb0": {
+      "x": 960,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "climb1": {
+      "x": 1152,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "cheer0": {
+      "x": 1344,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "cheer1": {
+      "x": 1536,
+      "y": 0,
+      "width": 192,
+      "height": 256
+    },
+    "back": {
+      "x": 0,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "slide": {
+      "x": 192,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "interact": {
+      "x": 384,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "switch0": {
+      "x": 576,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "switch1": {
+      "x": 768,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "kick": {
+      "x": 960,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "side": {
+      "x": 1152,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "shove": {
+      "x": 1344,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "shoveBack": {
+      "x": 1536,
+      "y": 256,
+      "width": 192,
+      "height": 256
+    },
+    "talk": {
+      "x": 0,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "attackKick": {
+      "x": 192,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "hang": {
+      "x": 384,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "hold": {
+      "x": 576,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "show": {
+      "x": 768,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "behindBack": {
+      "x": 960,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "run0": {
+      "x": 1152,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "run1": {
+      "x": 1344,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "run2": {
+      "x": 1536,
+      "y": 512,
+      "width": 192,
+      "height": 256
+    },
+    "attack0": {
+      "x": 0,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "attack1": {
+      "x": 192,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "attack2": {
+      "x": 384,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "think": {
+      "x": 576,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "down": {
+      "x": 768,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "drag": {
+      "x": 960,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "hurt": {
+      "x": 1152,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "wide": {
+      "x": 1344,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "rope": {
+      "x": 1536,
+      "y": 768,
+      "width": 192,
+      "height": 256
+    },
+    "walk0": {
+      "x": 0,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk1": {
+      "x": 192,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk2": {
+      "x": 384,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk3": {
+      "x": 576,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk4": {
+      "x": 768,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk5": {
+      "x": 960,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk6": {
+      "x": 1152,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "walk7": {
+      "x": 1344,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    },
+    "fallDown": {
+      "x": 1536,
+      "y": 1024,
+      "width": 192,
+      "height": 256
+    }
+  }
+}

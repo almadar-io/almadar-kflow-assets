@@ -1,0 +1,221 @@
+{
+  "imagePath": "kenney-splat-pack.generated.png",
+  "subTextures": {
+    "splat00.png": {
+      "x": 1,
+      "y": 1,
+      "width": 256,
+      "height": 256
+    },
+    "splat01.png": {
+      "x": 258,
+      "y": 1,
+      "width": 256,
+      "height": 256
+    },
+    "splat02.png": {
+      "x": 515,
+      "y": 1,
+      "width": 256,
+      "height": 256
+    },
+    "splat03.png": {
+      "x": 1,
+      "y": 258,
+      "width": 256,
+      "height": 256
+    },
+    "splat04.png": {
+      "x": 258,
+      "y": 258,
+      "width": 256,
+      "height": 256
+    },
+    "splat05.png": {
+      "x": 515,
+      "y": 258,
+      "width": 256,
+      "height": 256
+    },
+    "splat06.png": {
+      "x": 1,
+      "y": 515,
+      "width": 256,
+      "height": 256
+    },
+    "splat07.png": {
+      "x": 258,
+      "y": 515,
+      "width": 256,
+      "height": 256
+    },
+    "splat08.png": {
+      "x": 515,
+      "y": 515,
+      "width": 256,
+      "height": 256
+    },
+    "splat09.png": {
+      "x": 1,
+      "y": 772,
+      "width": 256,
+      "height": 256
+    },
+    "splat10.png": {
+      "x": 258,
+      "y": 772,
+      "width": 256,
+      "height": 256
+    },
+    "splat11.png": {
+      "x": 515,
+      "y": 772,
+      "width": 256,
+      "height": 256
+    },
+    "splat12.png": {
+      "x": 1,
+      "y": 1029,
+      "width": 256,
+      "height": 256
+    },
+    "splat13.png": {
+      "x": 258,
+      "y": 1029,
+      "width": 256,
+      "height": 256
+    },
+    "splat14.png": {
+      "x": 515,
+      "y": 1029,
+      "width": 256,
+      "height": 256
+    },
+    "splat15.png": {
+      "x": 1,
+      "y": 1286,
+      "width": 256,
+      "height": 256
+    },
+    "splat16.png": {
+      "x": 258,
+      "y": 1286,
+      "width": 256,
+      "height": 256
+    },
+    "splat17.png": {
+      "x": 515,
+      "y": 1286,
+      "width": 256,
+      "height": 256
+    },
+    "splat18.png": {
+      "x": 1,
+      "y": 1543,
+      "width": 256,
+      "height": 256
+    },
+    "splat19.png": {
+      "x": 258,
+      "y": 1543,
+      "width": 256,
+      "height": 256
+    },
+    "splat20.png": {
+      "x": 515,
+      "y": 1543,
+      "width": 256,
+      "height": 256
+    },
+    "splat21.png": {
+      "x": 1,
+      "y": 1800,
+      "width": 256,
+      "height": 256
+    },
+    "splat22.png": {
+      "x": 258,
+      "y": 1800,
+      "width": 256,
+      "height": 256
+    },
+    "splat23.png": {
+      "x": 515,
+      "y": 1800,
+      "width": 256,
+      "height": 256
+    },
+    "splat24.png": {
+      "x": 1,
+      "y": 2057,
+      "width": 256,
+      "height": 256
+    },
+    "splat25.png": {
+      "x": 258,
+      "y": 2057,
+      "width": 256,
+      "height": 256
+    },
+    "splat26.png": {
+      "x": 515,
+      "y": 2057,
+      "width": 256,
+      "height": 256
+    },
+    "splat27.png": {
+      "x": 1,
+      "y": 2314,
+      "width": 256,
+      "height": 256
+    },
+    "splat28.png": {
+      "x": 258,
+      "y": 2314,
+      "width": 256,
+      "height": 256
+    },
+    "splat29.png": {
+      "x": 515,
+      "y": 2314,
+      "width": 256,
+      "height": 256
+    },
+    "splat30.png": {
+      "x": 1,
+      "y": 2571,
+      "width": 256,
+      "height": 256
+    },
+    "splat31.png": {
+      "x": 258,
+      "y": 2571,
+      "width": 256,
+      "height": 256
+    },
+    "splat32.png": {
+      "x": 515,
+      "y": 2571,
+      "width": 256,
+      "height": 256
+    },
+    "splat33.png": {
+      "x": 1,
+      "y": 2828,
+      "width": 256,
+      "height": 256
+    },
+    "splat34.png": {
+      "x": 258,
+      "y": 2828,
+      "width": 256,
+      "height": 256
+    },
+    "splat35.png": {
+      "x": 515,
+      "y": 2828,
+      "width": 256,
+      "height": 256
+    }
+  }
+}

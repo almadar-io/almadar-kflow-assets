@@ -1,0 +1,7 @@
+{
+  "imagePath": "monochrome_tilemap_packed.png",
+  "tileWidth": 16,
+  "tileHeight": 16,
+  "columns": 20,
+  "rows": 20
+}

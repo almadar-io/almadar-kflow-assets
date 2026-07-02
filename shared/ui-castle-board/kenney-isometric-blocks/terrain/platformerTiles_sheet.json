@@ -1,0 +1,485 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "platformerTile_01.png": {
+      "x": 336,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_02.png": {
+      "x": 672,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_03.png": {
+      "x": 672,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_04.png": {
+      "x": 672,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_05.png": {
+      "x": 672,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_06.png": {
+      "x": 672,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_07.png": {
+      "x": 560,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_08.png": {
+      "x": 560,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_09.png": {
+      "x": 560,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_10.png": {
+      "x": 560,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_11.png": {
+      "x": 560,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_12.png": {
+      "x": 560,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_13.png": {
+      "x": 560,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_14.png": {
+      "x": 448,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_15.png": {
+      "x": 448,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_16.png": {
+      "x": 448,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_17.png": {
+      "x": 448,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_18.png": {
+      "x": 448,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_19.png": {
+      "x": 448,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_20.png": {
+      "x": 448,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_21.png": {
+      "x": 336,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_22.png": {
+      "x": 336,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_23.png": {
+      "x": 336,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_24.png": {
+      "x": 336,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_25.png": {
+      "x": 672,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_26.png": {
+      "x": 336,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_27.png": {
+      "x": 336,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_28.png": {
+      "x": 224,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_29.png": {
+      "x": 224,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_30.png": {
+      "x": 224,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_31.png": {
+      "x": 224,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_32.png": {
+      "x": 224,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_33.png": {
+      "x": 224,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_34.png": {
+      "x": 224,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_35.png": {
+      "x": 112,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_36.png": {
+      "x": 112,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_37.png": {
+      "x": 112,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_38.png": {
+      "x": 112,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_39.png": {
+      "x": 112,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_40.png": {
+      "x": 112,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_41.png": {
+      "x": 112,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_42.png": {
+      "x": 0,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_43.png": {
+      "x": 0,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_44.png": {
+      "x": 0,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_45.png": {
+      "x": 0,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_46.png": {
+      "x": 0,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_47.png": {
+      "x": 0,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_48.png": {
+      "x": 0,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    }
+  }
+}

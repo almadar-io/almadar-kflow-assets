@@ -1,0 +1,581 @@
+{
+  "imagePath": "spritesheet.png",
+  "subTextures": {
+    "caneGreen.png": {
+      "x": 0,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "caneGreenSmall.png": {
+      "x": 0,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "caneGreenTop.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "caneGreenTopAlt.png": {
+      "x": 280,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "caneRed.png": {
+      "x": 630,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "caneRedSmall.png": {
+      "x": 630,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "caneRedTop.png": {
+      "x": 630,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "caneRedTopAlt.png": {
+      "x": 630,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "deadTree.png": {
+      "x": 630,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "iceBlock.png": {
+      "x": 560,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "iceBlockAlt.png": {
+      "x": 560,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "iceBlockHalf.png": {
+      "x": 560,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "iceBlockHalfAlt.png": {
+      "x": 560,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "iceWater.png": {
+      "x": 560,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterAlt.png": {
+      "x": 560,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterDeep.png": {
+      "x": 560,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterDeepAlt.png": {
+      "x": 560,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterDeepStars.png": {
+      "x": 560,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterDeepStarsAlt.png": {
+      "x": 560,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterMid.png": {
+      "x": 490,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "iceWaterMidAlt.png": {
+      "x": 490,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "igloo.png": {
+      "x": 490,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "iglooAlt.png": {
+      "x": 490,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "iglooDoor.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "iglooRoof.png": {
+      "x": 490,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "iglooRoofLeft.png": {
+      "x": 490,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "iglooRoofRight.png": {
+      "x": 490,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "pineSapling.png": {
+      "x": 490,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "pineSaplingAlt.png": {
+      "x": 490,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "plant.png": {
+      "x": 420,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "plantAlt.png": {
+      "x": 420,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "rock.png": {
+      "x": 420,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "rockAlt.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "snowBall.png": {
+      "x": 420,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "snowBallBig.png": {
+      "x": 420,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "snowBallBigGround.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "snowBallGround.png": {
+      "x": 420,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "snowGroundLeft.png": {
+      "x": 420,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "snowGroundRight.png": {
+      "x": 420,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "snowHill.png": {
+      "x": 350,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "snowHillLow.png": {
+      "x": 350,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "snowLeft.png": {
+      "x": 350,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "snowMid.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "snowRight.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "snowWave.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "spikeTop.png": {
+      "x": 630,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "spikesBottom.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "spikesBottomAlt.png": {
+      "x": 350,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "spikesBottomAlt2.png": {
+      "x": 350,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "spikesTop.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "spikesTopAlt.png": {
+      "x": 280,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "spikesTopAlt2.png": {
+      "x": 280,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "tree.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesLeft.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesLeftAlt.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesLeftSnowAlt.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesRight.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesSnowLeft.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesSnowRight.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesSnowRightAlt.png": {
+      "x": 210,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "treeBranchesSnowRightSnowAlt.png": {
+      "x": 210,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "treeTop.png": {
+      "x": 210,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "treeTopSnow.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunk.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBottom.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBottomAlt.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBottomAlt2.png": {
+      "x": 210,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBottomAlt3.png": {
+      "x": 210,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBranch.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBranchEndLeft.png": {
+      "x": 140,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBranchEndRight.png": {
+      "x": 140,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBranchLeftAlt.png": {
+      "x": 140,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkBranchRightAlt.png": {
+      "x": 140,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkSplitLeft.png": {
+      "x": 140,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkSplitRight.png": {
+      "x": 140,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "treeTrunkTop.png": {
+      "x": 140,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "tundra.png": {
+      "x": 140,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "tundraCenter.png": {
+      "x": 140,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "tundraCenter_rounded.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "tundraCliffLeft.png": {
+      "x": 70,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "tundraCliffLeftAlt.png": {
+      "x": 70,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "tundraCliffRight.png": {
+      "x": 70,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "tundraCliffRightAlt.png": {
+      "x": 70,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalf.png": {
+      "x": 70,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalfLeft.png": {
+      "x": 70,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalfMid.png": {
+      "x": 70,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHalfRight.png": {
+      "x": 70,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHillLeft.png": {
+      "x": 70,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHillLeft2.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHillRight.png": {
+      "x": 0,
+      "y": 630,
+      "width": 70,
+      "height": 70
+    },
+    "tundraHillRight2.png": {
+      "x": 0,
+      "y": 560,
+      "width": 70,
+      "height": 70
+    },
+    "tundraLedgeLeft.png": {
+      "x": 0,
+      "y": 490,
+      "width": 70,
+      "height": 70
+    },
+    "tundraLedgeRight.png": {
+      "x": 0,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "tundraLeft.png": {
+      "x": 0,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "tundraMid.png": {
+      "x": 0,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "tundraRight.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

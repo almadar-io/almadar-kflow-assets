@@ -1,0 +1,7 @@
+{
+  "imagePath": "elements.png",
+  "tileWidth": 64,
+  "tileHeight": 64,
+  "columns": 9,
+  "rows": 9
+}

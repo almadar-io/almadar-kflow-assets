@@ -1,0 +1,323 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "cardClubs10.png": {
+      "x": 560,
+      "y": 760,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs2.png": {
+      "x": 280,
+      "y": 1140,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs3.png": {
+      "x": 700,
+      "y": 190,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs4.png": {
+      "x": 700,
+      "y": 0,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs5.png": {
+      "x": 560,
+      "y": 1710,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs6.png": {
+      "x": 560,
+      "y": 1520,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs7.png": {
+      "x": 560,
+      "y": 1330,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs8.png": {
+      "x": 560,
+      "y": 1140,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubs9.png": {
+      "x": 560,
+      "y": 950,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubsA.png": {
+      "x": 560,
+      "y": 570,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubsJ.png": {
+      "x": 560,
+      "y": 380,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubsK.png": {
+      "x": 560,
+      "y": 190,
+      "width": 140,
+      "height": 190
+    },
+    "cardClubsQ.png": {
+      "x": 560,
+      "y": 0,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds10.png": {
+      "x": 420,
+      "y": 190,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds2.png": {
+      "x": 420,
+      "y": 1710,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds3.png": {
+      "x": 420,
+      "y": 1520,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds4.png": {
+      "x": 420,
+      "y": 1330,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds5.png": {
+      "x": 420,
+      "y": 1140,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds6.png": {
+      "x": 420,
+      "y": 950,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds7.png": {
+      "x": 420,
+      "y": 760,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds8.png": {
+      "x": 420,
+      "y": 570,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamonds9.png": {
+      "x": 420,
+      "y": 380,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamondsA.png": {
+      "x": 420,
+      "y": 0,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamondsJ.png": {
+      "x": 280,
+      "y": 1710,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamondsK.png": {
+      "x": 280,
+      "y": 1520,
+      "width": 140,
+      "height": 190
+    },
+    "cardDiamondsQ.png": {
+      "x": 280,
+      "y": 1330,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts10.png": {
+      "x": 140,
+      "y": 1520,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts2.png": {
+      "x": 700,
+      "y": 380,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts3.png": {
+      "x": 280,
+      "y": 950,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts4.png": {
+      "x": 280,
+      "y": 760,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts5.png": {
+      "x": 280,
+      "y": 570,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts6.png": {
+      "x": 280,
+      "y": 380,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts7.png": {
+      "x": 280,
+      "y": 190,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts8.png": {
+      "x": 280,
+      "y": 0,
+      "width": 140,
+      "height": 190
+    },
+    "cardHearts9.png": {
+      "x": 140,
+      "y": 1710,
+      "width": 140,
+      "height": 190
+    },
+    "cardHeartsA.png": {
+      "x": 140,
+      "y": 1330,
+      "width": 140,
+      "height": 190
+    },
+    "cardHeartsJ.png": {
+      "x": 140,
+      "y": 1140,
+      "width": 140,
+      "height": 190
+    },
+    "cardHeartsK.png": {
+      "x": 140,
+      "y": 950,
+      "width": 140,
+      "height": 190
+    },
+    "cardHeartsQ.png": {
+      "x": 140,
+      "y": 760,
+      "width": 140,
+      "height": 190
+    },
+    "cardJoker.png": {
+      "x": 140,
+      "y": 570,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades10.png": {
+      "x": 0,
+      "y": 760,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades2.png": {
+      "x": 140,
+      "y": 380,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades3.png": {
+      "x": 140,
+      "y": 190,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades4.png": {
+      "x": 140,
+      "y": 0,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades5.png": {
+      "x": 0,
+      "y": 1710,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades6.png": {
+      "x": 0,
+      "y": 1520,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades7.png": {
+      "x": 0,
+      "y": 1330,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades8.png": {
+      "x": 0,
+      "y": 1140,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpades9.png": {
+      "x": 0,
+      "y": 950,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpadesA.png": {
+      "x": 0,
+      "y": 570,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpadesJ.png": {
+      "x": 0,
+      "y": 380,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpadesK.png": {
+      "x": 0,
+      "y": 190,
+      "width": 140,
+      "height": 190
+    },
+    "cardSpadesQ.png": {
+      "x": 0,
+      "y": 0,
+      "width": 140,
+      "height": 190
+    }
+  }
+}

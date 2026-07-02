@@ -1,0 +1,1355 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "abstractTile_01.png": {
+      "x": 448,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_02.png": {
+      "x": 896,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_03.png": {
+      "x": 896,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_04.png": {
+      "x": 896,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_05.png": {
+      "x": 896,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_06.png": {
+      "x": 896,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_07.png": {
+      "x": 896,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_08.png": {
+      "x": 896,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_09.png": {
+      "x": 896,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_10.png": {
+      "x": 896,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_11.png": {
+      "x": 896,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_12.png": {
+      "x": 896,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_13.png": {
+      "x": 896,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_14.png": {
+      "x": 896,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_15.png": {
+      "x": 896,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_16.png": {
+      "x": 784,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_17.png": {
+      "x": 784,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_18.png": {
+      "x": 784,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_19.png": {
+      "x": 784,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_20.png": {
+      "x": 784,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_21.png": {
+      "x": 784,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_22.png": {
+      "x": 784,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_23.png": {
+      "x": 784,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_24.png": {
+      "x": 784,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_25.png": {
+      "x": 784,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_26.png": {
+      "x": 784,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_27.png": {
+      "x": 784,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_28.png": {
+      "x": 784,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_29.png": {
+      "x": 784,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_30.png": {
+      "x": 784,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_31.png": {
+      "x": 672,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "abstractTile_32.png": {
+      "x": 672,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_01.png": {
+      "x": 672,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_02.png": {
+      "x": 672,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_03.png": {
+      "x": 672,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_04.png": {
+      "x": 672,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_05.png": {
+      "x": 672,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_06.png": {
+      "x": 672,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_07.png": {
+      "x": 672,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_08.png": {
+      "x": 672,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_09.png": {
+      "x": 672,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_10.png": {
+      "x": 672,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_11.png": {
+      "x": 672,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_12.png": {
+      "x": 672,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_13.png": {
+      "x": 672,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_14.png": {
+      "x": 560,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_15.png": {
+      "x": 560,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_16.png": {
+      "x": 560,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_17.png": {
+      "x": 560,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_18.png": {
+      "x": 560,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_19.png": {
+      "x": 560,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_20.png": {
+      "x": 560,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_21.png": {
+      "x": 560,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_22.png": {
+      "x": 560,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_23.png": {
+      "x": 560,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_24.png": {
+      "x": 560,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_25.png": {
+      "x": 560,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_26.png": {
+      "x": 560,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_27.png": {
+      "x": 560,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_28.png": {
+      "x": 560,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_29.png": {
+      "x": 448,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_30.png": {
+      "x": 448,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_31.png": {
+      "x": 448,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_32.png": {
+      "x": 448,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_33.png": {
+      "x": 448,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_34.png": {
+      "x": 448,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_35.png": {
+      "x": 448,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_36.png": {
+      "x": 896,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_37.png": {
+      "x": 448,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_38.png": {
+      "x": 448,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_39.png": {
+      "x": 448,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_40.png": {
+      "x": 448,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_41.png": {
+      "x": 448,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_42.png": {
+      "x": 448,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_43.png": {
+      "x": 448,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_44.png": {
+      "x": 336,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_45.png": {
+      "x": 336,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_46.png": {
+      "x": 336,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_47.png": {
+      "x": 336,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "platformerTile_48.png": {
+      "x": 336,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_01.png": {
+      "x": 336,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_02.png": {
+      "x": 336,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_03.png": {
+      "x": 336,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_04.png": {
+      "x": 336,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_05.png": {
+      "x": 336,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_06.png": {
+      "x": 336,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_07.png": {
+      "x": 336,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_08.png": {
+      "x": 336,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_09.png": {
+      "x": 336,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_10.png": {
+      "x": 336,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_11.png": {
+      "x": 224,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_12.png": {
+      "x": 224,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_13.png": {
+      "x": 224,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_14.png": {
+      "x": 224,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_15.png": {
+      "x": 224,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_16.png": {
+      "x": 224,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_17.png": {
+      "x": 224,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_18.png": {
+      "x": 224,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_19.png": {
+      "x": 224,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_20.png": {
+      "x": 224,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_21.png": {
+      "x": 224,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_22.png": {
+      "x": 224,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_23.png": {
+      "x": 224,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_24.png": {
+      "x": 224,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_25.png": {
+      "x": 224,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_26.png": {
+      "x": 112,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_27.png": {
+      "x": 112,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_28.png": {
+      "x": 112,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_29.png": {
+      "x": 112,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_30.png": {
+      "x": 112,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_31.png": {
+      "x": 112,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_32.png": {
+      "x": 112,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_33.png": {
+      "x": 112,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_34.png": {
+      "x": 112,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_35.png": {
+      "x": 112,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_36.png": {
+      "x": 112,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_37.png": {
+      "x": 112,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_38.png": {
+      "x": 112,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_39.png": {
+      "x": 112,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_40.png": {
+      "x": 112,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_41.png": {
+      "x": 0,
+      "y": 1806,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_42.png": {
+      "x": 0,
+      "y": 1677,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_43.png": {
+      "x": 0,
+      "y": 1548,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_44.png": {
+      "x": 0,
+      "y": 1419,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_45.png": {
+      "x": 0,
+      "y": 1290,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_46.png": {
+      "x": 0,
+      "y": 1161,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_47.png": {
+      "x": 0,
+      "y": 1032,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_48.png": {
+      "x": 0,
+      "y": 903,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_49.png": {
+      "x": 0,
+      "y": 774,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_50.png": {
+      "x": 0,
+      "y": 645,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_51.png": {
+      "x": 0,
+      "y": 516,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_52.png": {
+      "x": 0,
+      "y": 387,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_53.png": {
+      "x": 0,
+      "y": 258,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_54.png": {
+      "x": 0,
+      "y": 129,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    },
+    "voxelTile_55.png": {
+      "x": 0,
+      "y": 0,
+      "width": 111,
+      "height": 128,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 111,
+      "frameHeight": 128
+    }
+  }
+}

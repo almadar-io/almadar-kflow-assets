@@ -1,0 +1,419 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "blackBrow1.png": {
+      "x": 41,
+      "y": 429,
+      "width": 40,
+      "height": 17
+    },
+    "blackBrow2.png": {
+      "x": 0,
+      "y": 427,
+      "width": 41,
+      "height": 11
+    },
+    "blackBrow3.png": {
+      "x": 41,
+      "y": 395,
+      "width": 40,
+      "height": 17
+    },
+    "blondeBrow1.png": {
+      "x": 81,
+      "y": 378,
+      "width": 40,
+      "height": 17
+    },
+    "blondeBrow2.png": {
+      "x": 0,
+      "y": 372,
+      "width": 41,
+      "height": 11
+    },
+    "blondeBrow3.png": {
+      "x": 80,
+      "y": 463,
+      "width": 40,
+      "height": 17
+    },
+    "brown1Brow1.png": {
+      "x": 80,
+      "y": 446,
+      "width": 40,
+      "height": 17
+    },
+    "brown1Brow2.png": {
+      "x": 0,
+      "y": 361,
+      "width": 41,
+      "height": 11
+    },
+    "brown1Brow3.png": {
+      "x": 80,
+      "y": 480,
+      "width": 40,
+      "height": 17
+    },
+    "brown2Brow1.png": {
+      "x": 0,
+      "y": 483,
+      "width": 40,
+      "height": 17
+    },
+    "brown2Brow2.png": {
+      "x": 0,
+      "y": 383,
+      "width": 41,
+      "height": 11
+    },
+    "brown2Brow3.png": {
+      "x": 40,
+      "y": 466,
+      "width": 40,
+      "height": 17
+    },
+    "eyeBlack_large.png": {
+      "x": 129,
+      "y": 266,
+      "width": 21,
+      "height": 21
+    },
+    "eyeBlack_small.png": {
+      "x": 131,
+      "y": 168,
+      "width": 15,
+      "height": 16
+    },
+    "eyeBlue_large.png": {
+      "x": 121,
+      "y": 365,
+      "width": 21,
+      "height": 21
+    },
+    "eyeBlue_small.png": {
+      "x": 122,
+      "y": 236,
+      "width": 15,
+      "height": 16
+    },
+    "eyeBrown_large.png": {
+      "x": 129,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "eyeBrown_small.png": {
+      "x": 131,
+      "y": 152,
+      "width": 15,
+      "height": 16
+    },
+    "eyeGreen_large.png": {
+      "x": 129,
+      "y": 329,
+      "width": 21,
+      "height": 21
+    },
+    "eyeGreen_small.png": {
+      "x": 131,
+      "y": 215,
+      "width": 15,
+      "height": 16
+    },
+    "eyePine_large.png": {
+      "x": 129,
+      "y": 308,
+      "width": 21,
+      "height": 21
+    },
+    "eyePine_small.png": {
+      "x": 131,
+      "y": 184,
+      "width": 15,
+      "height": 16
+    },
+    "face1.png": {
+      "x": 0,
+      "y": 152,
+      "width": 100,
+      "height": 101
+    },
+    "face2.png": {
+      "x": 0,
+      "y": 253,
+      "width": 98,
+      "height": 108
+    },
+    "face3.png": {
+      "x": 0,
+      "y": 0,
+      "width": 112,
+      "height": 65
+    },
+    "face4.png": {
+      "x": 0,
+      "y": 65,
+      "width": 111,
+      "height": 87
+    },
+    "greyBrow1.png": {
+      "x": 0,
+      "y": 449,
+      "width": 40,
+      "height": 17
+    },
+    "greyBrow2.png": {
+      "x": 0,
+      "y": 416,
+      "width": 41,
+      "height": 11
+    },
+    "greyBrow3.png": {
+      "x": 0,
+      "y": 466,
+      "width": 40,
+      "height": 17
+    },
+    "mouth_glad.png": {
+      "x": 98,
+      "y": 253,
+      "width": 34,
+      "height": 13
+    },
+    "mouth_happy.png": {
+      "x": 81,
+      "y": 421,
+      "width": 34,
+      "height": 13
+    },
+    "mouth_oh.png": {
+      "x": 131,
+      "y": 200,
+      "width": 15,
+      "height": 15
+    },
+    "mouth_sad.png": {
+      "x": 80,
+      "y": 497,
+      "width": 34,
+      "height": 13
+    },
+    "mouth_straight.png": {
+      "x": 0,
+      "y": 500,
+      "width": 36,
+      "height": 6
+    },
+    "mouth_teethLower.png": {
+      "x": 81,
+      "y": 395,
+      "width": 34,
+      "height": 13
+    },
+    "mouth_teethUpper.png": {
+      "x": 81,
+      "y": 408,
+      "width": 34,
+      "height": 13
+    },
+    "redBrow1.png": {
+      "x": 40,
+      "y": 449,
+      "width": 40,
+      "height": 17
+    },
+    "redBrow2.png": {
+      "x": 0,
+      "y": 394,
+      "width": 41,
+      "height": 11
+    },
+    "redBrow3.png": {
+      "x": 41,
+      "y": 361,
+      "width": 40,
+      "height": 17
+    },
+    "tanBrow1.png": {
+      "x": 41,
+      "y": 412,
+      "width": 40,
+      "height": 17
+    },
+    "tanBrow2.png": {
+      "x": 0,
+      "y": 405,
+      "width": 41,
+      "height": 11
+    },
+    "tanBrow3.png": {
+      "x": 81,
+      "y": 361,
+      "width": 40,
+      "height": 17
+    },
+    "tint1Nose1.png": {
+      "x": 98,
+      "y": 266,
+      "width": 31,
+      "height": 21
+    },
+    "tint1Nose2.png": {
+      "x": 111,
+      "y": 65,
+      "width": 24,
+      "height": 24
+    },
+    "tint1Nose3.png": {
+      "x": 120,
+      "y": 482,
+      "width": 22,
+      "height": 15
+    },
+    "tint2Nose1.png": {
+      "x": 100,
+      "y": 173,
+      "width": 31,
+      "height": 21
+    },
+    "tint2Nose2.png": {
+      "x": 111,
+      "y": 89,
+      "width": 24,
+      "height": 24
+    },
+    "tint2Nose3.png": {
+      "x": 120,
+      "y": 467,
+      "width": 22,
+      "height": 15
+    },
+    "tint3Nose1.png": {
+      "x": 100,
+      "y": 152,
+      "width": 31,
+      "height": 21
+    },
+    "tint3Nose2.png": {
+      "x": 111,
+      "y": 113,
+      "width": 24,
+      "height": 24
+    },
+    "tint3Nose3.png": {
+      "x": 114,
+      "y": 497,
+      "width": 22,
+      "height": 15
+    },
+    "tint4Nose1.png": {
+      "x": 100,
+      "y": 215,
+      "width": 31,
+      "height": 21
+    },
+    "tint4Nose2.png": {
+      "x": 112,
+      "y": 0,
+      "width": 24,
+      "height": 24
+    },
+    "tint4Nose3.png": {
+      "x": 100,
+      "y": 236,
+      "width": 22,
+      "height": 15
+    },
+    "tint5Nose1.png": {
+      "x": 100,
+      "y": 194,
+      "width": 31,
+      "height": 21
+    },
+    "tint5Nose2.png": {
+      "x": 115,
+      "y": 419,
+      "width": 24,
+      "height": 24
+    },
+    "tint5Nose3.png": {
+      "x": 111,
+      "y": 137,
+      "width": 22,
+      "height": 15
+    },
+    "tint6Nose1.png": {
+      "x": 98,
+      "y": 287,
+      "width": 31,
+      "height": 21
+    },
+    "tint6Nose2.png": {
+      "x": 112,
+      "y": 24,
+      "width": 24,
+      "height": 24
+    },
+    "tint6Nose3.png": {
+      "x": 112,
+      "y": 48,
+      "width": 22,
+      "height": 15
+    },
+    "tint7Nose1.png": {
+      "x": 98,
+      "y": 329,
+      "width": 31,
+      "height": 21
+    },
+    "tint7Nose2.png": {
+      "x": 120,
+      "y": 443,
+      "width": 24,
+      "height": 24
+    },
+    "tint7Nose3.png": {
+      "x": 136,
+      "y": 497,
+      "width": 22,
+      "height": 15
+    },
+    "tint8Nose1.png": {
+      "x": 98,
+      "y": 308,
+      "width": 31,
+      "height": 21
+    },
+    "tint8Nose2.png": {
+      "x": 115,
+      "y": 395,
+      "width": 24,
+      "height": 24
+    },
+    "tint8Nose3.png": {
+      "x": 121,
+      "y": 350,
+      "width": 22,
+      "height": 15
+    },
+    "whiteBrow1.png": {
+      "x": 40,
+      "y": 483,
+      "width": 40,
+      "height": 17
+    },
+    "whiteBrow2.png": {
+      "x": 0,
+      "y": 438,
+      "width": 41,
+      "height": 11
+    },
+    "whiteBrow3.png": {
+      "x": 41,
+      "y": 378,
+      "width": 40,
+      "height": 17
+    }
+  }
+}

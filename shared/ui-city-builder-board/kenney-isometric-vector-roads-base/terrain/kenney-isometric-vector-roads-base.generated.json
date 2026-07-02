@@ -1,0 +1,581 @@
+{
+  "imagePath": "kenney-isometric-vector-roads-base.generated.png",
+  "subTextures": {
+    "hillS.png": {
+      "x": 1,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "hillSW.png": {
+      "x": 102,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "hillW.png": {
+      "x": 203,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "roadHillS.png": {
+      "x": 304,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "roadHillW.png": {
+      "x": 405,
+      "y": 1,
+      "width": 100,
+      "height": 80
+    },
+    "roadHill2S.png": {
+      "x": 506,
+      "y": 1,
+      "width": 100,
+      "height": 77
+    },
+    "roadHill2W.png": {
+      "x": 607,
+      "y": 1,
+      "width": 100,
+      "height": 77
+    },
+    "beach.png": {
+      "x": 708,
+      "y": 1,
+      "width": 100,
+      "height": 65
+    },
+    "beachCornerNE.png": {
+      "x": 809,
+      "y": 1,
+      "width": 100,
+      "height": 65
+    },
+    "beachE.png": {
+      "x": 910,
+      "y": 1,
+      "width": 100,
+      "height": 65
+    },
+    "beachES.png": {
+      "x": 1,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "beachN.png": {
+      "x": 102,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "beachNW.png": {
+      "x": 203,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "beachSW.png": {
+      "x": 304,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "crossroad.png": {
+      "x": 405,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "crossroadESW.png": {
+      "x": 506,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "crossroadNES.png": {
+      "x": 607,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "crossroadNEW.png": {
+      "x": 708,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "crossroadNSW.png": {
+      "x": 809,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "dirtDouble.png": {
+      "x": 910,
+      "y": 82,
+      "width": 100,
+      "height": 65
+    },
+    "endE.png": {
+      "x": 1,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "endN.png": {
+      "x": 102,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "endS.png": {
+      "x": 203,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "endW.png": {
+      "x": 304,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "exitE.png": {
+      "x": 405,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "exitN.png": {
+      "x": 506,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "exitS.png": {
+      "x": 607,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "exitW.png": {
+      "x": 708,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "grass.png": {
+      "x": 809,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "grassWhole.png": {
+      "x": 910,
+      "y": 148,
+      "width": 100,
+      "height": 65
+    },
+    "hillE.png": {
+      "x": 1,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "hillES.png": {
+      "x": 102,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "hillN.png": {
+      "x": 203,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "hillNE.png": {
+      "x": 304,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "hillNW.png": {
+      "x": 405,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "lotE.png": {
+      "x": 506,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "lotES.png": {
+      "x": 607,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "lotN.png": {
+      "x": 708,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "lotNE.png": {
+      "x": 809,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "lotNW.png": {
+      "x": 910,
+      "y": 214,
+      "width": 100,
+      "height": 65
+    },
+    "lotS.png": {
+      "x": 1,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "lotSW.png": {
+      "x": 102,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "lotW.png": {
+      "x": 203,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedES.png": {
+      "x": 304,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedEW.png": {
+      "x": 405,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedNE.png": {
+      "x": 506,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedNS.png": {
+      "x": 607,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedNW.png": {
+      "x": 708,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverBankedSW.png": {
+      "x": 809,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverES.png": {
+      "x": 910,
+      "y": 280,
+      "width": 100,
+      "height": 65
+    },
+    "riverEW.png": {
+      "x": 1,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "riverNE.png": {
+      "x": 102,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "riverNS.png": {
+      "x": 203,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "riverNW.png": {
+      "x": 304,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "riverSW.png": {
+      "x": 405,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "road.png": {
+      "x": 506,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "roadES.png": {
+      "x": 607,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "roadEW.png": {
+      "x": 708,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "roadHill2E.png": {
+      "x": 809,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "roadHill2N.png": {
+      "x": 910,
+      "y": 346,
+      "width": 100,
+      "height": 65
+    },
+    "roadHillE.png": {
+      "x": 1,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "roadHillN.png": {
+      "x": 102,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "roadNE.png": {
+      "x": 203,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "roadNS.png": {
+      "x": 304,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "roadNW.png": {
+      "x": 405,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "roadSW.png": {
+      "x": 506,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "waterCornerNE.png": {
+      "x": 607,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "waterE.png": {
+      "x": 708,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "waterES.png": {
+      "x": 809,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "waterN.png": {
+      "x": 910,
+      "y": 412,
+      "width": 100,
+      "height": 65
+    },
+    "waterNE.png": {
+      "x": 1,
+      "y": 478,
+      "width": 100,
+      "height": 65
+    },
+    "waterNW.png": {
+      "x": 102,
+      "y": 478,
+      "width": 100,
+      "height": 65
+    },
+    "bridgeEW.png": {
+      "x": 203,
+      "y": 478,
+      "width": 100,
+      "height": 62
+    },
+    "bridgeNS.png": {
+      "x": 304,
+      "y": 478,
+      "width": 100,
+      "height": 62
+    },
+    "beachCornerES.png": {
+      "x": 405,
+      "y": 478,
+      "width": 100,
+      "height": 58
+    },
+    "beachCornerNW.png": {
+      "x": 506,
+      "y": 478,
+      "width": 100,
+      "height": 58
+    },
+    "beachCornerSW.png": {
+      "x": 607,
+      "y": 478,
+      "width": 100,
+      "height": 58
+    },
+    "beachNE.png": {
+      "x": 708,
+      "y": 478,
+      "width": 100,
+      "height": 58
+    },
+    "beachS.png": {
+      "x": 809,
+      "y": 478,
+      "width": 100,
+      "height": 58
+    },
+    "beachW.png": {
+      "x": 910,
+      "y": 478,
+      "width": 100,
+      "height": 58
+    },
+    "dirt.png": {
+      "x": 1,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "water.png": {
+      "x": 102,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "waterCornerES.png": {
+      "x": 203,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "waterCornerNW.png": {
+      "x": 304,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "waterCornerSW.png": {
+      "x": 405,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "waterS.png": {
+      "x": 506,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "waterSW.png": {
+      "x": 607,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "waterW.png": {
+      "x": 708,
+      "y": 544,
+      "width": 100,
+      "height": 58
+    },
+    "coniferAltTall.png": {
+      "x": 809,
+      "y": 544,
+      "width": 19,
+      "height": 48
+    },
+    "coniferTall.png": {
+      "x": 829,
+      "y": 544,
+      "width": 19,
+      "height": 48
+    },
+    "treeTall.png": {
+      "x": 849,
+      "y": 544,
+      "width": 12,
+      "height": 41
+    },
+    "treeAltTall.png": {
+      "x": 862,
+      "y": 544,
+      "width": 11,
+      "height": 41
+    },
+    "coniferAltShort.png": {
+      "x": 874,
+      "y": 544,
+      "width": 14,
+      "height": 36
+    },
+    "coniferShort.png": {
+      "x": 889,
+      "y": 544,
+      "width": 14,
+      "height": 36
+    },
+    "treeAltShort.png": {
+      "x": 904,
+      "y": 544,
+      "width": 11,
+      "height": 32
+    },
+    "treeShort.png": {
+      "x": 916,
+      "y": 544,
+      "width": 11,
+      "height": 32
+    }
+  }
+}

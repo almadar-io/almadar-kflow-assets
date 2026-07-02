@@ -1,0 +1,995 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "hitman1_gun.png": {
+      "x": 210,
+      "y": 440,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "hitman1_hold.png": {
+      "x": 332,
+      "y": 308,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "hitman1_machine.png": {
+      "x": 160,
+      "y": 440,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "hitman1_reload.png": {
+      "x": 213,
+      "y": 220,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "hitman1_silencer.png": {
+      "x": 55,
+      "y": 440,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "hitman1_stand.png": {
+      "x": 337,
+      "y": 0,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "hitman2_gun.png": {
+      "x": 111,
+      "y": 88,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "hitman2_hold.png": {
+      "x": 332,
+      "y": 352,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "hitman2_machine.png": {
+      "x": 110,
+      "y": 440,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "hitman2_reload.png": {
+      "x": 255,
+      "y": 308,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "hitman2_silencer.png": {
+      "x": 0,
+      "y": 396,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "hitman2_stand.png": {
+      "x": 368,
+      "y": 352,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "manBlue_gun.png": {
+      "x": 111,
+      "y": 0,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manBlue_hold.png": {
+      "x": 332,
+      "y": 176,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "manBlue_machine.png": {
+      "x": 111,
+      "y": 44,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manBlue_reload.png": {
+      "x": 253,
+      "y": 220,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "manBlue_silencer.png": {
+      "x": 55,
+      "y": 396,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "manBlue_stand.png": {
+      "x": 369,
+      "y": 264,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "manBrown_gun.png": {
+      "x": 111,
+      "y": 132,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manBrown_hold.png": {
+      "x": 336,
+      "y": 88,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "manBrown_machine.png": {
+      "x": 161,
+      "y": 132,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manBrown_reload.png": {
+      "x": 260,
+      "y": 440,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "manBrown_silencer.png": {
+      "x": 55,
+      "y": 352,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "manBrown_stand.png": {
+      "x": 368,
+      "y": 132,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "manOld_gun.png": {
+      "x": 162,
+      "y": 352,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manOld_hold.png": {
+      "x": 333,
+      "y": 396,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "manOld_machine.png": {
+      "x": 161,
+      "y": 0,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manOld_reload.png": {
+      "x": 255,
+      "y": 264,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "manOld_silencer.png": {
+      "x": 0,
+      "y": 308,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "manOld_stand.png": {
+      "x": 368,
+      "y": 308,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "manRed_gun.png": {
+      "x": 161,
+      "y": 88,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manRed_hold.png": {
+      "x": 336,
+      "y": 44,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "manRed_machine.png": {
+      "x": 163,
+      "y": 176,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "manRed_reload.png": {
+      "x": 261,
+      "y": 0,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "manRed_silencer.png": {
+      "x": 0,
+      "y": 264,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "manRed_stand.png": {
+      "x": 369,
+      "y": 396,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "robot1_gun.png": {
+      "x": 211,
+      "y": 44,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "robot1_hold.png": {
+      "x": 332,
+      "y": 220,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "robot1_machine.png": {
+      "x": 163,
+      "y": 220,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "robot1_reload.png": {
+      "x": 255,
+      "y": 352,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "robot1_silencer.png": {
+      "x": 0,
+      "y": 440,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "robot1_stand.png": {
+      "x": 368,
+      "y": 176,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "robot2_gun.png": {
+      "x": 162,
+      "y": 264,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "robot2_hold.png": {
+      "x": 333,
+      "y": 264,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "robot2_machine.png": {
+      "x": 161,
+      "y": 44,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "robot2_reload.png": {
+      "x": 253,
+      "y": 176,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "robot2_silencer.png": {
+      "x": 0,
+      "y": 352,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "robot2_stand.png": {
+      "x": 337,
+      "y": 440,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "soldier1_gun.png": {
+      "x": 110,
+      "y": 220,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "soldier1_hold.png": {
+      "x": 261,
+      "y": 44,
+      "width": 38,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 38,
+      "frameHeight": 43
+    },
+    "soldier1_machine.png": {
+      "x": 58,
+      "y": 132,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "soldier1_reload.png": {
+      "x": 212,
+      "y": 264,
+      "width": 42,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 42,
+      "frameHeight": 43
+    },
+    "soldier1_silencer.png": {
+      "x": 0,
+      "y": 88,
+      "width": 57,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 57,
+      "frameHeight": 43
+    },
+    "soldier1_stand.png": {
+      "x": 300,
+      "y": 440,
+      "width": 36,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 36,
+      "frameHeight": 43
+    },
+    "soldier2_gun.png": {
+      "x": 58,
+      "y": 0,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "soldier2_hold.png": {
+      "x": 293,
+      "y": 176,
+      "width": 38,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 38,
+      "frameHeight": 43
+    },
+    "soldier2_machine.png": {
+      "x": 57,
+      "y": 220,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "soldier2_reload.png": {
+      "x": 211,
+      "y": 132,
+      "width": 42,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 42,
+      "frameHeight": 43
+    },
+    "soldier2_silencer.png": {
+      "x": 0,
+      "y": 132,
+      "width": 57,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 57,
+      "frameHeight": 43
+    },
+    "soldier2_stand.png": {
+      "x": 296,
+      "y": 396,
+      "width": 36,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 36,
+      "frameHeight": 43
+    },
+    "survivor1_gun.png": {
+      "x": 110,
+      "y": 352,
+      "width": 51,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 51,
+      "frameHeight": 43
+    },
+    "survivor1_hold.png": {
+      "x": 295,
+      "y": 264,
+      "width": 37,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 37,
+      "frameHeight": 43
+    },
+    "survivor1_machine.png": {
+      "x": 110,
+      "y": 396,
+      "width": 51,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 51,
+      "frameHeight": 43
+    },
+    "survivor1_reload.png": {
+      "x": 254,
+      "y": 396,
+      "width": 41,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 41,
+      "frameHeight": 43
+    },
+    "survivor1_silencer.png": {
+      "x": 0,
+      "y": 220,
+      "width": 56,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 56,
+      "frameHeight": 43
+    },
+    "survivor1_stand.png": {
+      "x": 301,
+      "y": 0,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "survivor2_gun.png": {
+      "x": 110,
+      "y": 308,
+      "width": 51,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 51,
+      "frameHeight": 43
+    },
+    "survivor2_hold.png": {
+      "x": 294,
+      "y": 132,
+      "width": 37,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 37,
+      "frameHeight": 43
+    },
+    "survivor2_machine.png": {
+      "x": 110,
+      "y": 264,
+      "width": 51,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 51,
+      "frameHeight": 43
+    },
+    "survivor2_reload.png": {
+      "x": 212,
+      "y": 396,
+      "width": 41,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 41,
+      "frameHeight": 43
+    },
+    "survivor2_silencer.png": {
+      "x": 0,
+      "y": 176,
+      "width": 56,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 56,
+      "frameHeight": 43
+    },
+    "survivor2_stand.png": {
+      "x": 300,
+      "y": 44,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "weapon_gun.png": {
+      "x": 26,
+      "y": 495,
+      "width": 19,
+      "height": 10,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 19,
+      "frameHeight": 10
+    },
+    "weapon_machine.png": {
+      "x": 0,
+      "y": 484,
+      "width": 33,
+      "height": 10,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 10
+    },
+    "weapon_silencer.png": {
+      "x": 0,
+      "y": 495,
+      "width": 25,
+      "height": 10,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 25,
+      "frameHeight": 10
+    },
+    "womanGreen_gun.png": {
+      "x": 110,
+      "y": 176,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "womanGreen_hold.png": {
+      "x": 261,
+      "y": 88,
+      "width": 38,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 38,
+      "frameHeight": 43
+    },
+    "womanGreen_machine.png": {
+      "x": 58,
+      "y": 88,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "womanGreen_reload.png": {
+      "x": 212,
+      "y": 352,
+      "width": 42,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 42,
+      "frameHeight": 43
+    },
+    "womanGreen_silencer.png": {
+      "x": 0,
+      "y": 44,
+      "width": 57,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 57,
+      "frameHeight": 43
+    },
+    "womanGreen_stand.png": {
+      "x": 295,
+      "y": 308,
+      "width": 36,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 36,
+      "frameHeight": 43
+    },
+    "womanOld_gun.png": {
+      "x": 58,
+      "y": 44,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "womanOld_hold.png": {
+      "x": 293,
+      "y": 220,
+      "width": 38,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 38,
+      "frameHeight": 43
+    },
+    "womanOld_machine.png": {
+      "x": 57,
+      "y": 176,
+      "width": 52,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 52,
+      "frameHeight": 43
+    },
+    "womanOld_reload.png": {
+      "x": 212,
+      "y": 308,
+      "width": 42,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 42,
+      "frameHeight": 43
+    },
+    "womanOld_silencer.png": {
+      "x": 0,
+      "y": 0,
+      "width": 57,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 57,
+      "frameHeight": 43
+    },
+    "womanOld_stand.png": {
+      "x": 295,
+      "y": 352,
+      "width": 36,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 36,
+      "frameHeight": 43
+    },
+    "zoimbie1_gun.png": {
+      "x": 211,
+      "y": 88,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "zoimbie1_hold.png": {
+      "x": 300,
+      "y": 88,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "zoimbie1_machine.png": {
+      "x": 211,
+      "y": 0,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "zoimbie1_reload.png": {
+      "x": 254,
+      "y": 132,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "zoimbie1_silencer.png": {
+      "x": 55,
+      "y": 264,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "zoimbie1_stand.png": {
+      "x": 368,
+      "y": 220,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    },
+    "zombie2_gun.png": {
+      "x": 162,
+      "y": 396,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "zombie2_hold.png": {
+      "x": 332,
+      "y": 132,
+      "width": 35,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 35,
+      "frameHeight": 43
+    },
+    "zombie2_machine.png": {
+      "x": 162,
+      "y": 308,
+      "width": 49,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 49,
+      "frameHeight": 43
+    },
+    "zombie2_reload.png": {
+      "x": 213,
+      "y": 176,
+      "width": 39,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 39,
+      "frameHeight": 43
+    },
+    "zombie2_silencer.png": {
+      "x": 55,
+      "y": 308,
+      "width": 54,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 54,
+      "frameHeight": 43
+    },
+    "zombie2_stand.png": {
+      "x": 371,
+      "y": 0,
+      "width": 33,
+      "height": 43,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 33,
+      "frameHeight": 43
+    }
+  }
+}

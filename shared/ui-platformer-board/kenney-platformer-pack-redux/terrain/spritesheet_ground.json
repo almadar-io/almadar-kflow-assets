@@ -1,0 +1,653 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "dirt.png": {
+      "x": 256,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCenter.png": {
+      "x": 256,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCenter_rounded.png": {
+      "x": 256,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCliffAlt_left.png": {
+      "x": 256,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCliffAlt_right.png": {
+      "x": 128,
+      "y": 1920,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCliff_left.png": {
+      "x": 128,
+      "y": 1792,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCliff_right.png": {
+      "x": 128,
+      "y": 1664,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCorner_left.png": {
+      "x": 128,
+      "y": 1536,
+      "width": 128,
+      "height": 128
+    },
+    "dirtCorner_right.png": {
+      "x": 128,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "dirtHalf.png": {
+      "x": 128,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "dirtHalf_left.png": {
+      "x": 128,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "dirtHalf_mid.png": {
+      "x": 128,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "dirtHalf_right.png": {
+      "x": 128,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "dirtHill_left.png": {
+      "x": 128,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "dirtHill_right.png": {
+      "x": 128,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "dirtLeft.png": {
+      "x": 128,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "dirtMid.png": {
+      "x": 128,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "dirtRight.png": {
+      "x": 128,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "grass.png": {
+      "x": 128,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "grassCenter.png": {
+      "x": 128,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "grassCenter_round.png": {
+      "x": 0,
+      "y": 1920,
+      "width": 128,
+      "height": 128
+    },
+    "grassCliffAlt_left.png": {
+      "x": 0,
+      "y": 1792,
+      "width": 128,
+      "height": 128
+    },
+    "grassCliffAlt_right.png": {
+      "x": 0,
+      "y": 1664,
+      "width": 128,
+      "height": 128
+    },
+    "grassCliff_left.png": {
+      "x": 0,
+      "y": 1536,
+      "width": 128,
+      "height": 128
+    },
+    "grassCliff_right.png": {
+      "x": 0,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "grassCorner_left.png": {
+      "x": 0,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "grassCorner_right.png": {
+      "x": 0,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "grassHalf.png": {
+      "x": 0,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "grassHalf_left.png": {
+      "x": 0,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "grassHalf_mid.png": {
+      "x": 0,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "grassHalf_right.png": {
+      "x": 0,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "grassHill_left.png": {
+      "x": 0,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "grassHill_right.png": {
+      "x": 0,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "grassLeft.png": {
+      "x": 0,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "grassMid.png": {
+      "x": 0,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "grassRight.png": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "planet.png": {
+      "x": 384,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "planetCenter.png": {
+      "x": 768,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "planetCenter_rounded.png": {
+      "x": 768,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "planetCliffAlt_left.png": {
+      "x": 768,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "planetCliffAlt_right.png": {
+      "x": 768,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "planetCliff_left.png": {
+      "x": 768,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "planetCliff_right.png": {
+      "x": 768,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "planetCorner_left.png": {
+      "x": 768,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "planetCorner_right.png": {
+      "x": 768,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "planetHalf.png": {
+      "x": 768,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "planetHalf_left.png": {
+      "x": 768,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "planetHalf_mid.png": {
+      "x": 768,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "planetHalf_right.png": {
+      "x": 640,
+      "y": 1920,
+      "width": 128,
+      "height": 128
+    },
+    "planetHill_left.png": {
+      "x": 640,
+      "y": 1792,
+      "width": 128,
+      "height": 128
+    },
+    "planetHill_right.png": {
+      "x": 640,
+      "y": 1664,
+      "width": 128,
+      "height": 128
+    },
+    "planetLeft.png": {
+      "x": 640,
+      "y": 1536,
+      "width": 128,
+      "height": 128
+    },
+    "planetMid.png": {
+      "x": 640,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "planetRight.png": {
+      "x": 640,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "sand.png": {
+      "x": 640,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "sandCenter.png": {
+      "x": 640,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "sandCenter_rounded.png": {
+      "x": 640,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "sandCliffAlt_left.png": {
+      "x": 640,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "sandCliffAlt_right.png": {
+      "x": 640,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "sandCliff_left.png": {
+      "x": 640,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "sandCliff_right.png": {
+      "x": 640,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "sandCorner_leftg.png": {
+      "x": 640,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "sandCorner_right.png": {
+      "x": 640,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "sandHalf.png": {
+      "x": 640,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "sandHalf_left.png": {
+      "x": 512,
+      "y": 1920,
+      "width": 128,
+      "height": 128
+    },
+    "sandHalf_mid.png": {
+      "x": 512,
+      "y": 1792,
+      "width": 128,
+      "height": 128
+    },
+    "sandHalf_right.png": {
+      "x": 512,
+      "y": 1664,
+      "width": 128,
+      "height": 128
+    },
+    "sandHill_left.png": {
+      "x": 512,
+      "y": 1536,
+      "width": 128,
+      "height": 128
+    },
+    "sandHill_right.png": {
+      "x": 512,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "sandLeft.png": {
+      "x": 512,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "sandMid.png": {
+      "x": 512,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "sandRight.png": {
+      "x": 512,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "snow.png": {
+      "x": 512,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "snowCenter.png": {
+      "x": 512,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "snowCenter_rounded.png": {
+      "x": 512,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "snowCliffAlt_left.png": {
+      "x": 512,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "snowCliffAlt_right.png": {
+      "x": 512,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "snowCliff_left.png": {
+      "x": 512,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "snowCliff_right.png": {
+      "x": 512,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "snowCorner_left.png": {
+      "x": 512,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "snowCorner_right.png": {
+      "x": 384,
+      "y": 1920,
+      "width": 128,
+      "height": 128
+    },
+    "snowHalf.png": {
+      "x": 384,
+      "y": 1792,
+      "width": 128,
+      "height": 128
+    },
+    "snowHalf_left.png": {
+      "x": 384,
+      "y": 1664,
+      "width": 128,
+      "height": 128
+    },
+    "snowHalf_mid.png": {
+      "x": 384,
+      "y": 1536,
+      "width": 128,
+      "height": 128
+    },
+    "snowHalf_right.png": {
+      "x": 384,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "snowHill_left.png": {
+      "x": 384,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "snowHill_right.png": {
+      "x": 384,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "snowLeft.png": {
+      "x": 384,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "snowMid.png": {
+      "x": 384,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "snowRight.png": {
+      "x": 384,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "stone.png": {
+      "x": 768,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCenter.png": {
+      "x": 384,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCenter_rounded.png": {
+      "x": 384,
+      "y": 384,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCliffAlt_left.png": {
+      "x": 384,
+      "y": 256,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCliffAlt_right.png": {
+      "x": 384,
+      "y": 128,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCliff_left.png": {
+      "x": 384,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCliff_right.png": {
+      "x": 256,
+      "y": 1920,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCorner_left.png": {
+      "x": 256,
+      "y": 1792,
+      "width": 128,
+      "height": 128
+    },
+    "stoneCorner_right.png": {
+      "x": 256,
+      "y": 1664,
+      "width": 128,
+      "height": 128
+    },
+    "stoneHalf.png": {
+      "x": 256,
+      "y": 1536,
+      "width": 128,
+      "height": 128
+    },
+    "stoneHalf_left.png": {
+      "x": 256,
+      "y": 1408,
+      "width": 128,
+      "height": 128
+    },
+    "stoneHalf_mid.png": {
+      "x": 256,
+      "y": 1280,
+      "width": 128,
+      "height": 128
+    },
+    "stoneHalf_right.png": {
+      "x": 256,
+      "y": 1152,
+      "width": 128,
+      "height": 128
+    },
+    "stoneHill_left.png": {
+      "x": 256,
+      "y": 1024,
+      "width": 128,
+      "height": 128
+    },
+    "stoneHill_right.png": {
+      "x": 256,
+      "y": 896,
+      "width": 128,
+      "height": 128
+    },
+    "stoneLeft.png": {
+      "x": 256,
+      "y": 768,
+      "width": 128,
+      "height": 128
+    },
+    "stoneMid.png": {
+      "x": 256,
+      "y": 640,
+      "width": 128,
+      "height": 128
+    },
+    "stoneRight.png": {
+      "x": 256,
+      "y": 512,
+      "width": 128,
+      "height": 128
+    }
+  }
+}

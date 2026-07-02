@@ -1,0 +1,7 @@
+{
+  "imagePath": "platformerPack_character.png",
+  "tileWidth": 64,
+  "tileHeight": 64,
+  "columns": 6,
+  "rows": 3
+}

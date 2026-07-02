@@ -1,0 +1,113 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "BackTile_01.png": {
+      "x": 814,
+      "y": 278,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_02.png": {
+      "x": 0,
+      "y": 278,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_03.png": {
+      "x": 556,
+      "y": 794,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_04.png": {
+      "x": 0,
+      "y": 556,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_05.png": {
+      "x": 814,
+      "y": 1052,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_06.png": {
+      "x": 278,
+      "y": 556,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_07.png": {
+      "x": 814,
+      "y": 536,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_08.png": {
+      "x": 278,
+      "y": 834,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_09.png": {
+      "x": 556,
+      "y": 1052,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_10.png": {
+      "x": 556,
+      "y": 0,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_11.png": {
+      "x": 814,
+      "y": 794,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_12.png": {
+      "x": 278,
+      "y": 0,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_13.png": {
+      "x": 834,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_14.png": {
+      "x": 0,
+      "y": 0,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_15.png": {
+      "x": 556,
+      "y": 278,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_16.png": {
+      "x": 278,
+      "y": 278,
+      "width": 276,
+      "height": 276
+    },
+    "BackTile_17.png": {
+      "x": 556,
+      "y": 536,
+      "width": 256,
+      "height": 256
+    },
+    "BackTile_18.png": {
+      "x": 0,
+      "y": 834,
+      "width": 276,
+      "height": 276
+    }
+  }
+}

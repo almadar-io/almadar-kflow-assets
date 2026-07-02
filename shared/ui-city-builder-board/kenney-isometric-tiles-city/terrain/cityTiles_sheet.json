@@ -1,0 +1,773 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "cityTiles_000.png": {
+      "x": 398,
+      "y": 116,
+      "width": 132,
+      "height": 104
+    },
+    "cityTiles_001.png": {
+      "x": 794,
+      "y": 737,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_002.png": {
+      "x": 794,
+      "y": 636,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_003.png": {
+      "x": 794,
+      "y": 535,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_004.png": {
+      "x": 794,
+      "y": 407,
+      "width": 132,
+      "height": 128
+    },
+    "cityTiles_005.png": {
+      "x": 794,
+      "y": 306,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_006.png": {
+      "x": 794,
+      "y": 202,
+      "width": 132,
+      "height": 104
+    },
+    "cityTiles_007.png": {
+      "x": 794,
+      "y": 101,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_008.png": {
+      "x": 133,
+      "y": 1208,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_009.png": {
+      "x": 793,
+      "y": 1929,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_010.png": {
+      "x": 793,
+      "y": 1828,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_011.png": {
+      "x": 793,
+      "y": 1700,
+      "width": 132,
+      "height": 128
+    },
+    "cityTiles_012.png": {
+      "x": 793,
+      "y": 1572,
+      "width": 132,
+      "height": 128
+    },
+    "cityTiles_013.png": {
+      "x": 0,
+      "y": 101,
+      "width": 133,
+      "height": 133
+    },
+    "cityTiles_014.png": {
+      "x": 793,
+      "y": 1370,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_015.png": {
+      "x": 793,
+      "y": 1269,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_016.png": {
+      "x": 793,
+      "y": 1168,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_017.png": {
+      "x": 662,
+      "y": 1067,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_018.png": {
+      "x": 0,
+      "y": 234,
+      "width": 133,
+      "height": 133
+    },
+    "cityTiles_019.png": {
+      "x": 0,
+      "y": 367,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_020.png": {
+      "x": 662,
+      "y": 766,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_021.png": {
+      "x": 662,
+      "y": 665,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_022.png": {
+      "x": 662,
+      "y": 564,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_023.png": {
+      "x": 662,
+      "y": 436,
+      "width": 132,
+      "height": 128
+    },
+    "cityTiles_024.png": {
+      "x": 662,
+      "y": 303,
+      "width": 132,
+      "height": 133
+    },
+    "cityTiles_025.png": {
+      "x": 0,
+      "y": 569,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_026.png": {
+      "x": 0,
+      "y": 769,
+      "width": 133,
+      "height": 133
+    },
+    "cityTiles_027.png": {
+      "x": 662,
+      "y": 0,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_028.png": {
+      "x": 661,
+      "y": 1932,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_029.png": {
+      "x": 661,
+      "y": 1831,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_030.png": {
+      "x": 661,
+      "y": 1730,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_031.png": {
+      "x": 661,
+      "y": 1597,
+      "width": 132,
+      "height": 133
+    },
+    "cityTiles_032.png": {
+      "x": 0,
+      "y": 902,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_033.png": {
+      "x": 0,
+      "y": 1003,
+      "width": 133,
+      "height": 133
+    },
+    "cityTiles_034.png": {
+      "x": 661,
+      "y": 1256,
+      "width": 132,
+      "height": 127
+    },
+    "cityTiles_035.png": {
+      "x": 530,
+      "y": 1155,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_036.png": {
+      "x": 530,
+      "y": 1032,
+      "width": 132,
+      "height": 123
+    },
+    "cityTiles_037.png": {
+      "x": 530,
+      "y": 931,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_038.png": {
+      "x": 530,
+      "y": 830,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_039.png": {
+      "x": 530,
+      "y": 729,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_040.png": {
+      "x": 0,
+      "y": 1237,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_041.png": {
+      "x": 0,
+      "y": 1843,
+      "width": 133,
+      "height": 127
+    },
+    "cityTiles_042.png": {
+      "x": 530,
+      "y": 426,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_043.png": {
+      "x": 530,
+      "y": 325,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_044.png": {
+      "x": 530,
+      "y": 202,
+      "width": 132,
+      "height": 123
+    },
+    "cityTiles_045.png": {
+      "x": 530,
+      "y": 101,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_046.png": {
+      "x": 530,
+      "y": 0,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_047.png": {
+      "x": 0,
+      "y": 1439,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_048.png": {
+      "x": 0,
+      "y": 1742,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_049.png": {
+      "x": 529,
+      "y": 1722,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_050.png": {
+      "x": 529,
+      "y": 1621,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_051.png": {
+      "x": 529,
+      "y": 1520,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_052.png": {
+      "x": 529,
+      "y": 1419,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_053.png": {
+      "x": 529,
+      "y": 1318,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_054.png": {
+      "x": 398,
+      "y": 1217,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_055.png": {
+      "x": 133,
+      "y": 604,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_056.png": {
+      "x": 133,
+      "y": 1006,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_057.png": {
+      "x": 398,
+      "y": 888,
+      "width": 132,
+      "height": 115
+    },
+    "cityTiles_058.png": {
+      "x": 398,
+      "y": 757,
+      "width": 132,
+      "height": 131
+    },
+    "cityTiles_059.png": {
+      "x": 398,
+      "y": 656,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_060.png": {
+      "x": 398,
+      "y": 555,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_061.png": {
+      "x": 398,
+      "y": 454,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_062.png": {
+      "x": 133,
+      "y": 1309,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_063.png": {
+      "x": 133,
+      "y": 1107,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_064.png": {
+      "x": 794,
+      "y": 838,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_065.png": {
+      "x": 398,
+      "y": 0,
+      "width": 132,
+      "height": 116
+    },
+    "cityTiles_066.png": {
+      "x": 397,
+      "y": 1916,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_067.png": {
+      "x": 397,
+      "y": 1803,
+      "width": 132,
+      "height": 113
+    },
+    "cityTiles_068.png": {
+      "x": 794,
+      "y": 0,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_069.png": {
+      "x": 793,
+      "y": 1471,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_070.png": {
+      "x": 0,
+      "y": 0,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_071.png": {
+      "x": 0,
+      "y": 468,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_072.png": {
+      "x": 662,
+      "y": 968,
+      "width": 132,
+      "height": 99
+    },
+    "cityTiles_073.png": {
+      "x": 662,
+      "y": 101,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_074.png": {
+      "x": 662,
+      "y": 202,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_075.png": {
+      "x": 661,
+      "y": 1383,
+      "width": 132,
+      "height": 113
+    },
+    "cityTiles_076.png": {
+      "x": 661,
+      "y": 1496,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_077.png": {
+      "x": 133,
+      "y": 705,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_078.png": {
+      "x": 0,
+      "y": 1338,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_079.png": {
+      "x": 530,
+      "y": 628,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_080.png": {
+      "x": 266,
+      "y": 436,
+      "width": 132,
+      "height": 99
+    },
+    "cityTiles_081.png": {
+      "x": 529,
+      "y": 1924,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_082.png": {
+      "x": 398,
+      "y": 1116,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_083.png": {
+      "x": 398,
+      "y": 1003,
+      "width": 132,
+      "height": 113
+    },
+    "cityTiles_084.png": {
+      "x": 266,
+      "y": 0,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_085.png": {
+      "x": 133,
+      "y": 101,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_086.png": {
+      "x": 133,
+      "y": 0,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_087.png": {
+      "x": 265,
+      "y": 1713,
+      "width": 132,
+      "height": 99
+    },
+    "cityTiles_088.png": {
+      "x": 397,
+      "y": 1702,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_089.png": {
+      "x": 265,
+      "y": 1511,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_090.png": {
+      "x": 265,
+      "y": 1410,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_091.png": {
+      "x": 266,
+      "y": 737,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_092.png": {
+      "x": 133,
+      "y": 402,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_093.png": {
+      "x": 133,
+      "y": 503,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_094.png": {
+      "x": 265,
+      "y": 1812,
+      "width": 132,
+      "height": 99
+    },
+    "cityTiles_095.png": {
+      "x": 265,
+      "y": 1612,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_096.png": {
+      "x": 133,
+      "y": 1612,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_097.png": {
+      "x": 133,
+      "y": 1713,
+      "width": 132,
+      "height": 133
+    },
+    "cityTiles_098.png": {
+      "x": 133,
+      "y": 1410,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_099.png": {
+      "x": 133,
+      "y": 1511,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_100.png": {
+      "x": 133,
+      "y": 905,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_101.png": {
+      "x": 133,
+      "y": 806,
+      "width": 133,
+      "height": 99
+    },
+    "cityTiles_102.png": {
+      "x": 266,
+      "y": 101,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_103.png": {
+      "x": 266,
+      "y": 202,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_104.png": {
+      "x": 265,
+      "y": 1911,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_105.png": {
+      "x": 133,
+      "y": 1846,
+      "width": 132,
+      "height": 133
+    },
+    "cityTiles_106.png": {
+      "x": 133,
+      "y": 301,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_107.png": {
+      "x": 133,
+      "y": 202,
+      "width": 133,
+      "height": 99
+    },
+    "cityTiles_108.png": {
+      "x": 398,
+      "y": 220,
+      "width": 132,
+      "height": 133
+    },
+    "cityTiles_109.png": {
+      "x": 398,
+      "y": 353,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_110.png": {
+      "x": 266,
+      "y": 535,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_111.png": {
+      "x": 529,
+      "y": 1823,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_112.png": {
+      "x": 0,
+      "y": 1641,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_113.png": {
+      "x": 0,
+      "y": 1540,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_114.png": {
+      "x": 266,
+      "y": 303,
+      "width": 132,
+      "height": 133
+    },
+    "cityTiles_115.png": {
+      "x": 266,
+      "y": 636,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_116.png": {
+      "x": 530,
+      "y": 527,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_117.png": {
+      "x": 0,
+      "y": 1136,
+      "width": 133,
+      "height": 101
+    },
+    "cityTiles_118.png": {
+      "x": 266,
+      "y": 967,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_119.png": {
+      "x": 266,
+      "y": 838,
+      "width": 132,
+      "height": 129
+    },
+    "cityTiles_120.png": {
+      "x": 266,
+      "y": 1169,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_121.png": {
+      "x": 0,
+      "y": 670,
+      "width": 133,
+      "height": 99
+    },
+    "cityTiles_122.png": {
+      "x": 266,
+      "y": 1068,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_123.png": {
+      "x": 397,
+      "y": 1371,
+      "width": 132,
+      "height": 129
+    },
+    "cityTiles_124.png": {
+      "x": 662,
+      "y": 867,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_125.png": {
+      "x": 266,
+      "y": 1270,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_126.png": {
+      "x": 397,
+      "y": 1601,
+      "width": 132,
+      "height": 101
+    },
+    "cityTiles_127.png": {
+      "x": 397,
+      "y": 1500,
+      "width": 132,
+      "height": 101
+    }
+  }
+}

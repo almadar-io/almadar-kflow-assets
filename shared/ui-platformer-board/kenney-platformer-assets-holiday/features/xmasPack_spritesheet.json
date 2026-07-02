@@ -1,0 +1,449 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "ball_blue.png": {
+      "x": 140,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "ball_green.png": {
+      "x": 140,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "ball_lightBlue.png": {
+      "x": 140,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "ball_orange.png": {
+      "x": 140,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "ball_red.png": {
+      "x": 140,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "ball_yellow.png": {
+      "x": 140,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "balls_blue.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "balls_green.png": {
+      "x": 70,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "balls_lightBlue.png": {
+      "x": 70,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "balls_orange.png": {
+      "x": 70,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "balls_red.png": {
+      "x": 70,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "balls_yellow.png": {
+      "x": 70,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "candle_orange1.png": {
+      "x": 70,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "candle_orange2.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "candle_yellow1.png": {
+      "x": 0,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "candle_yellow2.png": {
+      "x": 0,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "present_large_blue.png": {
+      "x": 0,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "present_large_green.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "present_large_lightBlue.png": {
+      "x": 0,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "present_large_orange.png": {
+      "x": 0,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "present_large_red.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "present_large_yellow.png": {
+      "x": 280,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "present_long_blue.png": {
+      "x": 630,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "present_long_green.png": {
+      "x": 630,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "present_long_lightBlue.png": {
+      "x": 630,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "present_long_orange.png": {
+      "x": 630,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "present_long_red.png": {
+      "x": 630,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "present_long_yellow.png": {
+      "x": 630,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "present_small_blue.png": {
+      "x": 560,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "present_small_green.png": {
+      "x": 560,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "present_small_lightBlue.png": {
+      "x": 560,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "present_small_orange.png": {
+      "x": 560,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "present_small_red.png": {
+      "x": 560,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "present_small_yellow.png": {
+      "x": 560,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_00.png": {
+      "x": 560,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_01.png": {
+      "x": 490,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_02.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_03.png": {
+      "x": 490,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_04.png": {
+      "x": 490,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_05.png": {
+      "x": 490,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_06.png": {
+      "x": 490,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_07.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_08.png": {
+      "x": 490,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_09.png": {
+      "x": 420,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_10.png": {
+      "x": 420,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_11.png": {
+      "x": 420,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_12.png": {
+      "x": 420,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_13.png": {
+      "x": 420,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_14.png": {
+      "x": 420,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_15.png": {
+      "x": 420,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_16.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_17.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_18.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_19.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_20.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_21.png": {
+      "x": 350,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_22.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_23.png": {
+      "x": 350,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_24.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_25.png": {
+      "x": 630,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_26.png": {
+      "x": 280,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_27.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_28.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_29.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_30.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_31.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_32.png": {
+      "x": 490,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_33.png": {
+      "x": 210,
+      "y": 420,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_34.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_35.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_36.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_37.png": {
+      "x": 210,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_38.png": {
+      "x": 210,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "xmasTree_39.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    }
+  }
+}

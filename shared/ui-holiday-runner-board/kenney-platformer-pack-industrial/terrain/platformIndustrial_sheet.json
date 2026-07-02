@@ -1,0 +1,677 @@
+{
+  "imagePath": "platformIndustrial_sheet.png",
+  "subTextures": {
+    "platformIndustrial_001.png": {
+      "x": 0,
+      "y": 400,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_002.png": {
+      "x": 0,
+      "y": 520,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_003.png": {
+      "x": 140,
+      "y": 260,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_004.png": {
+      "x": 140,
+      "y": 330,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_005.png": {
+      "x": 70,
+      "y": 117,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_006.png": {
+      "x": 70,
+      "y": 187,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_007.png": {
+      "x": 350,
+      "y": 460,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_008.png": {
+      "x": 350,
+      "y": 530,
+      "width": 70,
+      "height": 40
+    },
+    "platformIndustrial_009.png": {
+      "x": 280,
+      "y": 280,
+      "width": 70,
+      "height": 40
+    },
+    "platformIndustrial_010.png": {
+      "x": 0,
+      "y": 590,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_011.png": {
+      "x": 0,
+      "y": 600,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_012.png": {
+      "x": 210,
+      "y": 605,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_013.png": {
+      "x": 0,
+      "y": 610,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_014.png": {
+      "x": 140,
+      "y": 400,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_015.png": {
+      "x": 210,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_016.png": {
+      "x": 350,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_017.png": {
+      "x": 420,
+      "y": 132,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_018.png": {
+      "x": 280,
+      "y": 434,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_019.png": {
+      "x": 280,
+      "y": 504,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_020.png": {
+      "x": 350,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_021.png": {
+      "x": 420,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_022.png": {
+      "x": 350,
+      "y": 420,
+      "width": 70,
+      "height": 40
+    },
+    "platformIndustrial_023.png": {
+      "x": 420,
+      "y": 92,
+      "width": 70,
+      "height": 40
+    },
+    "platformIndustrial_024.png": {
+      "x": 350,
+      "y": 600,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_025.png": {
+      "x": 280,
+      "y": 604,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_026.png": {
+      "x": 420,
+      "y": 564,
+      "width": 70,
+      "height": 30
+    },
+    "platformIndustrial_027.png": {
+      "x": 420,
+      "y": 550,
+      "width": 70,
+      "height": 14
+    },
+    "platformIndustrial_028.png": {
+      "x": 350,
+      "y": 610,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_029.png": {
+      "x": 420,
+      "y": 480,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_030.png": {
+      "x": 420,
+      "y": 410,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_031.png": {
+      "x": 420,
+      "y": 340,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_032.png": {
+      "x": 420,
+      "y": 270,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_033.png": {
+      "x": 420,
+      "y": 202,
+      "width": 70,
+      "height": 68
+    },
+    "platformIndustrial_034.png": {
+      "x": 490,
+      "y": 480,
+      "width": 50,
+      "height": 68
+    },
+    "platformIndustrial_035.png": {
+      "x": 280,
+      "y": 412,
+      "width": 70,
+      "height": 22
+    },
+    "platformIndustrial_036.png": {
+      "x": 280,
+      "y": 390,
+      "width": 70,
+      "height": 22
+    },
+    "platformIndustrial_037.png": {
+      "x": 420,
+      "y": 70,
+      "width": 70,
+      "height": 22
+    },
+    "platformIndustrial_038.png": {
+      "x": 350,
+      "y": 570,
+      "width": 70,
+      "height": 30
+    },
+    "platformIndustrial_039.png": {
+      "x": 490,
+      "y": 170,
+      "width": 50,
+      "height": 40
+    },
+    "platformIndustrial_040.png": {
+      "x": 490,
+      "y": 210,
+      "width": 50,
+      "height": 40
+    },
+    "platformIndustrial_041.png": {
+      "x": 590,
+      "y": 115,
+      "width": 30,
+      "height": 55
+    },
+    "platformIndustrial_042.png": {
+      "x": 590,
+      "y": 60,
+      "width": 30,
+      "height": 55
+    },
+    "platformIndustrial_043.png": {
+      "x": 280,
+      "y": 320,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_044.png": {
+      "x": 350,
+      "y": 350,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_045.png": {
+      "x": 350,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_046.png": {
+      "x": 350,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_047.png": {
+      "x": 350,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_048.png": {
+      "x": 540,
+      "y": 231,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_049.png": {
+      "x": 140,
+      "y": 230,
+      "width": 70,
+      "height": 30
+    },
+    "platformIndustrial_050.png": {
+      "x": 280,
+      "y": 574,
+      "width": 70,
+      "height": 30
+    },
+    "platformIndustrial_051.png": {
+      "x": 140,
+      "y": 200,
+      "width": 70,
+      "height": 30
+    },
+    "platformIndustrial_052.png": {
+      "x": 70,
+      "y": 587,
+      "width": 70,
+      "height": 30
+    },
+    "platformIndustrial_053.png": {
+      "x": 490,
+      "y": 250,
+      "width": 50,
+      "height": 40
+    },
+    "platformIndustrial_054.png": {
+      "x": 490,
+      "y": 578,
+      "width": 50,
+      "height": 40
+    },
+    "platformIndustrial_055.png": {
+      "x": 588,
+      "y": 511,
+      "width": 30,
+      "height": 55
+    },
+    "platformIndustrial_056.png": {
+      "x": 590,
+      "y": 170,
+      "width": 30,
+      "height": 55
+    },
+    "platformIndustrial_057.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_058.png": {
+      "x": 280,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_059.png": {
+      "x": 280,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_060.png": {
+      "x": 280,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_061.png": {
+      "x": 280,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_062.png": {
+      "x": 210,
+      "y": 555,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_063.png": {
+      "x": 140,
+      "y": 606,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_064.png": {
+      "x": 210,
+      "y": 535,
+      "width": 70,
+      "height": 20
+    },
+    "platformIndustrial_065.png": {
+      "x": 210,
+      "y": 517,
+      "width": 70,
+      "height": 18
+    },
+    "platformIndustrial_066.png": {
+      "x": 210,
+      "y": 489,
+      "width": 70,
+      "height": 28
+    },
+    "platformIndustrial_067.png": {
+      "x": 210,
+      "y": 419,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_068.png": {
+      "x": 210,
+      "y": 384,
+      "width": 70,
+      "height": 35
+    },
+    "platformIndustrial_069.png": {
+      "x": 210,
+      "y": 350,
+      "width": 70,
+      "height": 34
+    },
+    "platformIndustrial_070.png": {
+      "x": 490,
+      "y": 0,
+      "width": 58,
+      "height": 50
+    },
+    "platformIndustrial_071.png": {
+      "x": 210,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_072.png": {
+      "x": 210,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_073.png": {
+      "x": 210,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_074.png": {
+      "x": 210,
+      "y": 0,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_075.png": {
+      "x": 140,
+      "y": 536,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_076.png": {
+      "x": 140,
+      "y": 486,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_077.png": {
+      "x": 140,
+      "y": 476,
+      "width": 70,
+      "height": 10
+    },
+    "platformIndustrial_078.png": {
+      "x": 140,
+      "y": 456,
+      "width": 70,
+      "height": 20
+    },
+    "platformIndustrial_079.png": {
+      "x": 140,
+      "y": 438,
+      "width": 70,
+      "height": 18
+    },
+    "platformIndustrial_080.png": {
+      "x": 140,
+      "y": 410,
+      "width": 70,
+      "height": 28
+    },
+    "platformIndustrial_081.png": {
+      "x": 490,
+      "y": 430,
+      "width": 50,
+      "height": 50
+    },
+    "platformIndustrial_082.png": {
+      "x": 490,
+      "y": 548,
+      "width": 50,
+      "height": 30
+    },
+    "platformIndustrial_083.png": {
+      "x": 588,
+      "y": 566,
+      "width": 30,
+      "height": 50
+    },
+    "platformIndustrial_084.png": {
+      "x": 548,
+      "y": 0,
+      "width": 48,
+      "height": 60
+    },
+    "platformIndustrial_085.png": {
+      "x": 540,
+      "y": 100,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_086.png": {
+      "x": 540,
+      "y": 170,
+      "width": 50,
+      "height": 61
+    },
+    "platformIndustrial_087.png": {
+      "x": 140,
+      "y": 150,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_088.png": {
+      "x": 140,
+      "y": 100,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_089.png": {
+      "x": 140,
+      "y": 50,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_090.png": {
+      "x": 490,
+      "y": 290,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_091.png": {
+      "x": 140,
+      "y": 0,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_092.png": {
+      "x": 490,
+      "y": 360,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_093.png": {
+      "x": 70,
+      "y": 537,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_094.png": {
+      "x": 70,
+      "y": 467,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_095.png": {
+      "x": 70,
+      "y": 397,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_096.png": {
+      "x": 70,
+      "y": 327,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_097.png": {
+      "x": 70,
+      "y": 257,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_098.png": {
+      "x": 490,
+      "y": 50,
+      "width": 58,
+      "height": 50
+    },
+    "platformIndustrial_099.png": {
+      "x": 540,
+      "y": 301,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_100.png": {
+      "x": 540,
+      "y": 371,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_101.png": {
+      "x": 70,
+      "y": 78,
+      "width": 70,
+      "height": 39
+    },
+    "platformIndustrial_102.png": {
+      "x": 70,
+      "y": 39,
+      "width": 70,
+      "height": 39
+    },
+    "platformIndustrial_103.png": {
+      "x": 70,
+      "y": 0,
+      "width": 70,
+      "height": 39
+    },
+    "platformIndustrial_104.png": {
+      "x": 490,
+      "y": 100,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_105.png": {
+      "x": 0,
+      "y": 470,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_106.png": {
+      "x": 540,
+      "y": 441,
+      "width": 50,
+      "height": 70
+    },
+    "platformIndustrial_107.png": {
+      "x": 0,
+      "y": 350,
+      "width": 70,
+      "height": 50
+    },
+    "platformIndustrial_108.png": {
+      "x": 0,
+      "y": 280,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_109.png": {
+      "x": 0,
+      "y": 210,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_110.png": {
+      "x": 0,
+      "y": 140,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_111.png": {
+      "x": 0,
+      "y": 70,
+      "width": 70,
+      "height": 70
+    },
+    "platformIndustrial_112.png": {
+      "x": 540,
+      "y": 511,
+      "width": 48,
+      "height": 60
+    }
+  }
+}

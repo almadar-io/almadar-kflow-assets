@@ -1,0 +1,71 @@
+{
+  "imagePath": "sheet.png",
+  "subTextures": {
+    "alienBeige.png": {
+      "x": 70,
+      "y": 95,
+      "width": 66,
+      "height": 92
+    },
+    "alienBeige_climb1.png": {
+      "x": 70,
+      "y": 0,
+      "width": 66,
+      "height": 95
+    },
+    "alienBeige_climb2.png": {
+      "x": 134,
+      "y": 289,
+      "width": 66,
+      "height": 95
+    },
+    "alienBeige_duck.png": {
+      "x": 67,
+      "y": 387,
+      "width": 67,
+      "height": 72
+    },
+    "alienBeige_hurt.png": {
+      "x": 0,
+      "y": 387,
+      "width": 67,
+      "height": 92
+    },
+    "alienBeige_jump.png": {
+      "x": 69,
+      "y": 196,
+      "width": 66,
+      "height": 93
+    },
+    "alienBeige_stand.png": {
+      "x": 68,
+      "y": 294,
+      "width": 66,
+      "height": 92
+    },
+    "alienBeige_swim1.png": {
+      "x": 0,
+      "y": 196,
+      "width": 69,
+      "height": 98
+    },
+    "alienBeige_swim2.png": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 100
+    },
+    "alienBeige_walk1.png": {
+      "x": 0,
+      "y": 294,
+      "width": 68,
+      "height": 93
+    },
+    "alienBeige_walk2.png": {
+      "x": 0,
+      "y": 100,
+      "width": 70,
+      "height": 96
+    }
+  }
+}
