@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#81C784"/>
+      <stop offset="50%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+    <linearGradient id="jersey-red" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </linearGradient>
+    <linearGradient id="jersey-blue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="skin-tone" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <g id="base-shape">
+    <rect x="4" y="4" width="56" height="56" rx="8" ry="8" fill="url(#bg-grad)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <g id="surface-details">
+    <!-- Character 1: Red Jersey Player (Left) -->
+    <g id="player-red" transform="translate(-2, 0)">
+      <!-- Head -->
+      <circle cx="22" cy="18" r="7" fill="url(#skin-tone)" stroke="#1E293B" stroke-width="1.5"/>
+      <!-- Hair/Cap -->
+      <path d="M 15 17 C 15 12 29 12 29 17 Z" fill="#1E293B"/>
+      <!-- Eyes -->
+      <circle cx="20" cy="18" r="1" fill="#1E293B"/>
+      <circle cx="24" cy="18" r="1" fill="#1E293B"/>
+      <!-- Jersey Body -->
+      <path d="M 14 26 L 30 26 L 28 42 L 16 42 Z" fill="url(#jersey-red)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+      <!-- Jersey Number -->
+      <text x="22" y="36" font-family="sans-serif" font-weight="bold" font-size="9" fill="#FFFFFF" text-anchor="middle">7</text>
+    </g>
+
+    <!-- Character 2: Blue Jersey Player (Right) -->
+    <g id="player-blue" transform="translate(2, 0)">
+      <!-- Head -->
+      <circle cx="42" cy="18" r="7" fill="url(#skin-tone)" stroke="#1E293B" stroke-width="1.5"/>
+      <!-- Hair -->
+      <path d="M 35 17 C 35 11 49 11 49 17 Z" fill="#78350F"/>
+      <!-- Eyes -->
+      <circle cx="40" cy="18" r="1" fill="#1E293B"/>
+      <circle cx="44" cy="18" r="1" fill="#1E293B"/>
+      <!-- Jersey Body -->
+      <path d="M 34 26 L 50 26 L 48 42 L 36 42 Z" fill="url(#jersey-blue)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+      <!-- Jersey Number -->
+      <text x="42" y="36" font-family="sans-serif" font-weight="bold" font-size="9" fill="#FFFFFF" text-anchor="middle">10</text>
+    </g>
+
+    <!-- Base Shadow Ground Ellipses -->
+    <ellipse cx="20" cy="48" rx="8" ry="3" fill="#1B5E20" opacity="0.6"/>
+    <ellipse cx="44" cy="48" rx="8" ry="3" fill="#1B5E20" opacity="0.6"/>
+  </g>
+
+  <g id="highlights">
+    <path d="M 6 10 A 4 4 0 0 1 10 6 L 54 6 A 4 4 0 0 1 58 10" fill="none" stroke="#81C784" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+  </g>
+</svg>

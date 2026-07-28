@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-primary, #1E293B)" />
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #0F172A)" />
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- 1. Card Background Layer -->
+  <g id="card-background">
+    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+  </g>
+
+  <!-- 2. Inner Frame Layer -->
+  <g id="card-inner-frame">
+    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
+    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- 3. Corner Ranks Layer -->
+  <g id="card-corner-ranks">
+    <g transform="translate(56, 60)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">PLA</text>
+      <!-- Heart icon -->
+      <path d="M 28 48 C 24 42 16 42 14 50 C 12 58 28 68 28 68 C 28 68 44 58 42 50 C 40 42 32 42 28 48 Z" fill="#EF4444" />
+    </g>
+    <g transform="translate(456, 656) rotate(180)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">PLA</text>
+      <path d="M 28 48 C 24 42 16 42 14 50 C 12 58 28 68 28 68 C 28 68 44 58 42 50 C 40 42 32 42 28 48 Z" fill="#EF4444" />
+    </g>
+  </g>
+
+  <!-- 4. Center Emblem Layer -->
+  <g id="card-center-emblem">
+    <!-- Fanned Hand of Cards -->
+    <g transform="translate(256, 360)">
+      <!-- Left Card (Diamond Ace) -->
+      <g transform="rotate(-20) translate(0, -20)">
+        <rect x="-80" y="-120" width="160" height="240" rx="12" fill="#FFFFFF" stroke="#1E293B" stroke-width="3" filter="url(#dropShadow)" />
+        <polygon points="0,-40 24,0 0,40 -24,0" fill="#EF4444" />
+        <text x="-64" y="-84" font-family="sans-serif" font-size="24" font-weight="bold" fill="#EF4444">A</text>
+      </g>
+
+      <!-- Right Card (Heart King) -->
+      <g transform="rotate(20) translate(0, -20)">
+        <rect x="-80" y="-120" width="160" height="240" rx="12" fill="#FFFFFF" stroke="#1E293B" stroke-width="3" filter="url(#dropShadow)" />
+        <path d="M 0 -20 C -12 -36 36 -36 0 20 Z" fill="#EF4444" opacity="0" />
+        <path d="M 0 -20 C -12 -36 -32 -36 -34 -20 C -36 -4 0 20 0 20 C 0 20 36 -4 34 -20 C 32 -36 12 -36 0 -20 Z" fill="#EF4444" />
+        <text x="-64" y="-84" font-family="sans-serif" font-size="24" font-weight="bold" fill="#EF4444">K</text>
+      </g>
+
+      <!-- Center Card (Spade Ace) -->
+      <g transform="translate(0, -40)">
+        <rect x="-85" y="-130" width="170" height="260" rx="12" fill="#FFFFFF" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+        <rect x="-77" y="-122" width="154" height="244" rx="8" fill="none" stroke="#81C784" stroke-width="2" />
+        <!-- Large Ace Spade Emblem -->
+        <path d="M 0 -60 C -30 -10 -55 -5 -40 25 C -25 50 0 30 0 30 C 0 30 25 50 40 25 C 55 -5 30 -10 0 -60 Z M -10 25 L 10 25 L 15 50 L -15 50 Z" fill="url(#primaryGrad)" stroke="#1E293B" stroke-width="2" />
+        <text x="-68" y="-92" font-family="sans-serif" font-size="28" font-weight="bold" fill="var(--color-asset-primary, #1E293B)">A</text>
+      </g>
+    </g>
+  </g>
+</svg>

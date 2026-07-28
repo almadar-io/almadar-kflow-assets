@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="dice-white-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="var(--color-asset-primary, #38BDF8)"/>
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #0284C7)"/>
+    </linearGradient>
+    <linearGradient id="dice-white-bevel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-secondary, #0284C7)"/>
+      <stop offset="100%" stop-color="#0369A1"/>
+    </linearGradient>
+    <filter id="dice-w-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#1E293B" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- 1. Base Shape: Rounded Die Body -->
+  <g id="base-shape" filter="url(#dice-w-shadow)">
+    <rect x="8" y="8" width="48" height="48" rx="10" ry="10" fill="url(#dice-white-grad)" stroke="#1E293B" stroke-width="2.5"/>
+    <path d="M 8 44 C 8 52, 12 56, 18 56 L 46 56 C 52 56, 56 52, 56 44 L 56 40 L 8 40 Z" fill="url(#dice-white-bevel)" opacity="0.5"/>
+  </g>
+
+  <!-- 2. Surface Details: 6-Pip Layout & Contrast Detailing -->
+  <g id="surface-details">
+    <rect x="11" y="11" width="42" height="42" rx="7" ry="7" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.5"/>
+
+    <!-- Left Column Pips -->
+    <circle cx="21" cy="19" r="4" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="20" cy="18" r="1.2" fill="#BAE6FD"/>
+
+    <circle cx="21" cy="32" r="4" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="20" cy="31" r="1.2" fill="#BAE6FD"/>
+
+    <circle cx="21" cy="45" r="4" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="20" cy="44" r="1.2" fill="#BAE6FD"/>
+
+    <!-- Right Column Pips -->
+    <circle cx="43" cy="19" r="4" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="42" cy="18" r="1.2" fill="#BAE6FD"/>
+
+    <circle cx="43" cy="32" r="4" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="42" cy="31" r="1.2" fill="#BAE6FD"/>
+
+    <circle cx="43" cy="45" r="4" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="42" cy="44" r="1.2" fill="#BAE6FD"/>
+  </g>
+
+  <!-- 3. Highlights: Clean Top Edge Gloss -->
+  <g id="highlights">
+    <path d="M 16 10 L 48 10 C 52 10, 54 12, 54 14 C 50 12, 14 12, 10 14 C 10 12, 12 10, 16 10 Z" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="15" cy="15" r="2" fill="#FFFFFF" opacity="0.9"/>
+  </g>
+</svg>

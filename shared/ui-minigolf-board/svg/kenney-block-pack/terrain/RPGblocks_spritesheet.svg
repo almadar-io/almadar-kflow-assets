@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <g id="base-shape">
+    <rect x="4" y="4" width="56" height="56" rx="6" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+    <rect x="4" y="34" width="56" height="26" rx="0 0 6 6" fill="var(--color-asset-secondary, #2E7D32)" />
+    <line x1="4" y1="34" x2="60" y2="34" stroke="#1B5E20" stroke-width="1.5" />
+  </g>
+  <g id="surface-details">
+    <!-- Grass texture specs on top portion -->
+    <circle cx="16" cy="14" r="2" fill="#81C784" opacity="0.6" />
+    <circle cx="48" cy="16" r="2.5" fill="#81C784" opacity="0.6" />
+    <circle cx="32" cy="22" r="1.8" fill="#81C784" opacity="0.5" />
+    <!-- Dirt texture specks on lower portion -->
+    <circle cx="18" cy="46" r="1.5" fill="#1B5E20" opacity="0.5" />
+    <circle cx="44" cy="48" r="2" fill="#1B5E20" opacity="0.5" />
+    <circle cx="30" cy="52" r="1.5" fill="#1B5E20" opacity="0.4" />
+  </g>
+  <g id="highlights">
+    <path d="M 10,6 L 54,6" stroke="#81C784" stroke-width="1.5" stroke-linecap="round" opacity="0.8" />
+    <path d="M 6,10 L 6,30" stroke="#81C784" stroke-width="1.5" stroke-linecap="round" opacity="0.6" />
+  </g>
+</svg>

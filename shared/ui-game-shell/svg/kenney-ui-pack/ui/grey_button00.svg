@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <g id="base-shape">
+    <rect x="6" y="16" width="52" height="36" rx="7" fill="#334155" />
+    <rect x="6" y="14" width="52" height="34" rx="7" fill="var(--color-asset-secondary, #64748B)" />
+    <rect x="6" y="12" width="52" height="32" rx="7" fill="var(--color-asset-primary, #94A3B8)" stroke="#1E293B" stroke-width="2" />
+  </g>
+  <g id="surface-details">
+    <rect x="10" y="16" width="44" height="24" rx="5" fill="none" stroke="#64748B" stroke-width="1.5" opacity="0.6" />
+    <path d="M 12 38 H 52 C 54 38 56 37 56 35 L 56 38 C 56 41 53 43 49 43 H 15 C 11 43 8 41 8 38 L 8 35 C 8 37 10 38 12 38 Z" fill="#334155" opacity="0.4" />
+  </g>
+  <g id="highlights">
+    <path d="M 12 14 H 52" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+    <path d="M 10 16 Q 10 14 14 14 H 26 Q 10 16 10 24 Z" fill="#FFFFFF" opacity="0.3" />
+  </g>
+</svg>

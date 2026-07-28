@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <g id="base-shape">
+    <path d="M 10 50 C 4 40 6 26 16 20 C 20 10 34 8 44 14 C 52 10 60 18 58 30 C 62 42 54 54 42 54 L 16 54 C 10 54 6 52 10 50 Z" fill="#1B5E20" />
+    <path d="M 10 48 C 4 38 6 24 16 18 C 20 8 34 6 44 12 C 52 8 60 16 58 28 C 62 40 54 52 42 52 L 16 52 C 10 52 6 50 10 48 Z" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+  </g>
+  <g id="surface-details">
+    <path d="M 20 48 C 16 36 20 26 30 24 C 36 30 30 42 20 48 Z" fill="var(--color-asset-secondary, #2E7D32)" />
+    <path d="M 38 48 C 30 38 34 24 46 22 C 50 28 46 42 38 48 Z" fill="#2E7D32" />
+    <path d="M 28 52 L 32 26" fill="none" stroke="#1B5E20" stroke-width="2" stroke-linecap="round" />
+    <path d="M 32 38 L 40 32" fill="none" stroke="#1B5E20" stroke-width="1.5" stroke-linecap="round" />
+    <path d="M 31 42 L 23 37" fill="none" stroke="#1B5E20" stroke-width="1.5" stroke-linecap="round" />
+  </g>
+  <g id="highlights">
+    <path d="M 18 18 C 22 10 34 8 42 13" fill="none" stroke="#81C784" stroke-width="2.5" stroke-linecap="round" />
+    <circle cx="18" cy="22" r="2.5" fill="#81C784" />
+  </g>
+</svg>

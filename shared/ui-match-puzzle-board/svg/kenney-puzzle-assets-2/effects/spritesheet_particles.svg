@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <radialGradient id="particle-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="var(--color-asset-highlight, #81C784)"/>
+      <stop offset="80%" stop-color="var(--color-asset-primary, #4CAF50)"/>
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    </radialGradient>
+    <filter id="glow-fx" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- 1. Base Shape: Particle Silhouette Outlines & Glow Aura -->
+  <g id="base-shape" filter="url(#glow-fx)">
+    <!-- Central Main Sparkle Burst Silhouette -->
+    <path d="M 32 6 L 36 24 L 54 28 L 38 34 L 44 52 L 30 38 L 18 50 L 24 34 L 8 28 L 26 22 Z" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="2"/>
+    <!-- Outer Floating Particle Orbs -->
+    <circle cx="12" cy="12" r="5" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="52" cy="14" r="4" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="10" cy="48" r="4" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="50" cy="48" r="6" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5"/>
+  </g>
+
+  <!-- 2. Surface Details: Core Fills, Inner Star Sparkles & Beams -->
+  <g id="surface-details">
+    <!-- Inner Core Spark Star -->
+    <path d="M 32 10 L 35 25 L 50 28 L 36 33 L 41 48 L 30 36 L 20 46 L 25 33 L 12 28 L 27 23 Z" fill="url(#particle-glow)"/>
+
+    <!-- Inner Circle Accents -->
+    <circle cx="12" cy="12" r="3" fill="#FFFFFF"/>
+    <circle cx="52" cy="14" r="2" fill="#FFFFFF"/>
+    <circle cx="10" cy="48" r="2" fill="#FFFFFF"/>
+    <circle cx="50" cy="48" r="3.5" fill="url(#particle-glow)"/>
+
+    <!-- Small Sparkle Dots & Crosses -->
+    <path d="M 32 18 L 32 38 M 22 28 L 42 28" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 23 19 L 41 37 M 41 19 L 23 37" stroke="var(--color-asset-highlight, #81C784)" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- 3. Highlights: Bright Specular Centers -->
+  <g id="highlights">
+    <!-- Super Intense Flare Center -->
+    <circle cx="32" cy="28" r="3.5" fill="#FFFFFF"/>
+    <circle cx="32" cy="28" r="1.5" fill="#FFFFFF" stroke="#81C784" stroke-width="0.5"/>
+    
+    <!-- Mini Glint Flares -->
+    <circle cx="50" cy="48" r="1.5" fill="#FFFFFF"/>
+  </g>
+</svg>

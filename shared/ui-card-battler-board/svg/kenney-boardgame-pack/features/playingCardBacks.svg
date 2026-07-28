@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <linearGradient id="patternGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-primary, #1E293B)" />
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #0F172A)" />
+    </linearGradient>
+    <pattern id="cardBackPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 32 16 L 16 32 L 0 16 Z" fill="none" stroke="#81C784" stroke-width="1.5" />
+      <circle cx="16" cy="16" r="4" fill="#1B5E20" />
+      <path d="M 0 0 L 32 32 M 32 0 L 0 32" stroke="#1E293B" stroke-width="1" opacity="0.3" />
+    </pattern>
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- 1. Card Background Layer -->
+  <g id="card-background">
+    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+  </g>
+
+  <!-- 2. Inner Frame Layer -->
+  <g id="card-inner-frame">
+    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
+    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- 3. Corner Ranks Layer -->
+  <g id="card-corner-ranks">
+    <g transform="translate(56, 60)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">PLA</text>
+      <!-- Spade icon -->
+      <path d="M 28 42 C 20 54 12 56 16 64 C 20 70 26 66 28 62 C 30 66 36 70 40 64 C 44 56 36 54 28 42 Z M 26 62 L 30 62 L 31 70 L 25 70 Z" fill="url(#patternGrad)" />
+    </g>
+    <g transform="translate(456, 656) rotate(180)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">PLA</text>
+      <path d="M 28 42 C 20 54 12 56 16 64 C 20 70 26 66 28 62 C 30 66 36 70 40 64 C 44 56 36 54 28 42 Z M 26 62 L 30 62 L 31 70 L 25 70 Z" fill="url(#patternGrad)" />
+    </g>
+  </g>
+
+  <!-- 4. Center Emblem Layer -->
+  <g id="card-center-emblem">
+    <!-- Card Back Ornate Field -->
+    <rect x="76" y="116" width="360" height="484" rx="12" fill="url(#patternGrad)" stroke="#1E293B" stroke-width="3" />
+    <rect x="84" y="124" width="344" height="468" rx="8" fill="url(#cardBackPattern)" stroke="#81C784" stroke-width="2" />
+
+    <!-- Center Oval Medallion -->
+    <g transform="translate(256, 358)">
+      <ellipse cx="0" cy="0" rx="90" ry="120" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+      <ellipse cx="0" cy="0" rx="80" ry="110" fill="none" stroke="#81C784" stroke-width="3" stroke-dasharray="8 4" />
+
+      <!-- Intricate Royal Heraldic Crest -->
+      <path d="M 0 -70 L 35 -30 L 0 50 L -35 -30 Z" fill="url(#patternGrad)" stroke="#81C784" stroke-width="2" />
+      <circle cx="0" cy="-10" r="28" fill="#1B5E20" stroke="#FFFFFF" stroke-width="2" />
+      <!-- Star Symbol -->
+      <polygon points="0,-24 6,-8 22,-8 10,2 14,18 0,8 -14,18 -10,2 -22,-8 -6,-8" fill="#81C784" />
+      <path d="M -50 0 C -30 -30 30 -30 50 0 C 30 30 -30 30 -50 0 Z" fill="none" stroke="#81C784" stroke-width="3" />
+    </g>
+  </g>
+</svg>

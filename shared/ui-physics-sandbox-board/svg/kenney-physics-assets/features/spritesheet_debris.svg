@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g id="base-shape">
+    <!-- Fragment 1 (Top Left) -->
+    <polygon points="10,12 28,8 24,28 8,24" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+    <!-- Fragment 2 (Top Right) -->
+    <polygon points="34,10 56,14 50,32 32,26" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+    <!-- Fragment 3 (Bottom Left) -->
+    <polygon points="12,32 30,34 26,56 8,50" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+    <!-- Fragment 4 (Bottom Right) -->
+    <polygon points="36,36 54,32 52,54 32,52" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+  </g>
+  <g id="surface-details">
+    <polygon points="10,12 24,28 8,24" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.6" />
+    <polygon points="34,10 50,32 32,26" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.6" />
+    <polygon points="12,32 26,56 8,50" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.6" />
+    <polygon points="36,36 52,54 32,52" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.6" />
+  </g>
+  <g id="highlights">
+    <line x1="10" y1="12" x2="28" y2="8" stroke="#81C784" stroke-width="2" stroke-linecap="round" />
+    <line x1="34" y1="10" x2="56" y2="14" stroke="#81C784" stroke-width="2" stroke-linecap="round" />
+    <line x1="12" y1="32" x2="30" y2="34" stroke="#81C784" stroke-width="2" stroke-linecap="round" />
+    <line x1="36" y1="36" x2="54" y2="32" stroke="#81C784" stroke-width="2" stroke-linecap="round" />
+  </g>
+</svg>

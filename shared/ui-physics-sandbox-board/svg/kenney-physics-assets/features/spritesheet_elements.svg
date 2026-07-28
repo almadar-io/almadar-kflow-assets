@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g id="base-shape">
+    <rect x="8" y="44" width="48" height="14" rx="4" fill="#1B5E20" />
+    <rect x="8" y="42" width="48" height="14" rx="4" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+  </g>
+  <g id="surface-details">
+    <!-- Coiled Physics Spring Element -->
+    <path d="M 32 10 C 20 10 20 16 32 16 C 44 16 44 22 32 22 C 20 22 20 28 32 28 C 44 28 44 34 32 34 C 20 34 20 40 32 40" fill="none" stroke="var(--color-asset-secondary, #2E7D32)" stroke-width="4" stroke-linecap="round" />
+    <path d="M 32 10 C 20 10 20 16 32 16 C 44 16 44 22 32 22 C 20 22 20 28 32 28 C 44 28 44 34 32 34 C 20 34 20 40 32 40" fill="none" stroke="#1E293B" stroke-width="2" stroke-linecap="round" />
+    <circle cx="32" cy="10" r="4" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5" />
+  </g>
+  <g id="highlights">
+    <path d="M 12 43 L 52 43 C 54 43 55 43.5 55 44 L 9 44 C 9 43.5 10 43 12 43 Z" fill="#81C784" opacity="0.8" />
+    <circle cx="30" cy="9" r="1.5" fill="#81C784" />
+  </g>
+</svg>

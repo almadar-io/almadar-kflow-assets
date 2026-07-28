@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g id="hex-base">
+    <polygon points="32,4 58,18 58,46 32,60 6,46 6,18" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round" />
+    <polygon points="32,60 58,46 58,18 32,32" fill="#1B5E20" opacity="0.3" />
+    <polygon points="32,60 6,46 32,32" fill="#2E7D32" stroke-opacity="0.3" opacity="0.4" />
+  </g>
+  <g id="hex-terrain-details">
+    <!-- Concentric Water Ripples -->
+    <ellipse cx="32" cy="32" rx="18" ry="10" fill="none" stroke="#81C784" stroke-width="1" stroke-dasharray="4,2" opacity="0.7" />
+    <ellipse cx="32" cy="32" rx="10" ry="6" fill="none" stroke="#81C784" stroke-width="1" stroke-dasharray="3,2" opacity="0.8" />
+    <!-- Hero Fish Silhouette -->
+    <g transform="translate(32,30) scale(1.1)">
+      <path d="M -10 0 C -4 -8, 8 -5, 12 0 C 8 5, -4 8, -10 0 Z" fill="#81C784" stroke="#1B5E20" stroke-width="1" />
+      <polygon points="-10,0 -16,-5 -14,0 -16,5" fill="#2E7D32" stroke="#1B5E20" stroke-width="1" />
+      <path d="M 0 -4 L 4 -8 L 4 -2" fill="#2E7D32" stroke="#1B5E20" stroke-width="0.75" />
+      <circle cx="8" cy="-1.5" r="1.2" fill="#1E293B" />
+    </g>
+    <!-- Water Bubbles -->
+    <circle cx="48" cy="22" r="1.5" fill="#81C784" opacity="0.8" />
+    <circle cx="50" cy="18" r="1" fill="#81C784" opacity="0.6" />
+    <circle cx="46" cy="16" r="0.8" fill="#81C784" opacity="0.5" />
+  </g>
+  <g id="hex-highlight">
+    <polygon points="32,7.5 55,19.5 55,44.5 32,56.5 9,44.5 9,19.5" fill="none" stroke="#81C784" stroke-width="1.5" stroke-opacity="0.5" />
+  </g>
+</svg>

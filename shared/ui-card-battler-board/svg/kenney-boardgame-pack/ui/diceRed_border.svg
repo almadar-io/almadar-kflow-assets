@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FEF2F2" />
+    </linearGradient>
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-primary, #EF4444)" />
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #DC2626)" />
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- 1. Card Background Layer -->
+  <g id="card-background">
+    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="url(#borderGlow)" stroke-width="6" />
+  </g>
+
+  <!-- 2. Inner Frame Layer -->
+  <g id="card-inner-frame">
+    <rect x="38" y="38" width="436" height="640" rx="14" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="10 5" />
+    <path d="M 46 62 L 62 46 M 46 46 L 62 62" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
+    <path d="M 466 62 L 450 46 M 466 46 L 450 62" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
+    <path d="M 46 654 L 62 670 M 46 670 L 62 654" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
+    <path d="M 466 654 L 450 670 M 466 670 L 450 654" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- 3. Corner Ranks Layer -->
+  <g id="card-corner-ranks">
+    <g transform="translate(56, 60)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #EF4444)">DIC</text>
+      <rect x="12" y="44" width="24" height="24" rx="4" fill="var(--color-asset-primary, #EF4444)" stroke="#1E293B" stroke-width="2" />
+      <circle cx="24" cy="56" r="3" fill="#FFFFFF" />
+    </g>
+    <g transform="translate(456, 656) rotate(180)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #EF4444)">DIC</text>
+      <rect x="12" y="44" width="24" height="24" rx="4" fill="var(--color-asset-primary, #EF4444)" stroke="#1E293B" stroke-width="2" />
+      <circle cx="24" cy="56" r="3" fill="#FFFFFF" />
+    </g>
+  </g>
+
+  <!-- 4. Center Emblem Layer -->
+  <g id="card-center-emblem">
+    <g transform="translate(256, 350)">
+      <ellipse cx="0" cy="90" rx="100" ry="24" fill="#000000" opacity="0.15" />
+      <!-- Red Die Container Frame -->
+      <rect x="-100" y="-100" width="200" height="200" rx="36" fill="url(#borderGlow)" stroke="#1E293B" stroke-width="5" filter="url(#dropShadow)" />
+      <rect x="-88" y="-88" width="176" height="176" rx="28" fill="none" stroke="#BAE6FD" stroke-width="3" opacity="0.8" />
+      <!-- 5 Pips Layout -->
+      <circle cx="-50" cy="-50" r="16" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
+      <circle cx="50" cy="-50" r="16" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
+      <circle cx="0" cy="0" r="20" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
+      <circle cx="-50" cy="50" r="16" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
+      <circle cx="50" cy="50" r="16" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
+    </g>
+  </g>
+</svg>

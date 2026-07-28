@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <g id="base-shape">
+    <rect x="6" y="8" width="52" height="50" rx="8" ry="8" fill="#1B5E20" />
+    <rect x="6" y="6" width="52" height="50" rx="8" ry="8" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+  </g>
+  <g id="surface-details">
+    <circle cx="32" cy="31" r="18" fill="none" stroke="var(--color-asset-secondary, #2E7D32)" stroke-width="2" />
+    <circle cx="32" cy="31" r="14" fill="none" stroke="#2E7D32" stroke-width="1" stroke-dasharray="2 2" />
+    <!-- Compass Rose Star -->
+    <polygon points="32,15 35,28 48,31 35,34 32,47 29,34 16,31 29,28" fill="#2E7D32" stroke="#1B5E20" stroke-width="1" />
+    <polygon points="32,15 35,28 32,31" fill="#81C784" />
+    <polygon points="32,31 48,31 35,34" fill="#1B5E20" />
+    <circle cx="32" cy="31" r="3" fill="#1B5E20" />
+  </g>
+  <g id="highlights">
+    <line x1="12" y1="9" x2="52" y2="9" stroke="#81C784" stroke-width="2" stroke-linecap="round" />
+    <line x1="9" y1="12" x2="9" y2="40" stroke="#81C784" stroke-width="2" stroke-linecap="round" />
+  </g>
+</svg>

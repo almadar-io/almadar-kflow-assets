@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-primary, #1E293B)" />
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #0F172A)" />
+    </linearGradient>
+    <linearGradient id="gemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#81C784" />
+      <stop offset="100%" stop-color="#1B5E20" />
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- 1. Card Background Layer -->
+  <g id="card-background">
+    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+  </g>
+
+  <!-- 2. Inner Frame Layer -->
+  <g id="card-inner-frame">
+    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
+    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- 3. Corner Ranks Layer -->
+  <g id="card-corner-ranks">
+    <g transform="translate(56, 60)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">SPR</text>
+      <!-- Mini Puzzle Block -->
+      <rect x="12" y="44" width="24" height="24" rx="4" fill="url(#gemGrad)" stroke="#1E293B" stroke-width="1.5" />
+    </g>
+    <g transform="translate(456, 656) rotate(180)">
+      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">SPR</text>
+      <rect x="12" y="44" width="24" height="24" rx="4" fill="url(#gemGrad)" stroke="#1E293B" stroke-width="1.5" />
+    </g>
+  </g>
+
+  <!-- 4. Center Emblem Layer -->
+  <g id="card-center-emblem">
+    <g transform="translate(256, 356)">
+      <!-- Central Puzzle Spritesheet Frame -->
+      <rect x="-130" y="-130" width="260" height="260" rx="20" fill="url(#primaryGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
+      <rect x="-116" y="-116" width="232" height="232" rx="14" fill="#F8FAFC" stroke="#81C784" stroke-width="2" />
+
+      <!-- 2x2 Puzzle Gem Blocks -->
+      <!-- Top Left Block -->
+      <rect x="-100" y="-100" width="92" height="92" rx="12" fill="url(#gemGrad)" stroke="#1E293B" stroke-width="3" />
+      <polygon points="-100,-100 -8" />
+      <rect x="-90" y="-90" width="72" height="72" rx="8" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.6" />
+      <circle cx="-54" cy="-54" r="16" fill="#81C784" stroke="#FFFFFF" stroke-width="2" />
+
+      <!-- Top Right Block -->
+      <rect x="8" y="-100" width="92" height="92" rx="12" fill="#3B82F6" stroke="#1E293B" stroke-width="3" />
+      <rect x="18" y="-90" width="72" height="72" rx="8" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.6" />
+      <polygon points="54,-74 70,-42 38,-42" fill="#FFFFFF" />
+
+      <!-- Bottom Left Block -->
+      <rect x="-100" y="8" width="92" height="92" rx="12" fill="#EF4444" stroke="#1E293B" stroke-width="3" />
+      <rect x="-90" y="18" width="72" height="72" rx="8" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.6" />
+      <polygon points="-54,26 -38,54 -70,54" fill="#FFFFFF" />
+
+      <!-- Bottom Right Block -->
+      <rect x="8" y="8" width="92" height="92" rx="12" fill="#F59E0B" stroke="#1E293B" stroke-width="3" />
+      <rect x="18" y="18" width="72" height="72" rx="8" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.6" />
+      <rect x="38" y="38" width="32" height="32" rx="4" fill="#FFFFFF" transform="rotate(45 54 54)" />
+    </g>
+  </g>
+</svg>

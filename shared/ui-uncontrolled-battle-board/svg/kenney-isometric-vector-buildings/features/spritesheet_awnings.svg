@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <!-- Group 1: Cube Top Face -->
+  <g id="cube-top-face">
+    <polygon points="32,4 58,18 32,32 6,18" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M19,11 L32,4 L45,11 L32,18 Z" fill="#81C784" opacity="0.4"/>
+    <path d="M12,15 L19,11 L32,18 L25,22 Z" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.3"/>
+    <path d="M45,11 L52,15 L39,22 L32,18 Z" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.3"/>
+  </g>
+  <!-- Group 2: Cube Left Face -->
+  <g id="cube-left-face">
+    <polygon points="6,18 32,32 32,58 6,44" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="12" y1="21" x2="12" y2="47" stroke="#1B5E20" stroke-width="2" opacity="0.4"/>
+    <line x1="22" y1="27" x2="22" y2="53" stroke="#81C784" stroke-width="2" opacity="0.3"/>
+  </g>
+  <!-- Group 3: Cube Right Face -->
+  <g id="cube-right-face">
+    <polygon points="32,32 58,18 58,44 32,58" fill="#1B5E20" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="42" y1="27" x2="42" y2="53" stroke="#0F380F" stroke-width="2" opacity="0.5"/>
+    <line x1="52" y1="21" x2="52" y2="47" stroke="#2E7D32" stroke-width="2" opacity="0.4"/>
+  </g>
+  <!-- Group 4: Face Highlights -->
+  <g id="face-highlights">
+    <polyline points="6,18 32,4 58,18" fill="none" stroke="#81C784" stroke-width="1.5" stroke-linecap="round"/>
+    <polyline points="6,18 32,32 58,18" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+  </g>
+</svg>

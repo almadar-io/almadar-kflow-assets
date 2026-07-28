@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g id="hex-base">
+    <!-- Extruded Bottom Soil Layer -->
+    <path d="M 6 36 L 32 50 L 58 36 L 58 46 L 32 60 L 6 46 Z" fill="#1B5E20" stroke="#1E293B" stroke-width="2" stroke-linejoin="round" />
+    <path d="M 32 50 L 32 60" stroke="#1E293B" stroke-width="2" />
+    <!-- Upper Top Hexagon Tile -->
+    <polygon points="32,4 58,18 58,36 32,50 6,36 6,18" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round" />
+    <!-- 3D Bevel Facets on Top Surface -->
+    <polygon points="32,50 58,36 58,18 32,28" fill="#2E7D32" opacity="0.35" />
+    <polygon points="32,50 6,36 32,28" fill="#81C784" opacity="0.25" />
+  </g>
+  <g id="hex-terrain-details">
+    <!-- Surface Texture / Top Surface Pattern -->
+    <path d="M 16 24 C 24 20 40 20 48 24 M 14 30 C 26 26 38 26 50 30" stroke="#81C784" stroke-width="1" fill="none" opacity="0.6" />
+    <!-- Earth Layer Strata on Extruded Face -->
+    <line x1="12" y1="44" x2="30" y2="54" stroke="#2E7D32" stroke-width="1.5" />
+    <line x1="34" y1="54" x2="52" y2="44" stroke="#2E7D32" stroke-width="1.5" />
+  </g>
+  <g id="hex-highlight">
+    <polygon points="32,7.5 55,19.5 55,34.5 32,46.5 9,34.5 9,19.5" fill="none" stroke="#81C784" stroke-width="1.5" stroke-opacity="0.5" />
+  </g>
+</svg>

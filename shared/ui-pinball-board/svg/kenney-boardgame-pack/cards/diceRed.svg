@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <linearGradient id="dice-red-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#BAE6FD" />
+      <stop offset="35%" stop-color="var(--color-asset-primary, #38BDF8)" />
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #0284C7)" />
+    </linearGradient>
+    <linearGradient id="dice-side-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-secondary, #0284C7)" />
+      <stop offset="100%" stop-color="#0369A1" />
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <!-- Cast Shadow -->
+    <rect x="10" y="52" width="44" height="8" rx="4" fill="#0369A1" opacity="0.3" />
+    <!-- Outer 3D Die Shape -->
+    <rect x="8" y="8" width="48" height="48" rx="10" fill="url(#dice-red-grad)" stroke="#1E293B" stroke-width="2" />
+    <!-- Bottom/Side Bevel Shadow -->
+    <path d="M 8 46 Q 8 56 18 56 L 46 56 Q 56 56 56 46 L 56 42 L 8 42 Z" fill="url(#dice-side-grad)" rx="10" opacity="0.85" />
+  </g>
+  <g id="surface-details">
+    <!-- Die Face Inset Border -->
+    <rect x="12" y="12" width="40" height="40" rx="7" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.5" />
+    <!-- Pips (5 dots pattern) -->
+    <!-- Top-Left Pip -->
+    <circle cx="21" cy="21" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" />
+    <!-- Top-Right Pip -->
+    <circle cx="43" cy="21" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" />
+    <!-- Center Pip -->
+    <circle cx="32" cy="32" r="4.5" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" />
+    <!-- Bottom-Left Pip -->
+    <circle cx="21" cy="43" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" />
+    <!-- Bottom-Right Pip -->
+    <circle cx="43" cy="43" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" />
+  </g>
+  <g id="highlights">
+    <!-- Curved Specular Highlight line along top left edge -->
+    <path d="M 16 11 L 48 11 Q 53 11 53 16 L 53 20 Q 51 14 45 14 L 18 14 Q 14 14 14 18 L 14 45 Q 14 51 11 53 Q 11 48 11 45 L 11 16 Q 11 11 16 11 Z" fill="#BAE6FD" opacity="0.9" />
+    <circle cx="16" cy="16" r="2.5" fill="#FFFFFF" opacity="0.9" />
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g id="base-shape">
+    <circle cx="32" cy="34" r="26" fill="#1B5E20" />
+    <circle cx="32" cy="32" r="26" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
+  </g>
+  <g id="surface-details">
+    <circle cx="32" cy="32" r="18" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="1.5" />
+    <circle cx="32" cy="32" r="12" fill="none" stroke="#81C784" stroke-width="1.5" stroke-dasharray="4 2" />
+    <!-- Chip Edge Notches -->
+    <rect x="30" y="7" width="4" height="6" fill="#FFFFFF" rx="1" />
+    <rect x="30" y="51" width="4" height="6" fill="#FFFFFF" rx="1" />
+    <rect x="7" y="30" width="6" height="4" fill="#FFFFFF" rx="1" />
+    <rect x="51" y="30" width="6" height="4" fill="#FFFFFF" rx="1" />
+    <rect x="14" y="14" width="5" height="5" fill="#FFFFFF" rx="1" transform="rotate(45 16.5 16.5)" />
+    <rect x="43.5" y="43.5" width="5" height="5" fill="#FFFFFF" rx="1" transform="rotate(45 46 46)" />
+    <rect x="43.5" y="14" width="5" height="5" fill="#FFFFFF" rx="1" transform="rotate(45 46 16.5)" />
+    <rect x="14" y="43.5" width="5" height="5" fill="#FFFFFF" rx="1" transform="rotate(45 16.5 46)" />
+    <circle cx="32" cy="32" r="6" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1" />
+  </g>
+  <g id="highlights">
+    <path d="M 12 28 A 22 22 0 0 1 36 10 A 24 24 0 0 0 10 32 A 22 22 0 0 1 12 28 Z" fill="#81C784" opacity="0.6" />
+    <circle cx="24" cy="20" r="2" fill="#FFFFFF" opacity="0.8" />
+  </g>
+</svg>

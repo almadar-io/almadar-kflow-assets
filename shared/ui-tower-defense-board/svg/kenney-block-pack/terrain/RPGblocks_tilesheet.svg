@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <g id="base-shape">
+    <rect x="4" y="4" width="56" height="56" rx="2" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details">
+    <path d="M32,4 V60 M4,32 H60" stroke="#2E7D32" stroke-width="1.5"/>
+    <circle cx="18" cy="18" r="4" fill="#388E3C"/>
+    <circle cx="46" cy="18" r="4" fill="#388E3C"/>
+    <circle cx="18" cy="46" r="4" fill="#388E3C"/>
+    <circle cx="46" cy="46" r="4" fill="#388E3C"/>
+  </g>
+  <g id="highlights">
+    <line x1="4" y1="4" x2="60" y2="4" stroke="#81C784" stroke-width="1.5"/>
+    <line x1="4" y1="4" x2="4" y2="60" stroke="#81C784" stroke-width="1.5"/>
+  </g>
+</svg>

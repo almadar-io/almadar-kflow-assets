@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="dbl-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-highlight, #81C784)"/>
+      <stop offset="50%" stop-color="var(--color-asset-primary, #4CAF50)"/>
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    </linearGradient>
+    <filter id="dbl-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="1" dy="2.5" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- 1. Base Shape: Dual Interlocking / Overlapping Blocks Base -->
+  <g id="base-shape" filter="url(#dbl-shadow)">
+    <!-- Back Secondary Block -->
+    <rect x="22" y="6" width="36" height="36" rx="7" ry="7" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="2"/>
+    <!-- Front Primary Block -->
+    <rect x="6" y="22" width="36" height="36" rx="7" ry="7" fill="url(#dbl-grad)" stroke="#1E293B" stroke-width="2.5"/>
+  </g>
+
+  <!-- 2. Surface Details: Inset Borders & '2x' Multiplier / Dual Gems -->
+  <g id="surface-details">
+    <!-- Back Block Corner Line -->
+    <rect x="26" y="10" width="28" height="28" rx="5" ry="5" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
+    
+    <!-- Front Block Inset -->
+    <rect x="10" y="26" width="28" height="28" rx="5" ry="5" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity="0.8"/>
+
+    <!-- Dual Gem Circles -->
+    <circle cx="20" cy="36" r="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="20" cy="36" r="3.5" fill="var(--color-asset-primary, #4CAF50)"/>
+
+    <circle cx="28" cy="44" r="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="28" cy="44" r="3.5" fill="var(--color-asset-secondary, #2E7D32)"/>
+
+    <!-- 'x2' Badge Motif Top-Right -->
+    <rect x="40" y="12" width="16" height="12" rx="3" fill="#FFFFFF" stroke="#1E293B" stroke-width="1"/>
+    <text x="48" y="21" font-family="Arial, sans-serif" font-weight="bold" font-size="8" fill="#1B5E20" text-anchor="middle">2X</text>
+  </g>
+
+  <!-- 3. Highlights: Specular Glints -->
+  <g id="highlights">
+    <path d="M 12 24 L 36 24 C 38 24, 39 25, 39 26 C 36 25, 12 25, 9 26 C 9 25, 10 24, 12 24 Z" fill="#FFFFFF" opacity="0.85"/>
+    <path d="M 28 8 L 52 8 C 54 8, 55 9, 55 10 Z" fill="#FFFFFF" opacity="0.6"/>
+  </g>
+</svg>

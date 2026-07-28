@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="tile-blue-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--color-asset-highlight, #BAE6FD)"/>
+      <stop offset="45%" stop-color="var(--color-asset-primary, #38BDF8)"/>
+      <stop offset="100%" stop-color="var(--color-asset-secondary, #0284C7)"/>
+    </linearGradient>
+    <filter id="tile-blue-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#1E293B" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- 1. Base Shape: Tile Silhouette & 3D Side Walls -->
+  <g id="base-shape" filter="url(#tile-blue-shadow)">
+    <!-- Bottom Bevel Base -->
+    <rect x="6" y="6" width="52" height="52" rx="10" ry="10" fill="#0369A1" stroke="#1E293B" stroke-width="2.5"/>
+    <!-- Elevated Top Face -->
+    <rect x="6" y="6" width="52" height="46" rx="9" ry="9" fill="url(#tile-blue-top)" stroke="#1E293B" stroke-width="2"/>
+  </g>
+
+  <!-- 2. Surface Details: Inner Inset Bevel & Gem Emblem -->
+  <g id="surface-details">
+    <!-- Sunken Inset Frame -->
+    <rect x="12" y="12" width="40" height="34" rx="6" ry="6" fill="var(--color-asset-secondary, #0284C7)" opacity="0.6"/>
+    <rect x="14" y="14" width="36" height="30" rx="5" ry="5" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Center Sapphire Gem Crest -->
+    <path d="M 32 19 L 42 29 L 32 39 L 22 29 Z" fill="var(--color-asset-primary, #38BDF8)" stroke="#1E293B" stroke-width="1.2"/>
+    <path d="M 32 23 L 38 29 L 32 35 L 26 29 Z" fill="#BAE6FD"/>
+  </g>
+
+  <!-- 3. Highlights: Top Outer & Inner Bevel Glints -->
+  <g id="highlights">
+    <!-- Top Edge Glint -->
+    <path d="M 16 8 L 48 8 C 51 8, 52 9, 52 10 C 48 9, 16 9, 12 10 C 12 9, 13 8, 16 8 Z" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="15" cy="14" r="1.5" fill="#FFFFFF" opacity="0.9"/>
+  </g>
+</svg>
