@@ -1,18 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <!-- Group 1: Base Shape -->
   <g id="base-shape">
-    <rect x="4" y="4" width="56" height="56" rx="10" ry="10" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2"/>
+    <rect x="2.5" y="2.5" width="59" height="59" rx="3" fill="#4CAF50" stroke="#1E293B" stroke-width="2"/>
   </g>
-  <!-- Group 2: Surface Details -->
   <g id="surface-details">
-    <rect x="10" y="10" width="44" height="44" rx="6" ry="6" fill="none" stroke="var(--color-asset-secondary, #2E7D32)" stroke-width="2"/>
-    <rect x="16" y="16" width="32" height="32" rx="4" ry="4" fill="none" stroke="#1B5E20" stroke-width="1.5" opacity="0.5"/>
-    <path d="M24,32 L32,24 L40,32 L32,40 Z" fill="#1B5E20" opacity="0.4"/>
-    <circle cx="32" cy="32" r="4" fill="#81C784"/>
+    <g stroke="#1B5E20" stroke-width="0.8" opacity="0.45"><line x1="22" y1="3" x2="22" y2="61"/><line x1="42" y1="3" x2="42" y2="61"/><line x1="3" y1="22" x2="61" y2="22"/><line x1="3" y1="42" x2="61" y2="42"/></g><g fill="#2E7D32" opacity="0.7"><rect x="7" y="7" width="11" height="11" rx="1"/><rect x="27" y="7" width="11" height="11" rx="1"/><rect x="47" y="7" width="11" height="11" rx="1"/><rect x="7" y="27" width="11" height="11" rx="1"/><rect x="47" y="27" width="11" height="11" rx="1"/><rect x="7" y="47" width="11" height="11" rx="1"/><rect x="27" y="47" width="11" height="11" rx="1"/><rect x="47" y="47" width="11" height="11" rx="1"/></g>
   </g>
-  <!-- Group 3: Highlights -->
   <g id="highlights">
-    <path d="M7,10 Q7,7 10,7 L54,7" fill="none" stroke="#81C784" stroke-width="1.5" stroke-linecap="round"/>
-    <line x1="12" y1="12" x2="52" y2="12" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <rect x="4" y="4" width="56" height="3" rx="1.5" fill="#81C784" opacity="0.55"/>
+    <rect x="4" y="4" width="3" height="56" rx="1.5" fill="#81C784" opacity="0.35"/>
   </g>
 </svg>

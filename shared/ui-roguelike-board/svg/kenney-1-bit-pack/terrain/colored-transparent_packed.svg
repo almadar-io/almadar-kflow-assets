@@ -1,7 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-colored-transparent_packed">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">COLO</text>
+  <defs>
+    <linearGradient id="ctp-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDBA74"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <rect x="3" y="3" width="58" height="58" rx="4" fill="url(#ctp-grad)" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details" stroke="#9A3412" stroke-width="0">
+    <rect x="5" y="5" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="19" y="5" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="33" y="5" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="47" y="5" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="12" y="12" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="26" y="12" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="40" y="12" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="5" y="19" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="19" y="19" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="33" y="19" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="47" y="19" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="12" y="26" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="26" y="26" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="40" y="26" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="5" y="33" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="19" y="33" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="33" y="33" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="47" y="33" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="12" y="40" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="26" y="40" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="40" y="40" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="5" y="47" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="19" y="47" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="33" y="47" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+    <rect x="47" y="47" width="7" height="7" fill="#9A3412" opacity="0.25"/>
+  </g>
+  <g id="highlights" fill="none" stroke="#FDBA74" stroke-width="2" stroke-linecap="round">
+    <path d="M7 7 H14"/>
+    <path d="M21 7 H28"/>
   </g>
 </svg>

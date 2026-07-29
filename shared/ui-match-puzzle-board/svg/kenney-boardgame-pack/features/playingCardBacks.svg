@@ -1,46 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="card-back-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-primary, #4CAF50)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.5" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#2E7D32"/>
     </linearGradient>
-    <pattern id="card-pattern" width="8" height="8" patternUnits="userSpaceOnUse">
-      <path d="M 4 0 L 8 4 L 4 8 L 0 4 Z" fill="none" stroke="var(--color-asset-highlight, #81C784)" stroke-width="0.75" opacity="0.6"/>
-      <circle cx="4" cy="4" r="1" fill="#FFFFFF" opacity="0.8"/>
+    <pattern id="weave" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#1B5E20" stroke-width="1" opacity="0.45"/>
+      <line x1="4" y1="0" x2="4" y2="8" stroke="#2E7D32" stroke-width="1" opacity="0.5"/>
     </pattern>
-    <filter id="card-shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="1" dy="2" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.3"/>
-    </filter>
+    <clipPath id="card"><rect x="8" y="6" width="34" height="52" rx="4"/></clipPath>
   </defs>
-
-  <!-- 1. Base Shape: Card Base & Outline -->
-  <g id="base-shape" filter="url(#card-shadow)">
-    <!-- Back Card (Stacked Behind) -->
-    <rect x="18" y="4" width="36" height="52" rx="4" ry="4" fill="#E2E8F0" stroke="#1E293B" stroke-width="1.5" transform="rotate(-6 36 30)"/>
-    <!-- Main Card -->
-    <rect x="14" y="6" width="36" height="52" rx="4" ry="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
+  <g id="base-shape">
+    <rect x="11" y="8" width="36" height="52" rx="5" fill="#1B5E20"/>
+    <rect x="10" y="6" width="36" height="52" rx="5" fill="url(#grad)" stroke="#1E293B" stroke-width="2"/>
+    <rect x="13" y="9" width="30" height="46" rx="3" fill="url(#weave)" clip-path="url(#card)"/>
   </g>
-
-  <!-- 2. Surface Details: Card Inner Frame & Diamond Pattern -->
   <g id="surface-details">
-    <!-- Inner Card Back Area -->
-    <rect x="17" y="9" width="30" height="46" rx="2.5" ry="2.5" fill="url(#card-back-bg)" stroke="var(--color-asset-secondary, #2E7D32)" stroke-width="1"/>
-    
-    <!-- White Inner Line Border -->
-    <rect x="19" y="11" width="26" height="42" rx="1.5" ry="1.5" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.85"/>
-    
-    <!-- Pattern Fill -->
-    <rect x="20" y="12" width="24" height="40" fill="url(#card-pattern)"/>
-
-    <!-- Center Ornament Emblem -->
-    <circle cx="32" cy="32" r="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="1"/>
-    <circle cx="32" cy="32" r="4.5" fill="var(--color-asset-primary, #4CAF50)"/>
-    <path d="M 32 28.5 L 34.5 32 L 32 35.5 L 29.5 32 Z" fill="#FFFFFF"/>
+    <rect x="13" y="9" width="30" height="46" rx="3" fill="none" stroke="#1B5E20" stroke-width="1.5"/>
+    <path d="M28 20 L42 32 L28 44 L14 32 Z" fill="#2E7D32" stroke="#1B5E20" stroke-width="1.5"/>
+    <path d="M28 26 L36 32 L28 38 L20 32 Z" fill="#81C784"/>
   </g>
-
-  <!-- 3. Highlights: Top Left Specular Sheen -->
   <g id="highlights">
-    <path d="M 15 8 L 47 8 C 49 8, 48 10, 46 10 L 17 10 C 15 10, 15 8, 15 8 Z" fill="#FFFFFF" opacity="0.7"/>
-    <path d="M 17 9 L 17 55" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
+    <rect x="13" y="9" width="30" height="3" rx="1.5" fill="#FFFFFF" opacity="0.25"/>
   </g>
 </svg>

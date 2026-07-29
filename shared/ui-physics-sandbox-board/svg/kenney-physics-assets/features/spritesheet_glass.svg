@@ -1,17 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <g id="base-shape">
-    <rect x="8" y="11" width="48" height="48" rx="4" fill="#1B5E20" opacity="0.3" />
-    <rect x="8" y="8" width="48" height="48" rx="4" fill="var(--color-asset-primary, #4CAF50)" opacity="0.5" stroke="#1E293B" stroke-width="2" />
-  </g>
-  <g id="surface-details">
-    <rect x="12" y="12" width="40" height="40" rx="2" fill="var(--color-asset-secondary, #2E7D32)" opacity="0.3" stroke="#1E293B" stroke-width="1" />
-    <!-- Glass Glare Lines -->
-    <path d="M 14 42 L 42 14" stroke="#FFFFFF" stroke-width="3" opacity="0.6" stroke-linecap="round" />
-    <path d="M 18 48 L 48 18" stroke="#FFFFFF" stroke-width="1.5" opacity="0.4" stroke-linecap="round" />
-  </g>
-  <g id="highlights">
-    <path d="M 10 10 L 54 10 L 10 54 Z" fill="#81C784" opacity="0.35" />
-    <line x1="10" y1="10" x2="54" y2="10" stroke="#FFFFFF" stroke-width="2" opacity="0.8" />
-    <line x1="10" y1="10" x2="10" y2="54" stroke="#FFFFFF" stroke-width="2" opacity="0.8" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+<defs><linearGradient id="gspritesheet_glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81C784"/><stop offset="0.45" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></linearGradient><radialGradient id="rspritesheet_glass" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#81C784"/><stop offset="0.55" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></radialGradient></defs>
+<g id="base-shape"><polygon points="8,8 54,14 50,56 14,52" fill="url(#gspritesheet_glass)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" opacity="0.92"/></g>
+<g id="surface-details"><polyline points="8,8 30,30 50,56" fill="none" stroke="#1B5E20" stroke-width="1"/><polyline points="54,14 30,30 14,52" fill="none" stroke="#1B5E20" stroke-width="1"/></g>
+<g id="highlights"><polygon points="12,11 30,28 18,12" fill="#81C784" opacity="0.85"/></g>
 </svg>

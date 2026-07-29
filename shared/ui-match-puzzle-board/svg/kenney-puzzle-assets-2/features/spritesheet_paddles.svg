@@ -1,56 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="paddle-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-highlight, #81C784)"/>
-      <stop offset="50%" stop-color="var(--color-asset-primary, #4CAF50)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E7D32"/>
+      <stop offset="1" stop-color="#1B5E20"/>
     </linearGradient>
-    <filter id="paddle-shadow" x="-10%" y="-20%" width="120%" height="140%">
-      <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.3"/>
-    </filter>
+    <linearGradient id="pad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="1" stop-color="#4CAF50"/>
+    </linearGradient>
   </defs>
-
-  <!-- 1. Base Shape: Paddle Silhouettes (3 Size Variations) -->
-  <g id="base-shape" filter="url(#paddle-shadow)">
-    <!-- Top Paddle: Full Width (Long Paddle) -->
-    <rect x="6" y="8" width="52" height="12" rx="6" ry="6" fill="url(#paddle-grad)" stroke="#1E293B" stroke-width="2"/>
-
-    <!-- Middle Paddle: Medium Width -->
-    <rect x="12" y="26" width="40" height="12" rx="6" ry="6" fill="url(#paddle-grad)" stroke="#1E293B" stroke-width="2"/>
-
-    <!-- Bottom Paddle: Small / Compact Paddle -->
-    <rect x="18" y="44" width="28" height="12" rx="6" ry="6" fill="url(#paddle-grad)" stroke="#1E293B" stroke-width="2"/>
+  <g id="base-shape">
+    <rect x="2" y="2" width="60" height="60" rx="4" fill="url(#bg)" stroke="#1E293B" stroke-width="2"/>
+    <g stroke="#1E293B" stroke-width="1.5">
+      <rect x="9" y="16" width="8" height="32" rx="4" fill="#1B5E20"/>
+      <ellipse cx="13" cy="13" rx="9" ry="6" fill="url(#pad)"/>
+      <rect x="47" y="16" width="8" height="32" rx="4" fill="#1B5E20"/>
+      <ellipse cx="51" cy="51" rx="9" ry="6" fill="url(#pad)"/>
+    </g>
   </g>
-
-  <!-- 2. Surface Details: Side Caps, Center Power Core & Grip Lines -->
   <g id="surface-details">
-    <!-- Top Paddle End Caps & Core -->
-    <circle cx="12" cy="14" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" opacity="0.9"/>
-    <circle cx="52" cy="14" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" opacity="0.9"/>
-    <rect x="22" y="12" width="20" height="4" rx="2" fill="#1B5E20"/>
-    <circle cx="32" cy="14" r="2" fill="#FFFFFF"/>
-
-    <!-- Middle Paddle End Caps & Core -->
-    <circle cx="18" cy="32" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" opacity="0.9"/>
-    <circle cx="46" cy="32" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" opacity="0.9"/>
-    <rect x="26" y="30" width="12" height="4" rx="2" fill="#1B5E20"/>
-    <circle cx="32" cy="32" r="1.5" fill="#FFFFFF"/>
-
-    <!-- Bottom Paddle End Caps & Core -->
-    <circle cx="24" cy="50" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" opacity="0.9"/>
-    <circle cx="40" cy="50" r="4" fill="#FFFFFF" stroke="#1E293B" stroke-width="1" opacity="0.9"/>
-    <circle cx="32" cy="50" r="2" fill="#FFFFFF"/>
+    <line x1="13" y1="20" x2="13" y2="44" stroke="#1B5E20" stroke-width="1" opacity="0.6"/>
+    <line x1="51" y1="20" x2="51" y2="44" stroke="#1B5E20" stroke-width="1" opacity="0.6"/>
+    <ellipse cx="13" cy="13" rx="5" ry="3" fill="none" stroke="#1B5E20" stroke-width="1" opacity="0.5"/>
+    <ellipse cx="51" cy="51" rx="5" ry="3" fill="none" stroke="#1B5E20" stroke-width="1" opacity="0.5"/>
   </g>
-
-  <!-- 3. Highlights: Bright Specular Top Curved Bevel Highlights -->
   <g id="highlights">
-    <!-- Top Paddle Highlight -->
-    <path d="M 12 10 L 52 10 C 54 10, 56 11, 56 12 C 54 11, 10 11, 8 12 C 8 11, 10 10, 12 10 Z" fill="#FFFFFF" opacity="0.8"/>
-
-    <!-- Middle Paddle Highlight -->
-    <path d="M 18 28 L 46 28 C 48 28, 50 29, 50 30 C 48 29, 16 29, 14 30 C 14 29, 16 28, 18 28 Z" fill="#FFFFFF" opacity="0.8"/>
-
-    <!-- Bottom Paddle Highlight -->
-    <path d="M 24 46 L 40 46 C 42 46, 44 47, 44 48 C 42 47, 22 47, 20 48 C 20 47, 22 46, 24 46 Z" fill="#FFFFFF" opacity="0.8"/>
+    <path d="M6 10 a9 6 0 0 1 14 0" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity="0.6"/>
+    <path d="M44 48 a9 6 0 0 1 14 0" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity="0.6"/>
   </g>
 </svg>

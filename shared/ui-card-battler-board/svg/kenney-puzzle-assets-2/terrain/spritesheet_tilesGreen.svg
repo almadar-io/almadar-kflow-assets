@@ -1,8 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
-  <rect x="16" y="16" width="480" height="684" fill="#FFFFFF" stroke="#1E293B" stroke-width="8" rx="24" />
-  <rect x="36" y="36" width="440" height="644" fill="none" stroke="#1E293B" stroke-width="4" rx="16" stroke-dasharray="12 6" />
-  <g id="card-spritesheet_tilesGreen">
-    <circle cx="256" cy="358" r="72" fill="#1E293B" opacity="0.9" />
-    <text x="256" y="380" font-family="sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SPR</text>
+  <g id="card-background">
+    <rect x="16" y="16" width="480" height="684" rx="24" ry="24" fill="#1E293B" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="34" width="444" height="648" rx="16" ry="16" fill="#0F172A" opacity="0.55"/>
+  </g>
+  <g id="card-inner-frame">
+    <rect x="46" y="46" width="420" height="624" rx="12" ry="12" fill="none" stroke="#81C784" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.7"/>
+  </g>
+  <g id="card-corner-ranks">
+    <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">SPR</text>
+    <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    <g transform="rotate(180 256 358)">
+      <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">SPR</text>
+      <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    </g>
+  </g>
+  <g id="card-center-emblem">
+    <rect x="146" y="248" width="220" height="220" rx="20" fill="#1B5E20" stroke="#81C784" stroke-width="3"/>
+    <rect x="162" y="264" width="188" height="188" rx="14" fill="none" stroke="#81C784" stroke-width="1.4" opacity="0.7"/>
+    <path d="M 164 266 L 348 266 L 332 282 L 180 282 Z" fill="#81C784" opacity="0.5"/>
+    <circle cx="256" cy="358" r="26" fill="#81C784" opacity="0.85"/>
+    <circle cx="256" cy="358" r="26" fill="none" stroke="#1B5E20" stroke-width="2"/>
   </g>
 </svg>

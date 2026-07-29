@@ -1,7 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-enemies_sheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ENEM</text>
+  <defs>
+    <linearGradient id="asset-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#81C784"/>
+      <stop offset="55%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <rect x="3" y="3" width="58" height="58" rx="6" fill="url(#asset-grad)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g id="surface-details">
+    <rect x="22" y="30" width="20" height="20" rx="6" fill="#2E7D32" opacity="0.95"/>
+    <circle cx="32" cy="22" r="9" fill="#2E7D32" opacity="0.95"/>
+    <circle cx="29" cy="21" r="1.8" fill="#1B5E20"/>
+    <circle cx="35" cy="21" r="1.8" fill="#1B5E20"/>
+    <rect x="24" y="50" width="6" height="4" rx="2" fill="#1B5E20"/>
+    <rect x="34" y="50" width="6" height="4" rx="2" fill="#1B5E20"/>
+    
+  </g>
+  <g id="highlights">
+    <path d="M8 9 Q32 4 56 9" fill="none" stroke="#81C784" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+    <path d="M9 14 Q20 11 30 13" fill="none" stroke="#81C784" stroke-width="1.2" stroke-linecap="round" opacity="0.6"/>
   </g>
 </svg>

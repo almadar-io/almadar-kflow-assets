@@ -1,56 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="chip-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-highlight, #81C784)"/>
-      <stop offset="50%" stop-color="var(--color-asset-primary, #4CAF50)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.5" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#2E7D32"/>
     </linearGradient>
-    <linearGradient id="chip-dark" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
-      <stop offset="100%" stop-color="#1B5E20"/>
-    </linearGradient>
-    <filter id="drop-shadow" x="-10%" y="-10%" width="130%" height="130%">
-      <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.3"/>
-    </filter>
   </defs>
-
-  <!-- 1. Base Shape: Silhouette & Shadows -->
-  <g id="base-shape" filter="url(#drop-shadow)">
-    <!-- Bottom Stack Shadow / Base Layer Chip 1 -->
-    <ellipse cx="24" cy="42" rx="18" ry="12" fill="url(#chip-dark)" stroke="#1E293B" stroke-width="2"/>
-    <ellipse cx="40" cy="38" rx="18" ry="12" fill="url(#chip-dark)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Top Main Chip -->
-    <ellipse cx="32" cy="24" rx="20" ry="14" fill="url(#chip-grad)" stroke="#1E293B" stroke-width="2"/>
+  <g id="base-shape">
+    <circle cx="32" cy="32" r="26" fill="url(#grad)" stroke="#1E293B" stroke-width="2"/>
+    <circle cx="32" cy="32" r="26" fill="none" stroke="#1B5E20" stroke-width="2" stroke-dasharray="3.2 4.2"/>
   </g>
-
-  <!-- 2. Surface Details: Chip Inlays, Edge Stripes & Ornamentation -->
   <g id="surface-details">
-    <!-- Bottom Left Chip Detailing -->
-    <ellipse cx="24" cy="42" rx="13" ry="8" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.8"/>
-    <ellipse cx="24" cy="42" rx="8" ry="5" fill="#2E7D32" stroke="#1B5E20" stroke-width="1"/>
-
-    <!-- Bottom Right Chip Detailing -->
-    <ellipse cx="40" cy="38" rx="13" ry="8" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.8"/>
-    <ellipse cx="40" cy="38" rx="8" ry="5" fill="#2E7D32" stroke="#1B5E20" stroke-width="1"/>
-
-    <!-- Top Main Chip Edge Stripes -->
-    <ellipse cx="32" cy="24" rx="15" ry="10" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="6 4"/>
-    
-    <!-- Outer Rim Accent Ring -->
-    <ellipse cx="32" cy="24" rx="18" ry="12" fill="none" stroke="var(--color-asset-secondary, #2E7D32)" stroke-width="1" opacity="0.5"/>
-
-    <!-- Center Inlay Circle -->
-    <ellipse cx="32" cy="24" rx="10" ry="6.5" fill="#FFFFFF" stroke="#1E293B" stroke-width="1.5"/>
-    <ellipse cx="32" cy="24" rx="7" ry="4.5" fill="var(--color-asset-primary, #4CAF50)"/>
-    <!-- Center Star Symbol -->
-    <path d="M 32 21.5 L 33 23 L 34.5 23 L 33.2 24 L 33.7 25.5 L 32 24.5 L 30.3 25.5 L 30.8 24 L 29.5 23 L 31 23 Z" fill="#FFFFFF"/>
+    <circle cx="32" cy="32" r="17" fill="none" stroke="#2E7D32" stroke-width="2.5"/>
+    <circle cx="32" cy="32" r="13" fill="#2E7D32" opacity="0.55"/>
+    <circle cx="32" cy="32" r="6" fill="#1B5E20"/>
   </g>
-
-  <!-- 3. Highlights: Specular Refraction & Edge Light -->
   <g id="highlights">
-    <!-- Top Curved Glint -->
-    <path d="M 16 21 C 20 14, 44 14, 48 21 C 42 16, 22 16, 16 21 Z" fill="#FFFFFF" opacity="0.5"/>
-    <!-- Inlay Crescent Highlight -->
-    <path d="M 24 22 C 27 18.5, 37 18.5, 40 22 C 37 19.5, 27 19.5, 24 22 Z" fill="#FFFFFF" opacity="0.7"/>
+    <path d="M16 22 A20 20 0 0 1 28 11" fill="none" stroke="#81C784" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+    <circle cx="24" cy="24" r="1.6" fill="#FFFFFF" opacity="0.7"/>
   </g>
 </svg>

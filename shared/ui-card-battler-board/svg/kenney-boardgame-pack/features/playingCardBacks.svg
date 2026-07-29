@@ -1,68 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
-  <defs>
-    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#F8FAFC" />
-    </linearGradient>
-    <linearGradient id="patternGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-primary, #1E293B)" />
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #0F172A)" />
-    </linearGradient>
-    <pattern id="cardBackPattern" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 16 0 L 32 16 L 16 32 L 0 16 Z" fill="none" stroke="#81C784" stroke-width="1.5" />
-      <circle cx="16" cy="16" r="4" fill="#1B5E20" />
-      <path d="M 0 0 L 32 32 M 32 0 L 0 32" stroke="#1E293B" stroke-width="1" opacity="0.3" />
-    </pattern>
-    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
-      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
-    </filter>
-  </defs>
-
-  <!-- 1. Card Background Layer -->
   <g id="card-background">
-    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
-    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+    <rect x="16" y="16" width="480" height="684" rx="24" ry="24" fill="#1E293B" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="34" width="444" height="648" rx="16" ry="16" fill="#0F172A" opacity="0.55"/>
   </g>
-
-  <!-- 2. Inner Frame Layer -->
   <g id="card-inner-frame">
-    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
-    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <rect x="46" y="46" width="420" height="624" rx="12" ry="12" fill="none" stroke="#81C784" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.7"/>
   </g>
-
-  <!-- 3. Corner Ranks Layer -->
   <g id="card-corner-ranks">
-    <g transform="translate(56, 60)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">PLA</text>
-      <!-- Spade icon -->
-      <path d="M 28 42 C 20 54 12 56 16 64 C 20 70 26 66 28 62 C 30 66 36 70 40 64 C 44 56 36 54 28 42 Z M 26 62 L 30 62 L 31 70 L 25 70 Z" fill="url(#patternGrad)" />
-    </g>
-    <g transform="translate(456, 656) rotate(180)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">PLA</text>
-      <path d="M 28 42 C 20 54 12 56 16 64 C 20 70 26 66 28 62 C 30 66 36 70 40 64 C 44 56 36 54 28 42 Z M 26 62 L 30 62 L 31 70 L 25 70 Z" fill="url(#patternGrad)" />
+    <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">PLA</text>
+    <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    <g transform="rotate(180 256 358)">
+      <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">PLA</text>
+      <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
     </g>
   </g>
-
-  <!-- 4. Center Emblem Layer -->
   <g id="card-center-emblem">
-    <!-- Card Back Ornate Field -->
-    <rect x="76" y="116" width="360" height="484" rx="12" fill="url(#patternGrad)" stroke="#1E293B" stroke-width="3" />
-    <rect x="84" y="124" width="344" height="468" rx="8" fill="url(#cardBackPattern)" stroke="#81C784" stroke-width="2" />
-
-    <!-- Center Oval Medallion -->
-    <g transform="translate(256, 358)">
-      <ellipse cx="0" cy="0" rx="90" ry="120" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
-      <ellipse cx="0" cy="0" rx="80" ry="110" fill="none" stroke="#81C784" stroke-width="3" stroke-dasharray="8 4" />
-
-      <!-- Intricate Royal Heraldic Crest -->
-      <path d="M 0 -70 L 35 -30 L 0 50 L -35 -30 Z" fill="url(#patternGrad)" stroke="#81C784" stroke-width="2" />
-      <circle cx="0" cy="-10" r="28" fill="#1B5E20" stroke="#FFFFFF" stroke-width="2" />
-      <!-- Star Symbol -->
-      <polygon points="0,-24 6,-8 22,-8 10,2 14,18 0,8 -14,18 -10,2 -22,-8 -6,-8" fill="#81C784" />
-      <path d="M -50 0 C -30 -30 30 -30 50 0 C 30 30 -30 30 -50 0 Z" fill="none" stroke="#81C784" stroke-width="3" />
-    </g>
+    <rect x="178" y="254" width="156" height="208" rx="16" fill="#1B5E20" stroke="#81C784" stroke-width="2.5"/>
+    <path d="M 205 268 L 219 280 L 205 292 L 191 280 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 239 268 L 253 280 L 239 292 L 225 280 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 273 268 L 287 280 L 273 292 L 259 280 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 307 268 L 321 280 L 307 292 L 293 280 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 341 268 L 355 280 L 341 292 L 327 280 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 188 294 L 202 306 L 188 318 L 174 306 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 222 294 L 236 306 L 222 318 L 208 306 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 256 294 L 270 306 L 256 318 L 242 306 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 290 294 L 304 306 L 290 318 L 276 306 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 324 294 L 338 306 L 324 318 L 310 306 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 205 320 L 219 332 L 205 344 L 191 332 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 239 320 L 253 332 L 239 344 L 225 332 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 273 320 L 287 332 L 273 344 L 259 332 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 307 320 L 321 332 L 307 344 L 293 332 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 341 320 L 355 332 L 341 344 L 327 332 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 188 346 L 202 358 L 188 370 L 174 358 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 222 346 L 236 358 L 222 370 L 208 358 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 256 346 L 270 358 L 256 370 L 242 358 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 290 346 L 304 358 L 290 370 L 276 358 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 324 346 L 338 358 L 324 370 L 310 358 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 205 372 L 219 384 L 205 396 L 191 384 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 239 372 L 253 384 L 239 396 L 225 384 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 273 372 L 287 384 L 273 396 L 259 384 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 307 372 L 321 384 L 307 396 L 293 384 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 341 372 L 355 384 L 341 396 L 327 384 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 188 398 L 202 410 L 188 422 L 174 410 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 222 398 L 236 410 L 222 422 L 208 410 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 256 398 L 270 410 L 256 422 L 242 410 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 290 398 L 304 410 L 290 422 L 276 410 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 324 398 L 338 410 L 324 422 L 310 410 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 205 424 L 219 436 L 205 448 L 191 436 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 239 424 L 253 436 L 239 448 L 225 436 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 273 424 L 287 436 L 273 448 L 259 436 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 307 424 L 321 436 L 307 448 L 293 436 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <path d="M 341 424 L 355 436 L 341 448 L 327 436 Z" fill="none" stroke="#81C784" stroke-width="1.4"/>
+    <rect x="194" y="270" width="124" height="176" rx="10" fill="none" stroke="#81C784" stroke-width="1.4" opacity="0.8"/>
   </g>
 </svg>

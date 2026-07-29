@@ -1,7 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-sokoban_spritesheet@2">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SOKO</text>
+  <defs>
+    <linearGradient id="crate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.5" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#2E7D32"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <rect x="2" y="2" width="60" height="60" rx="3" fill="#1B5E20" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details">
+    <g fill="url(#crate)" stroke="#1E293B" stroke-width="1">
+      <rect x="5" y="5" width="15" height="15" rx="1"/>
+      <rect x="24" y="5" width="15" height="15" rx="1"/>
+      <rect x="43" y="5" width="15" height="15" rx="1"/>
+      <rect x="5" y="24" width="15" height="15" rx="1"/>
+      <rect x="24" y="24" width="15" height="15" rx="1"/>
+      <rect x="43" y="24" width="15" height="15" rx="1"/>
+      <rect x="5" y="43" width="15" height="15" rx="1"/>
+      <rect x="24" y="43" width="15" height="15" rx="1"/>
+      <rect x="43" y="43" width="15" height="15" rx="1"/>
+    </g>
+    <g stroke="#1B5E20" stroke-width="0.8" opacity="0.6">
+      <path d="M5 5 L20 20 M20 5 L5 20"/>
+      <path d="M24 5 L39 20 M39 5 L24 20"/>
+      <path d="M43 5 L58 20 M58 5 L43 20"/>
+      <path d="M5 24 L20 39 M20 24 L5 39"/>
+      <path d="M24 24 L39 39 M39 24 L24 39"/>
+      <path d="M43 24 L58 39 M58 24 L43 39"/>
+      <path d="M5 43 L20 58 M20 43 L5 58"/>
+      <path d="M24 43 L39 58 M39 43 L24 58"/>
+      <path d="M43 43 L58 58 M58 43 L43 58"/>
+    </g>
+  </g>
+  <g id="highlights">
+    <g stroke="#81C784" stroke-width="0.8" opacity="0.7">
+      <line x1="6" y1="6" x2="19" y2="6"/>
+      <line x1="25" y1="6" x2="38" y2="6"/>
+      <line x1="44" y1="6" x2="57" y2="6"/>
+      <line x1="6" y1="25" x2="19" y2="25"/>
+      <line x1="25" y1="25" x2="38" y2="25"/>
+      <line x1="44" y1="25" x2="57" y2="25"/>
+      <line x1="6" y1="44" x2="19" y2="44"/>
+      <line x1="25" y1="44" x2="38" y2="44"/>
+      <line x1="44" y1="44" x2="57" y2="44"/>
+    </g>
   </g>
 </svg>

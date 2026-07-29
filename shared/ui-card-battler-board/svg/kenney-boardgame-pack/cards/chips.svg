@@ -1,85 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
-  <defs>
-    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#F8FAFC" />
-    </linearGradient>
-    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-primary, #1E293B)" />
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #0F172A)" />
-    </linearGradient>
-    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
-      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
-    </filter>
-  </defs>
-
-  <!-- 1. Card Background Layer -->
   <g id="card-background">
-    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
-    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+    <rect x="16" y="16" width="480" height="684" rx="24" ry="24" fill="#1E293B" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="34" width="444" height="648" rx="16" ry="16" fill="#0F172A" opacity="0.55"/>
   </g>
-
-  <!-- 2. Inner Frame Layer -->
   <g id="card-inner-frame">
-    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
-    <!-- Corner Decorative Accents -->
-    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <rect x="46" y="46" width="420" height="624" rx="12" ry="12" fill="none" stroke="#81C784" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.7"/>
   </g>
-
-  <!-- 3. Corner Ranks Layer -->
   <g id="card-corner-ranks">
-    <!-- Top-Left Corner -->
-    <g transform="translate(56, 60)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">CHI</text>
-      <!-- Mini Chip Icon -->
-      <circle cx="28" cy="56" r="14" fill="url(#primaryGrad)" stroke="#81C784" stroke-width="2" />
-      <circle cx="28" cy="56" r="8" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="3 2" />
-    </g>
-    <!-- Bottom-Right Corner (Inverted) -->
-    <g transform="translate(456, 656) rotate(180)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">CHI</text>
-      <circle cx="28" cy="56" r="14" fill="url(#primaryGrad)" stroke="#81C784" stroke-width="2" />
-      <circle cx="28" cy="56" r="8" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="3 2" />
+    <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">CHI</text>
+    <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    <g transform="rotate(180 256 358)">
+      <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">CHI</text>
+      <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
     </g>
   </g>
-
-  <!-- 4. Center Emblem Layer -->
   <g id="card-center-emblem">
-    <!-- Stack Drop Shadow -->
-    <ellipse cx="256" cy="460" rx="110" ry="24" fill="#0F172A" opacity="0.2" />
-
-    <!-- Bottom Casino Chip -->
-    <g transform="translate(256, 420)">
-      <ellipse cx="0" cy="0" rx="100" ry="40" fill="#1B5E20" />
-      <ellipse cx="0" cy="-6" rx="100" ry="40" fill="var(--color-asset-secondary, #0F172A)" stroke="#1E293B" stroke-width="3" />
-      <ellipse cx="0" cy="-6" rx="72" ry="28" fill="none" stroke="#81C784" stroke-width="4" stroke-dasharray="16 10" />
-      <ellipse cx="0" cy="-6" rx="45" ry="18" fill="#1E293B" stroke="#81C784" stroke-width="2" />
-    </g>
-
-    <!-- Middle Casino Chip -->
-    <g transform="translate(256, 370)">
-      <ellipse cx="0" cy="0" rx="100" ry="40" fill="#0F172A" />
-      <ellipse cx="0" cy="-6" rx="100" ry="40" fill="var(--color-asset-primary, #1E293B)" stroke="#1E293B" stroke-width="3" />
-      <ellipse cx="0" cy="-6" rx="72" ry="28" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="16 10" />
-      <ellipse cx="0" cy="-6" rx="45" ry="18" fill="#1B5E20" stroke="#81C784" stroke-width="2" />
-    </g>
-
-    <!-- Top Main Casino Chip -->
-    <g transform="translate(256, 310)">
-      <circle cx="0" cy="0" r="105" fill="#0F172A" />
-      <circle cx="0" cy="0" r="100" fill="url(#primaryGrad)" stroke="#1E293B" stroke-width="4" />
-      <!-- Outer Notched Edge Striping -->
-      <circle cx="0" cy="0" r="82" fill="none" stroke="#81C784" stroke-width="12" stroke-dasharray="18 12" />
-      <circle cx="0" cy="0" r="74" fill="none" stroke="#1E293B" stroke-width="2" />
-      <!-- Inner Core Ring -->
-      <circle cx="0" cy="0" r="54" fill="#1B5E20" stroke="#81C784" stroke-width="3" />
-      <!-- Center Emblem Symbol (Golden Crown / Star) -->
-      <polygon points="0,-28 8,-8 28,-8 12,5 18,25 0,12 -18,25 -12,5 -28,-8 -8,-8" fill="#81C784" stroke="#FFFFFF" stroke-width="1.5" />
-      <!-- Specular Highlight Arc -->
-      <path d="M -60 -40 A 75 75 0 0 1 40 -60" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.4" />
-    </g>
+    <circle cx="256" cy="358" r="92" fill="#1B5E20"/>
+    <circle cx="256" cy="358" r="92" fill="none" stroke="#81C784" stroke-width="3"/>
+    <line x1="334.0" y1="358.0" x2="348.0" y2="358.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="323.5" y1="397.0" x2="335.7" y2="404.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="295.0" y1="425.5" x2="302.0" y2="437.7" stroke="#81C784" stroke-width="6"/>
+    <line x1="256.0" y1="436.0" x2="256.0" y2="450.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="217.0" y1="425.5" x2="210.0" y2="437.7" stroke="#81C784" stroke-width="6"/>
+    <line x1="188.5" y1="397.0" x2="176.3" y2="404.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="178.0" y1="358.0" x2="164.0" y2="358.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="188.5" y1="319.0" x2="176.3" y2="312.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="217.0" y1="290.5" x2="210.0" y2="278.3" stroke="#81C784" stroke-width="6"/>
+    <line x1="256.0" y1="280.0" x2="256.0" y2="266.0" stroke="#81C784" stroke-width="6"/>
+    <line x1="295.0" y1="290.5" x2="302.0" y2="278.3" stroke="#81C784" stroke-width="6"/>
+    <line x1="323.5" y1="319.0" x2="335.7" y2="312.0" stroke="#81C784" stroke-width="6"/>
+    <circle cx="256" cy="358" r="52" fill="#81C784"/>
+    <circle cx="256" cy="358" r="52" fill="none" stroke="#1B5E20" stroke-width="3"/>
+    <text x="256" y="376" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="800" fill="#1B5E20" text-anchor="middle">$</text>
   </g>
 </svg>

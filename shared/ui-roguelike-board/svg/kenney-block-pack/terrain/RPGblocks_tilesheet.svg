@@ -1,7 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-RPGblocks_tilesheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">RPGB</text>
+  <defs>
+    <linearGradient id="rpgt2-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="1" stop-color="#4CAF50"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <rect x="3" y="3" width="58" height="58" rx="4" fill="url(#rpgt2-grad)" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details" fill="none" stroke="#2E7D32" stroke-width="0.9" opacity="0.8">
+    <path d="M3 11 H61 M3 21 H61 M3 31 H61 M3 41 H61 M3 51 H61"/>
+    <path d="M11 3 V11 M21 11 V21 M11 21 V31 M21 31 V41 M11 41 V51 M21 51 V61 M31 3 V11 M41 11 V21 M31 21 V31 M41 31 V41 M31 41 V51 M41 51 V61 M51 3 V11 M51 21 V31 M51 41 V51"/>
+  </g>
+  <g id="highlights" fill="none" stroke="#81C784" stroke-width="2" stroke-linecap="round">
+    <path d="M6 6 H16"/>
   </g>
 </svg>

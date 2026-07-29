@@ -1,17 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <g id="base-shape">
-    <rect x="12" y="6" width="40" height="54" rx="5" fill="#1B5E20" />
-    <rect x="12" y="4" width="40" height="54" rx="5" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" />
-  </g>
-  <g id="surface-details">
-    <rect x="15" y="7" width="34" height="48" rx="3" fill="#FFFFFF" opacity="0.9" />
-    <rect x="17" y="9" width="30" height="44" rx="2" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="1" />
-    <!-- Lattice / Ornamented Back Pattern -->
-    <path d="M 22 13 L 42 31 M 22 21 L 42 39 M 22 29 L 37 43 M 22 37 L 29 43 M 27 13 L 42 26.5 M 34 13 L 42 20.2" stroke="#4CAF50" stroke-width="1.5" opacity="0.7" stroke-linecap="round" />
-    <path d="M 42 13 L 22 31 M 42 21 L 22 39 M 42 29 L 27 43 M 42 37 L 35 43 M 37 13 L 22 26.5 M 30 13 L 22 20.2" stroke="#4CAF50" stroke-width="1.5" opacity="0.7" stroke-linecap="round" />
-    <circle cx="32" cy="31" r="5" fill="var(--color-asset-primary, #4CAF50)" stroke="#FFFFFF" stroke-width="1" />
-  </g>
-  <g id="highlights">
-    <path d="M 14 6 L 46 6 C 49 6 50 7 50 9 C 48 8 45 7 42 7 L 16 7 C 14 7 13 8 12 9 C 12 7 13 6 14 6 Z" fill="#81C784" opacity="0.8" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+<defs><linearGradient id="gplayingCardBacks" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81C784"/><stop offset="0.45" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></linearGradient><radialGradient id="rplayingCardBacks" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#81C784"/><stop offset="0.55" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></radialGradient></defs>
+<g id="base-shape"><rect x="12" y="4" width="40" height="56" rx="6" ry="6" fill="url(#gplayingCardBacks)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/></g>
+<g id="surface-details"><rect x="16" y="8" width="32" height="48" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/><path d="M16 8 L20 12 L24 8" fill="none" stroke="#1B5E20" stroke-width="0.8" opacity="0.7"/><path d="M24 8 L28 12 L32 8" fill="none" stroke="#1B5E20" stroke-width="0.8" opacity="0.7"/><path d="M32 8 L36 12 L40 8" fill="none" stroke="#1B5E20" stroke-width="0.8" opacity="0.7"/><path d="M40 8 L44 12 L48 8" fill="none" stroke="#1B5E20" stroke-width="0.8" opacity="0.7"/><circle cx="32" cy="32" r="8" fill="#1B5E20" opacity="0.9"/><circle cx="32" cy="32" r="8" fill="none" stroke="#81C784" stroke-width="1"/></g>
+<g id="highlights"><line x1="16" y1="6.5" x2="48" y2="6.5" stroke="#81C784" stroke-width="1.2" opacity="0.7"/></g>
 </svg>

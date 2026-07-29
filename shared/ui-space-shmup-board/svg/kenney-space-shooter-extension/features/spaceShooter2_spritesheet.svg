@@ -1,7 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-spaceShooter2_spritesheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SPAC</text>
+  <defs>
+    <linearGradient id="fighterBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.5" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <path d="M32 6 L36 22 L44 28 L58 50 L46 44 L38 50 L36 40 L32 52 L28 40 L26 50 L18 44 L6 50 L20 28 L28 22 Z"
+          fill="url(#fighterBody)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M32 6 L32 18" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details">
+    <path d="M32 16 L34 28 L32 40 L30 28 Z" fill="#1B5E20"/>
+    <circle cx="32" cy="14" r="2.4" fill="#2E7D32"/>
+    <path d="M20 30 L24 36" stroke="#1B5E20" stroke-width="1.5"/>
+    <path d="M44 30 L40 36" stroke="#1B5E20" stroke-width="1.5"/>
+    <path d="M16 46 L20 42 M48 46 L44 42" stroke="#1B5E20" stroke-width="1.5"/>
+  </g>
+  <g id="highlights">
+    <path d="M32 8 L32 14" stroke="#81C784" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M31 18 L31 30" stroke="#81C784" stroke-width="1.2" opacity="0.7"/>
+    <circle cx="32" cy="14" r="0.9" fill="#81C784"/>
   </g>
 </svg>

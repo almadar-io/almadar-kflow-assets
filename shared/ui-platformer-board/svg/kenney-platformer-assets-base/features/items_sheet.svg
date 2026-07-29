@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-items_sheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ITEM</text>
-  </g>
+<defs><linearGradient id="g_items_sheet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81C784"/><stop offset="0.45" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></linearGradient></defs>
+<g id="base-shape"><rect x="2" y="2" width="60" height="60" rx="8" ry="8"/><rect x="2" y="2" width="60" height="60" rx="8" fill="#2E7D32" opacity="0.2"/><rect x="2" y="2" width="60" height="60" rx="8" fill="none" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/></g><g id="surface-details">
+    <circle cx="18" cy="32" r="11" fill="#81C784" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="18" cy="32" r="6.5" fill="none" stroke="#2E7D32" stroke-width="1.2"/>
+    <path d="M32 19 L44 32 L32 45 L26 32 Z" fill="#4CAF50" stroke="#1E293B" stroke-width="1.5"/>
+    <path d="M32 19 L38 32 L32 45" fill="#2E7D32" opacity="0.55"/>
+    <path d="M50 18 L53 27 L62 27 L55 33 L58 42 L50 36 L42 42 L45 33 L38 27 L47 27 Z" fill="#4CAF50" stroke="#1E293B" stroke-width="1.4"/>
+  </g><g id="highlights"><path d="M14 27 Q18 24 22 27" stroke="#FFFFFF" stroke-width="1.4" fill="none" opacity="0.9"/><path d="M30 21 L34 30" stroke="#81C784" stroke-width="1.4" opacity="0.9"/></g>
 </svg>

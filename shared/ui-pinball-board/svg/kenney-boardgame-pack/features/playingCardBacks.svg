@@ -1,36 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="card-back-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#81C784" />
-      <stop offset="40%" stop-color="var(--color-asset-primary, #4CAF50)" />
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)" />
+    <linearGradient id="cardBackFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="50%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
     </linearGradient>
-    <pattern id="lattice" width="8" height="8" patternUnits="userSpaceOnUse">
-      <path d="M 0 4 L 4 0 L 8 4 L 4 8 Z" fill="none" stroke="#81C784" stroke-width="0.8" opacity="0.6" />
-      <circle cx="4" cy="4" r="1" fill="#FFFFFF" opacity="0.8" />
+    <pattern id="cardWeave" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="8" fill="none"/>
+      <path d="M0 4 L8 4 M4 0 L4 8" stroke="#1B5E20" stroke-width="1" opacity="0.5"/>
     </pattern>
   </defs>
   <g id="base-shape">
-    <!-- Underneath Card Shadow / Stack layer 2 -->
-    <rect x="15" y="10" width="38" height="50" rx="4" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="1.5" transform="rotate(6 34 35)" />
-    <!-- Underneath Card Stack layer 1 -->
-    <rect x="13" y="9" width="38" height="50" rx="4" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" transform="rotate(-4 32 34)" />
-    <!-- Main Card Body -->
-    <rect x="12" y="6" width="40" height="52" rx="4" fill="url(#card-back-grad)" stroke="#1E293B" stroke-width="2" />
+    <rect x="10" y="5" width="44" height="54" rx="5" fill="url(#cardBackFill)" stroke="#1E293B" stroke-width="2"/>
+    <rect x="13" y="8" width="38" height="48" rx="3" fill="#2E7D32" stroke="#1B5E20" stroke-width="1"/>
   </g>
   <g id="surface-details">
-    <!-- Outer White Border -->
-    <rect x="15" y="9" width="34" height="46" rx="2" fill="none" stroke="#FFFFFF" stroke-width="2" />
-    <!-- Inner Pattern Box -->
-    <rect x="18" y="12" width="28" height="40" rx="1" fill="url(#lattice)" stroke="var(--color-asset-secondary, #2E7D32)" stroke-width="1.5" />
-    <!-- Center Emblem -->
-    <ellipse cx="32" cy="32" rx="8" ry="12" fill="var(--color-asset-secondary, #2E7D32)" stroke="#FFFFFF" stroke-width="1.5" />
-    <polygon points="32,24 35,30 40,32 35,34 32,40 29,34 24,32 29,30" fill="#81C784" stroke="#1E293B" stroke-width="0.75" />
+    <rect x="15" y="10" width="34" height="44" rx="2" fill="url(#cardWeave)"/>
+    <rect x="15" y="10" width="34" height="44" rx="2" fill="none" stroke="#1B5E20" stroke-width="1"/>
+    <circle cx="32" cy="32" r="9" fill="#1B5E20"/>
+    <circle cx="32" cy="32" r="6" fill="none" stroke="#81C784" stroke-width="1.4"/>
   </g>
   <g id="highlights">
-    <!-- Glossy diagonal streak -->
-    <path d="M 12 12 L 32 6 L 40 6 L 12 28 Z" fill="#FFFFFF" opacity="0.25" />
-    <!-- Top edge highlight -->
-    <line x1="14" y1="8" x2="50" y2="8" stroke="#81C784" stroke-width="1.5" stroke-linecap="round" />
+    <path d="M14 9 L48 9" stroke="#81C784" stroke-width="1.5" opacity="0.8" stroke-linecap="round"/>
   </g>
 </svg>

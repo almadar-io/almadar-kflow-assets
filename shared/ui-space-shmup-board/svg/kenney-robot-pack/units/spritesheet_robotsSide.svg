@@ -1,7 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-spritesheet_robotsSide">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SPRI</text>
+  <defs>
+    <linearGradient id="sideBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.45" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <rect x="18" y="14" width="24" height="20" rx="5" fill="url(#sideBody)" stroke="#1E293B" stroke-width="2"/>
+    <rect x="22" y="34" width="16" height="14" rx="2" fill="#4CAF50" stroke="#1E293B" stroke-width="2"/>
+    <rect x="20" y="48" width="6" height="10" rx="2" fill="#2E7D32" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="48" width="6" height="10" rx="2" fill="#2E7D32" stroke="#1E293B" stroke-width="2"/>
+    <rect x="42" y="22" width="6" height="10" rx="2" fill="#4CAF50" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details">
+    <circle cx="34" cy="24" r="4" fill="#1B5E20"/>
+    <rect x="24" y="38" width="12" height="3" rx="1.5" fill="#1B5E20"/>
+    <rect x="24" y="43" width="12" height="2" rx="1" fill="#1B5E20"/>
+    <line x1="22" y1="52" x2="22" y2="57" stroke="#1B5E20" stroke-width="2"/>
+    <line x1="36" y1="52" x2="36" y2="57" stroke="#1B5E20" stroke-width="2"/>
+  </g>
+  <g id="highlights">
+    <path d="M20 16 Q20 14 23 14 L37 14" fill="none" stroke="#81C784" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="35" cy="23" r="1.6" fill="#81C784"/>
+    <rect x="24" y="38" width="8" height="1.2" rx="0.6" fill="#81C784" opacity="0.7"/>
   </g>
 </svg>

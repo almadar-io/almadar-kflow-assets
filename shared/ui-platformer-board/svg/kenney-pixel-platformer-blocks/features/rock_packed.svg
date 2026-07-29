@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-rock_packed">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ROCK</text>
-  </g>
+<defs><linearGradient id="g_rock_packed" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81C784"/><stop offset="0.45" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></linearGradient></defs>
+<g id="base-shape"><path d="M14 46 L8 30 Q10 18 24 12 Q40 8 52 18 Q60 28 54 44 L46 54 Q30 58 14 46 Z" fill="url(#g_rock_packed)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/></g><g id="surface-details">
+    <path d="M20 24 Q30 22 38 30" fill="none" stroke="#1B5E20" stroke-width="1.4" opacity="0.7"/>
+    <path d="M34 34 Q44 34 50 42" fill="none" stroke="#1B5E20" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="26" cy="40" r="2" fill="#1B5E20" opacity="0.5"/>
+    <circle cx="44" cy="22" r="1.6" fill="#1B5E20" opacity="0.5"/>
+  </g><g id="highlights"><path d="M12 22 Q18 16 28 14" stroke="#81C784" stroke-width="1.5" fill="none" opacity="0.9"/></g>
 </svg>

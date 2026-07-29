@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-xmasPack_spritesheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">XMAS</text>
-  </g>
+<defs><linearGradient id="g_xmasPack_spritesheet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81C784"/><stop offset="0.45" stop-color="#4CAF50"/><stop offset="1" stop-color="#2E7D32"/></linearGradient></defs>
+<g id="base-shape"><rect x="2" y="2" width="60" height="60" rx="8" ry="8"/><rect x="2" y="2" width="60" height="60" rx="8" fill="#2E7D32" opacity="0.18"/><rect x="2" y="2" width="60" height="60" rx="8" fill="none" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/></g><g id="surface-details">
+    <path d="M32 8 L42 26 L36 26 L46 40 L38 40 L50 54 L14 54 L26 40 L18 40 L28 26 L22 26 Z" fill="#4CAF50" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="26" y="54" width="12" height="6" fill="#1B5E20" stroke="#1E293B" stroke-width="1.2"/>
+    <circle cx="24" cy="20" r="2" fill="#81C784"/><circle cx="42" cy="34" r="2" fill="#81C784"/><circle cx="20" cy="44" r="2" fill="#81C784"/>
+  </g><g id="highlights"><path d="M28 12 L32 24" stroke="#81C784" stroke-width="1.2" opacity="0.85" fill="none"/></g>
 </svg>

@@ -1,7 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-terrainTiles_retina">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TERR</text>
+  <defs>
+    <linearGradient id="surf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.45" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#2E7D32"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <rect x="3" y="3" width="58" height="58" rx="7" fill="url(#surf)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g id="surface-details">
+    <path d="M 8 46 L 56 46 L 56 56 L 8 56 Z" fill="#2E7D32" opacity="0.6"/>
+    <g stroke="#1B5E20" stroke-width="1" stroke-linecap="round">
+      <line x1="10" y1="28" x2="10" y2="34"/>
+      <line x1="14" y1="26" x2="14" y2="36"/>
+      <line x1="18" y1="28" x2="18" y2="34"/>
+      <line x1="22" y1="26" x2="22" y2="36"/>
+      <line x1="42" y1="26" x2="42" y2="36"/>
+      <line x1="46" y1="28" x2="46" y2="34"/>
+      <line x1="50" y1="26" x2="50" y2="36"/>
+      <line x1="54" y1="28" x2="54" y2="34"/>
+    </g>
+    <path d="M 24 20 L 24 40 Q 32 44 40 40 L 40 20 L 40 30 Q 32 34 24 30 Z" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+  </g>
+  <g id="highlights">
+    <path d="M 10 9 H 54" stroke="#81C784" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
   </g>
 </svg>

@@ -1,8 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
-  <rect x="16" y="16" width="480" height="684" fill="#FFFFFF" stroke="#1E293B" stroke-width="8" rx="24" />
-  <rect x="36" y="36" width="440" height="644" fill="none" stroke="#1E293B" stroke-width="4" rx="16" stroke-dasharray="12 6" />
-  <g id="card-rollingBall_sheet">
-    <circle cx="256" cy="358" r="72" fill="#1E293B" opacity="0.9" />
-    <text x="256" y="380" font-family="sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ROL</text>
+  <g id="card-background">
+    <rect x="16" y="16" width="480" height="684" rx="24" ry="24" fill="#1E293B" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="34" width="444" height="648" rx="16" ry="16" fill="#0F172A" opacity="0.55"/>
+  </g>
+  <g id="card-inner-frame">
+    <rect x="46" y="46" width="420" height="624" rx="12" ry="12" fill="none" stroke="#81C784" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.7"/>
+  </g>
+  <g id="card-corner-ranks">
+    <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">ROL</text>
+    <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    <g transform="rotate(180 256 358)">
+      <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">ROL</text>
+      <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    </g>
+  </g>
+  <g id="card-center-emblem">
+    <defs>
+    <radialGradient id="ballGrad" cx="40%" cy="35%" r="70%">
+    <stop offset="0%" stop-color="#81C784"/>
+    <stop offset="70%" stop-color="#81C784"/>
+    <stop offset="100%" stop-color="#1B5E20"/>
+    </radialGradient>
+    </defs>
+    <path d="M 146 448 C 186 318 326 248 376 328" fill="none" stroke="#81C784" stroke-width="6" stroke-linecap="round" opacity="0.6" stroke-dasharray="2 14"/>
+    <circle cx="256" cy="358" r="74" fill="url(#ballGrad)" stroke="#1B5E20" stroke-width="3"/>
+    <ellipse cx="232" cy="332" rx="22" ry="14" fill="#FFFFFF" opacity="0.55"/>
   </g>
 </svg>

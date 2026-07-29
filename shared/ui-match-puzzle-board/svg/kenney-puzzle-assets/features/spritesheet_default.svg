@@ -1,49 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="def-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-highlight, #81C784)"/>
-      <stop offset="50%" stop-color="var(--color-asset-primary, #4CAF50)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    <linearGradient id="cell" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="1" stop-color="#4CAF50"/>
     </linearGradient>
-    <filter id="def-shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.3"/>
-    </filter>
   </defs>
-
-  <!-- 1. Base Shape: 2x2 Feature Spritesheet Grid -->
-  <g id="base-shape" filter="url(#def-shadow)">
-    <!-- Top-Left Circle Block -->
-    <rect x="4" y="4" width="26" height="26" rx="6" ry="6" fill="url(#def-grad)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Top-Right Star Block -->
-    <rect x="34" y="4" width="26" height="26" rx="6" ry="6" fill="url(#def-grad)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Bottom-Left Diamond Block -->
-    <rect x="4" y="34" width="26" height="26" rx="6" ry="6" fill="url(#def-grad)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Bottom-Right Triangle Block -->
-    <rect x="34" y="34" width="26" height="26" rx="6" ry="6" fill="url(#def-grad)" stroke="#1E293B" stroke-width="2"/>
+  <g id="base-shape">
+    <rect x="2" y="2" width="60" height="60" rx="4" fill="#2E7D32" stroke="#1E293B" stroke-width="2"/>
+    <rect x="3" y="3" width="29" height="29" fill="url(#cell)"/>
+    <rect x="32" y="3" width="29" height="29" fill="url(#cell)"/>
+    <rect x="3" y="32" width="29" height="29" fill="url(#cell)"/>
+    <rect x="32" y="32" width="29" height="29" fill="url(#cell)"/>
   </g>
-
-  <!-- 2. Surface Details: White Gem Shape Icons -->
   <g id="surface-details">
-    <!-- Circle Icon -->
-    <circle cx="17" cy="17" r="7" fill="#FFFFFF" stroke="#1E293B" stroke-width="1.2"/>
-    <circle cx="15.5" cy="15.5" r="2" fill="var(--color-asset-highlight, #81C784)"/>
-
-    <!-- Star Icon -->
-    <path d="M 47 10 L 49 14.5 L 54 15 L 50.2 18.2 L 51.5 23 L 47 20.5 L 42.5 23 L 43.8 18.2 L 40 15 L 45 14.5 Z" fill="#FFFFFF" stroke="#1E293B" stroke-width="1.2"/>
-
-    <!-- Diamond Icon -->
-    <path d="M 17 38 L 24 47 L 17 56 L 10 47 Z" fill="#FFFFFF" stroke="#1E293B" stroke-width="1.2"/>
-    <path d="M 17 41 L 21 47 L 17 53 L 13 47 Z" fill="var(--color-asset-primary, #4CAF50)"/>
-
-    <!-- Triangle Icon -->
-    <path d="M 47 38 L 55 52 L 39 52 Z" fill="#FFFFFF" stroke="#1E293B" stroke-width="1.2"/>
+    <line x1="32" y1="2" x2="32" y2="62" stroke="#1B5E20" stroke-width="2"/>
+    <line x1="2" y1="32" x2="62" y2="32" stroke="#1B5E20" stroke-width="2"/>
+    <rect x="9" y="9" width="16" height="16" rx="2" fill="#1B5E20" opacity="0.55"/>
+    <path d="M14 17 l4 4 l8 -9" fill="none" stroke="#81C784" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="46.5" cy="17.5" r="6" fill="#2E7D32" opacity="0.6"/>
+    <rect x="9" y="39" width="16" height="3" rx="1.5" fill="#2E7D32" opacity="0.6"/>
+    <rect x="9" y="45" width="11" height="3" rx="1.5" fill="#2E7D32" opacity="0.6"/>
+    <path d="M40 40 l11 0 l-5.5 11 z" fill="#2E7D32" opacity="0.6"/>
   </g>
-
-  <!-- 3. Highlights: Top Left Specular Curved Glints -->
   <g id="highlights">
-    <path d="M 8 6 L 24 6 C 26 6, 26 7, 24 7 L 10 7 Z" fill="#FFFFFF" opacity="0.8"/>
-    <path d="M 38 6 L 54 6 C 56 6, 56 7, 54 7 L 40 7 Z" fill="#FFFFFF" opacity="0.8"/>
-    <path d="M 8 36 L 24 36 C 26 36, 26 37, 24 37 L 10 37 Z" fill="#FFFFFF" opacity="0.8"/>
-    <path d="M 38 36 L 54 36 C 56 36, 56 37, 54 37 L 40 37 Z" fill="#FFFFFF" opacity="0.8"/>
+    <path d="M4 5 L60 5" stroke="#81C784" stroke-width="2" opacity="0.7"/>
+    <path d="M5 4 L5 60" stroke="#81C784" stroke-width="1.5" opacity="0.5"/>
   </g>
 </svg>

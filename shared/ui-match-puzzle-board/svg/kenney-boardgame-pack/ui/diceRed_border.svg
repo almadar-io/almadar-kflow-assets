@@ -1,42 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="border-red-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-primary, #38BDF8)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #0284C7)"/>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#BAE6FD"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#0284C7"/>
     </linearGradient>
-    <filter id="border-shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.3"/>
-    </filter>
   </defs>
-
-  <!-- 1. Base Shape: Outer Frame Container -->
-  <g id="base-shape" filter="url(#border-shadow)">
-    <!-- Outer Border Frame Shell -->
-    <rect x="4" y="4" width="56" height="56" rx="8" ry="8" fill="url(#border-red-grad)" stroke="#1E293B" stroke-width="2.5"/>
-    <!-- Inner Cutout / Inset Slot -->
-    <rect x="10" y="10" width="44" height="44" rx="5" ry="5" fill="#0F172A" stroke="#0369A1" stroke-width="1.5"/>
+  <g id="base-shape">
+    <rect x="4" y="4" width="56" height="56" rx="9" fill="#0369A1" stroke="#1E293B" stroke-width="2"/>
+    <rect x="9" y="9" width="46" height="46" rx="8" fill="url(#grad)" stroke="#1E293B" stroke-width="1.5"/>
   </g>
-
-  <!-- 2. Surface Details: Corner Accents, Inset Shading & Bevel Tracks -->
   <g id="surface-details">
-    <!-- Inner Bevel Shadow -->
-    <path d="M 10 10 L 54 10 L 54 14 L 14 14 L 14 54 L 10 54 Z" fill="#0369A1" opacity="0.6"/>
-    
-    <!-- Decorative Corner Pins / Slots -->
-    <circle cx="8" cy="8" r="1.5" fill="#BAE6FD"/>
-    <circle cx="56" cy="8" r="1.5" fill="#BAE6FD"/>
-    <circle cx="8" cy="56" r="1.5" fill="#0284C7"/>
-    <circle cx="56" cy="56" r="1.5" fill="#0284C7"/>
-
-    <!-- Frame Inner Dashed Guideline -->
-    <rect x="12" y="12" width="40" height="40" rx="4" ry="4" fill="none" stroke="var(--color-asset-primary, #38BDF8)" stroke-width="1" stroke-dasharray="4 3" opacity="0.6"/>
+    <rect x="14" y="14" width="36" height="36" rx="5" fill="none" stroke="#0369A1" stroke-width="1.5" opacity="0.6"/>
+    <circle cx="21" cy="21" r="3" fill="#0369A1"/>
+    <circle cx="43" cy="21" r="3" fill="#0369A1"/>
+    <circle cx="21" cy="43" r="3" fill="#0369A1"/>
+    <circle cx="43" cy="43" r="3" fill="#0369A1"/>
+    <circle cx="32" cy="28" r="3" fill="#0369A1"/>
+    <circle cx="32" cy="36" r="3" fill="#0369A1"/>
   </g>
-
-  <!-- 3. Highlights: Top Outer & Inner Edge Glints -->
   <g id="highlights">
-    <!-- Outer Top Edge Specular Streak -->
-    <path d="M 10 5 L 54 5 C 57 5, 58 7, 58 8 L 6 8 C 6 7, 7 5, 10 5 Z" fill="#BAE6FD" opacity="0.8"/>
-    <!-- Inner Bottom Glow -->
-    <path d="M 11 53 L 53 53 L 53 54 C 53 54, 49 54, 11 54 Z" fill="#FFFFFF" opacity="0.4"/>
+    <path d="M12 12 Q32 7 52 12" fill="none" stroke="#BAE6FD" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
   </g>
 </svg>

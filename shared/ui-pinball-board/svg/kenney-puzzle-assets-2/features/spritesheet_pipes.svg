@@ -1,7 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-spritesheet_pipes">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SPRI</text>
+  <defs>
+    <linearGradient id="pipeFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="50%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+  </defs>
+  <g id="base-shape">
+    <path d="M8 8 L26 8 L26 38 Q26 56 44 56 L56 56 L56 46 L44 46 Q36 46 36 38 L36 8 Z" fill="url(#pipeFill)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g id="surface-details">
+    <rect x="8" y="3" width="18" height="10" rx="2" fill="#2E7D32" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="51" y="46" width="10" height="18" rx="2" fill="#2E7D32" stroke="#1E293B" stroke-width="1.5"/>
+    <path d="M12 11 L22 11" stroke="#1B5E20" stroke-width="1" opacity="0.6"/>
+  </g>
+  <g id="highlights">
+    <path d="M11 11 L21 11" stroke="#81C784" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <path d="M53 51 L53 61" stroke="#81C784" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
   </g>
 </svg>

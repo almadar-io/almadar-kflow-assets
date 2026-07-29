@@ -1,7 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="axonometric-abstractTiles_sheet">
-    <polygon points="32,4 58,18 32,32 6,18" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <polygon points="6,18 32,32 32,58 6,44" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <polygon points="32,32 58,18 58,44 32,58" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-  </g>
+<g id="cube-top-face">
+<polygon points="32,4 58,18 32,32 6,18" fill="#4CAF50" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="32,10 52,18 32,26 12,18" fill="none" stroke="#81C784" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="32" cy="18" r="1.8" fill="#1B5E20"/>
+</g>
+<g id="cube-left-face">
+<polygon points="6,18 32,32 32,58 6,44" fill="#2E7D32" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+<line x1="11" y1="21" x2="29" y2="35" stroke="#1B5E20" stroke-width="1.2"/>
+<line x1="9" y1="31" x2="29" y2="43" stroke="#1B5E20" stroke-width="1.2"/>
+</g>
+<g id="cube-right-face">
+<polygon points="32,32 58,18 58,44 32,58" fill="#1B5E20" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+<line x1="35" y1="35" x2="55" y2="21" stroke="#2E7D32" stroke-width="1.2"/>
+<line x1="35" y1="45" x2="55" y2="33" stroke="#2E7D32" stroke-width="1.2"/>
+</g>
+<g id="face-highlights">
+<line x1="32" y1="4" x2="58" y2="18" stroke="#81C784" stroke-width="2" stroke-linecap="round"/>
+<line x1="32" y1="4" x2="6" y2="18" stroke="#81C784" stroke-width="2" stroke-linecap="round"/>
+</g>
 </svg>

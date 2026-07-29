@@ -1,75 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
-  <defs>
-    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#F8FAFC" />
-    </linearGradient>
-    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-primary, #1E293B)" />
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #0F172A)" />
-    </linearGradient>
-    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
-      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
-    </filter>
-  </defs>
-
-  <!-- 1. Card Background Layer -->
   <g id="card-background">
-    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
-    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+    <rect x="16" y="16" width="480" height="684" rx="24" ry="24" fill="#1E293B" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="34" width="444" height="648" rx="16" ry="16" fill="#0F172A" opacity="0.55"/>
   </g>
-
-  <!-- 2. Inner Frame Layer -->
   <g id="card-inner-frame">
-    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
-    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#81C784" stroke-width="3" stroke-linecap="round" />
+    <rect x="46" y="46" width="420" height="624" rx="12" ry="12" fill="none" stroke="#81C784" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.7"/>
   </g>
-
-  <!-- 3. Corner Ranks Layer -->
   <g id="card-corner-ranks">
-    <g transform="translate(56, 60)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">CAR</text>
-      <rect x="12" y="44" width="24" height="30" rx="3" fill="none" stroke="var(--color-asset-primary, #1E293B)" stroke-width="2" />
-    </g>
-    <g transform="translate(456, 656) rotate(180)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #1E293B)">CAR</text>
-      <rect x="12" y="44" width="24" height="30" rx="3" fill="none" stroke="var(--color-asset-primary, #1E293B)" stroke-width="2" />
+    <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">CAR</text>
+    <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
+    <g transform="rotate(180 256 358)">
+      <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#81C784" text-anchor="middle" letter-spacing="1">CAR</text>
+      <circle cx="74" cy="128" r="10" fill="#81C784"/><circle cx="74" cy="128" r="4.5" fill="#1B5E20"/>
     </g>
   </g>
-
-  <!-- 4. Center Emblem Layer -->
   <g id="card-center-emblem">
-    <!-- 3x2 Medium Cards Grid -->
-    <g transform="translate(256, 356)">
-      <rect x="-140" y="-160" width="280" height="320" rx="16" fill="#F1F5F9" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
-
-      <!-- Row 1 Cards -->
-      <rect x="-125" y="-145" width="80" height="130" rx="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
-      <path d="M -85 -90 C -95 -75 -105 -70 -95 -60 C -85 -50 -85 -50 -85 -50 C -85 -50 -85 -50 -75 -60 C -65 -70 -75 -75 -85 -90 Z" fill="url(#primaryGrad)" />
-
-      <rect x="-40" y="-145" width="80" height="130" rx="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
-      <path d="M 0 -85 C -5 -95 -20 -95 -20 -85 C -20 -75 0 -60 0 -60 C 0 -60 20 -75 20 -85 C 20 -95 5 -95 0 -85 Z" fill="#EF4444" />
-
-      <rect x="45" y="-145" width="80" height="130" rx="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
-      <polygon points="85, -95 97, -80 85, -65 73, -80" fill="#EF4444" />
-
-      <!-- Row 2 Cards -->
-      <rect x="-125" y="15" width="80" height="130" rx="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
-      <circle cx="-85" cy="70" r="10" fill="url(#primaryGrad)" />
-      <circle cx="-93" cy="80" r="10" fill="url(#primaryGrad)" />
-      <circle cx="-77" cy="80" r="10" fill="url(#primaryGrad)" />
-
-      <rect x="-40" y="15" width="80" height="130" rx="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
-      <text x="-12" y="90" font-family="sans-serif" font-size="28" font-weight="bold" fill="#EF4444">K</text>
-
-      <rect x="45" y="15" width="80" height="130" rx="6" fill="#FFFFFF" stroke="#1E293B" stroke-width="2" />
-      <text x="73" y="90" font-family="sans-serif" font-size="28" font-weight="bold" fill="var(--color-asset-primary, #1E293B)">A</text>
-
-      <!-- Grid dividing lines -->
-      <line x1="-140" y1="0" x2="140" y2="0" stroke="#81C784" stroke-width="3" />
+    <g transform="rotate(-22 256 388)">
+    <rect x="204" y="248" width="104" height="160" rx="12" fill="#81C784" stroke="#1B5E20" stroke-width="2"/>
+    </g>
+    <g transform="rotate(0 256 388)">
+    <rect x="204" y="248" width="104" height="160" rx="12" fill="#81C784" stroke="#1B5E20" stroke-width="2"/>
+    </g>
+    <g transform="rotate(22 256 388)">
+    <rect x="204" y="248" width="104" height="160" rx="12" fill="#81C784" stroke="#1B5E20" stroke-width="2"/>
     </g>
   </g>
 </svg>

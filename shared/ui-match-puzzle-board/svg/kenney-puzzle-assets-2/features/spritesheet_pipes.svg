@@ -1,70 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="pipe-h-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-highlight, #81C784)"/>
-      <stop offset="40%" stop-color="var(--color-asset-primary, #4CAF50)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
+    <linearGradient id="pipe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#81C784"/>
+      <stop offset="0.5" stop-color="#4CAF50"/>
+      <stop offset="1" stop-color="#2E7D32"/>
     </linearGradient>
-    <linearGradient id="pipe-v-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="var(--color-asset-highlight, #81C784)"/>
-      <stop offset="40%" stop-color="var(--color-asset-primary, #4CAF50)"/>
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #2E7D32)"/>
-    </linearGradient>
-    <filter id="pipe-shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="1" dy="2" stdDeviation="1.5" flood-color="#1E293B" flood-opacity="0.35"/>
-    </filter>
   </defs>
-
-  <!-- 1. Base Shape: Pipe Cross & Flange Silhouettes -->
-  <g id="base-shape" filter="url(#pipe-shadow)">
-    <!-- Vertical Main Pipe Tube -->
-    <rect x="22" y="4" width="20" height="56" rx="2" fill="url(#pipe-v-grad)" stroke="#1E293B" stroke-width="2"/>
-    
-    <!-- Horizontal Branch Tube -->
-    <rect x="4" y="22" width="56" height="20" rx="2" fill="url(#pipe-h-grad)" stroke="#1E293B" stroke-width="2"/>
-
-    <!-- Flange / Rim Collars -->
-    <!-- Top Flange -->
-    <rect x="18" y="2" width="28" height="8" rx="2" fill="url(#pipe-v-grad)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Bottom Flange -->
-    <rect x="18" y="54" width="28" height="8" rx="2" fill="url(#pipe-v-grad)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Left Flange -->
-    <rect x="2" y="18" width="8" height="28" rx="2" fill="url(#pipe-h-grad)" stroke="#1E293B" stroke-width="2"/>
-    <!-- Right Flange -->
-    <rect x="54" y="18" width="8" height="28" rx="2" fill="url(#pipe-h-grad)" stroke="#1E293B" stroke-width="2"/>
-
-    <!-- Center Junction Ring -->
-    <circle cx="32" cy="32" r="14" fill="url(#pipe-v-grad)" stroke="#1E293B" stroke-width="2"/>
+  <g id="base-shape">
+    <rect x="2" y="2" width="60" height="60" rx="4" fill="#1B5E20" stroke="#1E293B" stroke-width="2"/>
+    <rect x="22" y="6" width="20" height="52" rx="3" fill="url(#pipe)" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="6" y="22" width="52" height="20" rx="3" fill="url(#pipe)" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="22" y="22" width="20" height="20" fill="url(#pipe)"/>
   </g>
-
-  <!-- 2. Surface Details: Cylindrical Highlight Lines, Rivets & Center Gauge -->
   <g id="surface-details">
-    <!-- Flange Hardware Rivets -->
-    <circle cx="21" cy="6" r="1.2" fill="#1B5E20"/>
-    <circle cx="43" cy="6" r="1.2" fill="#1B5E20"/>
-    <circle cx="21" cy="58" r="1.2" fill="#1B5E20"/>
-    <circle cx="43" cy="58" r="1.2" fill="#1B5E20"/>
-    <circle cx="6" cy="21" r="1.2" fill="#1B5E20"/>
-    <circle cx="6" cy="43" r="1.2" fill="#1B5E20"/>
-    <circle cx="58" cy="21" r="1.2" fill="#1B5E20"/>
-    <circle cx="58" cy="43" r="1.2" fill="#1B5E20"/>
-
-    <!-- Center Junction Valve Dial / Indicator -->
-    <circle cx="32" cy="32" r="9" fill="#1E293B" stroke="#81C784" stroke-width="1.5"/>
-    <circle cx="32" cy="32" r="6" fill="#FFFFFF"/>
-    <!-- Valve Arrow Pointer -->
-    <path d="M 32 32 L 32 25 L 34 28 Z" fill="var(--color-asset-secondary, #2E7D32)"/>
-    <circle cx="32" cy="32" r="2" fill="var(--color-asset-secondary, #2E7D32)"/>
+    <rect x="27" y="6" width="3" height="52" fill="#1B5E20" opacity="0.4"/>
+    <rect x="34" y="6" width="3" height="52" fill="#81C784" opacity="0.35"/>
+    <rect x="6" y="27" width="52" height="3" fill="#1B5E20" opacity="0.4"/>
+    <rect x="6" y="34" width="52" height="3" fill="#81C784" opacity="0.35"/>
+    <circle cx="32" cy="32" r="6" fill="#1B5E20"/>
+    <circle cx="32" cy="32" r="3" fill="#2E7D32"/>
   </g>
-
-  <!-- 3. Highlights: Bright Specular Cylindrical Streaks -->
   <g id="highlights">
-    <!-- Vertical Pipe Gloss Streak -->
-    <line x1="26" y1="4" x2="26" y2="60" stroke="#FFFFFF" stroke-width="1.5" opacity="0.65"/>
-    <!-- Horizontal Pipe Gloss Streak -->
-    <line x1="4" y1="26" x2="60" y2="26" stroke="#FFFFFF" stroke-width="1.5" opacity="0.65"/>
-
-    <!-- Junction Knob Highlight -->
-    <circle cx="30" cy="30" r="1.5" fill="#FFFFFF"/>
+    <rect x="24" y="8" width="3" height="48" fill="#FFFFFF" opacity="0.25"/>
+    <rect x="8" y="24" width="48" height="3" fill="#FFFFFF" opacity="0.25"/>
   </g>
 </svg>

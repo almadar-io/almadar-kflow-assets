@@ -1,7 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-topdownPack_sheet@2">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TOPD</text>
+  <g id="base-shape">
+    <rect x="3" y="3" width="58" height="58" rx="4" fill="#4CAF50" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details">
+    <rect x="5" y="5" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="19" y="5" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="21" y="7" width="9" height="9" fill="#1B5E20" stroke="#1E293B" stroke-width="0.8"/>
+    <rect x="23" y="9" width="2" height="2" fill="#81C784"/>
+    <rect x="26" y="9" width="2" height="2" fill="#81C784"/>
+    <rect x="33" y="5" width="13" height="13" fill="#2E7D32" stroke="#1E293B" stroke-width="0.8"/>
+    <line x1="34" y1="11.5" x2="45" y2="11.5" stroke="#81C784" stroke-width="1"/>
+    <rect x="47" y="5" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="5" y="19" width="13" height="13" fill="#2E7D32" stroke="#1E293B" stroke-width="0.8"/>
+    <line x1="11.5" y1="20" x2="11.5" y2="31" stroke="#81C784" stroke-width="1"/>
+    <rect x="19" y="19" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="21" y="21" width="9" height="9" fill="#1B5E20" stroke="#1E293B" stroke-width="0.8"/>
+    <rect x="23" y="23" width="2" height="2" fill="#81C784"/>
+    <rect x="26" y="23" width="2" height="2" fill="#81C784"/>
+    <rect x="33" y="19" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="47" y="19" width="13" height="13" fill="#2E7D32" stroke="#1E293B" stroke-width="0.8"/>
+    <line x1="53.5" y1="20" x2="53.5" y2="31" stroke="#81C784" stroke-width="1"/>
+    <rect x="5" y="33" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="19" y="33" width="13" height="13" fill="#2E7D32" stroke="#1E293B" stroke-width="0.8"/>
+    <line x1="20" y1="39.5" x2="31" y2="39.5" stroke="#81C784" stroke-width="1"/>
+    <rect x="33" y="33" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="35" y="35" width="9" height="9" fill="#1B5E20" stroke="#1E293B" stroke-width="0.8"/>
+    <rect x="37" y="37" width="2" height="2" fill="#81C784"/>
+    <rect x="40" y="37" width="2" height="2" fill="#81C784"/>
+    <rect x="47" y="33" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="5" y="47" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="7" y="49" width="9" height="9" fill="#1B5E20" stroke="#1E293B" stroke-width="0.8"/>
+    <rect x="9" y="51" width="2" height="2" fill="#81C784"/>
+    <rect x="12" y="51" width="2" height="2" fill="#81C784"/>
+    <rect x="19" y="47" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+    <rect x="33" y="47" width="13" height="13" fill="#2E7D32" stroke="#1E293B" stroke-width="0.8"/>
+    <line x1="34" y1="53.5" x2="45" y2="53.5" stroke="#81C784" stroke-width="1"/>
+    <rect x="47" y="47" width="13" height="13" fill="#4CAF50" stroke="#1B5E20" stroke-width="0.8"/>
+  </g>
+  <g id="highlights">
+    <path d="M6 6 Q9 5 12 6" fill="none" stroke="#81C784" stroke-width="1" opacity="0.8"/>
+    <path d="M6 34 Q9 33 12 34" fill="none" stroke="#81C784" stroke-width="1" opacity="0.8"/>
+    <path d="M34 48 Q37 47 40 48" fill="none" stroke="#81C784" stroke-width="1" opacity="0.8"/>
   </g>
 </svg>

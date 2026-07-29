@@ -1,7 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="axonometric-sheet_black">
-    <polygon points="32,4 58,18 32,32 6,18" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <polygon points="6,18 32,32 32,58 6,44" fill="var(--color-asset-secondary, #2E7D32)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <polygon points="32,32 58,18 58,44 32,58" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <g id="cube-top-face">
+    <polygon points="32,4 58,18 32,32 6,18" fill="#334155" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="32,9 52,20 32,29 12,20" fill="none" stroke="#64748B" stroke-width="1.2" opacity="0.7"/>
+    <circle cx="32" cy="18" r="3" fill="#64748B" opacity="0.55"/>
+  </g>
+  <g id="cube-left-face">
+    <polygon points="6,18 32,32 32,58 6,44" fill="#1E293B" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="12,21 29,30 29,53 12,44" fill="none" stroke="#64748B" stroke-width="0.9" opacity="0.35"/>
+  </g>
+  <g id="cube-right-face">
+    <polygon points="32,32 58,18 58,44 32,58" fill="#0F172A" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+  </g>
+  <g id="face-highlights">
+    <polyline points="6,18 32,4 58,18" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+    <polyline points="6,18 32,32" fill="none" stroke="#64748B" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
   </g>
 </svg>

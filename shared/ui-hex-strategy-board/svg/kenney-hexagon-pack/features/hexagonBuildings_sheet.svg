@@ -1,26 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <g id="hex-base">
-    <polygon points="32,4 58,18 58,46 32,60 6,46 6,18" fill="var(--color-asset-primary, #4CAF50)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round" />
-    <polygon points="32,60 58,46 58,18 32,32" fill="#1B5E20" opacity="0.3" />
-    <polygon points="32,60 6,46 32,32" fill="#2E7D32" stroke-opacity="0.3" opacity="0.4" />
+    <polygon points="32,4 58,18 58,46 32,60 6,46 6,18" fill="#4CAF50" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
   </g>
   <g id="hex-terrain-details">
-    <!-- Castle Keep & Watchtower Structure -->
-    <g transform="translate(32,34)">
-      <!-- Main Fortress Tower Base -->
-      <polygon points="-12,0 0,6 12,0 12,-16 0,-22 -12,-16" fill="#2E7D32" stroke="#1B5E20" stroke-width="1.2" />
-      <polygon points="0,6 12,0 12,-16 0,-10" fill="#1B5E20" />
-      <polygon points="0,6 -12,0 -12,-16 0,-10" fill="#81C784" />
-      <!-- Tower Battlements Cutouts -->
-      <path d="M -12 -16 L -12 -20 L -8 -20 L -8 -17 L -4 -17 L -4 -20 L 0 -20 L 0 -17 L 4 -17 L 4 -20 L 8 -20 L 8 -17 L 12 -17 L 12 -16" fill="#1B5E20" stroke="#1B5E20" stroke-width="0.8" />
-      <!-- Banner / Flag on Pole -->
-      <line x1="0" y1="-20" x2="0" y2="-28" stroke="#1B5E20" stroke-width="1.2" />
-      <polygon points="0,-28 8,-25 0,-22" fill="#81C784" stroke="#1B5E20" stroke-width="0.8" />
-      <!-- Gate / Portcullis Arc -->
-      <path d="M -3 6 L -3 0 C -3 -3 3 -3 3 0 L 3 6 Z" fill="#1B5E20" />
-    </g>
+      <rect x="22" y="30" width="9" height="14" fill="#2E7D32"/>
+      <rect x="33" y="26" width="9" height="18" fill="#1B5E20"/>
+      <polygon points="22,30 26.5,25 31,30" fill="#1B5E20"/>
+      <polygon points="33,26 37.5,21 42,26" fill="#2E7D32"/>
+      <rect x="24.5" y="36" width="2.5" height="3" fill="#81C784"/>
+      <rect x="35.5" y="32" width="2.5" height="3" fill="#81C784"/>
+      <rect x="35.5" y="38" width="2.5" height="3" fill="#81C784"/>
   </g>
   <g id="hex-highlight">
-    <polygon points="32,7.5 55,19.5 55,44.5 32,56.5 9,44.5 9,19.5" fill="none" stroke="#81C784" stroke-width="1.5" stroke-opacity="0.5" />
+    <polygon points="32,10 52,21 52,43 32,54 12,43 12,21" fill="none" stroke="#81C784" stroke-width="1.5" stroke-linejoin="round" opacity="0.5"/>
   </g>
+  <title>hexagonBuildings_sheet</title>
 </svg>

@@ -1,15 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <g id="cube-top-face">
-    <polygon points="32,4 58,18 32,32 6,18" fill="var(--color-asset-primary, #FDE047)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+    <polygon points="32,4 58,18 32,32 6,18" fill="#FDE047" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M19 15 Q32 19 45 15" fill="none" stroke="#CA8A04" stroke-width="1" opacity="0.55"/>
+    <path d="M22 19 Q32 22 42 19" fill="none" stroke="#CA8A04" stroke-width="1" opacity="0.5"/>
+    <path d="M25 23 Q32 25 39 23" fill="none" stroke="#CA8A04" stroke-width="1" opacity="0.45"/>
+    <circle cx="28" cy="13" r="0.9" fill="#CA8A04" opacity="0.5"/>
+    <circle cx="40" cy="22" r="0.9" fill="#CA8A04" opacity="0.5"/>
   </g>
   <g id="cube-left-face">
-    <polygon points="6,18 32,32 32,58 6,44" fill="var(--color-asset-secondary, #EAB308)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+    <polygon points="6,18 32,32 32,58 6,44" fill="#EAB308" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M12 34 Q19 36 26 34" fill="none" stroke="#CA8A04" stroke-width="0.8" opacity="0.4"/>
+    <path d="M12 46 Q19 48 26 46" fill="none" stroke="#CA8A04" stroke-width="0.8" opacity="0.4"/>
   </g>
   <g id="cube-right-face">
-    <polygon points="32,32 58,18 58,44 32,58" fill="#CA8A04" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+    <polygon points="32,32 58,18 58,44 32,58" fill="#CA8A04" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M38 28 Q45 26 52 28" fill="none" stroke="#EAB308" stroke-width="0.8" opacity="0.4"/>
+    <path d="M38 40 Q45 38 52 40" fill="none" stroke="#EAB308" stroke-width="0.8" opacity="0.4"/>
   </g>
   <g id="face-highlights">
-    <polyline points="6,18 32,4 58,18" fill="none" stroke="#FEF08A" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" />
-    <polyline points="6,18 32,32 58,18" fill="none" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.4" />
+    <polyline points="32,4 58,18" fill="none" stroke="#FEF08A" stroke-width="2" stroke-linecap="round"/>
+    <polyline points="32,4 6,18" fill="none" stroke="#FEF08A" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
   </g>
 </svg>

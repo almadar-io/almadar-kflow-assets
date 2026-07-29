@@ -1,89 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 716" width="100%" height="100%">
-  <defs>
-    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#F8FAFC" />
-    </linearGradient>
-    <linearGradient id="diceTopGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF6B6B" />
-      <stop offset="100%" stop-color="var(--color-asset-primary, #EF4444)" />
-    </linearGradient>
-    <linearGradient id="diceFrontGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-primary, #EF4444)" />
-      <stop offset="100%" stop-color="var(--color-asset-secondary, #DC2626)" />
-    </linearGradient>
-    <linearGradient id="diceSideGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--color-asset-secondary, #DC2626)" />
-      <stop offset="100%" stop-color="#B91C1C" />
-    </linearGradient>
-    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
-      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.15" />
-    </filter>
-  </defs>
-
-  <!-- 1. Card Background Layer -->
   <g id="card-background">
-    <rect x="16" y="16" width="480" height="684" rx="24" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="4" filter="url(#dropShadow)" />
-    <rect x="24" y="24" width="464" height="668" rx="18" fill="none" stroke="#E2E8F0" stroke-width="2" />
+    <rect x="16" y="16" width="480" height="684" rx="24" ry="24" fill="#EF4444" stroke="#1E293B" stroke-width="2"/>
+    <rect x="34" y="34" width="444" height="648" rx="16" ry="16" fill="#DC2626" opacity="0.55"/>
   </g>
-
-  <!-- 2. Inner Frame Layer -->
   <g id="card-inner-frame">
-    <rect x="36" y="36" width="440" height="644" rx="16" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="12 6" />
-    <path d="M 44 60 L 60 44 M 44 44 L 60 60" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 60 L 452 44 M 468 44 L 452 60" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
-    <path d="M 44 656 L 60 672 M 44 672 L 60 656" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
-    <path d="M 468 656 L 452 672 M 468 672 L 452 656" stroke="#EF4444" stroke-width="3" stroke-linecap="round" />
+    <rect x="46" y="46" width="420" height="624" rx="12" ry="12" fill="none" stroke="#BAE6FD" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.7"/>
   </g>
-
-  <!-- 3. Corner Ranks Layer -->
   <g id="card-corner-ranks">
-    <!-- Top-Left Corner -->
-    <g transform="translate(56, 60)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #EF4444)">DIC</text>
-      <rect x="12" y="44" width="24" height="24" rx="4" fill="var(--color-asset-primary, #EF4444)" stroke="#1E293B" stroke-width="2" />
-      <circle cx="24" cy="56" r="3" fill="#FFFFFF" />
-    </g>
-    <!-- Bottom-Right Corner (Inverted) -->
-    <g transform="translate(456, 656) rotate(180)">
-      <text x="0" y="32" font-family="system-ui, sans-serif" font-size="36" font-weight="800" fill="var(--color-asset-primary, #EF4444)">DIC</text>
-      <rect x="12" y="44" width="24" height="24" rx="4" fill="var(--color-asset-primary, #EF4444)" stroke="#1E293B" stroke-width="2" />
-      <circle cx="24" cy="56" r="3" fill="#FFFFFF" />
+    <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#BAE6FD" text-anchor="middle" letter-spacing="1">DIC</text>
+    <circle cx="74" cy="128" r="10" fill="#BAE6FD"/><circle cx="74" cy="128" r="4.5" fill="#0369A1"/>
+    <g transform="rotate(180 256 358)">
+      <text x="74" y="104" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#BAE6FD" text-anchor="middle" letter-spacing="1">DIC</text>
+      <circle cx="74" cy="128" r="10" fill="#BAE6FD"/><circle cx="74" cy="128" r="4.5" fill="#0369A1"/>
     </g>
   </g>
-
-  <!-- 4. Center Emblem Layer -->
   <g id="card-center-emblem">
-    <!-- 3D Red Dice -->
-    <g transform="translate(256, 350)">
-      <!-- Drop Shadow -->
-      <polygon points="-120,80 0,140 120,80 0,20" fill="#000000" opacity="0.2" />
-
-      <!-- Isometric Cube Top Face (3 pips) -->
-      <polygon points="0,-110 110,-55 0,0 -110,-55" fill="url(#diceTopGrad)" stroke="#1E293B" stroke-width="4" stroke-linejoin="round" />
-      <!-- Pips on Top -->
-      <circle cx="-50" cy="-60" r="10" fill="#FFFFFF" />
-      <circle cx="0" cy="-55" r="10" fill="#FFFFFF" />
-      <circle cx="50" cy="-50" r="10" fill="#FFFFFF" />
-
-      <!-- Isometric Cube Left/Front Face (5 pips) -->
-      <polygon points="-110,-55 0,0 0,110 -110,55" fill="url(#diceFrontGrad)" stroke="#1E293B" stroke-width="4" stroke-linejoin="round" />
-      <!-- Pips on Left -->
-      <circle cx="-75" cy="-10" r="10" fill="#FFFFFF" />
-      <circle cx="-30" cy="15" r="10" fill="#FFFFFF" />
-      <circle cx="-55" cy="27" r="10" fill="#FFFFFF" />
-      <circle cx="-80" cy="40" r="10" fill="#FFFFFF" />
-      <circle cx="-35" cy="65" r="10" fill="#FFFFFF" />
-
-      <!-- Isometric Cube Right/Side Face (1 center pip) -->
-      <polygon points="0,0 110,-55 110,55 0,110" fill="url(#diceSideGrad)" stroke="#1E293B" stroke-width="4" stroke-linejoin="round" />
-      <!-- Center Pip on Right -->
-      <circle cx="55" cy="27" r="16" fill="#BAE6FD" stroke="#FFFFFF" stroke-width="3" />
-
-      <!-- Specular Highlight Bevel Lines -->
-      <path d="M 0,-106 L 104,-54" stroke="#BAE6FD" stroke-width="3" stroke-linecap="round" opacity="0.6" />
-      <path d="M 0,-106 L -104,-54" stroke="#BAE6FD" stroke-width="3" stroke-linecap="round" opacity="0.6" />
-      <path d="M 0,-104 L 0,104" stroke="#BAE6FD" stroke-width="3" stroke-linecap="round" opacity="0.5" />
-    </g>
+    <rect x="178" y="280" width="156" height="156" rx="26" fill="#BAE6FD" stroke="#0369A1" stroke-width="3"/>
+    <circle cx="218" cy="320" r="11" fill="#0369A1"/>
+    <circle cx="294" cy="320" r="11" fill="#0369A1"/>
+    <circle cx="256" cy="358" r="11" fill="#0369A1"/>
+    <circle cx="218" cy="396" r="11" fill="#0369A1"/>
+    <circle cx="294" cy="396" r="11" fill="#0369A1"/>
   </g>
 </svg>

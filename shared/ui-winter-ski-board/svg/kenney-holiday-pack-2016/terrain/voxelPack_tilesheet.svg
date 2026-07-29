@@ -1,7 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-voxelPack_tilesheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">VOXE</text>
+  <g id="base-shape">
+    <rect x="3" y="3" width="58" height="58" rx="4" fill="#4CAF50" stroke="#1E293B" stroke-width="2"/>
+  </g>
+  <g id="surface-details">
+    <polygon points="20,22 28,26 20,30 12,26" fill="#4CAF50" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="12,26 20,30 20,39 12,35" fill="#1B5E20" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="28,26 20,30 20,39 28,35" fill="#2E7D32" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="44,22 52,26 44,30 36,26" fill="#4CAF50" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="36,26 44,30 44,39 36,35" fill="#1B5E20" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="52,26 44,30 44,39 52,35" fill="#2E7D32" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="20,44 28,48 20,52 12,48" fill="#4CAF50" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="12,48 20,52 20,57 12,53" fill="#1B5E20" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="28,48 20,52 20,57 28,53" fill="#2E7D32" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="44,44 52,48 44,52 36,48" fill="#4CAF50" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="36,48 44,52 44,57 36,53" fill="#1B5E20" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="52,48 44,52 44,57 52,53" fill="#2E7D32" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+  </g>
+  <g id="highlights">
+    <polygon points="20,24 23,25.5 20,27 17,25.5" fill="#81C784" opacity="0.85"/>
+    <polygon points="44,24 47,25.5 44,27 41,25.5" fill="#81C784" opacity="0.85"/>
+    <polygon points="20,46 23,47.5 20,49 17,47.5" fill="#81C784" opacity="0.85"/>
+    <polygon points="44,46 47,47.5 44,49 41,47.5" fill="#81C784" opacity="0.85"/>
   </g>
 </svg>

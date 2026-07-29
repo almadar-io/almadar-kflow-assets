@@ -1,7 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-xmasPack_spritesheet">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">XMAS</text>
+  <g id="base-shape">
+    <rect x="29" y="50" width="6" height="9" rx="1.5" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5"/>
+    <polygon points="15,51 49,51 32,37" fill="#4CAF50" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <polygon points="18,40 46,40 32,26" fill="#4CAF50" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <polygon points="21,29 43,29 32,15" fill="#4CAF50" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g id="surface-details">
+    <polygon points="27,45 37,45 32,40" fill="#81C784" opacity="0.85"/>
+    <polygon points="28,34 36,34 32,29" fill="#81C784" opacity="0.85"/>
+    <polygon points="29,24 35,24 32,20" fill="#81C784" opacity="0.85"/>
+    <circle cx="26" cy="46" r="1.9" fill="#1B5E20"/>
+    <circle cx="38" cy="45" r="1.9" fill="#1B5E20"/>
+    <circle cx="27" cy="35" r="1.9" fill="#1B5E20"/>
+    <circle cx="37" cy="36" r="1.9" fill="#1B5E20"/>
+    <circle cx="28" cy="25" r="1.7" fill="#1B5E20"/>
+    <path d="M32 6 L33.7 10.4 L38.4 10.7 L34.7 13.6 L36 18.1 L32 15.5 L28 18.1 L29.3 13.6 L25.6 10.7 L30.3 10.4 Z" fill="#FEF08A" stroke="#CA8A04" stroke-width="1" stroke-linejoin="round"/>
+  </g>
+  <g id="highlights">
+    <line x1="26" y1="49" x2="22" y2="49" stroke="#81C784" stroke-width="2" stroke-linecap="round"/>
+    <line x1="28" y1="38" x2="24" y2="38" stroke="#81C784" stroke-width="2" stroke-linecap="round"/>
+    <line x1="30" y1="27" x2="27" y2="27" stroke="#81C784" stroke-width="2" stroke-linecap="round"/>
   </g>
 </svg>

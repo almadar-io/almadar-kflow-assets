@@ -1,7 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-rollingBall_sheet@2">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ROLL</text>
-  </g>
+<defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81C784"/><stop offset="1" stop-color="#4CAF50"/></linearGradient></defs>
+<g id="base-shape">
+  <circle cx="40" cy="32" r="18" fill="url(#g1)" stroke="#1E293B" stroke-width="2"/>
+</g>
+<g id="surface-details">
+  <path d="M28 32 A18 18 0 0 1 52 32" fill="none" stroke="#2E7D32" stroke-width="2.5"/>
+  <line x1="-18" y1="14" x2="-14" y2="14" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="-18" y1="24" x2="-14" y2="24" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="-18" y1="34" x2="-14" y2="34" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="-18" y1="44" x2="-14" y2="44" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="-22" y1="19" x2="-18" y2="19" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="-22" y1="39" x2="-18" y2="39" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="40" cy="32" r="3" fill="#1B5E20"/>
+</g>
+<g id="highlights">
+  <ellipse cx="34" cy="25" rx="5" ry="4" fill="#81C784" opacity="0.85"/>
+</g>
 </svg>

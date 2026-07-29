@@ -1,28 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <g id="cube-top-face">
-    <polygon points="32,4 58,18 32,32 6,18" fill="var(--color-asset-primary, #94A3B8)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <!-- Carved stone masonry grid lines on top diamond -->
-    <path d="M 19,11 L 45,25 M 19,25 L 45,11" stroke="#475569" stroke-width="1" opacity="0.5" />
-    <polygon points="32,8 52,18 32,28 12,18" fill="#CBD5E1" opacity="0.2" />
+    <polygon points="32,4 58,18 32,32 6,18" fill="#94A3B8" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="19" y1="11" x2="45" y2="25" stroke="#334155" stroke-width="0.6" opacity="0.7"/>
+    <line x1="45" y1="11" x2="19" y2="25" stroke="#334155" stroke-width="0.6" opacity="0.7"/>
   </g>
   <g id="cube-left-face">
-    <polygon points="6,18 32,32 32,58 6,44" fill="var(--color-asset-secondary, #64748B)" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <!-- Masonry brick course mortar lines on left face -->
-    <path d="M 6,27 L 32,41 M 6,35 L 32,49 M 6,43 L 32,57" stroke="#334155" stroke-width="1" opacity="0.6" />
-    <line x1="19" y1="24.5" x2="19" y2="34" stroke="#334155" stroke-width="1" opacity="0.6" />
-    <line x1="12" y1="38" x2="12" y2="47" stroke="#334155" stroke-width="1" opacity="0.6" />
-    <line x1="26" y1="45" x2="26" y2="54" stroke="#334155" stroke-width="1" opacity="0.6" />
+    <polygon points="6,18 32,32 32,58 6,44" fill="#64748B" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="13" y1="34.5" x2="32" y2="44" stroke="#334155" stroke-width="0.6" opacity="0.7"/>
+    <line x1="19" y1="25" x2="19" y2="51" stroke="#334155" stroke-width="0.6" opacity="0.7"/>
+    <line x1="25.5" y1="47.5" x2="25.5" y2="49" stroke="#334155" stroke-width="0.6" opacity="0.7"/>
   </g>
   <g id="cube-right-face">
-    <polygon points="32,32 58,18 58,44 32,58" fill="#334155" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-    <!-- Masonry brick course mortar lines on right face -->
-    <path d="M 32,41 L 58,27 M 32,49 L 58,35 M 32,57 L 58,43" stroke="#1E293B" stroke-width="1" opacity="0.7" />
-    <line x1="45" y1="24.5" x2="45" y2="34" stroke="#1E293B" stroke-width="1" opacity="0.7" />
-    <line x1="38" y1="45" x2="38" y2="54" stroke="#1E293B" stroke-width="1" opacity="0.7" />
-    <line x1="52" y1="38" x2="52" y2="47" stroke="#1E293B" stroke-width="1" opacity="0.7" />
+    <polygon points="32,32 58,18 58,44 32,58" fill="#334155" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="51" y1="21.5" x2="32" y2="31" stroke="#1E293B" stroke-width="0.6" opacity="0.7"/>
+    <line x1="45" y1="25" x2="45" y2="51" stroke="#1E293B" stroke-width="0.6" opacity="0.7"/>
+    <line x1="38.5" y1="38.5" x2="38.5" y2="40" stroke="#1E293B" stroke-width="0.6" opacity="0.7"/>
   </g>
   <g id="face-highlights">
-    <polyline points="6,18 32,4 58,18" fill="none" stroke="#CBD5E1" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9" />
-    <line x1="32" y1="4" x2="32" y2="32" stroke="#CBD5E1" stroke-width="1" opacity="0.6" />
+    <line x1="32" y1="4" x2="6" y2="18" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/>
+    <line x1="32" y1="4" x2="58" y2="18" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
   </g>
 </svg>

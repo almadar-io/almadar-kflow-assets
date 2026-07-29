@@ -1,25 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
   <defs>
-    <linearGradient id="white-trans-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#E2E8F0" stop-opacity="0.55"/>
+    <linearGradient id="transWhite" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".5" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
     </linearGradient>
   </defs>
-
   <g id="base-shape">
-    <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="url(#white-trans-grad)" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="1" y="1" width="62" height="62" rx="4" fill="url(#transWhite)" stroke="#1E293B" stroke-width="2"/>
+    <g stroke="#94A3B8" stroke-width="1" stroke-opacity=".4" fill="none">
+      <rect x="8" y="8" width="22" height="22"/>
+      <rect x="34" y="8" width="22" height="22"/>
+      <rect x="8" y="34" width="22" height="22"/>
+      <rect x="34" y="34" width="22" height="22"/>
+    </g>
   </g>
-
   <g id="surface-details">
-    <!-- White Grid / Overlay Markings -->
-    <rect x="10" y="10" width="44" height="44" rx="4" ry="4" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2"/>
-    <line x1="32" y1="4" x2="32" y2="60" stroke="#FFFFFF" stroke-width="2" opacity="0.9"/>
-    <line x1="4" y1="32" x2="60" y2="32" stroke="#FFFFFF" stroke-width="2" opacity="0.9"/>
-    <circle cx="32" cy="32" r="8" fill="none" stroke="#FFFFFF" stroke-width="2"/>
-    <circle cx="32" cy="32" r="2" fill="#FFFFFF"/>
+    <g fill="#E2E8F0" opacity=".5">
+      <rect x="8" y="8" width="22" height="22"/>
+      <rect x="34" y="34" width="22" height="22"/>
+    </g>
+    <line x1="6" y1="32" x2="58" y2="32" stroke="#94A3B8" stroke-width="1" stroke-opacity=".35"/>
+    <line x1="32" y1="6" x2="32" y2="58" stroke="#94A3B8" stroke-width="1" stroke-opacity=".35"/>
   </g>
-
   <g id="highlights">
-    <path d="M 6 10 A 4 4 0 0 1 10 6 L 54 6 A 4 4 0 0 1 58 10" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+    <path d="M6 7 Q32 4 58 7" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity=".8"/>
   </g>
 </svg>

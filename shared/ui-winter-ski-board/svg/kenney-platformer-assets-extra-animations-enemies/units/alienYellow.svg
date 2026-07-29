@@ -1,7 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
-  <g id="item-alienYellow">
-    <rect x="4" y="4" width="56" height="56" fill="var(--color-asset-primary, #3B82F6)" stroke="#1E293B" stroke-width="2" rx="6" />
-    <circle cx="32" cy="32" r="18" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 2" />
-    <text x="32" y="36" font-family="sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ALIE</text>
+  <g id="base-shape">
+    <path d="M14 44 C14 29 22 21 32 21 C42 21 50 29 50 44 Z" fill="#FDE047" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="19" y="44" width="7" height="7" rx="2.5" fill="#FDE047" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="38" y="44" width="7" height="7" rx="2.5" fill="#FDE047" stroke="#1E293B" stroke-width="1.5"/>
+  </g>
+  <g id="surface-details">
+    <line x1="25" y1="21" x2="22" y2="12" stroke="#1E293B" stroke-width="1.5"/>
+    <line x1="39" y1="21" x2="42" y2="12" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="22" cy="11" r="2.6" fill="#FEF08A" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="42" cy="11" r="2.6" fill="#FEF08A" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="26" cy="35" r="3.6" fill="#FEF08A" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="38" cy="35" r="3.6" fill="#FEF08A" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="26" cy="35" r="1.6" fill="#CA8A04"/>
+    <circle cx="38" cy="35" r="1.6" fill="#CA8A04"/>
+    <path d="M29 41 Q32 44 35 41" fill="none" stroke="#1E293B" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g id="highlights">
+    <path d="M20 30 Q25 25 31 25" fill="none" stroke="#FEF08A" stroke-width="2.4" stroke-linecap="round"/>
   </g>
 </svg>
