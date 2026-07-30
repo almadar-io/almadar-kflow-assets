@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
 <g id="terrain-grass">
-  <polygon points="32,4 58,18 32,32 6,18" fill="#4CAF50" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-  <polygon points="6,18 32,32 32,58 6,44" fill="#2E7D32" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-  <polygon points="32,32 58,18 58,44 32,58" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
-  <polygon points="32,9 50,18 32,27 14,18" fill="#A5D6A7" opacity="0.35" />
+  <polygon points="0,32 32,48 32,64 0,48" fill="#2E7D32" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,48 64,32 64,48 32,64" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,16 64,32 32,48 0,32" fill="#4CAF50" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,23 50,32 32,41 14,32" fill="#A5D6A7" opacity="0.35" />
 </g>
 </svg>
