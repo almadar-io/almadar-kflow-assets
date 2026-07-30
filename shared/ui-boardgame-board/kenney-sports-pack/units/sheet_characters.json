@@ -1,0 +1,413 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "characterBlue (1).png": {
+      "x": 42,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (10).png": {
+      "x": 42,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (11).png": {
+      "x": 95,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterBlue (12).png": {
+      "x": 168,
+      "y": 75,
+      "width": 19,
+      "height": 13
+    },
+    "characterBlue (13).png": {
+      "x": 168,
+      "y": 151,
+      "width": 19,
+      "height": 13
+    },
+    "characterBlue (14).png": {
+      "x": 168,
+      "y": 164,
+      "width": 19,
+      "height": 13
+    },
+    "characterBlue (2).png": {
+      "x": 21,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (3).png": {
+      "x": 21,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (4).png": {
+      "x": 0,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (5).png": {
+      "x": 0,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (6).png": {
+      "x": 0,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (7).png": {
+      "x": 0,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (8).png": {
+      "x": 0,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterBlue (9).png": {
+      "x": 0,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (1).png": {
+      "x": 105,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (10).png": {
+      "x": 126,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (11).png": {
+      "x": 168,
+      "y": 138,
+      "width": 19,
+      "height": 13
+    },
+    "characterGreen (12).png": {
+      "x": 168,
+      "y": 125,
+      "width": 19,
+      "height": 13
+    },
+    "characterGreen (13).png": {
+      "x": 168,
+      "y": 112,
+      "width": 19,
+      "height": 13
+    },
+    "characterGreen (14).png": {
+      "x": 168,
+      "y": 99,
+      "width": 19,
+      "height": 13
+    },
+    "characterGreen (2).png": {
+      "x": 21,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (3).png": {
+      "x": 63,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (4).png": {
+      "x": 105,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (5).png": {
+      "x": 84,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (6).png": {
+      "x": 126,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (7).png": {
+      "x": 126,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (8).png": {
+      "x": 126,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterGreen (9).png": {
+      "x": 147,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (1).png": {
+      "x": 147,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (10).png": {
+      "x": 168,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (11).png": {
+      "x": 57,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterRed (12).png": {
+      "x": 38,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterRed (13).png": {
+      "x": 0,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterRed (14).png": {
+      "x": 19,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterRed (2).png": {
+      "x": 147,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (3).png": {
+      "x": 126,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (4).png": {
+      "x": 168,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (5).png": {
+      "x": 147,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (6).png": {
+      "x": 147,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (7).png": {
+      "x": 147,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (8).png": {
+      "x": 63,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterRed (9).png": {
+      "x": 84,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (1).png": {
+      "x": 126,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (10).png": {
+      "x": 21,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (11).png": {
+      "x": 76,
+      "y": 186,
+      "width": 19,
+      "height": 11
+    },
+    "characterSpecial (12).png": {
+      "x": 168,
+      "y": 88,
+      "width": 19,
+      "height": 11
+    },
+    "characterSpecial (2).png": {
+      "x": 21,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (3).png": {
+      "x": 105,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (4).png": {
+      "x": 21,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (5).png": {
+      "x": 105,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (6).png": {
+      "x": 105,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (7).png": {
+      "x": 105,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (8).png": {
+      "x": 84,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterSpecial (9).png": {
+      "x": 84,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (1).png": {
+      "x": 84,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (10).png": {
+      "x": 84,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (11).png": {
+      "x": 114,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterWhite (12).png": {
+      "x": 133,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterWhite (13).png": {
+      "x": 152,
+      "y": 186,
+      "width": 19,
+      "height": 13
+    },
+    "characterWhite (14).png": {
+      "x": 168,
+      "y": 62,
+      "width": 19,
+      "height": 13
+    },
+    "characterWhite (2).png": {
+      "x": 63,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (3).png": {
+      "x": 63,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (4).png": {
+      "x": 63,
+      "y": 31,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (5).png": {
+      "x": 63,
+      "y": 0,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (6).png": {
+      "x": 42,
+      "y": 155,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (7).png": {
+      "x": 42,
+      "y": 124,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (8).png": {
+      "x": 42,
+      "y": 93,
+      "width": 21,
+      "height": 31
+    },
+    "characterWhite (9).png": {
+      "x": 42,
+      "y": 62,
+      "width": 21,
+      "height": 31
+    }
+  }
+}

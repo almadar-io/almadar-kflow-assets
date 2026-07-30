@@ -1,0 +1,149 @@
+{
+  "imagePath": "kenney-platformer-characters-1.generated.png",
+  "subTextures": {
+    "adventurer_action1.png": {
+      "x": 1,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_action2.png": {
+      "x": 82,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_back.png": {
+      "x": 163,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_cheer1.png": {
+      "x": 244,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_cheer2.png": {
+      "x": 325,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_climb1.png": {
+      "x": 406,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_climb2.png": {
+      "x": 487,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_duck.png": {
+      "x": 568,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_fall.png": {
+      "x": 649,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_hang.png": {
+      "x": 730,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_hold1.png": {
+      "x": 811,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_hold2.png": {
+      "x": 892,
+      "y": 1,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_hurt.png": {
+      "x": 1,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_idle.png": {
+      "x": 82,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_jump.png": {
+      "x": 163,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_kick.png": {
+      "x": 244,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_skid.png": {
+      "x": 325,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_slide.png": {
+      "x": 406,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_stand.png": {
+      "x": 487,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_swim1.png": {
+      "x": 568,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_swim2.png": {
+      "x": 649,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_talk.png": {
+      "x": 730,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_walk1.png": {
+      "x": 811,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    },
+    "adventurer_walk2.png": {
+      "x": 892,
+      "y": 112,
+      "width": 80,
+      "height": 110
+    }
+  }
+}

@@ -1,0 +1,5177 @@
+{
+  "imagePath": "kenney-platformer-assets-pixel.generated.png",
+  "subTextures": {
+    "tile_001.png": {
+      "x": 1,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_002.png": {
+      "x": 23,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_003.png": {
+      "x": 45,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_004.png": {
+      "x": 67,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_005.png": {
+      "x": 89,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_006.png": {
+      "x": 111,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_007.png": {
+      "x": 133,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_008.png": {
+      "x": 155,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_009.png": {
+      "x": 177,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_010.png": {
+      "x": 199,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_011.png": {
+      "x": 221,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_012.png": {
+      "x": 243,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_013.png": {
+      "x": 265,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_014.png": {
+      "x": 287,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_015.png": {
+      "x": 309,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_016.png": {
+      "x": 331,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_017.png": {
+      "x": 353,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_018.png": {
+      "x": 375,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_019.png": {
+      "x": 397,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_020.png": {
+      "x": 419,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_021.png": {
+      "x": 441,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_022.png": {
+      "x": 463,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_023.png": {
+      "x": 485,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_024.png": {
+      "x": 507,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_025.png": {
+      "x": 529,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_026.png": {
+      "x": 551,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_027.png": {
+      "x": 573,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_028.png": {
+      "x": 595,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_029.png": {
+      "x": 617,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_030.png": {
+      "x": 639,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_031.png": {
+      "x": 661,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_032.png": {
+      "x": 683,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_033.png": {
+      "x": 705,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_034.png": {
+      "x": 727,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_035.png": {
+      "x": 749,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_036.png": {
+      "x": 771,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_037.png": {
+      "x": 793,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_038.png": {
+      "x": 815,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_039.png": {
+      "x": 837,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_040.png": {
+      "x": 859,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_041.png": {
+      "x": 881,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_042.png": {
+      "x": 903,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_043.png": {
+      "x": 925,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_044.png": {
+      "x": 947,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_045.png": {
+      "x": 969,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_046.png": {
+      "x": 991,
+      "y": 1,
+      "width": 21,
+      "height": 21
+    },
+    "tile_047.png": {
+      "x": 1,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_048.png": {
+      "x": 23,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_049.png": {
+      "x": 45,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_050.png": {
+      "x": 67,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_051.png": {
+      "x": 89,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_052.png": {
+      "x": 111,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_053.png": {
+      "x": 133,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_054.png": {
+      "x": 155,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_055.png": {
+      "x": 177,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_056.png": {
+      "x": 199,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_057.png": {
+      "x": 221,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_058.png": {
+      "x": 243,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_059.png": {
+      "x": 265,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_060.png": {
+      "x": 287,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_061.png": {
+      "x": 309,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_062.png": {
+      "x": 331,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_063.png": {
+      "x": 353,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_064.png": {
+      "x": 375,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_065.png": {
+      "x": 397,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_066.png": {
+      "x": 419,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_067.png": {
+      "x": 441,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_068.png": {
+      "x": 463,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_069.png": {
+      "x": 485,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_070.png": {
+      "x": 507,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_071.png": {
+      "x": 529,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_072.png": {
+      "x": 551,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_073.png": {
+      "x": 573,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_074.png": {
+      "x": 595,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_075.png": {
+      "x": 617,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_076.png": {
+      "x": 639,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_077.png": {
+      "x": 661,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_078.png": {
+      "x": 683,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_079.png": {
+      "x": 705,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_080.png": {
+      "x": 727,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_081.png": {
+      "x": 749,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_082.png": {
+      "x": 771,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_083.png": {
+      "x": 793,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_084.png": {
+      "x": 815,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_085.png": {
+      "x": 837,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_086.png": {
+      "x": 859,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_087.png": {
+      "x": 881,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_088.png": {
+      "x": 903,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_089.png": {
+      "x": 925,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_090.png": {
+      "x": 947,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_091.png": {
+      "x": 969,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_092.png": {
+      "x": 991,
+      "y": 23,
+      "width": 21,
+      "height": 21
+    },
+    "tile_093.png": {
+      "x": 1,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_094.png": {
+      "x": 23,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_095.png": {
+      "x": 45,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_096.png": {
+      "x": 67,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_097.png": {
+      "x": 89,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_098.png": {
+      "x": 111,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_099.png": {
+      "x": 133,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_100.png": {
+      "x": 155,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_101.png": {
+      "x": 177,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_102.png": {
+      "x": 199,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_103.png": {
+      "x": 221,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_104.png": {
+      "x": 243,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_105.png": {
+      "x": 265,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_106.png": {
+      "x": 287,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_107.png": {
+      "x": 309,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_108.png": {
+      "x": 331,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_109.png": {
+      "x": 353,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_110.png": {
+      "x": 375,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_111.png": {
+      "x": 397,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_112.png": {
+      "x": 419,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_113.png": {
+      "x": 441,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_114.png": {
+      "x": 463,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_115.png": {
+      "x": 485,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_116.png": {
+      "x": 507,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_117.png": {
+      "x": 529,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_118.png": {
+      "x": 551,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_119.png": {
+      "x": 573,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_120.png": {
+      "x": 595,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_121.png": {
+      "x": 617,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_122.png": {
+      "x": 639,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_123.png": {
+      "x": 661,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_124.png": {
+      "x": 683,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_125.png": {
+      "x": 705,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_126.png": {
+      "x": 727,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_127.png": {
+      "x": 749,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_128.png": {
+      "x": 771,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_129.png": {
+      "x": 793,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_130.png": {
+      "x": 815,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_131.png": {
+      "x": 837,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_132.png": {
+      "x": 859,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_133.png": {
+      "x": 881,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_134.png": {
+      "x": 903,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_135.png": {
+      "x": 925,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_136.png": {
+      "x": 947,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_137.png": {
+      "x": 969,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_138.png": {
+      "x": 991,
+      "y": 45,
+      "width": 21,
+      "height": 21
+    },
+    "tile_139.png": {
+      "x": 1,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_140.png": {
+      "x": 23,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_141.png": {
+      "x": 45,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_142.png": {
+      "x": 67,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_143.png": {
+      "x": 89,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_144.png": {
+      "x": 111,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_145.png": {
+      "x": 133,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_146.png": {
+      "x": 155,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_147.png": {
+      "x": 177,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_148.png": {
+      "x": 199,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_149.png": {
+      "x": 221,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_150.png": {
+      "x": 243,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_151.png": {
+      "x": 265,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_152.png": {
+      "x": 287,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_153.png": {
+      "x": 309,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_154.png": {
+      "x": 331,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_155.png": {
+      "x": 353,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_156.png": {
+      "x": 375,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_157.png": {
+      "x": 397,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_158.png": {
+      "x": 419,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_159.png": {
+      "x": 441,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_160.png": {
+      "x": 463,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_161.png": {
+      "x": 485,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_162.png": {
+      "x": 507,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_163.png": {
+      "x": 529,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_164.png": {
+      "x": 551,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_165.png": {
+      "x": 573,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_166.png": {
+      "x": 595,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_167.png": {
+      "x": 617,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_168.png": {
+      "x": 639,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_169.png": {
+      "x": 661,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_170.png": {
+      "x": 683,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_171.png": {
+      "x": 705,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_172.png": {
+      "x": 727,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_173.png": {
+      "x": 749,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_174.png": {
+      "x": 771,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_175.png": {
+      "x": 793,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_176.png": {
+      "x": 815,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_177.png": {
+      "x": 837,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_178.png": {
+      "x": 859,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_179.png": {
+      "x": 881,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_180.png": {
+      "x": 903,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_181.png": {
+      "x": 925,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_182.png": {
+      "x": 947,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_183.png": {
+      "x": 969,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_184.png": {
+      "x": 991,
+      "y": 67,
+      "width": 21,
+      "height": 21
+    },
+    "tile_185.png": {
+      "x": 1,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_186.png": {
+      "x": 23,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_187.png": {
+      "x": 45,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_188.png": {
+      "x": 67,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_189.png": {
+      "x": 89,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_190.png": {
+      "x": 111,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_191.png": {
+      "x": 133,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_192.png": {
+      "x": 155,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_193.png": {
+      "x": 177,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_194.png": {
+      "x": 199,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_195.png": {
+      "x": 221,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_196.png": {
+      "x": 243,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_197.png": {
+      "x": 265,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_198.png": {
+      "x": 287,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_199.png": {
+      "x": 309,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_200.png": {
+      "x": 331,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_201.png": {
+      "x": 353,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_202.png": {
+      "x": 375,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_203.png": {
+      "x": 397,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_204.png": {
+      "x": 419,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_205.png": {
+      "x": 441,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_206.png": {
+      "x": 463,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_207.png": {
+      "x": 485,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_208.png": {
+      "x": 507,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_209.png": {
+      "x": 529,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_210.png": {
+      "x": 551,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_211.png": {
+      "x": 573,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_212.png": {
+      "x": 595,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_213.png": {
+      "x": 617,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_214.png": {
+      "x": 639,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_215.png": {
+      "x": 661,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_216.png": {
+      "x": 683,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_217.png": {
+      "x": 705,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_218.png": {
+      "x": 727,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_219.png": {
+      "x": 749,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_220.png": {
+      "x": 771,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_221.png": {
+      "x": 793,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_222.png": {
+      "x": 815,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_223.png": {
+      "x": 837,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_224.png": {
+      "x": 859,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_225.png": {
+      "x": 881,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_226.png": {
+      "x": 903,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_227.png": {
+      "x": 925,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_228.png": {
+      "x": 947,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_229.png": {
+      "x": 969,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_230.png": {
+      "x": 991,
+      "y": 89,
+      "width": 21,
+      "height": 21
+    },
+    "tile_231.png": {
+      "x": 1,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_232.png": {
+      "x": 23,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_233.png": {
+      "x": 45,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_234.png": {
+      "x": 67,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_235.png": {
+      "x": 89,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_236.png": {
+      "x": 111,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_237.png": {
+      "x": 133,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_238.png": {
+      "x": 155,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_239.png": {
+      "x": 177,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_240.png": {
+      "x": 199,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_241.png": {
+      "x": 221,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_242.png": {
+      "x": 243,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_243.png": {
+      "x": 265,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_244.png": {
+      "x": 287,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_245.png": {
+      "x": 309,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_246.png": {
+      "x": 331,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_247.png": {
+      "x": 353,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_248.png": {
+      "x": 375,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_249.png": {
+      "x": 397,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_250.png": {
+      "x": 419,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_251.png": {
+      "x": 441,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_252.png": {
+      "x": 463,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_253.png": {
+      "x": 485,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_254.png": {
+      "x": 507,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_255.png": {
+      "x": 529,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_256.png": {
+      "x": 551,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_257.png": {
+      "x": 573,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_258.png": {
+      "x": 595,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_259.png": {
+      "x": 617,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_260.png": {
+      "x": 639,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_261.png": {
+      "x": 661,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_262.png": {
+      "x": 683,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_263.png": {
+      "x": 705,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_264.png": {
+      "x": 727,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_265.png": {
+      "x": 749,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_266.png": {
+      "x": 771,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_267.png": {
+      "x": 793,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_268.png": {
+      "x": 815,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_269.png": {
+      "x": 837,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_270.png": {
+      "x": 859,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_271.png": {
+      "x": 881,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_272.png": {
+      "x": 903,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_273.png": {
+      "x": 925,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_274.png": {
+      "x": 947,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_275.png": {
+      "x": 969,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_276.png": {
+      "x": 991,
+      "y": 111,
+      "width": 21,
+      "height": 21
+    },
+    "tile_277.png": {
+      "x": 1,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_278.png": {
+      "x": 23,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_279.png": {
+      "x": 45,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_280.png": {
+      "x": 67,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_281.png": {
+      "x": 89,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_282.png": {
+      "x": 111,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_283.png": {
+      "x": 133,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_284.png": {
+      "x": 155,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_285.png": {
+      "x": 177,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_286.png": {
+      "x": 199,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_287.png": {
+      "x": 221,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_288.png": {
+      "x": 243,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_289.png": {
+      "x": 265,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_290.png": {
+      "x": 287,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_291.png": {
+      "x": 309,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_292.png": {
+      "x": 331,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_293.png": {
+      "x": 353,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_294.png": {
+      "x": 375,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_295.png": {
+      "x": 397,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_296.png": {
+      "x": 419,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_297.png": {
+      "x": 441,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_298.png": {
+      "x": 463,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_299.png": {
+      "x": 485,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_300.png": {
+      "x": 507,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_301.png": {
+      "x": 529,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_302.png": {
+      "x": 551,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_303.png": {
+      "x": 573,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_304.png": {
+      "x": 595,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_305.png": {
+      "x": 617,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_306.png": {
+      "x": 639,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_307.png": {
+      "x": 661,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_308.png": {
+      "x": 683,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_309.png": {
+      "x": 705,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_310.png": {
+      "x": 727,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_311.png": {
+      "x": 749,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_312.png": {
+      "x": 771,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_313.png": {
+      "x": 793,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_314.png": {
+      "x": 815,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_315.png": {
+      "x": 837,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_316.png": {
+      "x": 859,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_317.png": {
+      "x": 881,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_318.png": {
+      "x": 903,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_319.png": {
+      "x": 925,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_320.png": {
+      "x": 947,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_321.png": {
+      "x": 969,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_322.png": {
+      "x": 991,
+      "y": 133,
+      "width": 21,
+      "height": 21
+    },
+    "tile_323.png": {
+      "x": 1,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_324.png": {
+      "x": 23,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_325.png": {
+      "x": 45,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_326.png": {
+      "x": 67,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_327.png": {
+      "x": 89,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_328.png": {
+      "x": 111,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_329.png": {
+      "x": 133,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_330.png": {
+      "x": 155,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_331.png": {
+      "x": 177,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_332.png": {
+      "x": 199,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_333.png": {
+      "x": 221,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_334.png": {
+      "x": 243,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_335.png": {
+      "x": 265,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_336.png": {
+      "x": 287,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_337.png": {
+      "x": 309,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_338.png": {
+      "x": 331,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_339.png": {
+      "x": 353,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_340.png": {
+      "x": 375,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_341.png": {
+      "x": 397,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_342.png": {
+      "x": 419,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_343.png": {
+      "x": 441,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_344.png": {
+      "x": 463,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_345.png": {
+      "x": 485,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_346.png": {
+      "x": 507,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_347.png": {
+      "x": 529,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_348.png": {
+      "x": 551,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_349.png": {
+      "x": 573,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_350.png": {
+      "x": 595,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_351.png": {
+      "x": 617,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_352.png": {
+      "x": 639,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_353.png": {
+      "x": 661,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_354.png": {
+      "x": 683,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_355.png": {
+      "x": 705,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_356.png": {
+      "x": 727,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_357.png": {
+      "x": 749,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_358.png": {
+      "x": 771,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_359.png": {
+      "x": 793,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_360.png": {
+      "x": 815,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_361.png": {
+      "x": 837,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_362.png": {
+      "x": 859,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_363.png": {
+      "x": 881,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_364.png": {
+      "x": 903,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_365.png": {
+      "x": 925,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_366.png": {
+      "x": 947,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_367.png": {
+      "x": 969,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_368.png": {
+      "x": 991,
+      "y": 155,
+      "width": 21,
+      "height": 21
+    },
+    "tile_369.png": {
+      "x": 1,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_370.png": {
+      "x": 23,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_371.png": {
+      "x": 45,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_372.png": {
+      "x": 67,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_373.png": {
+      "x": 89,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_374.png": {
+      "x": 111,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_375.png": {
+      "x": 133,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_376.png": {
+      "x": 155,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_377.png": {
+      "x": 177,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_378.png": {
+      "x": 199,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_379.png": {
+      "x": 221,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_380.png": {
+      "x": 243,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_381.png": {
+      "x": 265,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_382.png": {
+      "x": 287,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_383.png": {
+      "x": 309,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_384.png": {
+      "x": 331,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_385.png": {
+      "x": 353,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_386.png": {
+      "x": 375,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_387.png": {
+      "x": 397,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_388.png": {
+      "x": 419,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_389.png": {
+      "x": 441,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_390.png": {
+      "x": 463,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_391.png": {
+      "x": 485,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_392.png": {
+      "x": 507,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_393.png": {
+      "x": 529,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_394.png": {
+      "x": 551,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_395.png": {
+      "x": 573,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_396.png": {
+      "x": 595,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_397.png": {
+      "x": 617,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_398.png": {
+      "x": 639,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_399.png": {
+      "x": 661,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_400.png": {
+      "x": 683,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_401.png": {
+      "x": 705,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_402.png": {
+      "x": 727,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_403.png": {
+      "x": 749,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_404.png": {
+      "x": 771,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_405.png": {
+      "x": 793,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_406.png": {
+      "x": 815,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_407.png": {
+      "x": 837,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_408.png": {
+      "x": 859,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_409.png": {
+      "x": 881,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_410.png": {
+      "x": 903,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_411.png": {
+      "x": 925,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_412.png": {
+      "x": 947,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_413.png": {
+      "x": 969,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_414.png": {
+      "x": 991,
+      "y": 177,
+      "width": 21,
+      "height": 21
+    },
+    "tile_415.png": {
+      "x": 1,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_416.png": {
+      "x": 23,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_417.png": {
+      "x": 45,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_418.png": {
+      "x": 67,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_419.png": {
+      "x": 89,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_420.png": {
+      "x": 111,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_421.png": {
+      "x": 133,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_422.png": {
+      "x": 155,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_423.png": {
+      "x": 177,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_424.png": {
+      "x": 199,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_425.png": {
+      "x": 221,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_426.png": {
+      "x": 243,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_427.png": {
+      "x": 265,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_428.png": {
+      "x": 287,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_429.png": {
+      "x": 309,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_430.png": {
+      "x": 331,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_431.png": {
+      "x": 353,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_432.png": {
+      "x": 375,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_433.png": {
+      "x": 397,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_434.png": {
+      "x": 419,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_435.png": {
+      "x": 441,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_436.png": {
+      "x": 463,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_437.png": {
+      "x": 485,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_438.png": {
+      "x": 507,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_439.png": {
+      "x": 529,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_440.png": {
+      "x": 551,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_441.png": {
+      "x": 573,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_442.png": {
+      "x": 595,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_443.png": {
+      "x": 617,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_444.png": {
+      "x": 639,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_445.png": {
+      "x": 661,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_446.png": {
+      "x": 683,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_447.png": {
+      "x": 705,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_448.png": {
+      "x": 727,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_449.png": {
+      "x": 749,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_450.png": {
+      "x": 771,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_451.png": {
+      "x": 793,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_452.png": {
+      "x": 815,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_453.png": {
+      "x": 837,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_454.png": {
+      "x": 859,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_455.png": {
+      "x": 881,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_456.png": {
+      "x": 903,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_457.png": {
+      "x": 925,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_458.png": {
+      "x": 947,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_459.png": {
+      "x": 969,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_460.png": {
+      "x": 991,
+      "y": 199,
+      "width": 21,
+      "height": 21
+    },
+    "tile_461.png": {
+      "x": 1,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_462.png": {
+      "x": 23,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_463.png": {
+      "x": 45,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_464.png": {
+      "x": 67,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_465.png": {
+      "x": 89,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_466.png": {
+      "x": 111,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_467.png": {
+      "x": 133,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_468.png": {
+      "x": 155,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_469.png": {
+      "x": 177,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_470.png": {
+      "x": 199,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_471.png": {
+      "x": 221,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_472.png": {
+      "x": 243,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_473.png": {
+      "x": 265,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_474.png": {
+      "x": 287,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_475.png": {
+      "x": 309,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_476.png": {
+      "x": 331,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_477.png": {
+      "x": 353,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_478.png": {
+      "x": 375,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_479.png": {
+      "x": 397,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_480.png": {
+      "x": 419,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_481.png": {
+      "x": 441,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_482.png": {
+      "x": 463,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_483.png": {
+      "x": 485,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_484.png": {
+      "x": 507,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_485.png": {
+      "x": 529,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_486.png": {
+      "x": 551,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_487.png": {
+      "x": 573,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_488.png": {
+      "x": 595,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_489.png": {
+      "x": 617,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_490.png": {
+      "x": 639,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_491.png": {
+      "x": 661,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_492.png": {
+      "x": 683,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_493.png": {
+      "x": 705,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_494.png": {
+      "x": 727,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_495.png": {
+      "x": 749,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_496.png": {
+      "x": 771,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_497.png": {
+      "x": 793,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_498.png": {
+      "x": 815,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_499.png": {
+      "x": 837,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_500.png": {
+      "x": 859,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_501.png": {
+      "x": 881,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_502.png": {
+      "x": 903,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_503.png": {
+      "x": 925,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_504.png": {
+      "x": 947,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_505.png": {
+      "x": 969,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_506.png": {
+      "x": 991,
+      "y": 221,
+      "width": 21,
+      "height": 21
+    },
+    "tile_507.png": {
+      "x": 1,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_508.png": {
+      "x": 23,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_509.png": {
+      "x": 45,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_510.png": {
+      "x": 67,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_511.png": {
+      "x": 89,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_512.png": {
+      "x": 111,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_513.png": {
+      "x": 133,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_514.png": {
+      "x": 155,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_515.png": {
+      "x": 177,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_516.png": {
+      "x": 199,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_517.png": {
+      "x": 221,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_518.png": {
+      "x": 243,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_519.png": {
+      "x": 265,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_520.png": {
+      "x": 287,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_521.png": {
+      "x": 309,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_522.png": {
+      "x": 331,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_523.png": {
+      "x": 353,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_524.png": {
+      "x": 375,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_525.png": {
+      "x": 397,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_526.png": {
+      "x": 419,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_527.png": {
+      "x": 441,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_528.png": {
+      "x": 463,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_529.png": {
+      "x": 485,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_530.png": {
+      "x": 507,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_531.png": {
+      "x": 529,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_532.png": {
+      "x": 551,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_533.png": {
+      "x": 573,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_534.png": {
+      "x": 595,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_535.png": {
+      "x": 617,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_536.png": {
+      "x": 639,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_537.png": {
+      "x": 661,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_538.png": {
+      "x": 683,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_539.png": {
+      "x": 705,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_540.png": {
+      "x": 727,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_541.png": {
+      "x": 749,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_542.png": {
+      "x": 771,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_543.png": {
+      "x": 793,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_544.png": {
+      "x": 815,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_545.png": {
+      "x": 837,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_546.png": {
+      "x": 859,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_547.png": {
+      "x": 881,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_548.png": {
+      "x": 903,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_549.png": {
+      "x": 925,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_550.png": {
+      "x": 947,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_551.png": {
+      "x": 969,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_552.png": {
+      "x": 991,
+      "y": 243,
+      "width": 21,
+      "height": 21
+    },
+    "tile_553.png": {
+      "x": 1,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_554.png": {
+      "x": 23,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_555.png": {
+      "x": 45,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_556.png": {
+      "x": 67,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_557.png": {
+      "x": 89,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_558.png": {
+      "x": 111,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_559.png": {
+      "x": 133,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_560.png": {
+      "x": 155,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_561.png": {
+      "x": 177,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_562.png": {
+      "x": 199,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_563.png": {
+      "x": 221,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_564.png": {
+      "x": 243,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_565.png": {
+      "x": 265,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_566.png": {
+      "x": 287,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_567.png": {
+      "x": 309,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_568.png": {
+      "x": 331,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_569.png": {
+      "x": 353,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_570.png": {
+      "x": 375,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_571.png": {
+      "x": 397,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_572.png": {
+      "x": 419,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_573.png": {
+      "x": 441,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_574.png": {
+      "x": 463,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_575.png": {
+      "x": 485,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_576.png": {
+      "x": 507,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_577.png": {
+      "x": 529,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_578.png": {
+      "x": 551,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_579.png": {
+      "x": 573,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_580.png": {
+      "x": 595,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_581.png": {
+      "x": 617,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_582.png": {
+      "x": 639,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_583.png": {
+      "x": 661,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_584.png": {
+      "x": 683,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_585.png": {
+      "x": 705,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_586.png": {
+      "x": 727,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_587.png": {
+      "x": 749,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_588.png": {
+      "x": 771,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_589.png": {
+      "x": 793,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_590.png": {
+      "x": 815,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_591.png": {
+      "x": 837,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_592.png": {
+      "x": 859,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_593.png": {
+      "x": 881,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_594.png": {
+      "x": 903,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_595.png": {
+      "x": 925,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_596.png": {
+      "x": 947,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_597.png": {
+      "x": 969,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_598.png": {
+      "x": 991,
+      "y": 265,
+      "width": 21,
+      "height": 21
+    },
+    "tile_599.png": {
+      "x": 1,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_600.png": {
+      "x": 23,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_601.png": {
+      "x": 45,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_602.png": {
+      "x": 67,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_603.png": {
+      "x": 89,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_604.png": {
+      "x": 111,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_605.png": {
+      "x": 133,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_606.png": {
+      "x": 155,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_607.png": {
+      "x": 177,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_608.png": {
+      "x": 199,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_609.png": {
+      "x": 221,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_610.png": {
+      "x": 243,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_611.png": {
+      "x": 265,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_612.png": {
+      "x": 287,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_613.png": {
+      "x": 309,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_614.png": {
+      "x": 331,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_615.png": {
+      "x": 353,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_616.png": {
+      "x": 375,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_617.png": {
+      "x": 397,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_618.png": {
+      "x": 419,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_619.png": {
+      "x": 441,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_620.png": {
+      "x": 463,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_621.png": {
+      "x": 485,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_622.png": {
+      "x": 507,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_623.png": {
+      "x": 529,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_624.png": {
+      "x": 551,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_625.png": {
+      "x": 573,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_626.png": {
+      "x": 595,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_627.png": {
+      "x": 617,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_628.png": {
+      "x": 639,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_629.png": {
+      "x": 661,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_630.png": {
+      "x": 683,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_631.png": {
+      "x": 705,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_632.png": {
+      "x": 727,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_633.png": {
+      "x": 749,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_634.png": {
+      "x": 771,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_635.png": {
+      "x": 793,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_636.png": {
+      "x": 815,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_637.png": {
+      "x": 837,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_638.png": {
+      "x": 859,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_639.png": {
+      "x": 881,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_640.png": {
+      "x": 903,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_641.png": {
+      "x": 925,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_642.png": {
+      "x": 947,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_643.png": {
+      "x": 969,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_644.png": {
+      "x": 991,
+      "y": 287,
+      "width": 21,
+      "height": 21
+    },
+    "tile_645.png": {
+      "x": 1,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_646.png": {
+      "x": 23,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_647.png": {
+      "x": 45,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_648.png": {
+      "x": 67,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_649.png": {
+      "x": 89,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_650.png": {
+      "x": 111,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_651.png": {
+      "x": 133,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_652.png": {
+      "x": 155,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_653.png": {
+      "x": 177,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_654.png": {
+      "x": 199,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_655.png": {
+      "x": 221,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_656.png": {
+      "x": 243,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_657.png": {
+      "x": 265,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_658.png": {
+      "x": 287,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_659.png": {
+      "x": 309,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_660.png": {
+      "x": 331,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_661.png": {
+      "x": 353,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_662.png": {
+      "x": 375,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_663.png": {
+      "x": 397,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_664.png": {
+      "x": 419,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_665.png": {
+      "x": 441,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_666.png": {
+      "x": 463,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_667.png": {
+      "x": 485,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_668.png": {
+      "x": 507,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_669.png": {
+      "x": 529,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_670.png": {
+      "x": 551,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_671.png": {
+      "x": 573,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_672.png": {
+      "x": 595,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_673.png": {
+      "x": 617,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_674.png": {
+      "x": 639,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_675.png": {
+      "x": 661,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_676.png": {
+      "x": 683,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_677.png": {
+      "x": 705,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_678.png": {
+      "x": 727,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_679.png": {
+      "x": 749,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_680.png": {
+      "x": 771,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_681.png": {
+      "x": 793,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_682.png": {
+      "x": 815,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_683.png": {
+      "x": 837,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_684.png": {
+      "x": 859,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_685.png": {
+      "x": 881,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_686.png": {
+      "x": 903,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_687.png": {
+      "x": 925,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_688.png": {
+      "x": 947,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_689.png": {
+      "x": 969,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_690.png": {
+      "x": 991,
+      "y": 309,
+      "width": 21,
+      "height": 21
+    },
+    "tile_691.png": {
+      "x": 1,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_692.png": {
+      "x": 23,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_693.png": {
+      "x": 45,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_694.png": {
+      "x": 67,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_695.png": {
+      "x": 89,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_696.png": {
+      "x": 111,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_697.png": {
+      "x": 133,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_698.png": {
+      "x": 155,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_699.png": {
+      "x": 177,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_700.png": {
+      "x": 199,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_701.png": {
+      "x": 221,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_702.png": {
+      "x": 243,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_703.png": {
+      "x": 265,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_704.png": {
+      "x": 287,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_705.png": {
+      "x": 309,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_706.png": {
+      "x": 331,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_707.png": {
+      "x": 353,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_708.png": {
+      "x": 375,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_709.png": {
+      "x": 397,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_710.png": {
+      "x": 419,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_711.png": {
+      "x": 441,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_712.png": {
+      "x": 463,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_713.png": {
+      "x": 485,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_714.png": {
+      "x": 507,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_715.png": {
+      "x": 529,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_716.png": {
+      "x": 551,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_717.png": {
+      "x": 573,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_718.png": {
+      "x": 595,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_719.png": {
+      "x": 617,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_720.png": {
+      "x": 639,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_721.png": {
+      "x": 661,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_722.png": {
+      "x": 683,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_723.png": {
+      "x": 705,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_724.png": {
+      "x": 727,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_725.png": {
+      "x": 749,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_726.png": {
+      "x": 771,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_727.png": {
+      "x": 793,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_728.png": {
+      "x": 815,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_729.png": {
+      "x": 837,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_730.png": {
+      "x": 859,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_731.png": {
+      "x": 881,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_732.png": {
+      "x": 903,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_733.png": {
+      "x": 925,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_734.png": {
+      "x": 947,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_735.png": {
+      "x": 969,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_736.png": {
+      "x": 991,
+      "y": 331,
+      "width": 21,
+      "height": 21
+    },
+    "tile_737.png": {
+      "x": 1,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_738.png": {
+      "x": 23,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_739.png": {
+      "x": 45,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_740.png": {
+      "x": 67,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_741.png": {
+      "x": 89,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_742.png": {
+      "x": 111,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_743.png": {
+      "x": 133,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_744.png": {
+      "x": 155,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_745.png": {
+      "x": 177,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_746.png": {
+      "x": 199,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_747.png": {
+      "x": 221,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_748.png": {
+      "x": 243,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_749.png": {
+      "x": 265,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_750.png": {
+      "x": 287,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_751.png": {
+      "x": 309,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_752.png": {
+      "x": 331,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_753.png": {
+      "x": 353,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_754.png": {
+      "x": 375,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_755.png": {
+      "x": 397,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_756.png": {
+      "x": 419,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_757.png": {
+      "x": 441,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_758.png": {
+      "x": 463,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_759.png": {
+      "x": 485,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_760.png": {
+      "x": 507,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_761.png": {
+      "x": 529,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_762.png": {
+      "x": 551,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_763.png": {
+      "x": 573,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_764.png": {
+      "x": 595,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_765.png": {
+      "x": 617,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_766.png": {
+      "x": 639,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_767.png": {
+      "x": 661,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_768.png": {
+      "x": 683,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_769.png": {
+      "x": 705,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_770.png": {
+      "x": 727,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_771.png": {
+      "x": 749,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_772.png": {
+      "x": 771,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_773.png": {
+      "x": 793,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_774.png": {
+      "x": 815,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_775.png": {
+      "x": 837,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_776.png": {
+      "x": 859,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_777.png": {
+      "x": 881,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_778.png": {
+      "x": 903,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_779.png": {
+      "x": 925,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_780.png": {
+      "x": 947,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_781.png": {
+      "x": 969,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_782.png": {
+      "x": 991,
+      "y": 353,
+      "width": 21,
+      "height": 21
+    },
+    "tile_783.png": {
+      "x": 1,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_784.png": {
+      "x": 23,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_785.png": {
+      "x": 45,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_786.png": {
+      "x": 67,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_787.png": {
+      "x": 89,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_788.png": {
+      "x": 111,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_789.png": {
+      "x": 133,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_790.png": {
+      "x": 155,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_791.png": {
+      "x": 177,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_792.png": {
+      "x": 199,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_793.png": {
+      "x": 221,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_794.png": {
+      "x": 243,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_795.png": {
+      "x": 265,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_796.png": {
+      "x": 287,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_797.png": {
+      "x": 309,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_798.png": {
+      "x": 331,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_799.png": {
+      "x": 353,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_800.png": {
+      "x": 375,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_801.png": {
+      "x": 397,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_802.png": {
+      "x": 419,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_803.png": {
+      "x": 441,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_804.png": {
+      "x": 463,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_805.png": {
+      "x": 485,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_806.png": {
+      "x": 507,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_807.png": {
+      "x": 529,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_808.png": {
+      "x": 551,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_809.png": {
+      "x": 573,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_810.png": {
+      "x": 595,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_811.png": {
+      "x": 617,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_812.png": {
+      "x": 639,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_813.png": {
+      "x": 661,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_814.png": {
+      "x": 683,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_815.png": {
+      "x": 705,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_816.png": {
+      "x": 727,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_817.png": {
+      "x": 749,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_818.png": {
+      "x": 771,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_819.png": {
+      "x": 793,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_820.png": {
+      "x": 815,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_821.png": {
+      "x": 837,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_822.png": {
+      "x": 859,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_823.png": {
+      "x": 881,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_824.png": {
+      "x": 903,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_825.png": {
+      "x": 925,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_826.png": {
+      "x": 947,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_827.png": {
+      "x": 969,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_828.png": {
+      "x": 991,
+      "y": 375,
+      "width": 21,
+      "height": 21
+    },
+    "tile_829.png": {
+      "x": 1,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_830.png": {
+      "x": 23,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_831.png": {
+      "x": 45,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_832.png": {
+      "x": 67,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_833.png": {
+      "x": 89,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_834.png": {
+      "x": 111,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_835.png": {
+      "x": 133,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_836.png": {
+      "x": 155,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_837.png": {
+      "x": 177,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_838.png": {
+      "x": 199,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_839.png": {
+      "x": 221,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_840.png": {
+      "x": 243,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_841.png": {
+      "x": 265,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_842.png": {
+      "x": 287,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_843.png": {
+      "x": 309,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_844.png": {
+      "x": 331,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_845.png": {
+      "x": 353,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_846.png": {
+      "x": 375,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_847.png": {
+      "x": 397,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_848.png": {
+      "x": 419,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_849.png": {
+      "x": 441,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_850.png": {
+      "x": 463,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_851.png": {
+      "x": 485,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_852.png": {
+      "x": 507,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_853.png": {
+      "x": 529,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_854.png": {
+      "x": 551,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_855.png": {
+      "x": 573,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_856.png": {
+      "x": 595,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_857.png": {
+      "x": 617,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_858.png": {
+      "x": 639,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_859.png": {
+      "x": 661,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_860.png": {
+      "x": 683,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_861.png": {
+      "x": 705,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    },
+    "tile_862.png": {
+      "x": 727,
+      "y": 397,
+      "width": 21,
+      "height": 21
+    }
+  }
+}

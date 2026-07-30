@@ -1,0 +1,1097 @@
+{
+  "imagePath": "kenney-cursor-pack.generated.png",
+  "subTextures": {
+    "arrow_e.png": {
+      "x": 1,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_n.png": {
+      "x": 34,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_ne.png": {
+      "x": 67,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_nw.png": {
+      "x": 100,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_s.png": {
+      "x": 133,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_se.png": {
+      "x": 166,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_sw.png": {
+      "x": 199,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "arrow_w.png": {
+      "x": 232,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "boot.png": {
+      "x": 265,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "bracket_a_horizontal.png": {
+      "x": 298,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "bracket_a_vertical.png": {
+      "x": 331,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "bracket_b_horizontal.png": {
+      "x": 364,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "bracket_b_vertical.png": {
+      "x": 397,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "busy_circle.png": {
+      "x": 430,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "busy_circle_fade.png": {
+      "x": 463,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "busy_hourglass.png": {
+      "x": 496,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "busy_hourglass_outline.png": {
+      "x": 529,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "busy_hourglass_outline_detail.png": {
+      "x": 562,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cross_large.png": {
+      "x": 595,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cross_small.png": {
+      "x": 628,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_alias.png": {
+      "x": 661,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_busy.png": {
+      "x": 694,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_cogs.png": {
+      "x": 727,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_copy.png": {
+      "x": 760,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_disabled.png": {
+      "x": 793,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_exclamation.png": {
+      "x": 826,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_help.png": {
+      "x": 859,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_menu.png": {
+      "x": 892,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "cursor_none.png": {
+      "x": 925,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "disabled.png": {
+      "x": 958,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "door.png": {
+      "x": 991,
+      "y": 1,
+      "width": 32,
+      "height": 32
+    },
+    "door_disabled.png": {
+      "x": 1,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "door_enter.png": {
+      "x": 34,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "door_exit.png": {
+      "x": 67,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "dot_large.png": {
+      "x": 100,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "dot_small.png": {
+      "x": 133,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_brush.png": {
+      "x": 166,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_brush_large.png": {
+      "x": 199,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_bucket.png": {
+      "x": 232,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_eraser.png": {
+      "x": 265,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_pen.png": {
+      "x": 298,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_pencil.png": {
+      "x": 331,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_picker.png": {
+      "x": 364,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "drawing_spray.png": {
+      "x": 397,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "gauntlet_default.png": {
+      "x": 430,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "gauntlet_open.png": {
+      "x": 463,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "gauntlet_point.png": {
+      "x": 496,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_closed.png": {
+      "x": 529,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_open.png": {
+      "x": 562,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_point.png": {
+      "x": 595,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_point_e.png": {
+      "x": 628,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_point_n.png": {
+      "x": 661,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_small_closed.png": {
+      "x": 694,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_small_open.png": {
+      "x": 727,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_small_point.png": {
+      "x": 760,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_small_point_e.png": {
+      "x": 793,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_small_point_n.png": {
+      "x": 826,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_thin_closed.png": {
+      "x": 859,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_thin_open.png": {
+      "x": 892,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_thin_point.png": {
+      "x": 925,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_thin_small_closed.png": {
+      "x": 958,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_thin_small_open.png": {
+      "x": 991,
+      "y": 34,
+      "width": 32,
+      "height": 32
+    },
+    "hand_thin_small_point.png": {
+      "x": 1,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "line_cross.png": {
+      "x": 34,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "line_horizontal.png": {
+      "x": 67,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "line_vertical.png": {
+      "x": 100,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "lock.png": {
+      "x": 133,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "lock_unlocked.png": {
+      "x": 166,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "look_a.png": {
+      "x": 199,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "look_b.png": {
+      "x": 232,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "look_c.png": {
+      "x": 265,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "look_d.png": {
+      "x": 298,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "mark_exclamation.png": {
+      "x": 331,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "mark_exclamation_pointer_b.png": {
+      "x": 364,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "mark_question.png": {
+      "x": 397,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "mark_question_pointer_b.png": {
+      "x": 430,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "message_dots_round.png": {
+      "x": 463,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "message_dots_square.png": {
+      "x": 496,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "message_round.png": {
+      "x": 529,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "message_square.png": {
+      "x": 562,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_e.png": {
+      "x": 595,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_n.png": {
+      "x": 628,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_ne.png": {
+      "x": 661,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_nw.png": {
+      "x": 694,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_s.png": {
+      "x": 727,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_se.png": {
+      "x": 760,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_sw.png": {
+      "x": 793,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "navigation_w.png": {
+      "x": 826,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_a.png": {
+      "x": 859,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_b.png": {
+      "x": 892,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_b_shaded.png": {
+      "x": 925,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_c.png": {
+      "x": 958,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_c_shaded.png": {
+      "x": 991,
+      "y": 67,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_d.png": {
+      "x": 1,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_e.png": {
+      "x": 34,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_f.png": {
+      "x": 67,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_g.png": {
+      "x": 100,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_h.png": {
+      "x": 133,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_i.png": {
+      "x": 166,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_j.png": {
+      "x": 199,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_k.png": {
+      "x": 232,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_l.png": {
+      "x": 265,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_scifi_a.png": {
+      "x": 298,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_scifi_b.png": {
+      "x": 331,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_toon_a.png": {
+      "x": 364,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "pointer_toon_b.png": {
+      "x": 397,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_CCW_25.png": {
+      "x": 430,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_CCW_50.png": {
+      "x": 463,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_CCW_75.png": {
+      "x": 496,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_CW_25.png": {
+      "x": 529,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_CW_50.png": {
+      "x": 562,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_CW_75.png": {
+      "x": 595,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_empty.png": {
+      "x": 628,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "progress_full.png": {
+      "x": 661,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_a_cross.png": {
+      "x": 694,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_a_cross_diagonal.png": {
+      "x": 727,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_a_diagonal.png": {
+      "x": 760,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_a_diagonal_mirror.png": {
+      "x": 793,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_a_horizontal.png": {
+      "x": 826,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_a_vertical.png": {
+      "x": 859,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_b_cross.png": {
+      "x": 892,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_b_cross_diagonal.png": {
+      "x": 925,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_b_diagonal.png": {
+      "x": 958,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_b_diagonal_mirror.png": {
+      "x": 991,
+      "y": 100,
+      "width": 32,
+      "height": 32
+    },
+    "resize_b_horizontal.png": {
+      "x": 1,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_b_vertical.png": {
+      "x": 34,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_c_cross.png": {
+      "x": 67,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_c_cross_diagonal.png": {
+      "x": 100,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_c_diagonal.png": {
+      "x": 133,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_c_diagonal_mirror.png": {
+      "x": 166,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_c_horizontal.png": {
+      "x": 199,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_c_vertical.png": {
+      "x": 232,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_d_cross.png": {
+      "x": 265,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_d_cross_diagonal.png": {
+      "x": 298,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_d_diagonal.png": {
+      "x": 331,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_d_diagonal_mirror.png": {
+      "x": 364,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_d_horizontal.png": {
+      "x": 397,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_d_vertical.png": {
+      "x": 430,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_e_cross.png": {
+      "x": 463,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_e_cross_diagonal.png": {
+      "x": 496,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_e_diagonal.png": {
+      "x": 529,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_e_diagonal_mirror.png": {
+      "x": 562,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_e_horizontal.png": {
+      "x": 595,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_e_vertical.png": {
+      "x": 628,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_horizontal.png": {
+      "x": 661,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "resize_vertical.png": {
+      "x": 694,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "rotate_ccw.png": {
+      "x": 727,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "rotate_cw.png": {
+      "x": 760,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "rotate_horizontal_down.png": {
+      "x": 793,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "rotate_horizontal_up.png": {
+      "x": 826,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "stairs.png": {
+      "x": 859,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "stairs_down.png": {
+      "x": 892,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "stairs_up.png": {
+      "x": 925,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "steps.png": {
+      "x": 958,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "target_a.png": {
+      "x": 991,
+      "y": 133,
+      "width": 32,
+      "height": 32
+    },
+    "target_b.png": {
+      "x": 1,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "target_round_a.png": {
+      "x": 34,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "target_round_b.png": {
+      "x": 67,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_axe.png": {
+      "x": 100,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_axe_single.png": {
+      "x": 133,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_bomb.png": {
+      "x": 166,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_bow.png": {
+      "x": 199,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_hammer.png": {
+      "x": 232,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_hoe.png": {
+      "x": 265,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_pickaxe.png": {
+      "x": 298,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_shovel.png": {
+      "x": 331,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_sword_a.png": {
+      "x": 364,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_sword_b.png": {
+      "x": 397,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_torch.png": {
+      "x": 430,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_wand.png": {
+      "x": 463,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_watering_can.png": {
+      "x": 496,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tool_wrench.png": {
+      "x": 529,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tracking_horizontal.png": {
+      "x": 562,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tracking_horizontal_down.png": {
+      "x": 595,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tracking_horizontal_up.png": {
+      "x": 628,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tracking_vertical.png": {
+      "x": 661,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tracking_vertical_left.png": {
+      "x": 694,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "tracking_vertical_right.png": {
+      "x": 727,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "zoom.png": {
+      "x": 760,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "zoom_in.png": {
+      "x": 793,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "zoom_out.png": {
+      "x": 826,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    },
+    "zoom_reset.png": {
+      "x": 859,
+      "y": 166,
+      "width": 32,
+      "height": 32
+    }
+  }
+}

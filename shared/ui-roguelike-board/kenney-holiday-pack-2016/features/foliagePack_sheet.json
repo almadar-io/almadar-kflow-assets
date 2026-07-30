@@ -1,0 +1,29 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "foliageTree_01.png": {
+      "x": 103,
+      "y": 0,
+      "width": 102,
+      "height": 290
+    },
+    "foliageTree_02.png": {
+      "x": 0,
+      "y": 210,
+      "width": 103,
+      "height": 193
+    },
+    "foliageTree_03.png": {
+      "x": 0,
+      "y": 0,
+      "width": 103,
+      "height": 210
+    },
+    "foliageTree_04.png": {
+      "x": 205,
+      "y": 0,
+      "width": 101,
+      "height": 287
+    }
+  }
+}

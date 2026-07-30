@@ -1,0 +1,185 @@
+{
+  "imagePath": "square_nodetailsOutline.png",
+  "subTextures": {
+    "bear.png": {
+      "x": 272,
+      "y": 272,
+      "width": 136,
+      "height": 136
+    },
+    "buffalo.png": {
+      "x": 544,
+      "y": 544,
+      "width": 136,
+      "height": 136
+    },
+    "chick.png": {
+      "x": 544,
+      "y": 408,
+      "width": 136,
+      "height": 136
+    },
+    "chicken.png": {
+      "x": 544,
+      "y": 272,
+      "width": 136,
+      "height": 136
+    },
+    "cow.png": {
+      "x": 544,
+      "y": 136,
+      "width": 136,
+      "height": 136
+    },
+    "crocodile.png": {
+      "x": 544,
+      "y": 0,
+      "width": 136,
+      "height": 136
+    },
+    "dog.png": {
+      "x": 408,
+      "y": 680,
+      "width": 136,
+      "height": 136
+    },
+    "duck.png": {
+      "x": 408,
+      "y": 544,
+      "width": 136,
+      "height": 136
+    },
+    "elephant.png": {
+      "x": 408,
+      "y": 408,
+      "width": 136,
+      "height": 136
+    },
+    "frog.png": {
+      "x": 408,
+      "y": 272,
+      "width": 136,
+      "height": 136
+    },
+    "giraffe.png": {
+      "x": 408,
+      "y": 136,
+      "width": 136,
+      "height": 136
+    },
+    "goat.png": {
+      "x": 408,
+      "y": 0,
+      "width": 136,
+      "height": 136
+    },
+    "gorilla.png": {
+      "x": 272,
+      "y": 680,
+      "width": 136,
+      "height": 136
+    },
+    "hippo.png": {
+      "x": 272,
+      "y": 544,
+      "width": 136,
+      "height": 136
+    },
+    "horse.png": {
+      "x": 272,
+      "y": 408,
+      "width": 136,
+      "height": 136
+    },
+    "monkey.png": {
+      "x": 544,
+      "y": 680,
+      "width": 136,
+      "height": 136
+    },
+    "moose.png": {
+      "x": 272,
+      "y": 136,
+      "width": 136,
+      "height": 136
+    },
+    "narwhal.png": {
+      "x": 272,
+      "y": 0,
+      "width": 136,
+      "height": 136
+    },
+    "owl.png": {
+      "x": 136,
+      "y": 680,
+      "width": 136,
+      "height": 136
+    },
+    "panda.png": {
+      "x": 136,
+      "y": 544,
+      "width": 136,
+      "height": 136
+    },
+    "parrot.png": {
+      "x": 136,
+      "y": 408,
+      "width": 136,
+      "height": 136
+    },
+    "penguin.png": {
+      "x": 136,
+      "y": 272,
+      "width": 136,
+      "height": 136
+    },
+    "pig.png": {
+      "x": 136,
+      "y": 136,
+      "width": 136,
+      "height": 136
+    },
+    "rabbit.png": {
+      "x": 136,
+      "y": 0,
+      "width": 136,
+      "height": 136
+    },
+    "rhino.png": {
+      "x": 0,
+      "y": 680,
+      "width": 136,
+      "height": 136
+    },
+    "sloth.png": {
+      "x": 0,
+      "y": 544,
+      "width": 136,
+      "height": 136
+    },
+    "snake.png": {
+      "x": 0,
+      "y": 408,
+      "width": 136,
+      "height": 136
+    },
+    "walrus.png": {
+      "x": 0,
+      "y": 272,
+      "width": 136,
+      "height": 136
+    },
+    "whale.png": {
+      "x": 0,
+      "y": 136,
+      "width": 136,
+      "height": 136
+    },
+    "zebra.png": {
+      "x": 0,
+      "y": 0,
+      "width": 136,
+      "height": 136
+    }
+  }
+}

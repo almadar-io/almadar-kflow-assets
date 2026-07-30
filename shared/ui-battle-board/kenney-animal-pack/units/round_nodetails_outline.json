@@ -1,0 +1,65 @@
+{
+  "imagePath": "sprites.png",
+  "subTextures": {
+    "giraffe.png": {
+      "x": 0,
+      "y": 0,
+      "width": 284,
+      "height": 285
+    },
+    "monkey.png": {
+      "x": 0,
+      "y": 1148,
+      "width": 284,
+      "height": 285
+    },
+    "panda.png": {
+      "x": 286,
+      "y": 287,
+      "width": 284,
+      "height": 285
+    },
+    "parrot.png": {
+      "x": 286,
+      "y": 0,
+      "width": 284,
+      "height": 285
+    },
+    "penguin.png": {
+      "x": 0,
+      "y": 1722,
+      "width": 284,
+      "height": 285
+    },
+    "rabbit.png": {
+      "x": 0,
+      "y": 1435,
+      "width": 284,
+      "height": 285
+    },
+    "slice08_08.png": {
+      "x": 286,
+      "y": 574,
+      "width": 284,
+      "height": 285
+    },
+    "slice09_09.png": {
+      "x": 0,
+      "y": 861,
+      "width": 284,
+      "height": 285
+    },
+    "slice10_10.png": {
+      "x": 0,
+      "y": 574,
+      "width": 284,
+      "height": 285
+    },
+    "snake.png": {
+      "x": 0,
+      "y": 287,
+      "width": 284,
+      "height": 285
+    }
+  }
+}
