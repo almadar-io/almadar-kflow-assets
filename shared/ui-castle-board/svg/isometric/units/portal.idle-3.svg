@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g transform="translate(32 56) scale(0.99 1.02) translate(-32 -56)">
+<g id="unit-portal">
+  <ellipse cx="32" cy="56" rx="16" ry="5" fill="#0F172A" opacity="0.25" />
+  <ellipse cx="32" cy="53" rx="17" ry="5" fill="#7C3AED" opacity="0.3" />
+  <rect x="12" y="48" width="40" height="8" rx="2" fill="#292524" stroke="#1E293B" stroke-width="2" />
+  <line x1="20" y1="49" x2="26" y2="55" stroke="#0C0A09" stroke-width="1.5" />
+  <line x1="40" y1="55" x2="46" y2="49" stroke="#0C0A09" stroke-width="1.5" />
+  <polygon points="12,48 8,34 16,34 18,48" fill="#1C1917" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="52,48 56,34 48,34 46,48" fill="#1C1917" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="32" cy="30" r="19" fill="#4C1D95" stroke="#7C3AED" stroke-width="3" />
+  <circle cx="32" cy="30" r="19" fill="none" stroke="#DDD6FE" stroke-width="1.5" stroke-dasharray="3 5" />
+  <path d="M 32 20 A 10 10 0 0 1 42 30 A 7 7 0 0 1 32 37 A 4.5 4.5 0 0 1 27 30" fill="none" stroke="#A78BFA" stroke-width="3" stroke-linecap="round" />
+</g>
+</g>
+</svg>

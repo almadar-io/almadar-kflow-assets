@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="feature-tower">
+  <ellipse cx="32" cy="58" rx="14" ry="4" fill="#0F172A" opacity="0.2" />
+  <rect x="21" y="18" width="22" height="38" fill="#94A3B8" stroke="#1E293B" stroke-width="2" />
+  <rect x="17" y="10" width="8" height="9" fill="#94A3B8" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="28" y="10" width="8" height="9" fill="#94A3B8" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="39" y="10" width="8" height="9" fill="#94A3B8" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="29.5" y="24" width="5" height="9" fill="#1E293B" />
+  <rect x="29.5" y="38" width="5" height="9" fill="#1E293B" />
+  <path d="M 27 56 L 27 50 A 5 5 0 0 1 37 50 L 37 56 Z" fill="#334155" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="17" y="54" width="30" height="4" fill="#64748B" stroke="#1E293B" stroke-width="1.5" />
+</g>
+</svg>

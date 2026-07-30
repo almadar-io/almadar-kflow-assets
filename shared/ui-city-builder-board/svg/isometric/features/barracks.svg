@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="feature-barracks">
+  <ellipse cx="32" cy="58" rx="20" ry="4" fill="#0F172A" opacity="0.2" />
+  <rect x="8" y="30" width="48" height="26" fill="#78716C" stroke="#1E293B" stroke-width="2" />
+  <polygon points="32,16 60,32 4,32" fill="#44403C" stroke="#1E293B" stroke-width="2" stroke-linejoin="round" />
+  <rect x="10" y="25" width="6" height="6" fill="#78716C" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="22" y="25" width="6" height="6" fill="#78716C" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="36" y="25" width="6" height="6" fill="#78716C" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="48" y="25" width="6" height="6" fill="#78716C" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="27" y="42" width="10" height="14" fill="#292524" stroke="#1E293B" stroke-width="1.5" />
+  <line x1="14" y1="40" x2="26" y2="52" stroke="#CBD5E1" stroke-width="2" />
+  <line x1="26" y1="40" x2="14" y2="52" stroke="#CBD5E1" stroke-width="2" />
+  <rect x="52" y="6" width="2" height="20" fill="#57534E" stroke="#1E293B" stroke-width="1" />
+  <polygon points="54,6 62,9.5 54,13" fill="#DC2626" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+</g>
+</svg>
