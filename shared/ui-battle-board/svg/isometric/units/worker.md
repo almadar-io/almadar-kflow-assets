@@ -4,7 +4,7 @@ board: ui-battle-board
 projection: isometric
 role: npc
 style: kenney-pixel-vector
-states: { idle: 2, walk: 2, attack: 1, hit: 1, death: 1 }
+states: { idle: 4, walk: 2, attack: 1, hit: 1, death: 1 }
 
 Synthesize a resolution-independent SVG vector graphic for "worker" (worker) in category "units".
 Projection: 3D Axonometric Isometric Cube (0 0 64 64).
