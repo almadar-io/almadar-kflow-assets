@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="terrain-planks">
+  <rect x="2" y="2" width="60" height="60" rx="6" fill="#B45309" stroke="#1E293B" stroke-width="2" />
+  <line x1="2" y1="18" x2="62" y2="18" stroke="#451A03" stroke-width="1.5" opacity="0.7" />
+  <line x1="2" y1="32" x2="62" y2="32" stroke="#451A03" stroke-width="1.5" opacity="0.7" />
+  <line x1="2" y1="46" x2="62" y2="46" stroke="#451A03" stroke-width="1.5" opacity="0.7" />
+</g>
+</svg>

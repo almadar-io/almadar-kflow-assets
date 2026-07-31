@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="feature-chest">
+  <rect x="10" y="24" width="44" height="32" fill="#78350F" stroke="#1E293B" stroke-width="2" rx="3" />
+  <path d="M 10 24 Q 32 12 54 24 Z" fill="#92400E" stroke="#1E293B" stroke-width="2" />
+  <rect x="16" y="18" width="6" height="38" fill="#F59E0B" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="42" y="18" width="6" height="38" fill="#F59E0B" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="28" y="30" width="8" height="10" fill="#334155" stroke="#1E293B" stroke-width="1.5" rx="1" />
+</g>
+</svg>
