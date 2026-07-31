@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="ui-panel-frame">
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-width="3" />
+  <rect x="7" y="7" width="50" height="50" rx="5" fill="none" stroke="#475569" stroke-width="2" />
+</g>
+</svg>

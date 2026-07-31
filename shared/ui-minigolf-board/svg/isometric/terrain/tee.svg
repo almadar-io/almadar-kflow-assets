@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="terrain-tee">
+  <polygon points="0,32 32,48 32,64 0,48" fill="#2E7D32" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,48 64,32 64,48 32,64" fill="#1B5E20" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,16 64,32 32,48 0,32" fill="#4CAF50" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,21 54,32 32,43 10,32" fill="#66BB6A" opacity="0.55" />
+  <ellipse cx="32" cy="32" rx="8" ry="4" fill="#F8FAFC" stroke="#1E293B" stroke-width="1.5" />
+  <ellipse cx="32" cy="32" rx="4" ry="2" fill="#CBD5E1" />
+</g>
+</svg>
