@@ -1,0 +1,21 @@
+{
+  "type": "fx-sheet",
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "columns": 8,
+  "rows": 1,
+  "directions": [
+    "se"
+  ],
+  "sheets": {
+    "se": "riya-platformer/features/fx-hit-puff/fx-hit-puff.png"
+  },
+  "animations": {
+    "burst": {
+      "row": 0,
+      "frames": 8,
+      "fps": 12,
+      "loop": false
+    }
+  }
+}

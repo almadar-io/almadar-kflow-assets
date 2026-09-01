@@ -1,0 +1,33 @@
+Generate a side-view platformer sprite sheet for the character described below.
+
+CHARACTER VISUAL: Riya, a living graph-point mascot — a small perfect glowing orb, like a plotted coordinate point on a graphing calculator come to life: a saturated neon-teal core with a warm white-hot center and soft additive bloom, a golden selection-halo ring around her with four tiny axis tick marks at the cardinal directions, two large expressive glossy dark eyes floating inside the core giving her a curious, warm, playful personality, and a short luminous trail ribbon behind her that redraws the curve she travels, luminous graph-paper vector style — crisp monoline strokes, neon glow on deep indigo, a math notebook at midnight — identical colors, proportions, glow and expression across every frame
+
+LAYOUT: 8 columns × 5 rows grid on a plain dark charcoal (#20202E) background — dark so the neon glow reads.
+Frame size: 256×256 pixels. Total image: 2048×1280 pixels.
+
+ROW CONTENTS (side-view, motion directed to the RIGHT):
+
+Row 0 — IDLE (4 frames, columns 0-3, remaining cells empty):
+  A gentle breathing pulse. Frame 0: neutral — halo relaxed, eyes open and calm. Frame 1: halo expands slightly, core brightens. Frame 2: return to neutral. Frame 3: eyes blink closed, halo contracts a touch.
+
+Row 1 — SKATE/WALK (8 frames, columns 0-7):
+  The point glides right with lively squash-and-stretch. Even frames: slight horizontal stretch, trail ribbon streaming behind to the left. Odd frames: settles back to round with a soft vertical bob. Eyes look ahead cheerfully throughout. CRITICAL: no limbs — motion is conveyed only through shape deformation, the trail, and eye direction.
+
+Row 2 — JUMP (4 frames, columns 0-3, remaining cells empty):
+  Frame 0: anticipation squash — the point compresses downward, halo flattens. Frame 1: lift-off — stretches upward, trail arcs beneath it. Frame 2: apex — round and bright, eyes wide with excitement, halo at fullest. Frame 3: landing preparation — extends downward, eyes looking at the landing spot.
+
+Row 3 — FALL (4 frames, columns 0-3, remaining cells empty):
+  Frame 0: just airborne, slight vertical stretch. Frame 1: falling — elongated vertically, eyes looking down. Frame 2: faster descent — trail thinning above, halo trailing upward. Frame 3: pre-landing — widens slightly, bracing.
+
+Row 4 — HIT (2 frames, columns 0-1, remaining cells empty):
+  Frame 0: impact — the point bursts into a scatter of tiny tick marks and plus-sign sparks, eyes squeezed shut. Frame 1: recoil — the fragments snap back toward the point, dizzy spiral eyes settling.
+
+CRITICAL REQUIREMENTS:
+- Side-view 2D platformer perspective, motion directed to the RIGHT.
+- The character is a glowing point/orb mascot — NO limbs, NO humanoid body, NO clothing.
+- Every frame: SAME character, IDENTICAL colors, proportions, glow, halo, and eye style.
+- Centered in each cell with ~20px padding.
+- Dark charcoal (#20202E) background, no ground/shadows/environment.
+- Empty cells = plain charcoal, no content.
+- Do NOT draw multiple angles or a top-down view.
+- Do NOT include any text, labels, row names, frame numbers, annotations, or watermarks anywhere on the image.. Avoid: photorealistic, 3D render, painterly, gradient shading, realistic lighting, pastel wash, blurry, noisy, photographic, complex background, shadows, text, labels, watermarks, multiple characters, inconsistent colors, top-down view, isometric view, human, humanoid figure, face portrait, arms, legs, hands, feet, clothing, hair

@@ -3,3 +3,4 @@ node_modules/
 .browser-profile*/
 .profiles/
 .raw/
+.DS_Store
