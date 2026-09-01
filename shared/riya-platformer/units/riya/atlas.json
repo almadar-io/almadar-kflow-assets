@@ -15,32 +15,32 @@
     "idle": {
       "row": 0,
       "frames": 4,
-      "fps": 6,
-      "loop": true
+      "loop": true,
+      "frameRate": 6
     },
     "skate": {
       "row": 1,
       "frames": 8,
-      "fps": 10,
-      "loop": true
+      "loop": true,
+      "frameRate": 10
     },
     "jump": {
       "row": 2,
       "frames": 5,
-      "fps": 8,
-      "loop": false
+      "loop": false,
+      "frameRate": 8
     },
     "fall": {
       "row": 3,
       "frames": 5,
-      "fps": 8,
-      "loop": false
+      "loop": false,
+      "frameRate": 8
     },
     "hit": {
       "row": 4,
       "frames": 2,
-      "fps": 8,
-      "loop": false
+      "loop": false,
+      "frameRate": 8
     }
   }
 }

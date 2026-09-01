@@ -14,8 +14,8 @@
     "burst": {
       "row": 0,
       "frames": 8,
-      "fps": 12,
-      "loop": false
+      "loop": false,
+      "frameRate": 12
     }
   }
 }
