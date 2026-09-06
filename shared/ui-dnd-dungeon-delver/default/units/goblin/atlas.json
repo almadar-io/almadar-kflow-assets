@@ -15,7 +15,7 @@
     "idle": {
       "row": 0,
       "frames": 4,
-      "frameRate": 6,
+      "frameRate": 3,
       "loop": true
     },
     "walk": {
