@@ -1,0 +1,31 @@
+Generate a top-down dungeon-crawler unit sprite sheet for the character described below.
+
+CHARACTER VISUAL: A knight hero token — a stout armored warrior seen from above at a three-quarter top-down angle, like a classic tabletop game token: crimson-red surcoat and shield (#dc2626), sky-blue tunic sleeves and shield face (#7dd3fc), a small golden crown or helm crest (#fbbf24), a raised silver arming sword (#e5e7eb), clean flat-vector dungeon-fantasy style with bold readable silhouettes and one consistent dark outline — identical colors, proportions, and pose language across every frame.
+
+LAYOUT: EXACTLY 8 columns × 5 rows of uniform square cells on a plain dark charcoal (#20202E) background — 5 distinct horizontal bands, each spanning the full image width. Do NOT merge, omit, or combine rows: the HIT row and the DEATH row are separate rows.
+
+ROW CONTENTS (top-down three-quarter view, character facing down-right / southeast):
+
+Row 0 — IDLE (4 frames, columns 0-3, remaining cells empty):
+  A gentle ready-stance breathing loop. Frame 0: neutral, sword lowered. Frame 1: shoulders rise slightly, sword lifts a touch. Frame 2: return to neutral. Frame 3: subtle shield adjust, helmet glint.
+
+Row 1 — WALK (8 frames, columns 0-7):
+  A steady top-down walk cycle advancing toward down-right. Alternate stride: even frames left shoulder/leg forward, odd frames right shoulder/leg forward, sword and shield bobbing with the step. Read clearly from above.
+
+Row 2 — ATTACK (6 frames, columns 0-5, remaining cells empty):
+  A single sword swing. Frame 0: wind-up, sword drawn back over the shoulder. Frames 1-3: the swing arcs across the body toward down-right with a slight motion smear. Frame 4: follow-through, sword fully extended. Frame 5: recover to ready stance.
+
+Row 3 — HIT (3 frames, columns 0-2, remaining cells empty):
+  Frame 0: impact flinch — body twists back, shield jerks up. Frame 1: staggered, posture broken, colors slightly desaturated. Frame 2: recovering balance.
+
+Row 4 — DEATH (6 frames, columns 0-5, remaining cells empty):
+  Frame 0: mortal stagger. Frames 1-3: sinking to knees, sword slipping down. Frame 4: collapsed on the ground. Frame 5: lying still, sword beside the body.
+
+CRITICAL REQUIREMENTS:
+- Top-down three-quarter view (tabletop token), character facing down-right (southeast). NOT side-view, NOT platformer perspective.
+- Every frame: SAME character, IDENTICAL colors, proportions, outline weight, and equipment.
+- Centered in each cell with ~20px padding, feet/base near the cell's vertical center.
+- Plain dark charcoal (#20202E) background, no ground, no shadows, no environment.
+- Empty cells = plain charcoal, no content.
+- Do NOT include any text, labels, row names, frame numbers, annotations, or watermarks anywhere on the image.
+- Avoid: photorealistic, 3D render, painterly, gradient shading, realistic lighting, blurry, noisy, photographic, complex background, cast shadows, text, labels, watermarks, multiple characters, inconsistent colors, side view, platformer view, isometric tiles

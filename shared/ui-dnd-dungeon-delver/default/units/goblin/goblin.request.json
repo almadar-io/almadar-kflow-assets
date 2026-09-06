@@ -1,0 +1,12 @@
+{
+  "model": "bytedance-seed/seedream-5-0-lite",
+  "seed": 7777,
+  "size": "2048x1280",
+  "cost": 0.035,
+  "dropped": [
+    "background",
+    "seed"
+  ],
+  "references": [],
+  "prompt": "prompts/goblin.txt"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "bytedance-seed/seedream-5-0-lite",
+  "seed": 935060021,
+  "size": "256x256",
+  "cost": 0.035,
+  "dropped": [
+    "background",
+    "seed"
+  ],
+  "references": [],
+  "prompt": "prompts/stairsDown.txt"
+}

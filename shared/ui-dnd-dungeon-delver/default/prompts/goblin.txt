@@ -1,0 +1,31 @@
+Generate a top-down dungeon-crawler unit sprite sheet for the creature described below.
+
+CREATURE VISUAL: A goblin token — a small wiry goblin seen from above at a three-quarter top-down angle, like a classic tabletop game token: bright green skin (#4ade80), oversized pointed ears and beady eyes in deep forest green (#166534), a ragged brown loincloth, a crude rusty dagger, hunched scurrying posture, clean flat-vector dungeon-fantasy style with bold readable silhouettes and one consistent dark outline — identical colors, proportions, and pose language across every frame.
+
+LAYOUT: EXACTLY 8 columns × 5 rows of uniform square cells on a plain dark charcoal (#20202E) background — 5 distinct horizontal bands, each spanning the full image width. Do NOT merge, omit, or combine rows: the HIT row and the DEATH row are separate rows.
+
+ROW CONTENTS (top-down three-quarter view, creature facing down-right / southeast):
+
+Row 0 — IDLE (4 frames, columns 0-3, remaining cells empty):
+  A jittery crouched loop. Frame 0: neutral crouch. Frame 1: ears perk up, dagger rises. Frame 2: return to neutral. Frame 3: quick suspicious glance to the side.
+
+Row 1 — WALK (8 frames, columns 0-7):
+  A scurrying top-down scuttle toward down-right. Alternate scuttle steps: even frames left leg forward with a hunched bob, odd frames right leg forward; ears and dagger bouncing. Read clearly from above.
+
+Row 2 — ATTACK (6 frames, columns 0-5, remaining cells empty):
+  A quick dagger stab. Frame 0: crouch back, dagger cocked. Frames 1-3: lunge forward with the stab toward down-right, body stretched low. Frame 4: full extension. Frame 5: hop back to crouch.
+
+Row 3 — HIT (3 frames, columns 0-2, remaining cells empty):
+  Frame 0: impact flinch — knocked back, ears flat. Frame 1: sprawled stagger, dagger flailing. Frame 2: scrambling back up.
+
+Row 4 — DEATH (6 frames, columns 0-5, remaining cells empty):
+  Frame 0: mortal stagger, eyes wide. Frames 1-3: crumpling forward. Frame 4: flat on the ground, dagger dropped beside. Frame 5: lying still.
+
+CRITICAL REQUIREMENTS:
+- Top-down three-quarter view (tabletop token), creature facing down-right (southeast). NOT side-view, NOT platformer perspective.
+- Every frame: SAME creature, IDENTICAL colors, proportions, outline weight, and equipment.
+- Centered in each cell with ~20px padding.
+- Plain dark charcoal (#20202E) background, no ground, no shadows, no environment.
+- Empty cells = plain charcoal, no content.
+- Do NOT include any text, labels, row names, frame numbers, annotations, or watermarks anywhere on the image.
+- Avoid: photorealistic, 3D render, painterly, gradient shading, realistic lighting, blurry, noisy, photographic, complex background, cast shadows, text, labels, watermarks, multiple creatures, inconsistent colors, side view, platformer view, isometric tiles
