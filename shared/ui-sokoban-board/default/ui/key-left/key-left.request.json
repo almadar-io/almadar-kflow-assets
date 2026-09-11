@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1111733340,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-sokoban-board/default/ui/icon-boxes/icon-boxes.png",
+    "shared/ui-sokoban-board/default/ui/icon-moves/icon-moves.png",
+    "shared/ui-sokoban-board/default/ui/icon-reset/icon-reset.png",
+    "shared/ui-sokoban-board/default/ui/key-down/key-down.png"
+  ],
+  "prompt": "prompts/ui/key-left.txt"
+}

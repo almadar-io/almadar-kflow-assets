@@ -1,0 +1,73 @@
+{
+  "model": "flux2-klein",
+  "seed": 1761422284,
+  "seedMode": "per-frame",
+  "size": "256x256",
+  "cost": 0,
+  "mode": "per-frame",
+  "frames": [
+    {
+      "anim": "burst",
+      "frame": 1,
+      "seed": 1761422284,
+      "prompt": "prompts/features/trap-snap/z-image-turbo/burst-1.txt",
+      "file": "frames/burst-1.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 1,
+      "seed": 1761422285,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-1.txt",
+      "file": "frames/burst-1.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 2,
+      "seed": 1761422286,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-2.txt",
+      "file": "frames/burst-2.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 3,
+      "seed": 1761422287,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-3.txt",
+      "file": "frames/burst-3.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 4,
+      "seed": 1761422288,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-4.txt",
+      "file": "frames/burst-4.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 5,
+      "seed": 1761422289,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-5.txt",
+      "file": "frames/burst-5.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 6,
+      "seed": 1761422290,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-6.txt",
+      "file": "frames/burst-6.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 7,
+      "seed": 1761422291,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-7.txt",
+      "file": "frames/burst-7.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 8,
+      "seed": 1761422292,
+      "prompt": "prompts/features/trap-snap/flux2-klein/burst-8.txt",
+      "file": "frames/burst-8.png"
+    }
+  ]
+}

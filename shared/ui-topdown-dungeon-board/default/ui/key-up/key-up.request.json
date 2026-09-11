@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 830484360,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-topdown-dungeon-board/default/ui/key-down/key-down.png",
+    "shared/ui-topdown-dungeon-board/default/ui/key-left/key-left.png",
+    "shared/ui-topdown-dungeon-board/default/ui/key-right/key-right.png"
+  ],
+  "prompt": "prompts/ui/key-up.txt"
+}

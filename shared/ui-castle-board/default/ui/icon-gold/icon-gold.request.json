@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 860702971,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-castle-board/default/ui/icon-gold/icon-gold.png",
+    "shared/ui-castle-board/default/ui/icon-wave/icon-wave.png",
+    "shared/ui-castle-board/default/ui/panel-frame/panel-frame.png"
+  ],
+  "prompt": "prompts/ui/icon-gold.txt"
+}

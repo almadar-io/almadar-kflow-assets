@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 82161370,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-roguelike-board/default/features/health_potion/health_potion.png",
+    "shared/ui-roguelike-board/default/features/shield/shield.png",
+    "shared/ui-roguelike-board/default/features/sword/sword.png"
+  ],
+  "prompt": "prompts/features/sword.txt"
+}

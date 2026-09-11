@@ -1,0 +1,73 @@
+{
+  "model": "flux2-klein",
+  "seed": 241416599,
+  "seedMode": "per-frame",
+  "size": "256x256",
+  "cost": 0,
+  "mode": "per-frame",
+  "frames": [
+    {
+      "anim": "burst",
+      "frame": 1,
+      "seed": 241416599,
+      "prompt": "prompts/effects/bite/z-image-turbo/burst-1.txt",
+      "file": "frames/burst-1.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 1,
+      "seed": 241416600,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-1.txt",
+      "file": "frames/burst-1.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 2,
+      "seed": 241416601,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-2.txt",
+      "file": "frames/burst-2.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 3,
+      "seed": 241416602,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-3.txt",
+      "file": "frames/burst-3.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 4,
+      "seed": 241416603,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-4.txt",
+      "file": "frames/burst-4.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 5,
+      "seed": 241416604,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-5.txt",
+      "file": "frames/burst-5.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 6,
+      "seed": 241416605,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-6.txt",
+      "file": "frames/burst-6.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 7,
+      "seed": 241416606,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-7.txt",
+      "file": "frames/burst-7.png"
+    },
+    {
+      "anim": "burst",
+      "frame": 8,
+      "seed": 241416607,
+      "prompt": "prompts/effects/bite/flux2-klein/burst-8.txt",
+      "file": "frames/burst-8.png"
+    }
+  ]
+}

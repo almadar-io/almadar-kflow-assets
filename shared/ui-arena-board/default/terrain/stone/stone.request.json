@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 831941276,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-arena-board/default/terrain/ground/ground.png",
+    "shared/ui-arena-board/default/terrain/stone/stone.png"
+  ],
+  "prompt": "prompts/terrain/stone.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1548112931,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-world-map-board/default/features/gold_mine/gold_mine.png",
+    "shared/ui-world-map-board/default/features/portal/portal.png"
+  ],
+  "prompt": "prompts/features/gold_mine.txt"
+}

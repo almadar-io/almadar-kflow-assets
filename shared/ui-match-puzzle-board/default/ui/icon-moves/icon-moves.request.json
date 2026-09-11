@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 509644254,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-match-puzzle-board/default/ui/icon-combo/icon-combo.png"
+  ],
+  "prompt": "prompts/ui/icon-moves.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1616017704,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-hex-strategy-board/default/terrain/dirt/dirt.png",
+    "shared/ui-hex-strategy-board/default/terrain/grass/grass.png",
+    "shared/ui-hex-strategy-board/default/terrain/sand/sand.png",
+    "shared/ui-hex-strategy-board/default/terrain/stone/stone.png"
+  ],
+  "prompt": "prompts/terrain/stone.txt"
+}

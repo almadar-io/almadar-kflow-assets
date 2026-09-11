@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1649664665,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-winter-ski-board/default/ui/icon-distance/icon-distance.png",
+    "shared/ui-winter-ski-board/default/ui/icon-lives/icon-lives.png",
+    "shared/ui-winter-ski-board/default/ui/icon-restart/icon-restart.png",
+    "shared/ui-winter-ski-board/default/ui/icon-score/icon-score.png",
+    "shared/ui-winter-ski-board/default/ui/key-left/key-left.png"
+  ],
+  "prompt": "prompts/ui/key-right.txt"
+}

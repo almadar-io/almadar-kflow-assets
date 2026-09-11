@@ -1,0 +1,12 @@
+Generate a 16:9 dark dungeon-crawler backdrop image for the board behind a top-down tactical grid.
+
+SCENE: A vast dimly lit dungeon hall seen as an atmospheric flat-vector backdrop — deep slate-blue darkness (#0f172a dominant), faint silhouettes of distant stone pillars and arches receding into black, a few sparse warm torch glows (muted amber #f59e0b kept dim and small) far off-center, subtle cold rim light on the floor of the hall. The center of the image must stay DARK and UNCLutterED — it sits behind a 20x14 tactical grid that carries all gameplay detail, so the backdrop only frames it.
+
+CRITICAL REQUIREMENTS:
+- Flat-vector dungeon-fantasy style with soft atmospheric depth — bold readable silhouettes, no fine detail.
+- Wide 16:9 landscape composition.
+- Overall value VERY dark: the backdrop must never compete with gameplay tiles or sprites on top of it; nothing brighter than #334155 except the small dim torch glows.
+- Even, non-directional darkness: no bright center, no vignette toward the edges that would fight the UI frame, no lens flare, no god rays.
+- No photorealism, no 3D render, no painterly texture, no gradients that band, no noise, no blur.
+- NO text, labels, watermark, logo, characters, creatures, or items in the scene.
+- NO visible grid, tiles, or floor pattern — the game draws its own grid over this.

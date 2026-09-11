@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 210273624,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-boardgame-board/default/units/rival/rival.png",
+    "shared/ui-boardgame-board/default/units/you/you.png"
+  ],
+  "prompt": "prompts/units/you.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 62595088,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-holiday-runner-board/default/ui/icon-distance/icon-distance.png",
+    "shared/ui-holiday-runner-board/default/ui/icon-jump/icon-jump.png",
+    "shared/ui-holiday-runner-board/default/ui/icon-score/icon-score.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

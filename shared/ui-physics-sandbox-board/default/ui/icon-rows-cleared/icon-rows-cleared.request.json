@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1913811257,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-physics-sandbox-board/default/ui/icon-blocks-placed/icon-blocks-placed.png",
+    "shared/ui-physics-sandbox-board/default/ui/icon-clear/icon-clear.png",
+    "shared/ui-physics-sandbox-board/default/ui/icon-cycle-kind/icon-cycle-kind.png"
+  ],
+  "prompt": "prompts/ui/icon-rows-cleared.txt"
+}

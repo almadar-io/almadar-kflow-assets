@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1271511151,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-pinball-board/default/ui/icon-balls/icon-balls.png",
+    "shared/ui-pinball-board/default/ui/icon-flipper/icon-flipper.png",
+    "shared/ui-pinball-board/default/ui/icon-launch/icon-launch.png",
+    "shared/ui-pinball-board/default/ui/icon-score/icon-score.png",
+    "shared/ui-pinball-board/default/ui/panel-frame/panel-frame.png"
+  ],
+  "prompt": "prompts/ui/icon-balls.txt"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 565347458,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/ui/icon-hole.txt"
+}

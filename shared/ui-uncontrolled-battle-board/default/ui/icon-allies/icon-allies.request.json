@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1819932082,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-uncontrolled-battle-board/default/ui/icon-allies/icon-allies.png",
+    "shared/ui-uncontrolled-battle-board/default/ui/icon-enemies/icon-enemies.png",
+    "shared/ui-uncontrolled-battle-board/default/ui/icon-restart/icon-restart.png",
+    "shared/ui-uncontrolled-battle-board/default/ui/icon-round/icon-round.png",
+    "shared/ui-uncontrolled-battle-board/default/ui/panel-frame/panel-frame.png"
+  ],
+  "prompt": "prompts/ui/icon-allies.txt"
+}

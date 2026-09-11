@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 2053400539,
+  "size": "512x64",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-pinball-board/default/effects/spark/spark.png"
+  ],
+  "prompt": "prompts/effects/spark.txt"
+}

@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 598172854,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-physics-sandbox-board/default/ui/icon-blocks-placed/icon-blocks-placed.png",
+    "shared/ui-physics-sandbox-board/default/ui/icon-clear/icon-clear.png",
+    "shared/ui-physics-sandbox-board/default/ui/icon-cycle-kind/icon-cycle-kind.png",
+    "shared/ui-physics-sandbox-board/default/ui/icon-rows-cleared/icon-rows-cleared.png",
+    "shared/ui-physics-sandbox-board/default/ui/icon-score/icon-score.png"
+  ],
+  "prompt": "prompts/ui/icon-spawn.txt"
+}

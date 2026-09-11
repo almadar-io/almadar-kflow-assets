@@ -1,0 +1,19 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1441400399,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-sokoban-board/default/ui/icon-boxes/icon-boxes.png",
+    "shared/ui-sokoban-board/default/ui/icon-moves/icon-moves.png",
+    "shared/ui-sokoban-board/default/ui/icon-reset/icon-reset.png",
+    "shared/ui-sokoban-board/default/ui/key-down/key-down.png",
+    "shared/ui-sokoban-board/default/ui/key-left/key-left.png",
+    "shared/ui-sokoban-board/default/ui/key-right/key-right.png",
+    "shared/ui-sokoban-board/default/ui/key-up/key-up.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

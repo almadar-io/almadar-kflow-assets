@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 958689628,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-uncontrolled-battle-board/default/features/barrels/barrels.png",
+    "shared/ui-uncontrolled-battle-board/default/features/chest/chest.png"
+  ],
+  "prompt": "prompts/features/chest.txt"
+}

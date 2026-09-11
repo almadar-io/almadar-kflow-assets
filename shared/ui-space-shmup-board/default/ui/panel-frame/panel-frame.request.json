@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1625451021,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-space-shmup-board/default/ui/icon-fire/icon-fire.png",
+    "shared/ui-space-shmup-board/default/ui/icon-lives/icon-lives.png",
+    "shared/ui-space-shmup-board/default/ui/icon-pause/icon-pause.png",
+    "shared/ui-space-shmup-board/default/ui/icon-score/icon-score.png",
+    "shared/ui-space-shmup-board/default/ui/icon-wave/icon-wave.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

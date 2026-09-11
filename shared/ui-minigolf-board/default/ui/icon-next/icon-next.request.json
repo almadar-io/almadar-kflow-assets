@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 204840916,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-minigolf-board/default/ui/icon-hole/icon-hole.png"
+  ],
+  "prompt": "prompts/ui/icon-next.txt"
+}

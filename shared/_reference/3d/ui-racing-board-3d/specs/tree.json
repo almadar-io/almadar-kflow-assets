@@ -1,0 +1,8 @@
+{
+  "default": "#3e9e4f",
+  "smooth": 0,
+  "regions": [
+    {"where": "(y < 0.0) and (r < 0.4)", "color": "#7a4a2b"},
+    {"where": "y < -0.55", "color": "#7a4a2b"}
+  ]
+}

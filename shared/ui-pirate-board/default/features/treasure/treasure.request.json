@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 102606317,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-pirate-board/default/features/port/port.png",
+    "shared/ui-pirate-board/default/features/treasure/treasure.png"
+  ],
+  "prompt": "prompts/features/treasure.txt"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1673928254,
+  "size": "1024x576",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/backgrounds/background.txt"
+}

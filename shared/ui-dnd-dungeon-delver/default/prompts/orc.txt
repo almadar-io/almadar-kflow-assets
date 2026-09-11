@@ -1,0 +1,31 @@
+Generate a top-down dungeon-crawler unit sprite sheet for the creature described below.
+
+CREATURE VISUAL: An orc token — a broad brutish orc seen from above at a three-quarter top-down angle, like a classic tabletop game token: olive-green skin (#65a30d), two upward-curving bone tusks and small eyes in pale bone (#fef3c7), dark leather harness straps, a heavy notched cleaver, hulking shoulders wider than the other dungeon creatures, clean flat-vector dungeon-fantasy style with bold readable silhouettes and one consistent dark outline — identical colors, proportions, and pose language across every frame.
+
+LAYOUT: EXACTLY 8 columns × 5 rows of uniform square cells on a plain dark charcoal (#20202E) background — 5 distinct horizontal bands, each spanning the full image width. Do NOT merge, omit, or combine rows: the HIT row and the DEATH row are separate rows.
+
+ROW CONTENTS (top-down three-quarter view, creature facing down-right / southeast):
+
+Row 0 — IDLE (4 frames, columns 0-3, remaining cells empty):
+  A heavy breathing loop. Frame 0: neutral, cleaver resting. Frame 1: chest swells, shoulders rise. Frame 2: return to neutral. Frame 3: tusks bare in a sniff, cleaver twitches.
+
+Row 1 — WALK (8 frames, columns 0-7):
+  A lumbering top-down stomp toward down-right. Alternate heavy strides: even frames left leg forward with a shoulder sway, odd frames right leg forward; cleaver swinging low. Read clearly from above.
+
+Row 2 — ATTACK (6 frames, columns 0-5, remaining cells empty):
+  An overhead cleaver smash. Frame 0: cleaver raised high behind the head. Frames 1-3: the smash crashes down toward down-right with a slight motion smear. Frame 4: cleaver buried low, body over-extended. Frame 5: wrench back to stance.
+
+Row 3 — HIT (3 frames, columns 0-2, remaining cells empty):
+  Frame 0: impact flinch — rocked back on heels. Frame 1: staggered sideways, cleaver arm dropping. Frame 2: shaking it off, tusks bared.
+
+Row 4 — DEATH (6 frames, columns 0-5, remaining cells empty):
+  Frame 0: mortal sway. Frames 1-3: sinking to one knee, cleaver slipping. Frame 4: toppled face-down. Frame 5: lying still, cleaver under the body.
+
+CRITICAL REQUIREMENTS:
+- Top-down three-quarter view (tabletop token), creature facing down-right (southeast). NOT side-view, NOT platformer perspective.
+- Every frame: SAME creature, IDENTICAL colors, proportions, outline weight, and equipment.
+- Centered in each cell with ~20px padding.
+- Plain dark charcoal (#20202E) background, no ground, no shadows, no environment.
+- Empty cells = plain charcoal, no content.
+- Do NOT include any text, labels, row names, frame numbers, annotations, or watermarks anywhere on the image.
+- Avoid: photorealistic, 3D render, painterly, gradient shading, realistic lighting, blurry, noisy, photographic, complex background, cast shadows, text, labels, watermarks, multiple creatures, inconsistent colors, side view, platformer view, isometric tiles

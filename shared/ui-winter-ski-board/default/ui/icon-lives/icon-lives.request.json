@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 224352525,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-winter-ski-board/default/ui/icon-distance/icon-distance.png"
+  ],
+  "prompt": "prompts/ui/icon-lives.txt"
+}

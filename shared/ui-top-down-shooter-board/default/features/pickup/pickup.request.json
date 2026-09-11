@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1640125433,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-top-down-shooter-board/default/features/pickup/pickup.png",
+    "shared/ui-top-down-shooter-board/default/features/projectile/projectile.png"
+  ],
+  "prompt": "prompts/features/pickup.txt"
+}

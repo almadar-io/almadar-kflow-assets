@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 408528903,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/ui/icon-cannon.txt"
+}

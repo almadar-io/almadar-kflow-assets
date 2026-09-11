@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1976946989,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-match-puzzle-board/default/units/gem_blue/gem_blue.png",
+    "shared/ui-match-puzzle-board/default/units/gem_green/gem_green.png",
+    "shared/ui-match-puzzle-board/default/units/gem_pink/gem_pink.png",
+    "shared/ui-match-puzzle-board/default/units/gem_red/gem_red.png",
+    "shared/ui-match-puzzle-board/default/units/gem_yellow/gem_yellow.png"
+  ],
+  "prompt": "prompts/units/gem_red.txt"
+}

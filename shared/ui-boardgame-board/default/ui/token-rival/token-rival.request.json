@@ -1,0 +1,18 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1878184271,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-boardgame-board/default/ui/finish-marker/finish-marker.png",
+    "shared/ui-boardgame-board/default/ui/icon-dice/icon-dice.png",
+    "shared/ui-boardgame-board/default/ui/icon-roll/icon-roll.png",
+    "shared/ui-boardgame-board/default/ui/panel-frame/panel-frame.png",
+    "shared/ui-boardgame-board/default/ui/token-rival/token-rival.png",
+    "shared/ui-boardgame-board/default/ui/token-you/token-you.png"
+  ],
+  "prompt": "prompts/ui/token-rival.txt"
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="terrain-path">
+  <polygon points="0,32 32,48 32,64 0,48" fill="#8C6D4F" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,48 64,32 64,48 32,64" fill="#6B4F35" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,16 64,32 32,48 0,32" fill="#C8A97B" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="32,24 52,32 32,40 12,32" fill="#A8835A" opacity="0.6" />
+  <path d="M 14 30 L 32 38 L 50 30" fill="none" stroke="#8C6D4F" stroke-width="1.5" opacity="0.8" />
+  <path d="M 18 27 L 32 33.5 L 46 27" fill="none" stroke="#8C6D4F" stroke-width="1.5" opacity="0.8" />
+</g>
+</svg>

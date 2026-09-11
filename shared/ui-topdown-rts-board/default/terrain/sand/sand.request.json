@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 729084509,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-topdown-rts-board/default/terrain/ground/ground.png"
+  ],
+  "prompt": "prompts/terrain/sand.txt"
+}

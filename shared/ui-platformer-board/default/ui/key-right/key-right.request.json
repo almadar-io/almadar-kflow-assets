@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1332607573,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-platformer-board/default/ui/coin/coin.png",
+    "shared/ui-platformer-board/default/ui/icon-restart/icon-restart.png",
+    "shared/ui-platformer-board/default/ui/key-down/key-down.png",
+    "shared/ui-platformer-board/default/ui/key-left/key-left.png"
+  ],
+  "prompt": "prompts/ui/key-right.txt"
+}

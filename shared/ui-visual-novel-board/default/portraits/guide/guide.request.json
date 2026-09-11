@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1643172558,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/units/guide.txt"
+}

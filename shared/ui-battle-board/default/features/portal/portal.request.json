@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 447519879,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-battle-board/default/features/gold_mine/gold_mine.png",
+    "shared/ui-battle-board/default/features/portal/portal.png"
+  ],
+  "prompt": "prompts/features/portal.txt"
+}

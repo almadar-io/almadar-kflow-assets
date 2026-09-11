@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1017001714,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-sports-board/default/ui/icon-away/icon-away.png",
+    "shared/ui-sports-board/default/ui/icon-home/icon-home.png",
+    "shared/ui-sports-board/default/ui/icon-phase/icon-phase.png",
+    "shared/ui-sports-board/default/ui/icon-reset/icon-reset.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

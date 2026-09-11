@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1457747025,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/features/barrel.txt"
+}

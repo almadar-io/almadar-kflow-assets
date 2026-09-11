@@ -1,0 +1,20 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1159570392,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-roguelike-board/default/ui/icon-attack/icon-attack.png",
+    "shared/ui-roguelike-board/default/ui/icon-floor/icon-floor.png",
+    "shared/ui-roguelike-board/default/ui/icon-foes/icon-foes.png",
+    "shared/ui-roguelike-board/default/ui/icon-hp/icon-hp.png",
+    "shared/ui-roguelike-board/default/ui/icon-restart/icon-restart.png",
+    "shared/ui-roguelike-board/default/ui/icon-xp/icon-xp.png",
+    "shared/ui-roguelike-board/default/ui/key-down/key-down.png",
+    "shared/ui-roguelike-board/default/ui/key-left/key-left.png"
+  ],
+  "prompt": "prompts/ui/key-right.txt"
+}

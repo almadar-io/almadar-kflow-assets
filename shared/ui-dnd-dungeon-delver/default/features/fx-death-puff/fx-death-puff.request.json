@@ -1,0 +1,12 @@
+{
+  "model": "bytedance-seed/seedream-5-0-lite",
+  "seed": 521825030,
+  "size": "512x64",
+  "cost": 0.035,
+  "dropped": [
+    "background",
+    "seed"
+  ],
+  "references": [],
+  "prompt": "prompts/death-puff.txt"
+}

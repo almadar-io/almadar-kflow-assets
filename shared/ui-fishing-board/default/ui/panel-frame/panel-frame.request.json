@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 200251599,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-fishing-board/default/ui/icon-cast/icon-cast.png",
+    "shared/ui-fishing-board/default/ui/icon-catch/icon-catch.png",
+    "shared/ui-fishing-board/default/ui/icon-reel/icon-reel.png",
+    "shared/ui-fishing-board/default/ui/icon-score/icon-score.png",
+    "shared/ui-fishing-board/default/ui/panel-frame/panel-frame.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

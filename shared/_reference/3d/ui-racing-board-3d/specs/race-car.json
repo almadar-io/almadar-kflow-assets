@@ -1,0 +1,8 @@
+{
+  "default": "#d0342c",
+  "regions": [
+    {"where": "(y < -0.12) and (abs(x) > 0.5) and (abs(z) > 0.28)", "color": "#1a1a1a"},
+    {"where": "y < -0.25", "color": "#26262a"},
+    {"where": "(y > 0.1) and (abs(x) < 0.45)", "color": "#2c3e50"}
+  ]
+}

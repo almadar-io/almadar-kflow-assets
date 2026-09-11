@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 612047282,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-city-builder-board/default/terrain/dirt/dirt.png",
+    "shared/ui-city-builder-board/default/terrain/grass/grass.png",
+    "shared/ui-city-builder-board/default/terrain/road/road.png",
+    "shared/ui-city-builder-board/default/terrain/stone/stone.png",
+    "shared/ui-city-builder-board/default/terrain/water/water.png"
+  ],
+  "prompt": "prompts/terrain/road.txt"
+}

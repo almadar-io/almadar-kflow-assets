@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 204346949,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-topdown-dungeon-board/default/units/crab/crab.png",
+    "shared/ui-topdown-dungeon-board/default/units/ghost/ghost.png",
+    "shared/ui-topdown-dungeon-board/default/units/knight/knight.png"
+  ],
+  "prompt": "prompts/units/slime.txt"
+}

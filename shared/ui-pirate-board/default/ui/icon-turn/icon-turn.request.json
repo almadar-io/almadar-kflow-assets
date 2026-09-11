@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1090462833,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-pirate-board/default/ui/icon-cannon/icon-cannon.png",
+    "shared/ui-pirate-board/default/ui/icon-gold/icon-gold.png",
+    "shared/ui-pirate-board/default/ui/icon-ships/icon-ships.png"
+  ],
+  "prompt": "prompts/ui/icon-turn.txt"
+}

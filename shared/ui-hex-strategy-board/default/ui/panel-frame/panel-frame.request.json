@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 2087939606,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

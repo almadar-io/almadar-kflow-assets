@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 2117321776,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-topdown-rts-board/default/features/gold_mine/gold_mine.png"
+  ],
+  "prompt": "prompts/features/wall.txt"
+}

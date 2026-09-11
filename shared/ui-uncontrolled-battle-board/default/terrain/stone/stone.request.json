@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 493891301,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-uncontrolled-battle-board/default/terrain/dirt/dirt.png",
+    "shared/ui-uncontrolled-battle-board/default/terrain/grass/grass.png",
+    "shared/ui-uncontrolled-battle-board/default/terrain/planks/planks.png",
+    "shared/ui-uncontrolled-battle-board/default/terrain/stairs/stairs.png",
+    "shared/ui-uncontrolled-battle-board/default/terrain/stone/stone.png"
+  ],
+  "prompt": "prompts/terrain/stone.txt"
+}

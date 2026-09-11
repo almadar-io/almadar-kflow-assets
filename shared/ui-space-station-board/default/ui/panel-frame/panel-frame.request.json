@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 374518691,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-space-station-board/default/ui/icon-cancel/icon-cancel.png",
+    "shared/ui-space-station-board/default/ui/icon-crew/icon-crew.png",
+    "shared/ui-space-station-board/default/ui/icon-oxygen/icon-oxygen.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

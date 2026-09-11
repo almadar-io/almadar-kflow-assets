@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 848804806,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-world-map-board/default/terrain/forest/forest.png",
+    "shared/ui-world-map-board/default/terrain/grass/grass.png",
+    "shared/ui-world-map-board/default/terrain/stone/stone.png"
+  ],
+  "prompt": "prompts/terrain/grass.txt"
+}

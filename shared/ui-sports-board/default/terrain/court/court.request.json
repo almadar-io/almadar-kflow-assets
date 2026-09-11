@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 638404765,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-sports-board/default/terrain/court/court.png"
+  ],
+  "prompt": "prompts/terrain/court.txt"
+}

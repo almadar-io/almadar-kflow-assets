@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 856654377,
+  "size": "1024x576",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-visual-novel-board/default/backgrounds/background/background.png"
+  ],
+  "prompt": "prompts/backgrounds/corridor.txt"
+}

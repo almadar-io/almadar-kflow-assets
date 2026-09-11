@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 2141116053,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-fishing-board/default/features/fish/fish.png",
+    "shared/ui-fishing-board/default/features/rock/rock.png",
+    "shared/ui-fishing-board/default/features/seaweed/seaweed.png"
+  ],
+  "prompt": "prompts/features/seaweed.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "model": "z-image-turbo",
+  "seed": 861802637,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-city-builder-board/default/features/barracks/barracks.png",
+    "shared/ui-city-builder-board/default/features/farm/farm.png",
+    "shared/ui-city-builder-board/default/features/house/house.png",
+    "shared/ui-city-builder-board/default/features/library/library.png",
+    "shared/ui-city-builder-board/default/features/mine/mine.png",
+    "shared/ui-city-builder-board/default/features/tower/tower.png",
+    "shared/ui-city-builder-board/default/features/treasury/treasury.png"
+  ],
+  "prompt": "prompts/features/mine.txt"
+}

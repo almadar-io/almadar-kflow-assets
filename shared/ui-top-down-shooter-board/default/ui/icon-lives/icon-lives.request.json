@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1919717656,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-top-down-shooter-board/default/ui/icon-fire/icon-fire.png"
+  ],
+  "prompt": "prompts/ui/icon-lives.txt"
+}

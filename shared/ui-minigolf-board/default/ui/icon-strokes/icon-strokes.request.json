@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1257567743,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-minigolf-board/default/ui/icon-hole/icon-hole.png",
+    "shared/ui-minigolf-board/default/ui/icon-next/icon-next.png",
+    "shared/ui-minigolf-board/default/ui/icon-par/icon-par.png",
+    "shared/ui-minigolf-board/default/ui/icon-reset/icon-reset.png"
+  ],
+  "prompt": "prompts/ui/icon-strokes.txt"
+}

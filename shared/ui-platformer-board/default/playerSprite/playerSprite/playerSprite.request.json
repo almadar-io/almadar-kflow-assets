@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 405042387,
+  "size": "2048x1280",
+  "cost": 0,
+  "dropped": [
+    "background",
+    "input_references"
+  ],
+  "references": [
+    "shared/ui-platformer-board/default/playerSprite/playerSprite/playerSprite.png"
+  ],
+  "prompt": "prompts/playerSprite/playerSprite.txt"
+}

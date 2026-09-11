@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="feature-treasury">
+  <ellipse cx="32" cy="58" rx="18" ry="4" fill="#0F172A" opacity="0.2" />
+  <rect x="12" y="32" width="40" height="24" fill="#CBD5E1" stroke="#1E293B" stroke-width="2" />
+  <path d="M 14 32 A 18 15 0 0 1 50 32 Z" fill="#64748B" stroke="#1E293B" stroke-width="2" />
+  <circle cx="32" cy="26" r="6" fill="#FDE047" stroke="#B45309" stroke-width="2" />
+  <circle cx="32" cy="26" r="3" fill="none" stroke="#B45309" stroke-width="1.5" />
+  <path d="M 25 56 L 25 44 A 7 7 0 0 1 39 44 L 39 56 Z" fill="#334155" stroke="#1E293B" stroke-width="2" />
+  <rect x="12" y="54" width="40" height="4" fill="#94A3B8" stroke="#1E293B" stroke-width="1.5" />
+</g>
+</svg>

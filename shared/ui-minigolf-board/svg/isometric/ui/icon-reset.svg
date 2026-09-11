@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="ui-icon-reset">
+  <circle cx="32" cy="32" r="26" fill="#F5F0E1" stroke="#8D7B5E" stroke-width="3" />
+  <circle cx="32" cy="32" r="18" fill="none" stroke="#D8CDB4" stroke-width="2" />
+  <path d="M 45 32 A 13 13 0 1 1 32 19" fill="none" stroke="#475569" stroke-width="4" stroke-linecap="round" />
+  <polygon points="32,12 32,26 21,19" fill="#475569" stroke-linejoin="round" />
+</g>
+</svg>

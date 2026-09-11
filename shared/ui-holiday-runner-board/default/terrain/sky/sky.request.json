@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 698871911,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-holiday-runner-board/default/terrain/ground/ground.png",
+    "shared/ui-holiday-runner-board/default/terrain/sky/sky.png"
+  ],
+  "prompt": "prompts/terrain/sky.txt"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 2073508167,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/ui/icon-away.txt"
+}

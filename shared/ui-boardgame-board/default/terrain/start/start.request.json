@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 744352038,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-boardgame-board/default/terrain/bonus/bonus.png",
+    "shared/ui-boardgame-board/default/terrain/finish/finish.png",
+    "shared/ui-boardgame-board/default/terrain/normal/normal.png",
+    "shared/ui-boardgame-board/default/terrain/start/start.png",
+    "shared/ui-boardgame-board/default/terrain/trap/trap.png"
+  ],
+  "prompt": "prompts/terrain/start.txt"
+}

@@ -1,0 +1,206 @@
+{
+  "model": "flux2-klein",
+  "seed": 1935286082,
+  "seedMode": "per-frame",
+  "size": "512x512",
+  "cost": 0,
+  "mode": "per-frame",
+  "frames": [
+    {
+      "anim": "idle",
+      "frame": 1,
+      "seed": 1935286082,
+      "prompt": "prompts/units/hero/z-image-turbo/idle-1.txt",
+      "file": "frames/idle-1.png"
+    },
+    {
+      "anim": "idle",
+      "frame": 1,
+      "seed": 1935286083,
+      "prompt": "prompts/units/hero/flux2-klein/idle-1.txt",
+      "file": "frames/idle-1.png"
+    },
+    {
+      "anim": "idle",
+      "frame": 2,
+      "seed": 1935286084,
+      "prompt": "prompts/units/hero/flux2-klein/idle-2.txt",
+      "file": "frames/idle-2.png"
+    },
+    {
+      "anim": "idle",
+      "frame": 3,
+      "seed": 1935286085,
+      "prompt": "prompts/units/hero/flux2-klein/idle-3.txt",
+      "file": "frames/idle-3.png"
+    },
+    {
+      "anim": "idle",
+      "frame": 4,
+      "seed": 1935286086,
+      "prompt": "prompts/units/hero/flux2-klein/idle-4.txt",
+      "file": "frames/idle-4.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 1,
+      "seed": 1935286083,
+      "prompt": "prompts/units/hero/flux2-klein/walk-1.txt",
+      "file": "frames/walk-1.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 2,
+      "seed": 1935286084,
+      "prompt": "prompts/units/hero/flux2-klein/walk-2.txt",
+      "file": "frames/walk-2.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 3,
+      "seed": 1935286085,
+      "prompt": "prompts/units/hero/flux2-klein/walk-3.txt",
+      "file": "frames/walk-3.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 4,
+      "seed": 1935286086,
+      "prompt": "prompts/units/hero/flux2-klein/walk-4.txt",
+      "file": "frames/walk-4.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 5,
+      "seed": 1935286087,
+      "prompt": "prompts/units/hero/flux2-klein/walk-5.txt",
+      "file": "frames/walk-5.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 6,
+      "seed": 1935286088,
+      "prompt": "prompts/units/hero/flux2-klein/walk-6.txt",
+      "file": "frames/walk-6.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 7,
+      "seed": 1935286089,
+      "prompt": "prompts/units/hero/flux2-klein/walk-7.txt",
+      "file": "frames/walk-7.png"
+    },
+    {
+      "anim": "walk",
+      "frame": 8,
+      "seed": 1935286090,
+      "prompt": "prompts/units/hero/flux2-klein/walk-8.txt",
+      "file": "frames/walk-8.png"
+    },
+    {
+      "anim": "attack",
+      "frame": 1,
+      "seed": 1935286083,
+      "prompt": "prompts/units/hero/flux2-klein/attack-1.txt",
+      "file": "frames/attack-1.png"
+    },
+    {
+      "anim": "attack",
+      "frame": 2,
+      "seed": 1935286084,
+      "prompt": "prompts/units/hero/flux2-klein/attack-2.txt",
+      "file": "frames/attack-2.png"
+    },
+    {
+      "anim": "attack",
+      "frame": 3,
+      "seed": 1935286085,
+      "prompt": "prompts/units/hero/flux2-klein/attack-3.txt",
+      "file": "frames/attack-3.png"
+    },
+    {
+      "anim": "attack",
+      "frame": 4,
+      "seed": 1935286086,
+      "prompt": "prompts/units/hero/flux2-klein/attack-4.txt",
+      "file": "frames/attack-4.png"
+    },
+    {
+      "anim": "attack",
+      "frame": 5,
+      "seed": 1935286087,
+      "prompt": "prompts/units/hero/flux2-klein/attack-5.txt",
+      "file": "frames/attack-5.png"
+    },
+    {
+      "anim": "attack",
+      "frame": 6,
+      "seed": 1935286088,
+      "prompt": "prompts/units/hero/flux2-klein/attack-6.txt",
+      "file": "frames/attack-6.png"
+    },
+    {
+      "anim": "hit",
+      "frame": 1,
+      "seed": 1935286083,
+      "prompt": "prompts/units/hero/flux2-klein/hit-1.txt",
+      "file": "frames/hit-1.png"
+    },
+    {
+      "anim": "hit",
+      "frame": 2,
+      "seed": 1935286084,
+      "prompt": "prompts/units/hero/flux2-klein/hit-2.txt",
+      "file": "frames/hit-2.png"
+    },
+    {
+      "anim": "hit",
+      "frame": 3,
+      "seed": 1935286085,
+      "prompt": "prompts/units/hero/flux2-klein/hit-3.txt",
+      "file": "frames/hit-3.png"
+    },
+    {
+      "anim": "death",
+      "frame": 1,
+      "seed": 1935286083,
+      "prompt": "prompts/units/hero/flux2-klein/death-1.txt",
+      "file": "frames/death-1.png"
+    },
+    {
+      "anim": "death",
+      "frame": 2,
+      "seed": 1935286084,
+      "prompt": "prompts/units/hero/flux2-klein/death-2.txt",
+      "file": "frames/death-2.png"
+    },
+    {
+      "anim": "death",
+      "frame": 3,
+      "seed": 1935286085,
+      "prompt": "prompts/units/hero/flux2-klein/death-3.txt",
+      "file": "frames/death-3.png"
+    },
+    {
+      "anim": "death",
+      "frame": 4,
+      "seed": 1935286086,
+      "prompt": "prompts/units/hero/flux2-klein/death-4.txt",
+      "file": "frames/death-4.png"
+    },
+    {
+      "anim": "death",
+      "frame": 5,
+      "seed": 1935286087,
+      "prompt": "prompts/units/hero/flux2-klein/death-5.txt",
+      "file": "frames/death-5.png"
+    },
+    {
+      "anim": "death",
+      "frame": 6,
+      "seed": 1935286088,
+      "prompt": "prompts/units/hero/flux2-klein/death-6.txt",
+      "file": "frames/death-6.png"
+    }
+  ]
+}

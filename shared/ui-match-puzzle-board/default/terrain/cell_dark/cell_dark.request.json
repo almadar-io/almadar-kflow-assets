@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 463247960,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-match-puzzle-board/default/terrain/cell_dark/cell_dark.png",
+    "shared/ui-match-puzzle-board/default/terrain/cell_light/cell_light.png"
+  ],
+  "prompt": "prompts/terrain/cell_dark.txt"
+}

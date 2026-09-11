@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 210412446,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-roguelike-board/default/units/boss/boss.png",
+    "shared/ui-roguelike-board/default/units/brute/brute.png",
+    "shared/ui-roguelike-board/default/units/enemy/enemy.png",
+    "shared/ui-roguelike-board/default/units/player/player.png"
+  ],
+  "prompt": "prompts/units/player.txt"
+}

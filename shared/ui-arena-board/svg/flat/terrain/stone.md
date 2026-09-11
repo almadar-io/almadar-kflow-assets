@@ -1,0 +1,16 @@
+# stone (terrain)
+
+board: ui-arena-board
+projection: flat
+role: tile
+style: kenney-pixel-vector
+states: { static: 1 }
+
+Synthesize a resolution-independent SVG vector graphic for "stone" (stone) in category "terrain".
+Projection: 2D Flat Orthographic Sprite (0 0 64 64).
+Shape & Proportions: Standard rectangular/contour 2D game sprite silhouette with crisp outer border stroke.
+Surface & Details: Smooth surface gradient with clean interior vector highlights and minimal shading.
+Color Scheme: Primary #94A3B8, Secondary #64748B, Shadow #334155, Highlight #CBD5E1, Outline #1E293B.
+
+Palette: primary #94A3B8, secondary #64748B, outline #1E293B.
+Geometry: Standard rectangular/contour 2D game sprite silhouette with crisp outer border stroke.

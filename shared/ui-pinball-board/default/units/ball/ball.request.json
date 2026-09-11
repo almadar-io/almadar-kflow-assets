@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 657637169,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-pinball-board/default/units/ball/ball.png"
+  ],
+  "prompt": "prompts/units/ball.txt"
+}

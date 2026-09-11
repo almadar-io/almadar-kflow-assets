@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1655931739,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-tower-defense-board/default/ui/icon-gold/icon-gold.png",
+    "shared/ui-tower-defense-board/default/ui/icon-lives/icon-lives.png"
+  ],
+  "prompt": "prompts/ui/icon-start-wave.txt"
+}

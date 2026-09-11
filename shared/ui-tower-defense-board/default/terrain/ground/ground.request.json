@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 369814116,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-tower-defense-board/default/terrain/grass/grass.png",
+    "shared/ui-tower-defense-board/default/terrain/ground/ground.png",
+    "shared/ui-tower-defense-board/default/terrain/path/path.png",
+    "shared/ui-tower-defense-board/default/terrain/stone/stone.png",
+    "shared/ui-tower-defense-board/default/terrain/wall/wall.png"
+  ],
+  "prompt": "prompts/terrain/ground.txt"
+}

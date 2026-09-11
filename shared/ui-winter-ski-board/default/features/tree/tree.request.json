@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1549489552,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-winter-ski-board/default/features/gate_blue/gate_blue.png",
+    "shared/ui-winter-ski-board/default/features/gate_red/gate_red.png",
+    "shared/ui-winter-ski-board/default/features/rock/rock.png"
+  ],
+  "prompt": "prompts/features/tree.txt"
+}

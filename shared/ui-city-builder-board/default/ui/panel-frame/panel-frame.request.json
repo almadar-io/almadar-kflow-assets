@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 612250363,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-city-builder-board/default/ui/icon-gold/icon-gold.png",
+    "shared/ui-city-builder-board/default/ui/icon-population/icon-population.png",
+    "shared/ui-city-builder-board/default/ui/icon-wood/icon-wood.png",
+    "shared/ui-city-builder-board/default/ui/panel-frame/panel-frame.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

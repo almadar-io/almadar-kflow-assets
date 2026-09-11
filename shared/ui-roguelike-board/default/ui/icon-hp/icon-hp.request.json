@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 577910736,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-roguelike-board/default/ui/icon-attack/icon-attack.png",
+    "shared/ui-roguelike-board/default/ui/icon-floor/icon-floor.png",
+    "shared/ui-roguelike-board/default/ui/icon-foes/icon-foes.png"
+  ],
+  "prompt": "prompts/ui/icon-hp.txt"
+}

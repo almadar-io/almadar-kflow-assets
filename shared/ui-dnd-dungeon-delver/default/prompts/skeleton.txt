@@ -1,0 +1,31 @@
+Generate a top-down dungeon-crawler unit sprite sheet for the creature described below.
+
+CREATURE VISUAL: A skeleton token — a brittle animated humanoid skeleton seen from above at a three-quarter top-down angle, like a classic tabletop game token: pale bone-white bones (#e5e7eb), deep hollow eye sockets and nasal cavity in near-black slate (#0f172a), a chipped rusty short sword held low, slightly loose jaw and rattling ribs, clean flat-vector dungeon-fantasy style with bold readable silhouettes and one consistent dark outline — identical colors, proportions, and pose language across every frame.
+
+LAYOUT: EXACTLY 8 columns × 5 rows of uniform square cells on a plain dark charcoal (#20202E) background — 5 distinct horizontal bands, each spanning the full image width. Do NOT merge, omit, or combine rows: the HIT row and the DEATH row are separate rows.
+
+ROW CONTENTS (top-down three-quarter view, creature facing down-right / southeast):
+
+Row 0 — IDLE (4 frames, columns 0-3, remaining cells empty):
+  An eerie rattling stillness loop. Frame 0: neutral, sword low. Frame 1: jaw drops open slightly. Frame 2: return to neutral. Frame 3: head tilts, sockets flare darker.
+
+Row 1 — WALK (8 frames, columns 0-7):
+  A stiff marching top-down walk toward down-right. Alternate strides: even frames left leg forward, odd frames right leg forward; arms swing rigidly, sword hand trailing. Read clearly from above.
+
+Row 2 — ATTACK (6 frames, columns 0-5, remaining cells empty):
+  A rusted sword slash. Frame 0: sword drawn back high. Frames 1-3: slash sweeps down toward down-right with a slight motion smear. Frame 4: full extension, jaw open mid-screech. Frame 5: recover to stance.
+
+Row 3 — HIT (3 frames, columns 0-2, remaining cells empty):
+  Frame 0: impact — ribs and skull knocked askew. Frame 1: stagger, one arm dangling loose. Frame 2: bones snapping back into place.
+
+Row 4 — DEATH (6 frames, columns 0-5, remaining cells empty):
+  Frame 0: mortal shudder. Frames 1-3: collapsing into a rattling pile, limbs folding. Frame 4: a heap of bones on the ground, sword atop. Frame 5: still bone pile.
+
+CRITICAL REQUIREMENTS:
+- Top-down three-quarter view (tabletop token), creature facing down-right (southeast). NOT side-view, NOT platformer perspective.
+- Every frame: SAME creature, IDENTICAL colors, proportions, outline weight, and equipment.
+- Centered in each cell with ~20px padding.
+- Plain dark charcoal (#20202E) background, no ground, no shadows, no environment.
+- Empty cells = plain charcoal, no content.
+- Do NOT include any text, labels, row names, frame numbers, annotations, or watermarks anywhere on the image.
+- Avoid: photorealistic, 3D render, painterly, gradient shading, realistic lighting, blurry, noisy, photographic, complex background, cast shadows, text, labels, watermarks, multiple creatures, inconsistent colors, side view, platformer view, isometric tiles

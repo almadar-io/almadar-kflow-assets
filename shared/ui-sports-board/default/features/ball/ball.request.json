@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1026897973,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-sports-board/default/features/ball/ball.png",
+    "shared/ui-sports-board/default/features/goal/goal.png"
+  ],
+  "prompt": "prompts/features/ball.txt"
+}

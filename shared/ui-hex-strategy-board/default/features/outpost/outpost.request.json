@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1029634128,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-hex-strategy-board/default/features/outpost/outpost.png",
+    "shared/ui-hex-strategy-board/default/features/resource/resource.png"
+  ],
+  "prompt": "prompts/features/outpost.txt"
+}

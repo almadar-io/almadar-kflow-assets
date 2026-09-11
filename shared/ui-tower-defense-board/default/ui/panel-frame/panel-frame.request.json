@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 484021701,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-tower-defense-board/default/ui/icon-gold/icon-gold.png",
+    "shared/ui-tower-defense-board/default/ui/icon-lives/icon-lives.png",
+    "shared/ui-tower-defense-board/default/ui/icon-start-wave/icon-start-wave.png",
+    "shared/ui-tower-defense-board/default/ui/icon-towers/icon-towers.png",
+    "shared/ui-tower-defense-board/default/ui/icon-wave/icon-wave.png"
+  ],
+  "prompt": "prompts/ui/panel-frame.txt"
+}

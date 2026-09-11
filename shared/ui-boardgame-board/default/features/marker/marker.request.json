@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1310089652,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-boardgame-board/default/features/marker/marker.png"
+  ],
+  "prompt": "prompts/features/marker.txt"
+}

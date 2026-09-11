@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g>
+<g id="unit-watchtower">
+  <ellipse cx="32" cy="56" rx="16" ry="5" fill="#0F172A" opacity="0.25" />
+  <rect x="18" y="32" width="5" height="24" fill="#92400E" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="41" y="32" width="5" height="24" fill="#92400E" stroke="#1E293B" stroke-width="1.5" />
+  <line x1="20" y1="38" x2="44" y2="48" stroke="#78350F" stroke-width="2" />
+  <line x1="44" y1="38" x2="20" y2="48" stroke="#78350F" stroke-width="2" />
+  <rect x="12" y="20" width="40" height="13" fill="#B45309" stroke="#1E293B" stroke-width="2" />
+  <rect x="12" y="14" width="7" height="7" fill="#B45309" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="28" y="14" width="7" height="7" fill="#B45309" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="45" y="14" width="7" height="7" fill="#B45309" stroke="#1E293B" stroke-width="1.5" />
+  <polygon points="32,4 54,15 10,15" fill="#78350F" stroke="#1E293B" stroke-width="2" stroke-linejoin="round" />
+  <rect x="31" y="2" width="2" height="10" fill="#57534E" stroke="#1E293B" stroke-width="1" />
+  <polygon points="33,2 45,5.5 33,9" fill="#DC2626" stroke="#1E293B" stroke-width="1.5" stroke-linejoin="round" />
+</g>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 663389037,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-racing-board/default/ui/icon-lap/icon-lap.png",
+    "shared/ui-racing-board/default/ui/icon-position/icon-position.png"
+  ],
+  "prompt": "prompts/ui/icon-restart.txt"
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<g id="effect-bite">
+  <polygon points="32,4 38,22 56,18 42,30 58,40 39,40 44,58 32,44 20,58 25,40 6,40 22,30 8,18 26,22" fill="#FB923C" stroke="#9A3412" stroke-width="1.5" stroke-linejoin="round" />
+  <circle cx="32" cy="32" r="10" fill="#FDE047" stroke="#EA580C" stroke-width="2" />
+  <circle cx="32" cy="32" r="4" fill="#FFFFFF" />
+</g>
+</svg>

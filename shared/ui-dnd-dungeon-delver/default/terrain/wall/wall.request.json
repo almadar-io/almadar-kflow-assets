@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 218397902,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-dnd-dungeon-delver/default/terrain/floor/floor.jpg",
+    "shared/ui-dnd-dungeon-delver/default/terrain/wall/wall.jpg"
+  ],
+  "prompt": "prompts/terrain/wall.txt"
+}

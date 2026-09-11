@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 2026248806,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-winter-ski-board/default/ui/icon-distance/icon-distance.png",
+    "shared/ui-winter-ski-board/default/ui/icon-lives/icon-lives.png",
+    "shared/ui-winter-ski-board/default/ui/icon-restart/icon-restart.png",
+    "shared/ui-winter-ski-board/default/ui/icon-score/icon-score.png"
+  ],
+  "prompt": "prompts/ui/key-left.txt"
+}

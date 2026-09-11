@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 288619100,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-physics-sandbox-board/default/features/dirt/dirt.png",
+    "shared/ui-physics-sandbox-board/default/features/grass/grass.png",
+    "shared/ui-physics-sandbox-board/default/features/rock/rock.png"
+  ],
+  "prompt": "prompts/features/sand.txt"
+}

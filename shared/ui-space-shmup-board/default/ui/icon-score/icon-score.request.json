@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1292301918,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-space-shmup-board/default/ui/icon-fire/icon-fire.png",
+    "shared/ui-space-shmup-board/default/ui/icon-lives/icon-lives.png",
+    "shared/ui-space-shmup-board/default/ui/icon-pause/icon-pause.png"
+  ],
+  "prompt": "prompts/ui/icon-score.txt"
+}

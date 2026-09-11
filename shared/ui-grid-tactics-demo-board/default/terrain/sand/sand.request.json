@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1047867878,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-grid-tactics-demo-board/default/terrain/ground/ground.png",
+    "shared/ui-grid-tactics-demo-board/default/terrain/sand/sand.png"
+  ],
+  "prompt": "prompts/terrain/sand.txt"
+}

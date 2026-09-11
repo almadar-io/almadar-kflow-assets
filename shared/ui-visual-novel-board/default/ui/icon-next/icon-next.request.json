@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 901950029,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-visual-novel-board/default/ui/icon-choice/icon-choice.png"
+  ],
+  "prompt": "prompts/ui/icon-next.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 725582373,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-space-station-board/default/terrain/console/console.png",
+    "shared/ui-space-station-board/default/terrain/floor/floor.png",
+    "shared/ui-space-station-board/default/terrain/wall/wall.png"
+  ],
+  "prompt": "prompts/terrain/floor.txt"
+}

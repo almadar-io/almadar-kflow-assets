@@ -1,0 +1,20 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1050455688,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-dnd-dungeon-delver/default/features/chest/chest.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/door/door.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/fx-death-puff/fx-death-puff.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/fx-heal-glow/fx-heal-glow.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/fx-slash-impact/fx-slash-impact.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/fx-trap-snap/fx-trap-snap.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/stairsDown/stairsDown.jpg",
+    "shared/ui-dnd-dungeon-delver/default/features/trap/trap.jpg"
+  ],
+  "prompt": "prompts/features/chest.txt"
+}

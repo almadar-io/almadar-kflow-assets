@@ -1,0 +1,17 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1309388220,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background",
+    "input_references"
+  ],
+  "references": [
+    "shared/ui-platformer-board/default/tileSprites/goal/goal.png",
+    "shared/ui-platformer-board/default/tileSprites/ground/ground.png",
+    "shared/ui-platformer-board/default/tileSprites/hazard/hazard.png",
+    "shared/ui-platformer-board/default/tileSprites/platform/platform.png"
+  ],
+  "prompt": "prompts/tileSprites/hazard.txt"
+}

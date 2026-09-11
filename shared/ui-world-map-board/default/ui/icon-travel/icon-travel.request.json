@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1716632083,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-world-map-board/default/ui/icon-coin/icon-coin.png",
+    "shared/ui-world-map-board/default/ui/icon-region/icon-region.png"
+  ],
+  "prompt": "prompts/ui/icon-travel.txt"
+}

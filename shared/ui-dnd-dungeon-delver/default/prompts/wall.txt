@@ -1,0 +1,10 @@
+Generate a single seamless top-down dungeon wall tile for a grid-based dungeon-crawler game, filling the ENTIRE canvas edge to edge (full-bleed square, no border, no background gap).
+
+TILE VISUAL: A near-black dungeon wall mass seen from directly above — deep obsidian-blue cut stone (#020617 base with #0f172a and #1e293b block edges), thick dark masonry blocks with slightly lighter beveled seams, a couple of faint cold glints on chipped corners. It must read instantly as IMPASSABLE TERRAIN: much darker and heavier than a slate-blue floor tile (#334155). Clean flat-vector dungeon-fantasy style with bold readable shapes and one consistent dark outline language.
+
+CRITICAL REQUIREMENTS:
+- Top-down orthographic view (directly overhead). NOT isometric, NOT side-view, NOT platformer perspective.
+- The texture must be SEAMLESS: the pattern must tile cleanly when the square is repeated in a grid — no vignetting, no directional lighting, no cast shadows, no edge fade. Every edge must continue naturally into the next copy.
+- Full-bleed: the tile design covers 100% of the canvas, corner to corner.
+- Flat lighting: no photorealistic render, no 3D, no painterly shading, no gradients, no blur, no noise, no photographic look.
+- NO text, labels, watermark, frame, border, or background outside the tile.

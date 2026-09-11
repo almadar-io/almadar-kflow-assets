@@ -1,0 +1,11 @@
+{
+  "model": "z-image-turbo",
+  "seed": 134227133,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [],
+  "prompt": "prompts/features/dirt.txt"
+}

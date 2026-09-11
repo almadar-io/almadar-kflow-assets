@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1760867168,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-racing-board/default/features/checkpoint/checkpoint.png",
+    "shared/ui-racing-board/default/features/finish/finish.png"
+  ],
+  "prompt": "prompts/features/checkpoint.txt"
+}

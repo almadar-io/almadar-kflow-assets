@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 672988535,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-topdown-dungeon-board/default/features/barrel/barrel.png"
+  ],
+  "prompt": "prompts/features/chest.txt"
+}

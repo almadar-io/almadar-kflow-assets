@@ -1,0 +1,13 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1601750032,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-arena-board/default/features/crate/crate.png"
+  ],
+  "prompt": "prompts/features/crate.txt"
+}

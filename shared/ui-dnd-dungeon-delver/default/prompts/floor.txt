@@ -1,0 +1,10 @@
+Generate a single seamless top-down dungeon floor tile for a grid-based dungeon-crawler game, filling the ENTIRE canvas edge to edge (full-bleed square, no border, no background gap).
+
+TILE VISUAL: A worn slate-blue dungeon stone floor seen from directly above — muted blue-grey flagstones (#334155 base with #475569 and #1e293b tile-to-tile variation), thin dark mortar seams (#020617), a few subtle cracks and chips, very sparse faint scuff marks. Clean flat-vector dungeon-fantasy style with bold readable shapes and one consistent dark outline language — identical palette and line weight to a classic tabletop dungeon tile.
+
+CRITICAL REQUIREMENTS:
+- Top-down orthographic view (directly overhead). NOT isometric, NOT side-view, NOT platformer perspective.
+- The texture must be SEAMLESS: the pattern must tile cleanly when the square is repeated in a grid — no vignetting, no directional lighting, no cast shadows, no edge fade. Every edge must continue naturally into the next copy.
+- Full-bleed: the tile design covers 100% of the canvas, corner to corner.
+- Flat lighting: no photorealistic render, no 3D, no painterly shading, no gradients, no blur, no noise, no photographic look.
+- NO text, labels, watermark, frame, border, or background outside the tile.

@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1314280145,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-castle-board/default/terrain/grass/grass.png",
+    "shared/ui-castle-board/default/terrain/planks/planks.png",
+    "shared/ui-castle-board/default/terrain/stone/stone.png"
+  ],
+  "prompt": "prompts/terrain/grass.txt"
+}

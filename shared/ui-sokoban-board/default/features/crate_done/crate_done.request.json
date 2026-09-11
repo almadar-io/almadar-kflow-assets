@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1944974341,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-sokoban-board/default/features/crate/crate.png",
+    "shared/ui-sokoban-board/default/features/crate_done/crate_done.png"
+  ],
+  "prompt": "prompts/features/crate_done.txt"
+}

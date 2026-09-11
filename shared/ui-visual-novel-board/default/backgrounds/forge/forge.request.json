@@ -1,0 +1,14 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1375613643,
+  "size": "1024x576",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-visual-novel-board/default/backgrounds/background/background.png",
+    "shared/ui-visual-novel-board/default/backgrounds/corridor/corridor.png"
+  ],
+  "prompt": "prompts/backgrounds/forge.txt"
+}

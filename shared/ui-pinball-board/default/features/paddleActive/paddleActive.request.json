@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 1281814276,
+  "size": "1024x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-pinball-board/default/features/bumper/bumper.png",
+    "shared/ui-pinball-board/default/features/paddle/paddle.png",
+    "shared/ui-pinball-board/default/features/paddleActive/paddleActive.png"
+  ],
+  "prompt": "prompts/features/paddleActive.txt"
+}

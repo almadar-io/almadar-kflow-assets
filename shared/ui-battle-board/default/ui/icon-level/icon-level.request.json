@@ -1,0 +1,15 @@
+{
+  "model": "z-image-turbo",
+  "seed": 928756181,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-battle-board/default/ui/icon-level/icon-level.png",
+    "shared/ui-battle-board/default/ui/icon-xp/icon-xp.png",
+    "shared/ui-battle-board/default/ui/panel-frame/panel-frame.png"
+  ],
+  "prompt": "prompts/ui/icon-level.txt"
+}

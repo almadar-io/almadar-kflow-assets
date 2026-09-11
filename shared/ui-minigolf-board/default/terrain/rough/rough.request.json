@@ -1,0 +1,16 @@
+{
+  "model": "z-image-turbo",
+  "seed": 927284963,
+  "size": "256x256",
+  "cost": 0,
+  "dropped": [
+    "background"
+  ],
+  "references": [
+    "shared/ui-minigolf-board/default/terrain/fairway/fairway.png",
+    "shared/ui-minigolf-board/default/terrain/hole/hole.png",
+    "shared/ui-minigolf-board/default/terrain/rough/rough.png",
+    "shared/ui-minigolf-board/default/terrain/tee/tee.png"
+  ],
+  "prompt": "prompts/terrain/rough.txt"
+}

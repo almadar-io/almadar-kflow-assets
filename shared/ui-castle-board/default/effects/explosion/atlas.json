@@ -1,0 +1,21 @@
+{
+  "type": "fx-sheet",
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "columns": 8,
+  "rows": 1,
+  "directions": [
+    "se"
+  ],
+  "sheets": {
+    "se": "ui-castle-board/default/effects/explosion/explosion.png"
+  },
+  "animations": {
+    "burst": {
+      "row": 0,
+      "frames": 8,
+      "frameRate": 12,
+      "loop": false
+    }
+  }
+}

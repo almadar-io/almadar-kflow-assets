@@ -1,0 +1,66 @@
+name: Deploy KFlow Assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.webp'
+      - '**/*.gif'
+      - '**/*.svg'
+      - '**/*.glb'
+      - '**/*.gltf'
+      - '**/*.mp3'
+      - '**/*.ogg'
+      - '**/*.wav'
+      - '**/*.mp4'
+      - '**/*.pdf'
+      - '**/*.ttf'
+      - '**/*.otf'
+      - '**/*.woff'
+      - '**/*.woff2'
+      - 'shared/**/*.json'
+      - '**/manifest.json'
+      - 'firebase.json'
+
+jobs:
+  deploy:
+    name: Deploy to Firebase Hosting
+    runs-on: ${{ vars.ALMADAR_RUNNER || 'ubuntu-latest' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      # Node 22's undici premature-closes firebase-tools' hosting API calls → deploy fails.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify LFS files are real
+        run: |
+          SAMPLE=$(find . -name "*.png" -type f | head -1)
+          if [ -n "$SAMPLE" ]; then
+            if head -1 "$SAMPLE" | grep -q "version https://git-lfs"; then
+              echo "::error::LFS files not pulled — $SAMPLE is a pointer"
+              exit 1
+            fi
+            echo "LFS verified: $SAMPLE is a real binary"
+          fi
+
+      - name: Ensure Firebase site exists
+        run: npx firebase-tools hosting:sites:create almadar-kflow-assets --project kflow-b3a39 || true
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: kflow-b3a39
+          channelId: live
+          target: kflow-assets
