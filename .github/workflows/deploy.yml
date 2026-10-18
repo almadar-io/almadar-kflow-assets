@@ -32,8 +32,20 @@ jobs:
     runs-on: ${{ vars.ALMADAR_RUNNER || 'ubuntu-latest' }}
     steps:
       - uses: actions/checkout@v4
+
+      # LFS objects come from the Actions cache when unchanged; only new objects are pulled.
+      - name: List LFS objects
+        run: git lfs ls-files -l | cut -d' ' -f1 | sort > .git/lfs-assets-id
+
+      - name: Restore LFS cache
+        uses: actions/cache@v4
         with:
-          lfs: true
+          path: .git/lfs
+          key: lfs-${{ hashFiles('.git/lfs-assets-id') }}
+          restore-keys: lfs-
+
+      - name: Pull LFS objects
+        run: git lfs pull
 
       # Node 22's undici premature-closes firebase-tools' hosting API calls → deploy fails.
       - uses: actions/setup-node@v4
