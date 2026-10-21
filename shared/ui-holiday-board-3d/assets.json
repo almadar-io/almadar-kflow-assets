@@ -1,0 +1,31 @@
+{
+  "pack": "kflow/ui-holiday-board-3d",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/snow": {
+      "url": "/shared/ui-holiday-board-3d/default/terrain/snow/snow.glb",
+      "role": "tile",
+      "category": "snow",
+      "animations": [
+        "static"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "snow"
+    },
+    "terrains/wall": {
+      "url": "/shared/ui-holiday-board-3d/default/terrain/wall/wall.glb",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "wall"
+    }
+  }
+}

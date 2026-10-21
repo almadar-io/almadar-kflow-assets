@@ -1,0 +1,221 @@
+{
+  "pack": "kflow/ui-hex-strategy-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/grass": {
+      "url": "/shared/ui-hex-strategy-board/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "terrains/stone": {
+      "url": "/shared/ui-hex-strategy-board/default/terrain/stone/stone.png",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "terrains/dirt": {
+      "url": "/shared/ui-hex-strategy-board/default/terrain/dirt/dirt.png",
+      "role": "tile",
+      "category": "dirt",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "dirt"
+    },
+    "terrains/sand": {
+      "url": "/shared/ui-hex-strategy-board/default/terrain/sand/sand.png",
+      "role": "tile",
+      "category": "sand",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "sand"
+    },
+    "units/worker": {
+      "prompt": "a sturdy laborer carrying a pick over one shoulder and a small satchel, plain aged tan (#d9c08c) clothes with a muted army green (#6f7d4f) cap, sepia ink (#6b4f2e) detailing",
+      "url": "/shared/ui-hex-strategy-board/default/units/worker/worker.png",
+      "role": "npc",
+      "category": "worker",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "worker"
+    },
+    "units/archer": {
+      "prompt": "a lean soldier drawing a longbow, muted army green (#6f7d4f) tunic with a muted army red (#9c3f3f) sash, sepia ink (#6b4f2e) detailing on aged tan fills",
+      "url": "/shared/ui-hex-strategy-board/default/units/archer/archer.png",
+      "role": "npc",
+      "category": "archer",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "archer"
+    },
+    "units/guardian": {
+      "prompt": "a broad soldier behind a tall shield with a short spear, muted army red (#9c3f3f) surcoat over muted army green (#6f7d4f), sepia ink (#6b4f2e) detailing on aged tan fills",
+      "url": "/shared/ui-hex-strategy-board/default/units/guardian/guardian.png",
+      "role": "npc",
+      "category": "guardian",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "guardian"
+    },
+    "features/resource": {
+      "url": "/shared/ui-hex-strategy-board/default/features/resource/resource.png",
+      "role": "decoration",
+      "category": "resource",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "resource"
+    },
+    "features/outpost": {
+      "url": "/shared/ui-hex-strategy-board/default/features/outpost/outpost.png",
+      "role": "decoration",
+      "category": "outpost",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "outpost"
+    },
+    "effects/hit": {
+      "prompt": "a small jagged impact burst in muted army red (#9c3f3f) and sepia ink (#6b4f2e) with a few radiating motion lines",
+      "url": "/shared/ui-hex-strategy-board/default/effects/hit/hit.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "hit",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hit"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-hex-strategy-board/default/ui/panel-frame/panel-frame.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "units/worker-svg": {
+      "url": "/shared/ui-hex-strategy-board/svg/hex/units/worker.svg",
+      "role": "npc",
+      "category": "worker",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "worker"
+    },
+    "units/archer-svg": {
+      "url": "/shared/ui-hex-strategy-board/svg/hex/units/archer.svg",
+      "role": "npc",
+      "category": "archer",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "archer"
+    },
+    "units/guardian-svg": {
+      "url": "/shared/ui-hex-strategy-board/svg/hex/units/guardian.svg",
+      "role": "npc",
+      "category": "guardian",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "guardian"
+    },
+    "features/resource-svg": {
+      "url": "/shared/ui-hex-strategy-board/svg/hex/features/resource.svg",
+      "role": "decoration",
+      "category": "resource",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "resource"
+    },
+    "features/outpost-svg": {
+      "url": "/shared/ui-hex-strategy-board/svg/hex/features/outpost.svg",
+      "role": "decoration",
+      "category": "outpost",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "outpost"
+    },
+    "ui/panel-frame-svg": {
+      "url": "/shared/ui-hex-strategy-board/svg/hex/ui/panel-frame.svg",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "pack": "kflow/ui-city-builder-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/grass": {
+      "url": "/shared/ui-city-builder-board/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "terrains/stone": {
+      "url": "/shared/ui-city-builder-board/default/terrain/stone/stone.png",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "terrains/dirt": {
+      "url": "/shared/ui-city-builder-board/default/terrain/dirt/dirt.png",
+      "role": "tile",
+      "category": "dirt",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "dirt"
+    },
+    "terrains/water": {
+      "url": "/shared/ui-city-builder-board/default/terrain/water/water.png",
+      "role": "tile",
+      "category": "water",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "water"
+    },
+    "terrains/road": {
+      "url": "/shared/ui-city-builder-board/default/terrain/road/road.png",
+      "role": "tile",
+      "category": "road",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "road"
+    },
+    "units/citizen": {
+      "prompt": "a small rounded friendly towns-person in a sky-blue (#89cff0) shirt and peach (#ffd3b6) cap, simple smiling face, stubby rounded limbs",
+      "url": "/shared/ui-city-builder-board/default/units/citizen/citizen.png",
+      "role": "npc",
+      "category": "citizen",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "citizen"
+    },
+    "features/house": {
+      "url": "/shared/ui-city-builder-board/default/features/house/house.png",
+      "role": "decoration",
+      "category": "house",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "house"
+    },
+    "features/farm": {
+      "url": "/shared/ui-city-builder-board/default/features/farm/farm.png",
+      "role": "decoration",
+      "category": "farm",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "farm"
+    },
+    "features/mine": {
+      "url": "/shared/ui-city-builder-board/default/features/mine/mine.png",
+      "role": "decoration",
+      "category": "mine",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "mine"
+    },
+    "features/library": {
+      "url": "/shared/ui-city-builder-board/default/features/library/library.png",
+      "role": "decoration",
+      "category": "library",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "library"
+    },
+    "features/barracks": {
+      "url": "/shared/ui-city-builder-board/default/features/barracks/barracks.png",
+      "role": "decoration",
+      "category": "barracks",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "barracks"
+    },
+    "features/tower": {
+      "url": "/shared/ui-city-builder-board/default/features/tower/tower.png",
+      "role": "decoration",
+      "category": "tower",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "tower"
+    },
+    "features/treasury": {
+      "url": "/shared/ui-city-builder-board/default/features/treasury/treasury.png",
+      "role": "decoration",
+      "category": "treasury",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "treasury"
+    },
+    "effects/build": {
+      "prompt": "a soft burst of rounded construction dust puffs in cream and peach (#ffd3b6) with tiny floating wooden plank and nail shapes and a small mint (#a8e6cf) sparkle",
+      "url": "/shared/ui-city-builder-board/default/effects/build/build.png",
+      "role": "effect",
+      "fxKind": "puff",
+      "category": "build",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "build"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-city-builder-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "panel-border-010.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-population": {
+      "url": "/shared/ui-city-builder-board/default/ui/icon-population/icon-population.png",
+      "sprite": "grey_arrowUpWhite.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-population"
+    },
+    "ui/icon-gold": {
+      "url": "/shared/ui-city-builder-board/default/ui/icon-gold/icon-gold.png",
+      "sprite": "grey_star.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-gold"
+    },
+    "ui/icon-wood": {
+      "url": "/shared/ui-city-builder-board/default/ui/icon-wood/icon-wood.png",
+      "sprite": "grey_box.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-wood"
+    },
+    "tile-art/water": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/terrain/water.svg",
+      "role": "tile",
+      "category": "water",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "water"
+    },
+    "tile-art/grass": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/terrain/grass.svg",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "tile-art/road": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/terrain/road.svg",
+      "role": "tile",
+      "category": "road",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "road"
+    },
+    "tile-art/stone": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/terrain/stone.svg",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "tile-art/dirt": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/terrain/dirt.svg",
+      "role": "tile",
+      "category": "dirt",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "dirt"
+    },
+    "feature-art/house": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/house.svg",
+      "role": "decoration",
+      "category": "house",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "house"
+    },
+    "feature-art/farm": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/farm.svg",
+      "role": "decoration",
+      "category": "farm",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "farm"
+    },
+    "feature-art/library": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/library.svg",
+      "role": "decoration",
+      "category": "library",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "library"
+    },
+    "feature-art/treasury": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/treasury.svg",
+      "role": "decoration",
+      "category": "treasury",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "treasury"
+    },
+    "feature-art/barracks": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/barracks.svg",
+      "role": "decoration",
+      "category": "barracks",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "barracks"
+    },
+    "feature-art/tower": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/tower.svg",
+      "role": "decoration",
+      "category": "tower",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "tower"
+    },
+    "feature-art/mine": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/features/mine.svg",
+      "role": "decoration",
+      "category": "mine",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "mine"
+    },
+    "unit-art/citizen": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/units/citizen.svg",
+      "role": "npc",
+      "category": "citizen",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "citizen"
+    },
+    "unit-art/citizen-walk-0": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/units/citizen.walk-0.svg",
+      "role": "npc",
+      "category": "citizen",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "citizen"
+    },
+    "unit-art/citizen-walk-1": {
+      "url": "/shared/ui-city-builder-board/svg/isometric/units/citizen.walk-1.svg",
+      "role": "npc",
+      "category": "citizen",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "citizen"
+    }
+  }
+}

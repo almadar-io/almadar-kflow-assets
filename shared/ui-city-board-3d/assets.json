@@ -1,0 +1,43 @@
+{
+  "pack": "kflow/ui-city-board-3d",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/road": {
+      "url": "/shared/ui-city-board-3d/default/terrain/road/road.glb",
+      "role": "tile",
+      "category": "road-straight",
+      "animations": [
+        "static"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "road-straight"
+    },
+    "terrains/intersection": {
+      "url": "/shared/ui-city-board-3d/default/terrain/intersection/intersection.glb",
+      "role": "tile",
+      "category": "road-crossroad",
+      "animations": [
+        "static"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "road-crossroad"
+    },
+    "terrains/building": {
+      "url": "/shared/ui-city-board-3d/default/terrain/building/building.glb",
+      "role": "decoration",
+      "category": "building-a",
+      "animations": [
+        "static"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "building-a"
+    }
+  }
+}

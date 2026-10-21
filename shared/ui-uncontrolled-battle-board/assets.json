@@ -1,0 +1,329 @@
+{
+  "pack": "kflow/ui-uncontrolled-battle-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/stone": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/terrain/stone/stone.png",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "terrains/grass": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "terrains/dirt": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/terrain/dirt/dirt.png",
+      "role": "tile",
+      "category": "dirt",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "dirt"
+    },
+    "terrains/planks": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/terrain/planks/planks.png",
+      "role": "tile",
+      "category": "planks",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "planks"
+    },
+    "terrains/stairs": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/terrain/stairs/stairs.png",
+      "role": "tile",
+      "category": "stairs",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stairs"
+    },
+    "units/mender": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/units/mender/mender.png",
+      "role": "npc",
+      "category": "mender",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a robed battlefield mender healer in warm gold (#d4a017) robes with a crimson (#8e2434) sash and a glowing staff",
+      "name": "mender"
+    },
+    "units/shadow": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/units/shadow/shadow.png",
+      "role": "npc",
+      "category": "shadow",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a hooded shadow assassin wraith of deep crimson (#6b1f2a) and near-black smoke with ember-gold eyes and twin daggers",
+      "name": "shadow"
+    },
+    "features/barrels": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/features/barrels/barrels.png",
+      "role": "decoration",
+      "category": "barrels",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "barrels"
+    },
+    "features/chest": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/features/chest/chest.png",
+      "role": "decoration",
+      "category": "chest",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "chest"
+    },
+    "effects/slash": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/effects/slash/slash.png",
+      "role": "effect",
+      "fxKind": "slash",
+      "category": "slash",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a sweeping crimson (#c0392b) sword-slash energy crescent with a hot gold edge",
+      "name": "slash"
+    },
+    "effects/explosion": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/effects/explosion/explosion.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "explosion",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a fiery orange-gold (#e8930c) explosion blast with deep crimson smoke and painterly ember strokes",
+      "name": "explosion"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/ui/panel-frame/panel-frame.png",
+      "role": "ui",
+      "category": "panel-frame",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-round": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/ui/icon-round/icon-round.png",
+      "role": "ui",
+      "category": "icon-round",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-round"
+    },
+    "ui/icon-allies": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/ui/icon-allies/icon-allies.png",
+      "role": "ui",
+      "category": "icon-allies",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-allies"
+    },
+    "ui/icon-enemies": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/ui/icon-enemies/icon-enemies.png",
+      "role": "ui",
+      "category": "icon-enemies",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-enemies"
+    },
+    "ui/icon-restart": {
+      "url": "/shared/ui-uncontrolled-battle-board/default/ui/icon-restart/icon-restart.png",
+      "role": "ui",
+      "category": "icon-restart",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-restart"
+    },
+    "unitSprites/mender": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/units/mender.svg",
+      "role": "npc",
+      "category": "mender",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "mender"
+    },
+    "unitSprites/shadow": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/units/shadow.svg",
+      "role": "npc",
+      "category": "shadow",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "shadow"
+    },
+    "tileSprites/stone": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/terrain/stone.svg",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "tileSprites/planks": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/terrain/planks.svg",
+      "role": "tile",
+      "category": "planks",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "planks"
+    },
+    "tileSprites/dirt": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/terrain/dirt.svg",
+      "role": "tile",
+      "category": "dirt",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "dirt"
+    },
+    "tileSprites/grass": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/terrain/grass.svg",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "tileSprites/stairs": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/terrain/stairs.svg",
+      "role": "tile",
+      "category": "stairs",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stairs"
+    },
+    "featureSprites/barrels": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/features/barrels.svg",
+      "role": "decoration",
+      "category": "barrels",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "barrels"
+    },
+    "featureSprites/chest": {
+      "url": "/shared/ui-uncontrolled-battle-board/svg/isometric/features/chest.svg",
+      "role": "decoration",
+      "category": "chest",
+      "animations": [
+        "static"
+      ],
+      "style": "isometric",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "chest"
+    }
+  }
+}

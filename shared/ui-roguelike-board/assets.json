@@ -1,0 +1,337 @@
+{
+  "pack": "kflow/ui-roguelike-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/floor": {
+      "url": "/shared/ui-roguelike-board/default/terrain/floor/floor.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "floor"
+    },
+    "terrains/wall": {
+      "url": "/shared/ui-roguelike-board/default/terrain/wall/wall.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "terrains/stairs": {
+      "url": "/shared/ui-roguelike-board/default/terrain/stairs/stairs.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stairs"
+    },
+    "terrains/planks": {
+      "url": "/shared/ui-roguelike-board/default/terrain/planks/planks.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "planks"
+    },
+    "units/player": {
+      "url": "/shared/ui-roguelike-board/default/units/player/player.png",
+      "role": "npc",
+      "category": "units",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "player"
+    },
+    "units/enemy": {
+      "url": "/shared/ui-roguelike-board/default/units/enemy/enemy.png",
+      "role": "npc",
+      "category": "units",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "enemy"
+    },
+    "units/brute": {
+      "url": "/shared/ui-roguelike-board/default/units/brute/brute.png",
+      "role": "npc",
+      "category": "units",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "brute"
+    },
+    "units/boss": {
+      "url": "/shared/ui-roguelike-board/default/units/boss/boss.png",
+      "role": "npc",
+      "category": "units",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "boss"
+    },
+    "features/health_potion": {
+      "url": "/shared/ui-roguelike-board/default/features/health_potion/health_potion.png",
+      "role": "decoration",
+      "category": "features",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "health_potion"
+    },
+    "features/sword": {
+      "url": "/shared/ui-roguelike-board/default/features/sword/sword.png",
+      "role": "decoration",
+      "category": "features",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "sword"
+    },
+    "features/shield": {
+      "url": "/shared/ui-roguelike-board/default/features/shield/shield.png",
+      "role": "decoration",
+      "category": "features",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "shield"
+    },
+    "effects/slash": {
+      "url": "/shared/ui-roguelike-board/default/effects/slash/slash.png",
+      "role": "effect",
+      "fxKind": "slash",
+      "category": "effects",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "slash",
+      "prompt": "a sword-slash impact arc of bright white-silver (#e7e5e4) with a warm-orange (#fb923c) edge and a few dithered dark-brown (#292018) motion streaks"
+    },
+    "effects/explosion": {
+      "url": "/shared/ui-roguelike-board/default/effects/explosion/explosion.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "effects",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "explosion",
+      "prompt": "a compact fiery explosion burst of deep orange (#ea580c) and bright amber (#fbbf24) with dithered dark-brown (#292018) smoke at the edges and tiny bright ember sparks"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-roguelike-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "panel-border-010.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-hp": {
+      "url": "/shared/ui-roguelike-board/default/ui/icon-hp/icon-hp.png",
+      "sprite": "emote_heart.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-hp"
+    },
+    "ui/icon-attack": {
+      "url": "/shared/ui-roguelike-board/default/ui/icon-attack/icon-attack.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-attack"
+    },
+    "ui/icon-floor": {
+      "url": "/shared/ui-roguelike-board/default/ui/icon-floor/icon-floor.png",
+      "sprite": "tower.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-floor"
+    },
+    "ui/icon-foes": {
+      "url": "/shared/ui-roguelike-board/default/ui/icon-foes/icon-foes.png",
+      "sprite": "skull.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-foes"
+    },
+    "ui/icon-xp": {
+      "url": "/shared/ui-roguelike-board/default/ui/icon-xp/icon-xp.png",
+      "sprite": "emote_star.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-xp"
+    },
+    "ui/icon-restart": {
+      "url": "/shared/ui-roguelike-board/default/ui/icon-restart/icon-restart.png",
+      "sprite": "compass.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-restart"
+    },
+    "ui/key-up": {
+      "url": "/shared/ui-roguelike-board/default/ui/key-up/key-up.png",
+      "sprite": "30,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-up"
+    },
+    "ui/key-down": {
+      "url": "/shared/ui-roguelike-board/default/ui/key-down/key-down.png",
+      "sprite": "32,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-down"
+    },
+    "ui/key-left": {
+      "url": "/shared/ui-roguelike-board/default/ui/key-left/key-left.png",
+      "sprite": "33,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-left"
+    },
+    "ui/key-right": {
+      "url": "/shared/ui-roguelike-board/default/ui/key-right/key-right.png",
+      "sprite": "31,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-right"
+    },
+    "tileSprites/wall": {
+      "url": "/shared/ui-roguelike-board/svg/flat/terrain/wall.svg",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "tileSprites/floor": {
+      "url": "/shared/ui-roguelike-board/svg/flat/terrain/floor.svg",
+      "role": "tile",
+      "category": "floor",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "floor"
+    },
+    "tileSprites/planks": {
+      "url": "/shared/ui-roguelike-board/svg/flat/terrain/planks.svg",
+      "role": "tile",
+      "category": "planks",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "planks"
+    },
+    "tileSprites/stairs": {
+      "url": "/shared/ui-roguelike-board/svg/flat/terrain/stairs.svg",
+      "role": "tile",
+      "category": "stairs",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stairs"
+    }
+  }
+}

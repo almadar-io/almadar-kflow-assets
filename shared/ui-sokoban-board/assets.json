@@ -1,0 +1,204 @@
+{
+  "pack": "kflow/ui-sokoban-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/floor": {
+      "url": "/shared/ui-sokoban-board/default/terrain/floor/floor.png",
+      "role": "tile",
+      "category": "floor",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "floor"
+    },
+    "terrains/wall": {
+      "url": "/shared/ui-sokoban-board/default/terrain/wall/wall.png",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "terrains/target": {
+      "url": "/shared/ui-sokoban-board/default/terrain/target/target.png",
+      "role": "tile",
+      "category": "target",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "target"
+    },
+    "units/pusher": {
+      "url": "/shared/ui-sokoban-board/default/units/pusher/pusher.png",
+      "role": "unit",
+      "category": "player",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "pusher"
+    },
+    "features/crate": {
+      "url": "/shared/ui-sokoban-board/default/features/crate/crate.png",
+      "role": "feature",
+      "category": "crate",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "crate"
+    },
+    "features/crate_done": {
+      "url": "/shared/ui-sokoban-board/default/features/crate_done/crate_done.png",
+      "role": "feature",
+      "category": "crate",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "crate-done"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-sokoban-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "panel-border-010.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-moves": {
+      "url": "/shared/ui-sokoban-board/default/ui/icon-moves/icon-moves.png",
+      "sprite": "arrow_e.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-moves"
+    },
+    "ui/icon-boxes": {
+      "url": "/shared/ui-sokoban-board/default/ui/icon-boxes/icon-boxes.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-boxes"
+    },
+    "ui/icon-reset": {
+      "url": "/shared/ui-sokoban-board/default/ui/icon-reset/icon-reset.png",
+      "sprite": "icon_arrow_rotate",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-reset"
+    },
+    "ui/key-up": {
+      "url": "/shared/ui-sokoban-board/default/ui/key-up/key-up.png",
+      "sprite": "30,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-up"
+    },
+    "ui/key-down": {
+      "url": "/shared/ui-sokoban-board/default/ui/key-down/key-down.png",
+      "sprite": "32,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-down"
+    },
+    "ui/key-left": {
+      "url": "/shared/ui-sokoban-board/default/ui/key-left/key-left.png",
+      "sprite": "33,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-left"
+    },
+    "ui/key-right": {
+      "url": "/shared/ui-sokoban-board/default/ui/key-right/key-right.png",
+      "sprite": "31,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-right"
+    },
+    "tileSprites/wall": {
+      "url": "/shared/ui-sokoban-board/svg/flat/terrain/wall.svg",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "tileSprites/target": {
+      "url": "/shared/ui-sokoban-board/svg/flat/terrain/target.svg",
+      "role": "tile",
+      "category": "target",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "target"
+    },
+    "tileSprites/floor": {
+      "url": "/shared/ui-sokoban-board/svg/flat/terrain/floor.svg",
+      "role": "tile",
+      "category": "floor",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "floor"
+    }
+  }
+}

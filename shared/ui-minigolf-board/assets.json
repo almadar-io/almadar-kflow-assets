@@ -1,0 +1,302 @@
+{
+  "pack": "kflow/ui-minigolf-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/fairway": {
+      "url": "/shared/ui-minigolf-board/default/terrain/fairway/fairway.png",
+      "role": "tile",
+      "category": "fairway",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "fairway"
+    },
+    "terrains/tee": {
+      "url": "/shared/ui-minigolf-board/default/terrain/tee/tee.png",
+      "role": "tile",
+      "category": "tee",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "tee"
+    },
+    "terrains/hole": {
+      "url": "/shared/ui-minigolf-board/default/terrain/hole/hole.png",
+      "role": "tile",
+      "category": "hole",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hole"
+    },
+    "terrains/rough": {
+      "url": "/shared/ui-minigolf-board/default/terrain/rough/rough.png",
+      "role": "tile",
+      "category": "rough",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "rough"
+    },
+    "units/ball": {
+      "url": "/shared/ui-minigolf-board/default/units/ball/ball.png",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-minigolf-board/default/ui/panel-frame/panel-frame.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-hole": {
+      "url": "/shared/ui-minigolf-board/default/ui/icon-hole/icon-hole.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-hole"
+    },
+    "ui/icon-strokes": {
+      "url": "/shared/ui-minigolf-board/default/ui/icon-strokes/icon-strokes.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-strokes"
+    },
+    "ui/icon-par": {
+      "url": "/shared/ui-minigolf-board/default/ui/icon-par/icon-par.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-par"
+    },
+    "ui/icon-total": {
+      "url": "/shared/ui-minigolf-board/default/ui/icon-total/icon-total.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-total"
+    },
+    "ui/key-up": {
+      "url": "/shared/ui-minigolf-board/default/ui/key-up/key-up.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-up"
+    },
+    "ui/key-down": {
+      "url": "/shared/ui-minigolf-board/default/ui/key-down/key-down.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-down"
+    },
+    "ui/key-left": {
+      "url": "/shared/ui-minigolf-board/default/ui/key-left/key-left.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-left"
+    },
+    "ui/key-right": {
+      "url": "/shared/ui-minigolf-board/default/ui/key-right/key-right.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-right"
+    },
+    "ui/icon-next": {
+      "url": "/shared/ui-minigolf-board/default/ui/icon-next/icon-next.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-next"
+    },
+    "ui/icon-reset": {
+      "url": "/shared/ui-minigolf-board/default/ui/icon-reset/icon-reset.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-reset"
+    },
+    "unit-art/ball": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "tile-art/rough": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/terrain/rough.svg",
+      "role": "tile",
+      "category": "rough",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "rough"
+    },
+    "tile-art/tee": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/terrain/tee.svg",
+      "role": "tile",
+      "category": "tee",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "tee"
+    },
+    "tile-art/fairway": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/terrain/fairway.svg",
+      "role": "tile",
+      "category": "fairway",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "fairway"
+    },
+    "tile-art/hole": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/terrain/hole.svg",
+      "role": "tile",
+      "category": "hole",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hole"
+    },
+    "unit-art/ball-idle-0": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-0.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "unit-art/ball-idle-1": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-1.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "unit-art/ball-idle-2": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-2.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "unit-art/ball-idle-3": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-3.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "unit-art/ball-walk-0": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.walk-0.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    },
+    "unit-art/ball-walk-1": {
+      "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.walk-1.svg",
+      "role": "npc",
+      "category": "ball",
+      "prompt": "a glossy white (#fdfdfd) golf ball with soft cream (#f5ead6) shading, tiny coral (#ff7f6e) dimple accents and a thin navy (#1e3a5f) outline",
+      "animations": [
+        "idle",
+        "walk"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ball"
+    }
+  }
+}

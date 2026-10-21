@@ -1,0 +1,204 @@
+{
+  "pack": "kflow/ui-tower-defense-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/ground": {
+      "url": "/shared/ui-tower-defense-board/default/terrain/ground/ground.png",
+      "role": "tile",
+      "category": "ground",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ground"
+    },
+    "terrains/path": {
+      "url": "/shared/ui-tower-defense-board/default/terrain/path/path.png",
+      "role": "tile",
+      "category": "path",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "path"
+    },
+    "terrains/wall": {
+      "url": "/shared/ui-tower-defense-board/default/terrain/wall/wall.png",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "terrains/stone": {
+      "url": "/shared/ui-tower-defense-board/default/terrain/stone/stone.png",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "terrains/grass": {
+      "url": "/shared/ui-tower-defense-board/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "units/creep": {
+      "url": "/shared/ui-tower-defense-board/default/units/creep/creep.png",
+      "role": "npc",
+      "category": "creep",
+      "animations": [
+        "idle",
+        "walk",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a squat mossy-green (#6a9e4f) round-bodied goblin creep with a tiny horned helmet",
+      "name": "creep"
+    },
+    "units/hero": {
+      "url": "/shared/ui-tower-defense-board/default/units/hero/hero.png",
+      "role": "player",
+      "category": "hero",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a plucky toy knight hero in a sky-blue (#5aa9e6) tunic with a candy-red (#e05d5d) plume and round shield",
+      "name": "hero"
+    },
+    "features/tower": {
+      "url": "/shared/ui-tower-defense-board/default/features/tower/tower.png",
+      "role": "decoration",
+      "category": "tower",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "tower"
+    },
+    "effects/explosion": {
+      "url": "/shared/ui-tower-defense-board/default/effects/explosion/explosion.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "explosion",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a candy-bright orange-pink (#ff8c5a) explosion blast with a creamy-yellow core and rounded puff clouds",
+      "name": "explosion"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-tower-defense-board/default/ui/panel-frame/panel-frame.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-gold": {
+      "url": "/shared/ui-tower-defense-board/default/ui/icon-gold/icon-gold.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-gold"
+    },
+    "ui/icon-lives": {
+      "url": "/shared/ui-tower-defense-board/default/ui/icon-lives/icon-lives.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-lives"
+    },
+    "ui/icon-wave": {
+      "url": "/shared/ui-tower-defense-board/default/ui/icon-wave/icon-wave.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-wave"
+    },
+    "ui/icon-towers": {
+      "url": "/shared/ui-tower-defense-board/default/ui/icon-towers/icon-towers.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-towers"
+    },
+    "ui/icon-start-wave": {
+      "url": "/shared/ui-tower-defense-board/default/ui/icon-start-wave/icon-start-wave.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-start-wave"
+    },
+    "tile-art/wall": {
+      "url": "/shared/ui-tower-defense-board/svg/isometric/terrain/wall.svg",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "tile-art/ground": {
+      "url": "/shared/ui-tower-defense-board/svg/isometric/terrain/ground.svg",
+      "role": "tile",
+      "category": "ground",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ground"
+    },
+    "tile-art/path": {
+      "url": "/shared/ui-tower-defense-board/svg/isometric/terrain/path.svg",
+      "role": "tile",
+      "category": "path",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "path"
+    }
+  }
+}

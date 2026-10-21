@@ -1,0 +1,167 @@
+{
+  "pack": "kflow/ui-holiday-runner-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/sky": {
+      "url": "/shared/ui-holiday-runner-board/default/terrain/sky/sky.png",
+      "role": "tile",
+      "category": "sky",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "sky"
+    },
+    "terrains/ground": {
+      "url": "/shared/ui-holiday-runner-board/default/terrain/ground/ground.png",
+      "role": "tile",
+      "category": "ground",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ground"
+    },
+    "units/runner": {
+      "url": "/shared/ui-holiday-runner-board/default/units/runner/runner.png",
+      "role": "npc",
+      "category": "runner",
+      "prompt": "a cheerful plump gingerbread person with icing-white (#f8fbff) piping, candy-apple red (#d62828) gumdrop buttons and a holly green (#2a9d55) bow, glossy candy sheen with bright highlights",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "runner"
+    },
+    "units/obstacle": {
+      "url": "/shared/ui-holiday-runner-board/default/units/obstacle/obstacle.png",
+      "role": "npc",
+      "category": "obstacle",
+      "prompt": "a tall candy-cane striped barrier post in candy-apple red (#d62828) and snow white (#f8fbff) with a holly green (#2a9d55) gumdrop base, glossy highlights and a little festive sparkle",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "obstacle"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-holiday-runner-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "hud_p1.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-distance": {
+      "url": "/shared/ui-holiday-runner-board/default/ui/icon-distance/icon-distance.png",
+      "sprite": "hud_coins.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-distance"
+    },
+    "ui/icon-score": {
+      "url": "/shared/ui-holiday-runner-board/default/ui/icon-score/icon-score.png",
+      "sprite": "hud_gem_yellow.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-score"
+    },
+    "ui/icon-jump": {
+      "url": "/shared/ui-holiday-runner-board/default/ui/icon-jump/icon-jump.png",
+      "sprite": "hud_keyGreen.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-jump"
+    },
+    "tileSprites/sky": {
+      "url": "/shared/ui-holiday-runner-board/svg/flat/terrain/sky.svg",
+      "role": "tile",
+      "category": "sky",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "sky"
+    },
+    "tileSprites/ground": {
+      "url": "/shared/ui-holiday-runner-board/svg/flat/terrain/ground.svg",
+      "role": "tile",
+      "category": "ground",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ground"
+    },
+    "unitSprites/runner": {
+      "url": "/shared/ui-holiday-runner-board/svg/flat/units/runner.svg",
+      "role": "npc",
+      "category": "runner",
+      "prompt": "a cheerful plump gingerbread person with icing-white (#f8fbff) piping, candy-apple red (#d62828) gumdrop buttons and a holly green (#2a9d55) bow, glossy candy sheen with bright highlights",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "runner"
+    },
+    "unitSprites/obstacle": {
+      "url": "/shared/ui-holiday-runner-board/svg/flat/units/obstacle.svg",
+      "role": "npc",
+      "category": "obstacle",
+      "prompt": "a tall candy-cane striped barrier post in candy-apple red (#d62828) and snow white (#f8fbff) with a holly green (#2a9d55) gumdrop base, glossy highlights and a little festive sparkle",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "obstacle"
+    }
+  }
+}

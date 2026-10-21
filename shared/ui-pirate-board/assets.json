@@ -1,0 +1,195 @@
+{
+  "pack": "kflow/ui-pirate-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/sea": {
+      "url": "/shared/ui-pirate-board/default/terrain/sea/sea.png",
+      "role": "tile",
+      "category": "sea",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "sea"
+    },
+    "terrains/island": {
+      "url": "/shared/ui-pirate-board/default/terrain/island/island.png",
+      "role": "tile",
+      "category": "island",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "island"
+    },
+    "units/ship": {
+      "url": "/shared/ui-pirate-board/default/units/ship/ship.png",
+      "role": "npc",
+      "category": "ship",
+      "prompt": "a charming wooden pirate ship with driftwood-brown (#8a6a48) hull, weathered brass (#b58a3c) trim, cream (#f5ead2) billowing sails and a small dark flag, bold storybook silhouette with salt-worn painted texture",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ship"
+    },
+    "features/port": {
+      "url": "/shared/ui-pirate-board/default/features/port/port.png",
+      "role": "decoration",
+      "category": "port",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "port"
+    },
+    "features/treasure": {
+      "url": "/shared/ui-pirate-board/default/features/treasure/treasure.png",
+      "role": "decoration",
+      "category": "treasure",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "treasure"
+    },
+    "effects/explosion": {
+      "url": "/shared/ui-pirate-board/default/effects/explosion/explosion.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "explosion",
+      "prompt": "a bold storybook cannon explosion fireball of warm orange (#f97316) and gold (#facc15) with deep smoke-brown (#57534e) puffs around the edge and small flying splinters",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "explosion"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-pirate-board/default/ui/panel-frame/panel-frame.png",
+      "atlas": "",
+      "sprite": "",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-gold": {
+      "url": "/shared/ui-pirate-board/default/ui/icon-gold/icon-gold.png",
+      "atlas": "",
+      "sprite": "",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-gold"
+    },
+    "ui/icon-turn": {
+      "url": "/shared/ui-pirate-board/default/ui/icon-turn/icon-turn.png",
+      "atlas": "",
+      "sprite": "",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-turn"
+    },
+    "ui/icon-ships": {
+      "url": "/shared/ui-pirate-board/default/ui/icon-ships/icon-ships.png",
+      "atlas": "",
+      "sprite": "",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-ships"
+    },
+    "ui/icon-cannon": {
+      "url": "/shared/ui-pirate-board/default/ui/icon-cannon/icon-cannon.png",
+      "atlas": "",
+      "sprite": "",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-cannon"
+    },
+    "tile-art/sea": {
+      "url": "/shared/ui-pirate-board/svg/isometric/terrain/sea.svg",
+      "role": "tile",
+      "category": "sea",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "sea"
+    },
+    "tile-art/island": {
+      "url": "/shared/ui-pirate-board/svg/isometric/terrain/island.svg",
+      "role": "tile",
+      "category": "island",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "island"
+    },
+    "unit-art/ship": {
+      "url": "/shared/ui-pirate-board/svg/isometric/units/ship.svg",
+      "role": "npc",
+      "category": "ship",
+      "prompt": "a charming wooden pirate ship with driftwood-brown (#8a6a48) hull, weathered brass (#b58a3c) trim, cream (#f5ead2) billowing sails and a small dark flag, bold storybook silhouette with salt-worn painted texture",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ship"
+    },
+    "feature-art/port": {
+      "url": "/shared/ui-pirate-board/svg/isometric/features/port.svg",
+      "role": "decoration",
+      "category": "port",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "port"
+    },
+    "feature-art/treasure": {
+      "url": "/shared/ui-pirate-board/svg/isometric/features/treasure.svg",
+      "role": "decoration",
+      "category": "treasure",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "treasure"
+    }
+  }
+}

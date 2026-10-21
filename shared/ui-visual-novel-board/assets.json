@@ -1,0 +1,55 @@
+{
+  "pack": "kflow/ui-visual-novel-board",
+  "version": 1,
+  "base": "https://almadar-iram-assets.web.app",
+  "assets": {
+    "backgrounds/corridor": {
+      "url": "/frames/seq-01-shift-7421/shot-01-start.png",
+      "role": "decoration",
+      "category": "corridor",
+      "animations": [
+        "static"
+      ],
+      "style": "hd",
+      "dimension": "2d",
+      "aspect": "16:9",
+      "name": "corridor"
+    },
+    "backgrounds/forge": {
+      "url": "/frames/seq-05-assembly-line/shot-01-start.png",
+      "role": "decoration",
+      "category": "forge",
+      "animations": [
+        "static"
+      ],
+      "style": "hd",
+      "dimension": "2d",
+      "aspect": "16:9",
+      "name": "forge"
+    },
+    "backgrounds/core": {
+      "url": "/frames/seq-22-resonance/shot-01-start.png",
+      "role": "decoration",
+      "category": "core",
+      "animations": [
+        "static"
+      ],
+      "style": "hd",
+      "dimension": "2d",
+      "aspect": "16:9",
+      "name": "core"
+    },
+    "portraits/guide": {
+      "url": "/references/amir.png",
+      "role": "npc",
+      "category": "guide",
+      "animations": [
+        "static"
+      ],
+      "style": "hd",
+      "dimension": "2d",
+      "aspect": "1:2",
+      "name": "guide"
+    }
+  }
+}

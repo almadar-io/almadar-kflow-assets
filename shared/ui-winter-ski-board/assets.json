@@ -1,0 +1,257 @@
+{
+  "pack": "kflow/ui-winter-ski-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/floor": {
+      "url": "/shared/ui-winter-ski-board/default/terrain/floor/floor.png",
+      "role": "tile",
+      "category": "snowFloor",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "snowFloor"
+    },
+    "terrains/variation": {
+      "url": "/shared/ui-winter-ski-board/default/terrain/variation/variation.png",
+      "role": "tile",
+      "category": "snowVariation",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "snowVariation"
+    },
+    "units/hero": {
+      "url": "/shared/ui-winter-ski-board/default/units/hero/hero.png",
+      "role": "npc",
+      "category": "skierGreen",
+      "animations": [
+        "idle"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a retro downhill skier in a bold red (#d64545) jacket and navy knickers with wooden skis and poles",
+      "name": "skierGreen"
+    },
+    "features/tree": {
+      "url": "/shared/ui-winter-ski-board/default/features/tree/tree.png",
+      "role": "decoration",
+      "category": "pineTree",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "pineTree"
+    },
+    "features/rock": {
+      "url": "/shared/ui-winter-ski-board/default/features/rock/rock.png",
+      "role": "decoration",
+      "category": "rock",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "rock"
+    },
+    "features/gate_red": {
+      "url": "/shared/ui-winter-ski-board/default/features/gate_red/gate_red.png",
+      "role": "decoration",
+      "category": "gateRed",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gateRed"
+    },
+    "features/gate_blue": {
+      "url": "/shared/ui-winter-ski-board/default/features/gate_blue/gate_blue.png",
+      "role": "decoration",
+      "category": "gateBlue",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gateBlue"
+    },
+    "effects/explosion": {
+      "url": "/shared/ui-winter-ski-board/default/effects/explosion/explosion.png",
+      "sprite": "pixelExplosion07.png",
+      "role": "effect",
+      "fxKind": "puff",
+      "category": "explosion",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "8:1",
+      "prompt": "a soft puff of powder snow exploding outward, an alpine white (#f4f8fb) cloud with glacier-blue (#a8c8e0) shadow flecks",
+      "name": "explosion"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-winter-ski-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "blue_panel.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-lives": {
+      "url": "/shared/ui-winter-ski-board/default/ui/icon-lives/icon-lives.png",
+      "sprite": "emote_heart.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-lives"
+    },
+    "ui/icon-score": {
+      "url": "/shared/ui-winter-ski-board/default/ui/icon-score/icon-score.png",
+      "sprite": "emote_star.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-score"
+    },
+    "ui/icon-distance": {
+      "url": "/shared/ui-winter-ski-board/default/ui/icon-distance/icon-distance.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-distance"
+    },
+    "ui/icon-restart": {
+      "url": "/shared/ui-winter-ski-board/default/ui/icon-restart/icon-restart.png",
+      "sprite": "zoom_reset.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-restart"
+    },
+    "ui/key-left": {
+      "url": "/shared/ui-winter-ski-board/default/ui/key-left/key-left.png",
+      "sprite": "33,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-left"
+    },
+    "ui/key-right": {
+      "url": "/shared/ui-winter-ski-board/default/ui/key-right/key-right.png",
+      "sprite": "31,4",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-right"
+    },
+    "featureSprites/pineTree": {
+      "url": "/shared/ui-winter-ski-board/svg/flat/features/tree.svg",
+      "role": "decoration",
+      "category": "pineTree",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "pineTree"
+    },
+    "featureSprites/rock": {
+      "url": "/shared/ui-winter-ski-board/svg/flat/features/rock.svg",
+      "role": "decoration",
+      "category": "rock",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "rock"
+    },
+    "featureSprites/gateRed": {
+      "url": "/shared/ui-winter-ski-board/svg/flat/features/gate_red.svg",
+      "role": "decoration",
+      "category": "gateRed",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gateRed"
+    },
+    "featureSprites/gateBlue": {
+      "url": "/shared/ui-winter-ski-board/svg/flat/features/gate_blue.svg",
+      "role": "decoration",
+      "category": "gateBlue",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gateBlue"
+    },
+    "tileSprites/snowFloor": {
+      "url": "/shared/ui-winter-ski-board/svg/flat/terrain/floor.svg",
+      "role": "tile",
+      "category": "snowFloor",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "snowFloor"
+    },
+    "tileSprites/snowVariation": {
+      "url": "/shared/ui-winter-ski-board/svg/flat/terrain/variation.svg",
+      "role": "tile",
+      "category": "snowVariation",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "snowVariation"
+    }
+  }
+}

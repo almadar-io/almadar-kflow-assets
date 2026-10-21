@@ -1,0 +1,185 @@
+{
+  "pack": "kflow/ui-match-puzzle-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/cell_light": {
+      "url": "/shared/ui-match-puzzle-board/default/terrain/cell_light/cell_light.png",
+      "role": "tile",
+      "category": "cell_light",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "cell-light"
+    },
+    "terrains/cell_dark": {
+      "url": "/shared/ui-match-puzzle-board/default/terrain/cell_dark/cell_dark.png",
+      "role": "tile",
+      "category": "cell_dark",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "cell-dark"
+    },
+    "units/gem_red": {
+      "url": "/shared/ui-match-puzzle-board/default/units/gem_red/gem_red.png",
+      "role": "unit",
+      "category": "gem_red",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gem-red"
+    },
+    "units/gem_blue": {
+      "url": "/shared/ui-match-puzzle-board/default/units/gem_blue/gem_blue.png",
+      "role": "unit",
+      "category": "gem_blue",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gem-blue"
+    },
+    "units/gem_green": {
+      "url": "/shared/ui-match-puzzle-board/default/units/gem_green/gem_green.png",
+      "role": "unit",
+      "category": "gem_green",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gem-green"
+    },
+    "units/gem_yellow": {
+      "url": "/shared/ui-match-puzzle-board/default/units/gem_yellow/gem_yellow.png",
+      "role": "unit",
+      "category": "gem_yellow",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gem-yellow"
+    },
+    "units/gem_pink": {
+      "url": "/shared/ui-match-puzzle-board/default/units/gem_pink/gem_pink.png",
+      "role": "unit",
+      "category": "gem_pink",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gem-pink"
+    },
+    "effects/spark": {
+      "url": "/shared/ui-match-puzzle-board/default/effects/spark/spark.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "spark",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a bright candy match sugar-sparkle burst of white (#ffffff) and pale pink (#fbcfe8) star glints with a few tiny gummy droplets popping outward, juicy and bright",
+      "name": "spark"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-match-puzzle-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "panel-border-010.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-score": {
+      "url": "/shared/ui-match-puzzle-board/default/ui/icon-score/icon-score.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-score"
+    },
+    "ui/icon-moves": {
+      "url": "/shared/ui-match-puzzle-board/default/ui/icon-moves/icon-moves.png",
+      "sprite": "arrow_e.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-moves"
+    },
+    "ui/icon-combo": {
+      "url": "/shared/ui-match-puzzle-board/default/ui/icon-combo/icon-combo.png",
+      "sprite": "emote_star.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-combo"
+    },
+    "ui/icon-restart": {
+      "url": "/shared/ui-match-puzzle-board/default/ui/icon-restart/icon-restart.png",
+      "sprite": "icon_arrow_rotate",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-restart"
+    },
+    "tileSprites/cell_light": {
+      "url": "/shared/ui-match-puzzle-board/svg/flat/terrain/cell_light.svg",
+      "role": "tile",
+      "category": "cell_light",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "cell-light"
+    },
+    "tileSprites/cell_dark": {
+      "url": "/shared/ui-match-puzzle-board/svg/flat/terrain/cell_dark.svg",
+      "role": "tile",
+      "category": "cell_dark",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "cell-dark"
+    }
+  }
+}

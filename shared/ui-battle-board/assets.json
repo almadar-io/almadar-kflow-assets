@@ -1,0 +1,369 @@
+{
+  "pack": "kflow/ui-battle-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/grass": {
+      "url": "/shared/ui-battle-board/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "terrains/stone": {
+      "url": "/shared/ui-battle-board/default/terrain/stone/stone.png",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "units/guardian": {
+      "prompt": "a steadfast protector knight in muted steel-blue (#5b7a99) plate armor with a forest-green (#4a6741) cloak, kite shield and longsword",
+      "choreography": {
+        "idle": [
+          "standing in place, subtle idle motion only — chest rises slightly, shoulders relaxed, eyes open and alert, feet stay planted; do NOT sit, kneel, or step",
+          "standing in place, subtle idle motion only — chest settles, weight shifts slightly to the other foot, eyes open and alert, feet stay planted; do NOT sit, kneel, or step"
+        ],
+        "walk": [
+          "contact — right heel striking the ground far forward, left foot back pushing off its toes, legs split wide; body at middle height; longsword held low at the side pointing down-back, kite shield held flat against the left forearm across the chest — equipment is carried, never swung or raised",
+          "recoil (down) — right foot flat on the ground, right knee deeply bent absorbing the body's weight, body at its LOWEST point, dipping visibly lower than the other frames; left foot about to lift, heel raised; sword and shield held exactly as before",
+          "passing — left leg swinging forward past the planted right leg, left knee lifted high, right leg straight supporting; body rising back to middle height; arms and equipment held close, no flourish",
+          "high point (up) — body at its HIGHEST point, balanced up on the ball of the right foot, left leg trailing bent behind about to swing through; torso tall; sword and shield held exactly as before",
+          "contact — left heel striking the ground far forward, right foot back pushing off its toes, legs split wide; body at middle height; longsword held low at the side pointing down-back, kite shield held flat against the left forearm across the chest — equipment is carried, never swung or raised",
+          "recoil (down) — left foot flat on the ground, left knee deeply bent absorbing the body's weight, body at its LOWEST point, dipping visibly lower than the other frames; right foot about to lift, heel raised; sword and shield held exactly as before",
+          "passing — right leg swinging forward past the planted left leg, right knee lifted high, left leg straight supporting; body rising back to middle height; arms and equipment held close, no flourish",
+          "high point (up) — body at its HIGHEST point, balanced up on the ball of the left foot, right leg trailing bent behind about to swing through; torso tall; sword and shield held exactly as before"
+        ],
+        "attack": [
+          "raising the longsword high overhead — weapon arm fully extended upward, kite shield held close to the body",
+          "coiling back — torso twisted away, sword cocked behind the shoulder, shield raised to guard",
+          "lunging into a full overhead swing — body thrown forward, blade arcing down",
+          "blade striking through the target — full arm extension, impact, shield braced against the shoulder",
+          "sword buried low, body follow-through — torso bent over the strike, blade near the ground",
+          "recovering to guard — sword back up, shield forward, ready stance"
+        ],
+        "hit": [
+          "violent impact — whole body jolted sharply backward, shield arm flung upward, head snapped back",
+          "recoil — bent over and stumbling, clutching the struck side with the sword hand, staggering to regain balance"
+        ],
+        "death": [
+          "stagger — body lurching sideways off balance, sword slipping from the hand, knees buckling",
+          "falling — dropped to both knees, torso folding forward, shield arm giving way",
+          "collapsed — on the ground, slumped over the shield, body horizontal",
+          "lying flat on the ground, body fully horizontal, longsword and kite shield dropped beside the body, motionless"
+        ]
+      },
+      "url": "/shared/ui-battle-board/default/units/guardian/guardian.png",
+      "role": "npc",
+      "category": "guardian",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "guardian"
+    },
+    "units/scrapper": {
+      "prompt": "a lean quick-footed scrapper in patched leather armor of muted browns with steel-blue (#5b7a99) accents, twin short blades and a forest-green (#4a6741) bandana",
+      "choreography": {
+        "idle": [
+          "standing in place, subtle idle motion only — chest rises slightly, weight on the balls of the feet, eyes open and alert; do NOT sit, kneel, or step",
+          "standing in place, subtle idle motion only — chest settles, twin blades twirled loosely once, eyes open and alert; do NOT sit, kneel, or step"
+        ],
+        "walk": [
+          "right-foot contact — legs split wide in a long low stride, right leg extended far forward, left leg trailing; left arm swung fully forward, right arm fully back, blades held low",
+          "passing — legs scissored together under the body, left knee lifted high mid-swing, right leg straight and planted; blades held close",
+          "left-foot contact — legs split wide in a long low stride, left leg extended far forward, right leg trailing; right arm swung fully forward, left arm fully back, blades held low",
+          "passing — legs scissored together under the body, right knee lifted high mid-swing, left leg straight and planted; blades held close"
+        ],
+        "attack": [
+          "darting in low — body dropped into a crouch, both short blades pulled back at the hips",
+          "right blade slashing across — torso twisted into the cut, left blade tucked under the chin",
+          "left blade backhand — body whipping the opposite way, right blade guarding the ribs",
+          "twin cross-slash — both blades striking the target in an X, full arm extension",
+          "spinning follow-through — body rotating past the target, blades fanned wide",
+          "recovering — back to a light ready stance, blades low and angled out"
+        ],
+        "hit": [
+          "violent impact — whole body jolted sharply backward, both blades flying wide, head snapped back",
+          "recoil — bent over and stumbling, one knee nearly touching the ground, blades crossing in front of the face"
+        ],
+        "death": [
+          "stagger — body lurching sideways off balance, one blade slipping from the hand, knees buckling",
+          "falling — dropped to both knees, torso folding forward, second blade dropping",
+          "collapsed — on the ground, slumped, body horizontal",
+          "lying flat on the ground, body fully horizontal, both short blades dropped beside the body, motionless"
+        ]
+      },
+      "url": "/shared/ui-battle-board/default/units/scrapper/scrapper.png",
+      "role": "npc",
+      "category": "scrapper",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "scrapper"
+    },
+    "units/worker": {
+      "prompt": "a sturdy peasant worker in a muted green (#4a6741) tunic and rolled sleeves, carrying a pickaxe over one shoulder and a small resource satchel, rolled steel-blue (#5b7a99) kerchief",
+      "choreography": {
+        "idle": [
+          "standing in place, subtle idle motion only — chest rises slightly, pickaxe resting on one shoulder, eyes open and alert, feet stay planted; do NOT sit, kneel, or step",
+          "standing in place, subtle idle motion only — chest settles, free hand wiping the brow, eyes open and alert, feet stay planted; do NOT sit, kneel, or step"
+        ],
+        "walk": [
+          "right-foot contact — legs split wide in a heavy stride, right leg extended far forward, left leg trailing; pickaxe bouncing on the shoulder, free arm swung fully forward",
+          "passing — legs scissored together under the body, left knee lifted mid-swing, right leg straight and planted; pickaxe steady on the shoulder",
+          "left-foot contact — legs split wide in a heavy stride, left leg extended far forward, right leg trailing; pickaxe bouncing on the shoulder, free arm swung fully back",
+          "passing — legs scissored together under the body, right knee lifted mid-swing, left leg straight and planted; pickaxe steady on the shoulder"
+        ],
+        "attack": [
+          "lifting the pickaxe high overhead — both hands on the haft, arms fully extended upward",
+          "coiling back — shoulders twisted away, pickaxe cocked behind the head",
+          "full downward swing — body thrown forward, pickaxe arcing down toward the ground",
+          "pickaxe striking the earth — full extension, point buried, body bent over the haft",
+          "yanking the pickaxe free — body leaning back, both hands pulling",
+          "recovering — pickaxe back up onto the shoulder, ready stance"
+        ],
+        "hit": [
+          "violent impact — whole body jolted sharply backward, pickaxe arm flung out, head snapped back",
+          "recoil — bent over and stumbling, clutching the struck side, pickaxe dragging"
+        ],
+        "death": [
+          "stagger — body lurching sideways off balance, pickaxe slipping from the hand, knees buckling",
+          "falling — dropped to both knees, torso folding forward, arms reaching down",
+          "collapsed — on the ground, slumped, body horizontal",
+          "lying flat on the ground, body fully horizontal, pickaxe dropped beside the body, motionless"
+        ]
+      },
+      "url": "/shared/ui-battle-board/default/units/worker/worker.png",
+      "role": "npc",
+      "category": "worker",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "worker"
+    },
+    "units/mender": {
+      "prompt": "a kind robed battlefield healer in soft cream robes trimmed with forest green (#4a6741), carrying a wooden staff topped with a glowing steel-blue (#5b7a99) crystal, herb satchel at the belt",
+      "choreography": {
+        "idle": [
+          "standing in place, subtle idle motion only — chest rises slightly, staff held upright beside the body, eyes open and calm, feet stay planted; do NOT sit, kneel, or step",
+          "standing in place, subtle idle motion only — chest settles, staff crystal pulsing softly, eyes open and calm, feet stay planted; do NOT sit, kneel, or step"
+        ],
+        "walk": [
+          "right-foot contact — legs split wide in a measured stride under the robes, right leg extended forward, left leg trailing; staff planted forward like a walking stick, free arm swung back",
+          "passing — legs scissored together under the robes, left knee lifted mid-swing, right leg straight and planted; staff held vertical",
+          "left-foot contact — legs split wide in a measured stride under the robes, left leg extended forward, right leg trailing; staff planted forward like a walking stick, free arm swung forward",
+          "passing — legs scissored together under the robes, right knee lifted mid-swing, left leg straight and planted; staff held vertical"
+        ],
+        "attack": [
+          "raising the staff high — both hands lifting it upward, crystal beginning to glow",
+          "channeling — staff held forward with both hands, light gathering at its tip, robes stirring",
+          "full channel — body braced back, staff tip blazing at peak brightness, sleeves billowing",
+          "releasing the bolt — arms thrusting the staff forward, a steel-blue projectile leaving the crystal",
+          "follow-through — staff extended toward the target, body leaning into the cast",
+          "recovering — staff lowered back to a ready stance, glow fading"
+        ],
+        "hit": [
+          "violent impact — whole body jolted sharply backward, staff arm flung upward, head snapped back",
+          "recoil — bent over and stumbling, clutching the struck side, staff planted to keep balance"
+        ],
+        "death": [
+          "stagger — body lurching sideways off balance, staff slipping from the hand, knees buckling",
+          "falling — dropped to both knees, torso folding forward, arms reaching down",
+          "collapsed — on the ground, slumped, body horizontal, robes pooled",
+          "lying flat on the ground, body fully horizontal, wooden staff dropped beside the body, motionless"
+        ]
+      },
+      "url": "/shared/ui-battle-board/default/units/mender/mender.png",
+      "role": "npc",
+      "category": "mender",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "mender"
+    },
+    "features/gold_mine": {
+      "url": "/shared/ui-battle-board/default/features/gold_mine/gold_mine.png",
+      "role": "decoration",
+      "category": "gold_mine",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gold_mine"
+    },
+    "features/portal": {
+      "url": "/shared/ui-battle-board/default/features/portal/portal.png",
+      "role": "decoration",
+      "category": "portal",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "portal"
+    },
+    "effects/explosion": {
+      "prompt": "a soft ink-wash explosion blast of warm amber and smoke grey blooming outward with steel-blue (#5b7a99) sparks",
+      "url": "/shared/ui-battle-board/default/effects/explosion/explosion.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "explosion",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "8:1",
+      "name": "explosion"
+    },
+    "effects/hit": {
+      "prompt": "a small sharp impact star in warm ivory with a muted steel-blue (#5b7a99) streak and a soft red accent",
+      "url": "/shared/ui-battle-board/default/effects/hit/hit.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "hit",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hit"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-battle-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "panel-border-010.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-xp": {
+      "url": "/shared/ui-battle-board/default/ui/icon-xp/icon-xp.png",
+      "sprite": "grey_star.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-xp"
+    },
+    "ui/icon-level": {
+      "url": "/shared/ui-battle-board/default/ui/icon-level/icon-level.png",
+      "sprite": "grey_arrowUpWhite.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-level"
+    },
+    "units/scrapper-svg": {
+      "url": "/shared/ui-battle-board/svg/isometric/units/scrapper.svg",
+      "role": "npc",
+      "category": "scrapper",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "scrapper"
+    },
+    "units/worker-svg": {
+      "url": "/shared/ui-battle-board/svg/isometric/units/worker.svg",
+      "role": "npc",
+      "category": "worker",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "worker"
+    },
+    "units/mender-svg": {
+      "url": "/shared/ui-battle-board/svg/isometric/units/mender.svg",
+      "role": "npc",
+      "category": "mender",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "mender"
+    },
+    "features/gold_mine-svg": {
+      "url": "/shared/ui-battle-board/svg/isometric/features/gold_mine.svg",
+      "role": "decoration",
+      "category": "gold_mine",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gold_mine"
+    },
+    "features/portal-svg": {
+      "url": "/shared/ui-battle-board/svg/isometric/features/portal.svg",
+      "role": "decoration",
+      "category": "portal",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "portal"
+    }
+  }
+}

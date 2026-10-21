@@ -1,0 +1,194 @@
+{
+  "pack": "kflow/ui-world-map-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/grass": {
+      "url": "/shared/ui-world-map-board/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "terrains/forest": {
+      "url": "/shared/ui-world-map-board/default/terrain/forest/forest.png",
+      "role": "tile",
+      "category": "forest",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "forest"
+    },
+    "terrains/stone": {
+      "url": "/shared/ui-world-map-board/default/terrain/stone/stone.png",
+      "role": "tile",
+      "category": "stone",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "stone"
+    },
+    "units/hero": {
+      "url": "/shared/ui-world-map-board/default/units/hero/hero.png",
+      "role": "npc",
+      "category": "hero",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a wandering adventurer hero in a weathered explorer-teal (#3f6b63) travel cloak and tanned leather jerkin (#8a6a45), a brass-hilted sword (#b08d57) at the hip and a rolled map case on the back",
+      "name": "hero"
+    },
+    "units/guard": {
+      "url": "/shared/ui-world-map-board/default/units/guard/guard.png",
+      "role": "npc",
+      "category": "guard",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a stalwart town guard with kettle-helm and breastplate in sepia-steel grey (#8d8578), a deep burgundy surcoat (#7f3f3f), a tall partisan spear and a round shield with a small brass boss (#b08d57), leather belt and boots",
+      "name": "guard"
+    },
+    "effects/slash": {
+      "url": "/shared/ui-world-map-board/default/effects/slash/slash.png",
+      "role": "effect",
+      "fxKind": "slash",
+      "category": "slash",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "prompt": "a bold crescent sword-slash arc of pale parchment-white (#e8e0cc) with sepia (#8a7a5c) engraved speed-line hatching trailing its edge",
+      "name": "slash"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-world-map-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "panel_beige.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-region": {
+      "url": "/shared/ui-world-map-board/default/ui/icon-region/icon-region.png",
+      "sprite": "compass.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-region"
+    },
+    "ui/icon-turn": {
+      "url": "/shared/ui-world-map-board/default/ui/icon-turn/icon-turn.png",
+      "sprite": "flag.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-turn"
+    },
+    "ui/icon-coin": {
+      "url": "/shared/ui-world-map-board/default/ui/icon-coin/icon-coin.png",
+      "sprite": "chest.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-coin"
+    },
+    "ui/icon-travel": {
+      "url": "/shared/ui-world-map-board/default/ui/icon-travel/icon-travel.png",
+      "sprite": "arrowHead.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-travel"
+    },
+    "features/gold_mine-png": {
+      "url": "/shared/ui-world-map-board/default/features/gold_mine/gold_mine.png",
+      "role": "decoration",
+      "category": "gold_mine",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gold_mine"
+    },
+    "features/gold_mine": {
+      "url": "/shared/ui-world-map-board/svg/isometric/features/gold_mine.svg",
+      "role": "decoration",
+      "category": "gold_mine",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "gold_mine"
+    },
+    "features/portal-png": {
+      "url": "/shared/ui-world-map-board/default/features/portal/portal.png",
+      "role": "decoration",
+      "category": "portal",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "portal"
+    },
+    "features/portal": {
+      "url": "/shared/ui-world-map-board/svg/isometric/features/portal.svg",
+      "role": "decoration",
+      "category": "portal",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "portal"
+    }
+  }
+}

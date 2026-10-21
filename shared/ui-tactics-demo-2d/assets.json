@@ -1,0 +1,113 @@
+{
+  "pack": "kflow/ui-tactics-demo-2d",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/grass": {
+      "url": "/shared/ui-tactics-demo-2d/default/terrain/grass/grass.png",
+      "role": "tile",
+      "category": "grass",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "grass"
+    },
+    "units/soldier": {
+      "url": "/shared/ui-tactics-demo-2d/default/units/soldier/soldier.png",
+      "role": "npc",
+      "category": "soldier",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "soldier",
+      "prompt": "an olive drab (#556b2f) soldier figure framed inside a NATO-style friendly blue (#3b82f6) rectangle marker, carrying a simple rifle shape, flat geometric silhouette"
+    },
+    "units/raider": {
+      "url": "/shared/ui-tactics-demo-2d/default/units/raider/raider.png",
+      "role": "npc",
+      "category": "raider",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "raider",
+      "prompt": "a khaki (#c2b280) soldier figure framed inside a NATO-style hostile red (#b91c1c) diamond marker, carrying a simple rifle shape, flat geometric silhouette"
+    },
+    "effects/hit": {
+      "url": "/shared/ui-tactics-demo-2d/default/effects/hit/hit.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "hit",
+      "animations": [
+        "static"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hit",
+      "prompt": "a small sharp impact burst of khaki (#c2b280) and warning red (#b91c1c) angular shards radiating from a central point, like a strike marker on a tactical map"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-tactics-demo-2d/default/ui/panel-frame/panel-frame.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "units/soldier-svg": {
+      "url": "/shared/ui-tactics-demo-2d/svg/flat/units/soldier.svg",
+      "role": "npc",
+      "category": "soldier",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "soldier"
+    },
+    "units/raider-svg": {
+      "url": "/shared/ui-tactics-demo-2d/svg/flat/units/raider.svg",
+      "role": "npc",
+      "category": "raider",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "raider"
+    },
+    "ui/panel-frame-svg": {
+      "url": "/shared/ui-tactics-demo-2d/svg/flat/ui/panel-frame.svg",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    }
+  }
+}

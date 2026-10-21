@@ -1,0 +1,35 @@
+{
+  "pack": "kflow/ui-platformer-board-3d",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "units/player": {
+      "url": "/shared/ui-platformer-board-3d/default/units/player/player.glb",
+      "role": "player",
+      "category": "player",
+      "animations": [
+        "idle",
+        "walk",
+        "sprint",
+        "jump",
+        "fall"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "player"
+    },
+    "features/coin": {
+      "url": "/shared/ui-platformer-board-3d/default/features/coin/coin.glb",
+      "role": "feature",
+      "category": "coin",
+      "animations": [
+        "static"
+      ],
+      "style": "lowpoly",
+      "dimension": "3d",
+      "aspect": "1:1",
+      "name": "coin"
+    }
+  }
+}

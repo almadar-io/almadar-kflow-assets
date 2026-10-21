@@ -1,0 +1,172 @@
+{
+  "pack": "kflow/ui-platformer-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "ui/panel-frame": {
+      "url": "/shared/ui-platformer-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "grey_panel.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/star": {
+      "url": "/shared/ui-platformer-board/default/ui/star/star.png",
+      "sprite": "icon_star",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "star"
+    },
+    "ui/coin": {
+      "url": "/shared/ui-platformer-board/default/ui/coin/coin.png",
+      "sprite": "hud_coins.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "coin"
+    },
+    "ui/key-up": {
+      "url": "/shared/ui-platformer-board/default/ui/key-up/key-up.png",
+      "sprite": "icon_arrow",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-up"
+    },
+    "ui/key-down": {
+      "url": "/shared/ui-platformer-board/default/ui/key-down/key-down.png",
+      "sprite": "icon_arrow",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-down"
+    },
+    "ui/key-left": {
+      "url": "/shared/ui-platformer-board/default/ui/key-left/key-left.png",
+      "sprite": "icon_arrow",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-left"
+    },
+    "ui/key-right": {
+      "url": "/shared/ui-platformer-board/default/ui/key-right/key-right.png",
+      "sprite": "icon_arrow",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "key-right"
+    },
+    "ui/icon-restart": {
+      "url": "/shared/ui-platformer-board/default/ui/icon-restart/icon-restart.png",
+      "sprite": "icon_arrow_rotate",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-restart"
+    },
+    "playerSprite/player": {
+      "url": "/shared/ui-platformer-board/default/playerSprite/playerSprite/playerSprite.sheet.png",
+      "atlas": "/shared/ui-platformer-board/default/playerSprite/playerSprite/atlas.json",
+      "role": "player",
+      "category": "player",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "player"
+    },
+    "tileSprites/ground": {
+      "url": "/shared/ui-platformer-board/default/tileSprites/ground/ground.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "ground"
+    },
+    "tileSprites/platform": {
+      "url": "/shared/ui-platformer-board/default/tileSprites/platform/platform.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "platform"
+    },
+    "tileSprites/hazard": {
+      "url": "/shared/ui-platformer-board/default/tileSprites/hazard/hazard.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hazard"
+    },
+    "tileSprites/goal": {
+      "url": "/shared/ui-platformer-board/default/tileSprites/goal/goal.png",
+      "role": "tile",
+      "category": "terrain",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "goal"
+    },
+    "backgroundImage/background": {
+      "url": "/shared/ui-platformer-board/default/backgroundImage/backgroundImage/backgroundImage.png",
+      "role": "decoration",
+      "category": "background",
+      "animations": [
+        "static"
+      ],
+      "style": "pixel",
+      "dimension": "2d",
+      "aspect": "16:9",
+      "name": "background"
+    }
+  }
+}

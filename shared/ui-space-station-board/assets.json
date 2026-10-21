@@ -1,0 +1,180 @@
+{
+  "pack": "kflow/ui-space-station-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/wall": {
+      "url": "/shared/ui-space-station-board/default/terrain/wall/wall.png",
+      "role": "tile",
+      "category": "wall",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "wall"
+    },
+    "terrains/floor": {
+      "url": "/shared/ui-space-station-board/default/terrain/floor/floor.png",
+      "role": "tile",
+      "category": "floor",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "floor"
+    },
+    "terrains/console": {
+      "url": "/shared/ui-space-station-board/default/features/console/console.png",
+      "role": "tile",
+      "category": "console",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "console"
+    },
+    "units/crew": {
+      "url": "/shared/ui-space-station-board/default/units/crew/crew.png",
+      "role": "npc",
+      "category": "crew",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "crew",
+      "prompt": "a stocky astronaut-technician in a NASA white (#f8fafc) utility suit with safety orange (#f97316) shoulder and chest stripes, cool grey (#94a3b8) boots and gloves and a clear helmet visor showing a friendly face"
+    },
+    "units/crew-svg": {
+      "url": "/shared/ui-space-station-board/svg/isometric/units/crew.svg",
+      "role": "npc",
+      "category": "crew",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "crew"
+    },
+    "features/console": {
+      "url": "/shared/ui-space-station-board/default/features/console/console.png",
+      "role": "decoration",
+      "category": "console",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "console"
+    },
+    "features/console-svg": {
+      "url": "/shared/ui-space-station-board/svg/isometric/features/console.svg",
+      "role": "decoration",
+      "category": "console",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "console"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-space-station-board/default/ui/panel-frame/panel-frame.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-crew": {
+      "url": "/shared/ui-space-station-board/default/ui/icon-crew/icon-crew.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-crew"
+    },
+    "ui/icon-oxygen": {
+      "url": "/shared/ui-space-station-board/default/ui/icon-oxygen/icon-oxygen.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-oxygen"
+    },
+    "ui/icon-cancel": {
+      "url": "/shared/ui-space-station-board/default/ui/icon-cancel/icon-cancel.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-cancel"
+    },
+    "ui/panel-frame-svg": {
+      "url": "/shared/ui-space-station-board/svg/isometric/ui/panel-frame.svg",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-crew-svg": {
+      "url": "/shared/ui-space-station-board/svg/isometric/ui/icon-crew.svg",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-crew"
+    },
+    "ui/icon-oxygen-svg": {
+      "url": "/shared/ui-space-station-board/svg/isometric/ui/icon-oxygen.svg",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-oxygen"
+    },
+    "ui/icon-cancel-svg": {
+      "url": "/shared/ui-space-station-board/svg/isometric/ui/icon-cancel.svg",
+      "role": "ui",
+      "category": "ui",
+      "animations": [],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-cancel"
+    }
+  }
+}

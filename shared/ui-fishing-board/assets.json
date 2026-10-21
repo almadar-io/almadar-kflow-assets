@@ -1,0 +1,311 @@
+{
+  "pack": "kflow/ui-fishing-board",
+  "version": 1,
+  "base": "https://almadar-kflow-assets.web.app",
+  "assets": {
+    "terrains/surface": {
+      "url": "/shared/ui-fishing-board/default/terrain/surface/surface.png",
+      "role": "tile",
+      "category": "surface",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "surface"
+    },
+    "terrains/water": {
+      "url": "/shared/ui-fishing-board/default/terrain/water/water.png",
+      "role": "tile",
+      "category": "water",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "water"
+    },
+    "terrains/seabed": {
+      "url": "/shared/ui-fishing-board/default/terrain/seabed/seabed.png",
+      "role": "tile",
+      "category": "seabed",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "seabed"
+    },
+    "units/boat": {
+      "prompt": "a little wooden rowboat with a lone fisherman, warm wood browns (#8b5a2b) hull, indigo cloth (#27436b), foam-white (#f4f8fb) trim along the gunwale, a simple fishing rod",
+      "url": "/shared/ui-fishing-board/default/units/boat/boat.png",
+      "role": "npc",
+      "category": "boat",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "boat"
+    },
+    "units/hook": {
+      "prompt": "a round red-and-white fishing bobber (lacquer red #c0392b, foam white #f4f8fb) with a short line down to a simple silver hook, compact and readable",
+      "url": "/shared/ui-fishing-board/default/units/hook/hook.png",
+      "role": "npc",
+      "category": "hook",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hook"
+    },
+    "features/fish": {
+      "url": "/shared/ui-fishing-board/default/features/fish/fish.png",
+      "role": "decoration",
+      "category": "fish",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "fish"
+    },
+    "features/seaweed": {
+      "url": "/shared/ui-fishing-board/default/features/seaweed/seaweed.png",
+      "role": "decoration",
+      "category": "seaweed",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "seaweed"
+    },
+    "features/rock": {
+      "url": "/shared/ui-fishing-board/default/features/rock/rock.png",
+      "role": "decoration",
+      "category": "rock",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "rock"
+    },
+    "effects/splash": {
+      "prompt": "a crown-shaped water splash burst in foam-white (#f4f8fb) and pale indigo (#7f9bbd), a few flat droplets flying outward",
+      "url": "/shared/ui-fishing-board/default/effects/splash/splash.png",
+      "sprite": "burst.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "splash",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "splash"
+    },
+    "effects/bite": {
+      "prompt": "concentric ripple rings expanding on water, drawn as two or three foam-white (#f4f8fb) wave circles with a small indigo (#2b4a73) splash peak at the center",
+      "url": "/shared/ui-fishing-board/default/effects/bite/bite.png",
+      "sprite": "emote_exclamation.png",
+      "role": "effect",
+      "fxKind": "burst",
+      "category": "bite",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "bite"
+    },
+    "ui/panel-frame": {
+      "url": "/shared/ui-fishing-board/default/ui/panel-frame/panel-frame.png",
+      "sprite": "blue_panel.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "panel-frame"
+    },
+    "ui/icon-catch": {
+      "url": "/shared/ui-fishing-board/default/ui/icon-catch/icon-catch.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-catch"
+    },
+    "ui/icon-score": {
+      "url": "/shared/ui-fishing-board/default/ui/icon-score/icon-score.png",
+      "sprite": "emote_star.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-score"
+    },
+    "ui/icon-cast": {
+      "url": "/shared/ui-fishing-board/default/ui/icon-cast/icon-cast.png",
+      "sprite": "emote_drop.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-cast"
+    },
+    "ui/icon-reel": {
+      "url": "/shared/ui-fishing-board/default/ui/icon-reel/icon-reel.png",
+      "sprite": "rotate_cw.png",
+      "role": "ui",
+      "category": "ui",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "icon-reel"
+    },
+    "tile-art/surface": {
+      "url": "/shared/ui-fishing-board/svg/flat/terrain/surface.svg",
+      "role": "tile",
+      "category": "surface",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "surface"
+    },
+    "tile-art/water": {
+      "url": "/shared/ui-fishing-board/svg/flat/terrain/water.svg",
+      "role": "tile",
+      "category": "water",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "water"
+    },
+    "tile-art/seabed": {
+      "url": "/shared/ui-fishing-board/svg/flat/terrain/seabed.svg",
+      "role": "tile",
+      "category": "seabed",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "seabed"
+    },
+    "unit-art/boat": {
+      "url": "/shared/ui-fishing-board/svg/flat/units/boat.svg",
+      "role": "npc",
+      "category": "boat",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "boat"
+    },
+    "unit-art/hook": {
+      "url": "/shared/ui-fishing-board/svg/flat/units/hook.svg",
+      "role": "npc",
+      "category": "hook",
+      "animations": [
+        "idle",
+        "walk",
+        "attack",
+        "hit",
+        "death"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "hook"
+    },
+    "feature-art/fish": {
+      "url": "/shared/ui-fishing-board/svg/flat/features/fish.svg",
+      "role": "decoration",
+      "category": "fish",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "fish"
+    },
+    "feature-art/seaweed": {
+      "url": "/shared/ui-fishing-board/svg/flat/features/seaweed.svg",
+      "role": "decoration",
+      "category": "seaweed",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "seaweed"
+    },
+    "feature-art/rock": {
+      "url": "/shared/ui-fishing-board/svg/flat/features/rock.svg",
+      "role": "decoration",
+      "category": "rock",
+      "animations": [
+        "static"
+      ],
+      "style": "vector",
+      "dimension": "2d",
+      "aspect": "1:1",
+      "name": "rock"
+    }
+  }
+}
