@@ -2,8 +2,9 @@
   "pack": "kflow/ui-holiday-runner-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/sky": {
+  "assets": [
+    {
+      "key": "terrains/sky",
       "url": "/shared/ui-holiday-runner-board/default/terrain/sky/sky.png",
       "role": "tile",
       "category": "sky",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "sky"
     },
-    "terrains/ground": {
+    {
+      "key": "terrains/ground",
       "url": "/shared/ui-holiday-runner-board/default/terrain/ground/ground.png",
       "role": "tile",
       "category": "ground",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "ground"
     },
-    "units/runner": {
+    {
+      "key": "units/runner",
       "url": "/shared/ui-holiday-runner-board/default/units/runner/runner.png",
       "role": "npc",
       "category": "runner",
@@ -44,7 +47,8 @@
       "aspect": "1:1",
       "name": "runner"
     },
-    "units/obstacle": {
+    {
+      "key": "units/obstacle",
       "url": "/shared/ui-holiday-runner-board/default/units/obstacle/obstacle.png",
       "role": "npc",
       "category": "obstacle",
@@ -61,7 +65,8 @@
       "aspect": "1:1",
       "name": "obstacle"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-holiday-runner-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "hud_p1.png",
       "role": "ui",
@@ -72,7 +77,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-distance": {
+    {
+      "key": "ui/icon-distance",
       "url": "/shared/ui-holiday-runner-board/default/ui/icon-distance/icon-distance.png",
       "sprite": "hud_coins.png",
       "role": "ui",
@@ -83,7 +89,8 @@
       "aspect": "1:1",
       "name": "icon-distance"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-holiday-runner-board/default/ui/icon-score/icon-score.png",
       "sprite": "hud_gem_yellow.png",
       "role": "ui",
@@ -94,7 +101,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-jump": {
+    {
+      "key": "ui/icon-jump",
       "url": "/shared/ui-holiday-runner-board/default/ui/icon-jump/icon-jump.png",
       "sprite": "hud_keyGreen.png",
       "role": "ui",
@@ -105,7 +113,8 @@
       "aspect": "1:1",
       "name": "icon-jump"
     },
-    "tileSprites/sky": {
+    {
+      "key": "tileSprites/sky",
       "url": "/shared/ui-holiday-runner-board/svg/flat/terrain/sky.svg",
       "role": "tile",
       "category": "sky",
@@ -117,7 +126,8 @@
       "aspect": "1:1",
       "name": "sky"
     },
-    "tileSprites/ground": {
+    {
+      "key": "tileSprites/ground",
       "url": "/shared/ui-holiday-runner-board/svg/flat/terrain/ground.svg",
       "role": "tile",
       "category": "ground",
@@ -129,7 +139,8 @@
       "aspect": "1:1",
       "name": "ground"
     },
-    "unitSprites/runner": {
+    {
+      "key": "unitSprites/runner",
       "url": "/shared/ui-holiday-runner-board/svg/flat/units/runner.svg",
       "role": "npc",
       "category": "runner",
@@ -146,7 +157,8 @@
       "aspect": "1:1",
       "name": "runner"
     },
-    "unitSprites/obstacle": {
+    {
+      "key": "unitSprites/obstacle",
       "url": "/shared/ui-holiday-runner-board/svg/flat/units/obstacle.svg",
       "role": "npc",
       "category": "obstacle",
@@ -163,5 +175,5 @@
       "aspect": "1:1",
       "name": "obstacle"
     }
-  }
+  ]
 }

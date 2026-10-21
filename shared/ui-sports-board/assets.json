@@ -2,8 +2,9 @@
   "pack": "kflow/ui-sports-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/court": {
+  "assets": [
+    {
+      "key": "terrains/court",
       "url": "/shared/ui-sports-board/default/terrain/court/court.png",
       "role": "tile",
       "category": "court",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "court"
     },
-    "units/characterGreen": {
+    {
+      "key": "units/characterGreen",
       "url": "/shared/ui-sports-board/default/units/characterGreen/characterGreen.png",
       "role": "npc",
       "category": "characterGreen",
@@ -32,7 +34,8 @@
       "name": "characterGreen",
       "prompt": "an athletic soccer player in a vivid green (#22c55e) jersey with electric white (#f8fafc) shorts and trim and chunky simplified proportions"
     },
-    "units/characterBlue": {
+    {
+      "key": "units/characterBlue",
       "url": "/shared/ui-sports-board/default/units/characterBlue/characterBlue.png",
       "role": "npc",
       "category": "characterBlue",
@@ -49,7 +52,8 @@
       "name": "characterBlue",
       "prompt": "an athletic soccer player in a royal blue (#2563eb) jersey with electric white (#f8fafc) shorts and trim and chunky simplified proportions"
     },
-    "features/goal": {
+    {
+      "key": "features/goal",
       "url": "/shared/ui-sports-board/default/features/goal/goal.png",
       "role": "decoration",
       "category": "goal",
@@ -61,7 +65,8 @@
       "aspect": "1:1",
       "name": "goal"
     },
-    "features/ball": {
+    {
+      "key": "features/ball",
       "url": "/shared/ui-sports-board/default/features/ball/ball.png",
       "role": "decoration",
       "category": "ball",
@@ -73,7 +78,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-sports-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "grey_panel.png",
       "role": "ui",
@@ -84,7 +90,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-home": {
+    {
+      "key": "ui/icon-home",
       "url": "/shared/ui-sports-board/default/ui/icon-home/icon-home.png",
       "sprite": "icon_button_a",
       "role": "ui",
@@ -95,7 +102,8 @@
       "aspect": "1:1",
       "name": "icon-home"
     },
-    "ui/icon-away": {
+    {
+      "key": "ui/icon-away",
       "url": "/shared/ui-sports-board/default/ui/icon-away/icon-away.png",
       "sprite": "icon_button_b",
       "role": "ui",
@@ -106,7 +114,8 @@
       "aspect": "1:1",
       "name": "icon-away"
     },
-    "ui/icon-phase": {
+    {
+      "key": "ui/icon-phase",
       "url": "/shared/ui-sports-board/default/ui/icon-phase/icon-phase.png",
       "sprite": "icon_cog",
       "role": "ui",
@@ -117,7 +126,8 @@
       "aspect": "1:1",
       "name": "icon-phase"
     },
-    "ui/icon-reset": {
+    {
+      "key": "ui/icon-reset",
       "url": "/shared/ui-sports-board/default/ui/icon-reset/icon-reset.png",
       "sprite": "icon_arrow_rotate",
       "role": "ui",
@@ -128,7 +138,8 @@
       "aspect": "1:1",
       "name": "icon-reset"
     },
-    "featureSprites/goal": {
+    {
+      "key": "featureSprites/goal",
       "url": "/shared/ui-sports-board/svg/flat/features/goal.svg",
       "role": "decoration",
       "category": "goal",
@@ -140,7 +151,8 @@
       "aspect": "1:1",
       "name": "goal"
     },
-    "featureSprites/ball": {
+    {
+      "key": "featureSprites/ball",
       "url": "/shared/ui-sports-board/svg/flat/features/ball.svg",
       "role": "decoration",
       "category": "ball",
@@ -152,7 +164,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "tileSprites/court": {
+    {
+      "key": "tileSprites/court",
       "url": "/shared/ui-sports-board/svg/flat/terrain/court.svg",
       "role": "tile",
       "category": "court",
@@ -164,7 +177,8 @@
       "aspect": "1:1",
       "name": "court"
     },
-    "unitSprites/characterGreen": {
+    {
+      "key": "unitSprites/characterGreen",
       "url": "/shared/ui-sports-board/svg/flat/units/characterGreen.svg",
       "role": "npc",
       "category": "characterGreen",
@@ -180,7 +194,8 @@
       "aspect": "1:1",
       "name": "characterGreen"
     },
-    "unitSprites/characterBlue": {
+    {
+      "key": "unitSprites/characterBlue",
       "url": "/shared/ui-sports-board/svg/flat/units/characterBlue.svg",
       "role": "npc",
       "category": "characterBlue",
@@ -196,5 +211,5 @@
       "aspect": "1:1",
       "name": "characterBlue"
     }
-  }
+  ]
 }

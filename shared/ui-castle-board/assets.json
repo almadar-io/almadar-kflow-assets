@@ -2,8 +2,9 @@
   "pack": "kflow/ui-castle-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/stone": {
+  "assets": [
+    {
+      "key": "terrains/stone",
       "url": "/shared/ui-castle-board/default/terrain/stone/stone.png",
       "role": "tile",
       "category": "stone",
@@ -14,7 +15,8 @@
       "aspect": "1:1",
       "name": "stone"
     },
-    "terrains/grass": {
+    {
+      "key": "terrains/grass",
       "url": "/shared/ui-castle-board/default/terrain/grass/grass.png",
       "role": "tile",
       "category": "grass",
@@ -25,7 +27,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "terrains/planks": {
+    {
+      "key": "terrains/planks",
       "url": "/shared/ui-castle-board/default/terrain/planks/planks.png",
       "role": "tile",
       "category": "planks",
@@ -36,7 +39,8 @@
       "aspect": "1:1",
       "name": "planks"
     },
-    "units/guardian": {
+    {
+      "key": "units/guardian",
       "prompt": "an armored sentinel in heraldic blue (#2f4b7c) and silver plate with a red (#9e2b25) tabard, heater shield and upright spear",
       "url": "/shared/ui-castle-board/default/units/guardian/guardian.png",
       "role": "npc",
@@ -52,7 +56,8 @@
       "aspect": "1:1",
       "name": "guardian"
     },
-    "units/worker": {
+    {
+      "key": "units/worker",
       "prompt": "a cheerful serf laborer in a muted brown tunic with a heraldic gold (#c9a227) belt, carrying a hammer and a small bundle of planks, red (#9e2b25) cap",
       "url": "/shared/ui-castle-board/default/units/worker/worker.png",
       "role": "npc",
@@ -68,7 +73,8 @@
       "aspect": "1:1",
       "name": "worker"
     },
-    "units/keep": {
+    {
+      "key": "units/keep",
       "prompt": "a sturdy central stone keep with heraldic blue (#2f4b7c) conical rooftops, red (#9e2b25) banners and gold (#c9a227) finials, decorative crenellations",
       "url": "/shared/ui-castle-board/default/units/keep/keep.png",
       "role": "npc",
@@ -84,7 +90,8 @@
       "aspect": "1:1",
       "name": "keep"
     },
-    "units/watchtower": {
+    {
+      "key": "units/watchtower",
       "prompt": "a tall slender stone watchtower with a heraldic blue (#2f4b7c) pointed roof, small red (#9e2b25) pennant and gold (#c9a227) window slits",
       "url": "/shared/ui-castle-board/default/units/watchtower/watchtower.png",
       "role": "npc",
@@ -100,7 +107,8 @@
       "aspect": "1:1",
       "name": "watchtower"
     },
-    "units/portal": {
+    {
+      "key": "units/portal",
       "prompt": "a small ornate stone archway glowing with a flat swirl of heraldic blue (#2f4b7c) and gold (#c9a227) magic, decorative red (#9e2b25) trim stones at its base",
       "url": "/shared/ui-castle-board/default/units/portal/portal.png",
       "role": "npc",
@@ -116,7 +124,8 @@
       "aspect": "1:1",
       "name": "portal"
     },
-    "units/raider": {
+    {
+      "key": "units/raider",
       "prompt": "a hulking raider in dark furs and heraldic red (#9e2b25) war paint, horned helm and heavy notched axe, muted gold (#c9a227) arm rings",
       "url": "/shared/ui-castle-board/default/units/raider/raider.png",
       "role": "npc",
@@ -132,7 +141,8 @@
       "aspect": "1:1",
       "name": "raider"
     },
-    "features/gold_mine": {
+    {
+      "key": "features/gold_mine",
       "url": "/shared/ui-castle-board/default/features/gold_mine/gold_mine.png",
       "role": "decoration",
       "category": "gold_mine",
@@ -143,7 +153,8 @@
       "aspect": "1:1",
       "name": "gold_mine"
     },
-    "features/wall": {
+    {
+      "key": "features/wall",
       "url": "/shared/ui-castle-board/default/features/wall/wall.png",
       "role": "decoration",
       "category": "wall",
@@ -154,7 +165,8 @@
       "aspect": "1:1",
       "name": "wall"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "prompt": "a flat heraldic starburst impact flash in gold (#c9a227) with red (#9e2b25) slash marks and small decorative spark stitches",
       "url": "/shared/ui-castle-board/default/effects/hit/hit.png",
       "role": "effect",
@@ -167,7 +179,8 @@
       "aspect": "1:1",
       "name": "hit"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "prompt": "a flat heraldic explosion blast of gold (#c9a227) and red (#9e2b25) flame petals with dark smoke curls, decorative storybook burst",
       "url": "/shared/ui-castle-board/default/effects/explosion/explosion.png",
       "role": "effect",
@@ -180,7 +193,8 @@
       "aspect": "1:1",
       "name": "explosion"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-castle-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "panel-border-010.png",
       "role": "ui",
@@ -190,7 +204,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-gold": {
+    {
+      "key": "ui/icon-gold",
       "url": "/shared/ui-castle-board/default/ui/icon-gold/icon-gold.png",
       "sprite": "grey_star.png",
       "role": "ui",
@@ -202,7 +217,8 @@
       "aspect": "1:1",
       "name": "icon-gold"
     },
-    "ui/icon-wave": {
+    {
+      "key": "ui/icon-wave",
       "url": "/shared/ui-castle-board/default/ui/icon-wave/icon-wave.png",
       "sprite": "grey_arrowUpWhite.png",
       "role": "ui",
@@ -214,7 +230,8 @@
       "aspect": "1:1",
       "name": "icon-wave"
     },
-    "units/guardian-svg": {
+    {
+      "key": "units/guardian-svg",
       "url": "/shared/ui-castle-board/svg/isometric/units/guardian.svg",
       "role": "npc",
       "category": "guardian",
@@ -229,7 +246,8 @@
       "aspect": "1:1",
       "name": "guardian"
     },
-    "units/worker-svg": {
+    {
+      "key": "units/worker-svg",
       "url": "/shared/ui-castle-board/svg/isometric/units/worker.svg",
       "role": "npc",
       "category": "worker",
@@ -244,7 +262,8 @@
       "aspect": "1:1",
       "name": "worker"
     },
-    "units/keep-svg": {
+    {
+      "key": "units/keep-svg",
       "url": "/shared/ui-castle-board/svg/isometric/units/keep.svg",
       "role": "npc",
       "category": "keep",
@@ -259,7 +278,8 @@
       "aspect": "1:1",
       "name": "keep"
     },
-    "units/portal-svg": {
+    {
+      "key": "units/portal-svg",
       "url": "/shared/ui-castle-board/svg/isometric/units/portal.svg",
       "role": "npc",
       "category": "portal",
@@ -274,7 +294,8 @@
       "aspect": "1:1",
       "name": "portal"
     },
-    "features/gold_mine-svg": {
+    {
+      "key": "features/gold_mine-svg",
       "url": "/shared/ui-castle-board/svg/isometric/features/gold_mine.svg",
       "role": "decoration",
       "category": "gold_mine",
@@ -285,7 +306,8 @@
       "aspect": "1:1",
       "name": "gold_mine"
     },
-    "features/wall-svg": {
+    {
+      "key": "features/wall-svg",
       "url": "/shared/ui-castle-board/svg/isometric/features/wall.svg",
       "role": "decoration",
       "category": "wall",
@@ -296,5 +318,5 @@
       "aspect": "1:1",
       "name": "wall"
     }
-  }
+  ]
 }

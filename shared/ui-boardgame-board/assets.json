@@ -2,8 +2,9 @@
   "pack": "kflow/ui-boardgame-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/normal": {
+  "assets": [
+    {
+      "key": "terrains/normal",
       "url": "/shared/ui-boardgame-board/default/terrain/normal/normal.png",
       "role": "tile",
       "category": "normal",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "tile-normal"
     },
-    "terrains/bonus": {
+    {
+      "key": "terrains/bonus",
       "url": "/shared/ui-boardgame-board/default/effects/bonus/bonus.png",
       "role": "tile",
       "category": "bonus",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "tile-bonus"
     },
-    "terrains/trap": {
+    {
+      "key": "terrains/trap",
       "url": "/shared/ui-boardgame-board/default/effects/trap/trap.png",
       "role": "tile",
       "category": "trap",
@@ -39,7 +42,8 @@
       "aspect": "1:1",
       "name": "tile-trap"
     },
-    "terrains/start": {
+    {
+      "key": "terrains/start",
       "url": "/shared/ui-boardgame-board/default/terrain/start/start.png",
       "role": "tile",
       "category": "start",
@@ -51,7 +55,8 @@
       "aspect": "1:1",
       "name": "tile-start"
     },
-    "terrains/finish": {
+    {
+      "key": "terrains/finish",
       "url": "/shared/ui-boardgame-board/default/terrain/finish/finish.png",
       "role": "tile",
       "category": "finish",
@@ -63,7 +68,8 @@
       "aspect": "1:1",
       "name": "tile-finish"
     },
-    "units/you": {
+    {
+      "key": "units/you",
       "url": "/shared/ui-boardgame-board/default/units/you/you.png",
       "role": "npc",
       "category": "token_you",
@@ -75,7 +81,8 @@
       "aspect": "1:1",
       "name": "token-you"
     },
-    "units/rival": {
+    {
+      "key": "units/rival",
       "url": "/shared/ui-boardgame-board/default/units/rival/rival.png",
       "role": "npc",
       "category": "token_rival",
@@ -87,7 +94,8 @@
       "aspect": "1:1",
       "name": "token-rival"
     },
-    "features/marker": {
+    {
+      "key": "features/marker",
       "url": "/shared/ui-boardgame-board/default/features/marker/marker.png",
       "role": "decoration",
       "category": "finish_marker",
@@ -99,7 +107,8 @@
       "aspect": "1:1",
       "name": "finish-marker"
     },
-    "effects/bonus": {
+    {
+      "key": "effects/bonus",
       "prompt": "a soft golden starburst glow with tiny rounded star and confetti-dot shapes in warm gold and felt green (#3e6b4f), toy-like and matte",
       "url": "/shared/ui-boardgame-board/default/effects/bonus/bonus.png",
       "role": "effect",
@@ -113,7 +122,8 @@
       "aspect": "1:1",
       "name": "bonus-burst"
     },
-    "effects/trap": {
+    {
+      "key": "effects/trap",
       "prompt": "a soft comic poof of walnut-brown (#7a5230) dust with a small red warning flash and tiny bouncing wooden pegs, toy-like and matte",
       "url": "/shared/ui-boardgame-board/default/effects/trap/trap.png",
       "role": "effect",
@@ -127,7 +137,8 @@
       "aspect": "1:1",
       "name": "trap-cloud"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-boardgame-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "blue_panel.png",
       "role": "ui",
@@ -138,7 +149,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/finish-marker": {
+    {
+      "key": "ui/finish-marker",
       "url": "/shared/ui-boardgame-board/default/ui/finish-marker/finish-marker.png",
       "sprite": "grey_checkmarkGrey.png",
       "role": "decoration",
@@ -151,7 +163,8 @@
       "aspect": "1:1",
       "name": "finish-marker"
     },
-    "ui/token-you": {
+    {
+      "key": "ui/token-you",
       "url": "/shared/ui-boardgame-board/default/ui/token-you/token-you.png",
       "sprite": "grey_box.png",
       "role": "npc",
@@ -164,7 +177,8 @@
       "aspect": "1:1",
       "name": "token-you"
     },
-    "ui/token-rival": {
+    {
+      "key": "ui/token-rival",
       "url": "/shared/ui-boardgame-board/default/ui/token-rival/token-rival.png",
       "sprite": "grey_boxCross.png",
       "role": "npc",
@@ -177,7 +191,8 @@
       "aspect": "1:1",
       "name": "token-rival"
     },
-    "ui/icon-dice": {
+    {
+      "key": "ui/icon-dice",
       "url": "/shared/ui-boardgame-board/default/ui/icon-dice/icon-dice.png",
       "sprite": "dieWhite_border6.png",
       "role": "ui",
@@ -188,7 +203,8 @@
       "aspect": "1:1",
       "name": "icon-dice"
     },
-    "ui/icon-roll": {
+    {
+      "key": "ui/icon-roll",
       "url": "/shared/ui-boardgame-board/default/ui/icon-roll/icon-roll.png",
       "sprite": "dieRed_border6.png",
       "role": "ui",
@@ -199,7 +215,8 @@
       "aspect": "1:1",
       "name": "icon-roll"
     },
-    "tile-art/start": {
+    {
+      "key": "tile-art/start",
       "url": "/shared/ui-boardgame-board/svg/flat/terrain/start.svg",
       "role": "tile",
       "category": "start",
@@ -211,7 +228,8 @@
       "aspect": "1:1",
       "name": "tile-start"
     },
-    "tile-art/normal": {
+    {
+      "key": "tile-art/normal",
       "url": "/shared/ui-boardgame-board/svg/flat/terrain/normal.svg",
       "role": "tile",
       "category": "normal",
@@ -223,7 +241,8 @@
       "aspect": "1:1",
       "name": "tile-normal"
     },
-    "tile-art/bonus": {
+    {
+      "key": "tile-art/bonus",
       "url": "/shared/ui-boardgame-board/svg/flat/terrain/bonus.svg",
       "role": "tile",
       "category": "bonus",
@@ -235,7 +254,8 @@
       "aspect": "1:1",
       "name": "tile-bonus"
     },
-    "tile-art/trap": {
+    {
+      "key": "tile-art/trap",
       "url": "/shared/ui-boardgame-board/svg/flat/terrain/trap.svg",
       "role": "tile",
       "category": "trap",
@@ -247,7 +267,8 @@
       "aspect": "1:1",
       "name": "tile-trap"
     },
-    "tile-art/finish": {
+    {
+      "key": "tile-art/finish",
       "url": "/shared/ui-boardgame-board/svg/flat/terrain/finish.svg",
       "role": "tile",
       "category": "finish",
@@ -259,5 +280,5 @@
       "aspect": "1:1",
       "name": "tile-finish"
     }
-  }
+  ]
 }

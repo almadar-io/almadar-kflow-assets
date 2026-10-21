@@ -2,8 +2,9 @@
   "pack": "kflow/ui-battle-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/grass": {
+  "assets": [
+    {
+      "key": "terrains/grass",
       "url": "/shared/ui-battle-board/default/terrain/grass/grass.png",
       "role": "tile",
       "category": "grass",
@@ -14,7 +15,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "terrains/stone": {
+    {
+      "key": "terrains/stone",
       "url": "/shared/ui-battle-board/default/terrain/stone/stone.png",
       "role": "tile",
       "category": "stone",
@@ -25,7 +27,8 @@
       "aspect": "1:1",
       "name": "stone"
     },
-    "units/guardian": {
+    {
+      "key": "units/guardian",
       "prompt": "a steadfast protector knight in muted steel-blue (#5b7a99) plate armor with a forest-green (#4a6741) cloak, kite shield and longsword",
       "choreography": {
         "idle": [
@@ -75,7 +78,8 @@
       "aspect": "1:1",
       "name": "guardian"
     },
-    "units/scrapper": {
+    {
+      "key": "units/scrapper",
       "prompt": "a lean quick-footed scrapper in patched leather armor of muted browns with steel-blue (#5b7a99) accents, twin short blades and a forest-green (#4a6741) bandana",
       "choreography": {
         "idle": [
@@ -121,7 +125,8 @@
       "aspect": "1:1",
       "name": "scrapper"
     },
-    "units/worker": {
+    {
+      "key": "units/worker",
       "prompt": "a sturdy peasant worker in a muted green (#4a6741) tunic and rolled sleeves, carrying a pickaxe over one shoulder and a small resource satchel, rolled steel-blue (#5b7a99) kerchief",
       "choreography": {
         "idle": [
@@ -167,7 +172,8 @@
       "aspect": "1:1",
       "name": "worker"
     },
-    "units/mender": {
+    {
+      "key": "units/mender",
       "prompt": "a kind robed battlefield healer in soft cream robes trimmed with forest green (#4a6741), carrying a wooden staff topped with a glowing steel-blue (#5b7a99) crystal, herb satchel at the belt",
       "choreography": {
         "idle": [
@@ -213,7 +219,8 @@
       "aspect": "1:1",
       "name": "mender"
     },
-    "features/gold_mine": {
+    {
+      "key": "features/gold_mine",
       "url": "/shared/ui-battle-board/default/features/gold_mine/gold_mine.png",
       "role": "decoration",
       "category": "gold_mine",
@@ -224,7 +231,8 @@
       "aspect": "1:1",
       "name": "gold_mine"
     },
-    "features/portal": {
+    {
+      "key": "features/portal",
       "url": "/shared/ui-battle-board/default/features/portal/portal.png",
       "role": "decoration",
       "category": "portal",
@@ -235,7 +243,8 @@
       "aspect": "1:1",
       "name": "portal"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "prompt": "a soft ink-wash explosion blast of warm amber and smoke grey blooming outward with steel-blue (#5b7a99) sparks",
       "url": "/shared/ui-battle-board/default/effects/explosion/explosion.png",
       "role": "effect",
@@ -248,7 +257,8 @@
       "aspect": "8:1",
       "name": "explosion"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "prompt": "a small sharp impact star in warm ivory with a muted steel-blue (#5b7a99) streak and a soft red accent",
       "url": "/shared/ui-battle-board/default/effects/hit/hit.png",
       "role": "effect",
@@ -261,7 +271,8 @@
       "aspect": "1:1",
       "name": "hit"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-battle-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "panel-border-010.png",
       "role": "ui",
@@ -272,7 +283,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-xp": {
+    {
+      "key": "ui/icon-xp",
       "url": "/shared/ui-battle-board/default/ui/icon-xp/icon-xp.png",
       "sprite": "grey_star.png",
       "role": "ui",
@@ -285,7 +297,8 @@
       "aspect": "1:1",
       "name": "icon-xp"
     },
-    "ui/icon-level": {
+    {
+      "key": "ui/icon-level",
       "url": "/shared/ui-battle-board/default/ui/icon-level/icon-level.png",
       "sprite": "grey_arrowUpWhite.png",
       "role": "ui",
@@ -298,7 +311,8 @@
       "aspect": "1:1",
       "name": "icon-level"
     },
-    "units/scrapper-svg": {
+    {
+      "key": "units/scrapper-svg",
       "url": "/shared/ui-battle-board/svg/isometric/units/scrapper.svg",
       "role": "npc",
       "category": "scrapper",
@@ -313,7 +327,8 @@
       "aspect": "1:1",
       "name": "scrapper"
     },
-    "units/worker-svg": {
+    {
+      "key": "units/worker-svg",
       "url": "/shared/ui-battle-board/svg/isometric/units/worker.svg",
       "role": "npc",
       "category": "worker",
@@ -328,7 +343,8 @@
       "aspect": "1:1",
       "name": "worker"
     },
-    "units/mender-svg": {
+    {
+      "key": "units/mender-svg",
       "url": "/shared/ui-battle-board/svg/isometric/units/mender.svg",
       "role": "npc",
       "category": "mender",
@@ -343,7 +359,8 @@
       "aspect": "1:1",
       "name": "mender"
     },
-    "features/gold_mine-svg": {
+    {
+      "key": "features/gold_mine-svg",
       "url": "/shared/ui-battle-board/svg/isometric/features/gold_mine.svg",
       "role": "decoration",
       "category": "gold_mine",
@@ -354,7 +371,8 @@
       "aspect": "1:1",
       "name": "gold_mine"
     },
-    "features/portal-svg": {
+    {
+      "key": "features/portal-svg",
       "url": "/shared/ui-battle-board/svg/isometric/features/portal.svg",
       "role": "decoration",
       "category": "portal",
@@ -365,5 +383,5 @@
       "aspect": "1:1",
       "name": "portal"
     }
-  }
+  ]
 }

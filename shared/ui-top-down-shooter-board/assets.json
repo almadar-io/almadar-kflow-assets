@@ -2,8 +2,9 @@
   "pack": "kflow/ui-top-down-shooter-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "units/player": {
+  "assets": [
+    {
+      "key": "units/player",
       "url": "/shared/ui-top-down-shooter-board/default/units/player/player.png",
       "sprite": "idle",
       "role": "npc",
@@ -29,7 +30,8 @@
       "name": "player",
       "prompt": "a rugged survivor in an urban grey (#4b5563) jacket and olive (#556b2f) cargo pants holding a compact rifle, with harsh ink shadows pooling beneath him"
     },
-    "units/enemy": {
+    {
+      "key": "units/enemy",
       "url": "/shared/ui-top-down-shooter-board/default/units/enemy/enemy.png",
       "sprite": "idle",
       "role": "npc",
@@ -55,7 +57,8 @@
       "name": "enemy",
       "prompt": "a hunched hostile combatant in tattered desaturated olive (#5c5f4a) fatigues with ash-grey (#6b7280) skin tones and harsh ink shadows under the shoulders and helmet"
     },
-    "features/projectile": {
+    {
+      "key": "features/projectile",
       "url": "/shared/ui-top-down-shooter-board/default/features/projectile/projectile.png",
       "sprite": "laserBlue1.png",
       "role": "decoration",
@@ -68,7 +71,8 @@
       "aspect": "1:1",
       "name": "projectile"
     },
-    "features/pickup": {
+    {
+      "key": "features/pickup",
       "url": "/shared/ui-top-down-shooter-board/default/features/pickup/pickup.png",
       "sprite": "genericItem_color_001.png",
       "role": "decoration",
@@ -81,7 +85,8 @@
       "aspect": "1:1",
       "name": "pickup"
     },
-    "effects/spark": {
+    {
+      "key": "effects/spark",
       "url": "/shared/ui-top-down-shooter-board/default/effects/spark/spark.png",
       "sprite": "effect_purple.png",
       "role": "effect",
@@ -96,7 +101,8 @@
       "name": "spark",
       "prompt": "a sharp white-yellow (#fef08a) impact starburst with a few black ink motion lines and tiny grey (#9ca3af) debris flecks, like a bullet striking concrete"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "url": "/shared/ui-top-down-shooter-board/default/effects/explosion/explosion.png",
       "sprite": "effect_yellow.png",
       "role": "effect",
@@ -111,7 +117,8 @@
       "name": "explosion",
       "prompt": "a jagged explosion blast of muted orange (#ea8b4e) and dirty yellow (#d9a441) with heavy black ink shards and a ragged grey (#6b7280) smoke ring"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-top-down-shooter-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "grey_panel.png",
       "role": "ui",
@@ -122,7 +129,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-top-down-shooter-board/default/ui/icon-score/icon-score.png",
       "sprite": "icon_star",
       "role": "ui",
@@ -133,7 +141,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-wave": {
+    {
+      "key": "ui/icon-wave",
       "url": "/shared/ui-top-down-shooter-board/default/ui/icon-wave/icon-wave.png",
       "sprite": "icon_target",
       "role": "ui",
@@ -144,7 +153,8 @@
       "aspect": "1:1",
       "name": "icon-wave"
     },
-    "ui/icon-lives": {
+    {
+      "key": "ui/icon-lives",
       "url": "/shared/ui-top-down-shooter-board/default/ui/icon-lives/icon-lives.png",
       "sprite": "grey_boxCheckmark.png",
       "role": "ui",
@@ -155,7 +165,8 @@
       "aspect": "1:1",
       "name": "icon-lives"
     },
-    "ui/icon-fire": {
+    {
+      "key": "ui/icon-fire",
       "url": "/shared/ui-top-down-shooter-board/default/ui/icon-fire/icon-fire.png",
       "sprite": "icon_fire",
       "role": "ui",
@@ -166,5 +177,5 @@
       "aspect": "1:1",
       "name": "icon-fire"
     }
-  }
+  ]
 }

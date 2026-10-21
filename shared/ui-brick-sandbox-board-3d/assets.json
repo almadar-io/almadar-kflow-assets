@@ -2,8 +2,9 @@
   "pack": "kflow/ui-brick-sandbox-board-3d",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "features/marker": {
+  "assets": [
+    {
+      "key": "features/marker",
       "url": "/shared/ui-brick-sandbox-board-3d/default/features/marker/marker.glb",
       "role": "decoration",
       "category": "marker",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "round-hq-plate-1x1-round"
     },
-    "terrain/baseplate": {
+    {
+      "key": "terrain/baseplate",
       "url": "/shared/ui-brick-sandbox-board-3d/default/terrain/baseplate/baseplate.glb",
       "role": "tile",
       "category": "baseplate",
@@ -27,5 +29,5 @@
       "aspect": "1:1",
       "name": "square-hq-plate-1x1"
     }
-  }
+  ]
 }

@@ -2,8 +2,9 @@
   "pack": "kflow/ui-arena-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/ground": {
+  "assets": [
+    {
+      "key": "terrains/ground",
       "url": "/shared/ui-arena-board/default/terrain/ground/ground.png",
       "role": "tile",
       "category": "ground",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "ground"
     },
-    "terrains/stone": {
+    {
+      "key": "terrains/stone",
       "url": "/shared/ui-arena-board/default/terrain/stone/stone.png",
       "role": "tile",
       "category": "stone",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "stone"
     },
-    "units/marine": {
+    {
+      "key": "units/marine",
       "prompt": "a disciplined heavy arena fighter in polished bronze-and-steel armor with a crimson (#a31621) plumed helmet, rectangular scutum shield and short gladius sword, sun-bleached sandy ochre (#d9a441) leather straps and sandals",
       "url": "/shared/ui-arena-board/default/units/marine/marine.png",
       "role": "npc",
@@ -44,7 +47,8 @@
       "aspect": "1:1",
       "name": "marine"
     },
-    "units/raider": {
+    {
+      "key": "units/raider",
       "prompt": "a wiry feral pit fighter in ragged crimson (#a31621) wrappings and leather straps, spiked pauldron on one shoulder, curved hook blade and buckler, scarred sun-bronzed skin with ochre (#d9a441) war paint",
       "url": "/shared/ui-arena-board/default/units/raider/raider.png",
       "role": "npc",
@@ -61,7 +65,8 @@
       "aspect": "1:1",
       "name": "raider"
     },
-    "features/crate": {
+    {
+      "key": "features/crate",
       "url": "/shared/ui-arena-board/default/features/crate/crate.png",
       "role": "decoration",
       "category": "crate",
@@ -73,7 +78,8 @@
       "aspect": "1:1",
       "name": "crate"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "prompt": "a sharp starburst impact flash in sun-bleached yellow (#f2d27c) with crimson (#a31621) slash streaks, bold kinetic rays",
       "url": "/shared/ui-arena-board/default/effects/hit/hit.png",
       "role": "effect",
@@ -87,7 +93,8 @@
       "aspect": "1:1",
       "name": "hit"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "prompt": "a chunky radial explosion blast of sun-bleached ochre (#e8c469) and crimson (#a31621) flame petals around a white-hot core, bold graphic burst rays",
       "url": "/shared/ui-arena-board/default/effects/explosion/explosion.png",
       "role": "effect",
@@ -101,7 +108,8 @@
       "aspect": "1:1",
       "name": "explosion"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-arena-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "panel-border-010.png",
       "role": "ui",
@@ -114,7 +122,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-arena-board/default/ui/icon-score/icon-score.png",
       "sprite": "grey_star.png",
       "role": "ui",
@@ -127,7 +136,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-turn": {
+    {
+      "key": "ui/icon-turn",
       "url": "/shared/ui-arena-board/default/ui/icon-turn/icon-turn.png",
       "sprite": "grey_arrowUpWhite.png",
       "role": "ui",
@@ -140,7 +150,8 @@
       "aspect": "1:1",
       "name": "icon-turn"
     },
-    "unitSprites/marine": {
+    {
+      "key": "unitSprites/marine",
       "url": "/shared/ui-arena-board/svg/flat/units/marine.svg",
       "role": "npc",
       "category": "marine",
@@ -156,7 +167,8 @@
       "aspect": "1:1",
       "name": "marine"
     },
-    "unitSprites/raider": {
+    {
+      "key": "unitSprites/raider",
       "url": "/shared/ui-arena-board/svg/flat/units/raider.svg",
       "role": "npc",
       "category": "raider",
@@ -172,7 +184,8 @@
       "aspect": "1:1",
       "name": "raider"
     },
-    "featureSprites/crate": {
+    {
+      "key": "featureSprites/crate",
       "url": "/shared/ui-arena-board/svg/flat/features/crate.svg",
       "role": "decoration",
       "category": "crate",
@@ -184,5 +197,5 @@
       "aspect": "1:1",
       "name": "crate"
     }
-  }
+  ]
 }

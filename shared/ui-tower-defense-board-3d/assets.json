@@ -2,8 +2,9 @@
   "pack": "kflow/ui-tower-defense-board-3d",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrain/path": {
+  "assets": [
+    {
+      "key": "terrain/path",
       "url": "/shared/ui-tower-defense-board-3d/default/terrain/path/path.glb",
       "role": "path",
       "category": "terrain",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "tile-dirt"
     },
-    "terrain/grass": {
+    {
+      "key": "terrain/grass",
       "url": "/shared/ui-tower-defense-board-3d/default/terrain/grass/grass.glb",
       "role": "tile",
       "category": "terrain",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "tile"
     },
-    "units/tower": {
+    {
+      "key": "units/tower",
       "url": "/shared/ui-tower-defense-board-3d/default/units/tower/tower.glb",
       "role": "tower",
       "category": "features",
@@ -39,7 +42,8 @@
       "aspect": "1:1",
       "name": "weapon-turret"
     },
-    "units/enemy": {
+    {
+      "key": "units/enemy",
       "url": "/shared/ui-tower-defense-board-3d/default/units/enemy/enemy.glb",
       "role": "enemy",
       "category": "units",
@@ -51,5 +55,5 @@
       "aspect": "1:1",
       "name": "enemy-ufo-a"
     }
-  }
+  ]
 }

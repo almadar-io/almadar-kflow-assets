@@ -2,26 +2,32 @@
   "pack": "kflow/std-board-demo",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "tile-art/grass": {
+  "assets": [
+    {
+      "key": "tile-art/grass",
       "url": "/shared/ui-tactics-demo-2d/default/terrain/grass/grass.png",
       "role": "tile",
       "category": "terrain",
-      "animations": ["static"],
+      "animations": [
+        "static"
+      ],
       "style": "vector",
       "dimension": "2d",
       "aspect": "1:1",
       "name": "grass"
     },
-    "unit-art/soldier": {
+    {
+      "key": "unit-art/soldier",
       "url": "/shared/ui-tactics-demo-2d/default/units/soldier/soldier.png",
       "role": "unit",
       "category": "unit",
-      "animations": ["idle"],
+      "animations": [
+        "idle"
+      ],
       "style": "vector",
       "dimension": "2d",
       "aspect": "1:1",
       "name": "soldier"
     }
-  }
+  ]
 }

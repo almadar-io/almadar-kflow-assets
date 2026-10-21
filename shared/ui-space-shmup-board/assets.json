@@ -2,8 +2,9 @@
   "pack": "kflow/ui-space-shmup-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "units/player": {
+  "assets": [
+    {
+      "key": "units/player",
       "url": "/shared/ui-space-shmup-board/default/units/player/player.png",
       "sprite": "playerShip1_blue.png",
       "role": "npc",
@@ -21,7 +22,8 @@
       "name": "player-ship",
       "prompt": "a sleek arrow-shaped heroic interceptor starfighter with twin pronged wings, neon cyan (#22d3ee) wireframe hull lines and a glowing white-blue engine core"
     },
-    "units/enemy": {
+    {
+      "key": "units/enemy",
       "url": "/shared/ui-space-shmup-board/default/units/enemy/enemy.png",
       "sprite": "enemyRed1.png",
       "role": "npc",
@@ -39,7 +41,8 @@
       "name": "enemy-ship",
       "prompt": "an aggressive dart-shaped hostile alien starfighter with swept pincer wings, neon magenta (#e879f9) wireframe hull lines and a glowing red-orange cockpit core"
     },
-    "features/playerLaser": {
+    {
+      "key": "features/playerLaser",
       "url": "/shared/ui-space-shmup-board/default/features/playerLaser/playerLaser.png",
       "sprite": "laserBlue01.png",
       "role": "decoration",
@@ -52,7 +55,8 @@
       "aspect": "1:1",
       "name": "player-laser"
     },
-    "features/enemyLaser": {
+    {
+      "key": "features/enemyLaser",
       "url": "/shared/ui-space-shmup-board/default/features/enemyLaser/enemyLaser.png",
       "sprite": "laserRed05.png",
       "role": "decoration",
@@ -65,7 +69,8 @@
       "aspect": "1:1",
       "name": "enemy-laser"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "url": "/shared/ui-space-shmup-board/default/effects/explosion/explosion.png",
       "sprite": "regularExplosion04.png",
       "role": "effect",
@@ -80,7 +85,8 @@
       "name": "explosion",
       "prompt": "a radial ship-explosion starburst of neon orange (#fb923c) and magenta (#e879f9) wireframe shards with glowing particle dots and an expanding thin ring"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "url": "/shared/ui-space-shmup-board/default/effects/hit/hit.png",
       "sprite": "burst.png",
       "role": "effect",
@@ -95,7 +101,8 @@
       "name": "hit-burst",
       "prompt": "a small four-pointed impact star spark of brilliant white and cyan (#22d3ee) light with short radiating glow streaks"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-space-shmup-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "metalPanel_blue.png",
       "role": "ui",
@@ -106,7 +113,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-space-shmup-board/default/ui/icon-score/icon-score.png",
       "sprite": "star_gold.png",
       "role": "ui",
@@ -117,7 +125,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-wave": {
+    {
+      "key": "ui/icon-wave",
       "url": "/shared/ui-space-shmup-board/default/ui/icon-wave/icon-wave.png",
       "sprite": "ufoRed.png",
       "role": "ui",
@@ -128,7 +137,8 @@
       "aspect": "1:1",
       "name": "icon-wave"
     },
-    "ui/icon-lives": {
+    {
+      "key": "ui/icon-lives",
       "url": "/shared/ui-space-shmup-board/default/ui/icon-lives/icon-lives.png",
       "sprite": "playerLife1_blue.png",
       "role": "ui",
@@ -139,7 +149,8 @@
       "aspect": "1:1",
       "name": "icon-lives"
     },
-    "ui/icon-fire": {
+    {
+      "key": "ui/icon-fire",
       "url": "/shared/ui-space-shmup-board/default/ui/icon-fire/icon-fire.png",
       "sprite": "bolt_gold.png",
       "role": "ui",
@@ -150,7 +161,8 @@
       "aspect": "1:1",
       "name": "icon-fire"
     },
-    "ui/icon-pause": {
+    {
+      "key": "ui/icon-pause",
       "url": "/shared/ui-space-shmup-board/default/ui/icon-pause/icon-pause.png",
       "sprite": "icon_pause",
       "role": "ui",
@@ -161,5 +173,5 @@
       "aspect": "1:1",
       "name": "icon-pause"
     }
-  }
+  ]
 }

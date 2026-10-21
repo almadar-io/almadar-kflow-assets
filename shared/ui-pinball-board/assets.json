@@ -2,8 +2,9 @@
   "pack": "kflow/ui-pinball-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "units/ball": {
+  "assets": [
+    {
+      "key": "units/ball",
       "url": "/shared/ui-pinball-board/default/units/ball/ball.png",
       "sprite": "ballGrey_01.png",
       "role": "npc",
@@ -16,7 +17,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "features/bumper": {
+    {
+      "key": "features/bumper",
       "url": "/shared/ui-pinball-board/default/features/bumper/bumper.png",
       "sprite": "element_red_polygon_glossy.png",
       "role": "decoration",
@@ -29,7 +31,8 @@
       "aspect": "1:1",
       "name": "bumper"
     },
-    "features/paddle": {
+    {
+      "key": "features/paddle",
       "url": "/shared/ui-pinball-board/default/features/paddle/paddle.png",
       "sprite": "paddle_01.png",
       "role": "decoration",
@@ -42,7 +45,8 @@
       "aspect": "4:1",
       "name": "paddle"
     },
-    "features/paddleActive": {
+    {
+      "key": "features/paddleActive",
       "url": "/shared/ui-pinball-board/default/features/paddleActive/paddleActive.png",
       "sprite": "paddle_07.png",
       "role": "decoration",
@@ -55,7 +59,8 @@
       "aspect": "4:1",
       "name": "paddle-active"
     },
-    "effects/spark": {
+    {
+      "key": "effects/spark",
       "url": "/shared/ui-pinball-board/default/effects/spark/spark.png",
       "sprite": "particleYellow_1.png",
       "role": "effect",
@@ -70,7 +75,8 @@
       "prompt": "a white-hot pinball bumper impact spark with a hot yellow-white starburst and cyan (#22d3ee) neon sparks radiating outward",
       "name": "spark"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-pinball-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "panel-border-010.png",
       "role": "ui",
@@ -83,7 +89,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-pinball-board/default/ui/icon-score/icon-score.png",
       "sprite": "star.png",
       "role": "ui",
@@ -96,7 +103,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-balls": {
+    {
+      "key": "ui/icon-balls",
       "url": "/shared/ui-pinball-board/default/ui/icon-balls/icon-balls.png",
       "sprite": "ballGrey_01.png",
       "role": "ui",
@@ -109,7 +117,8 @@
       "aspect": "1:1",
       "name": "icon-balls"
     },
-    "ui/icon-flipper": {
+    {
+      "key": "ui/icon-flipper",
       "url": "/shared/ui-pinball-board/default/ui/icon-flipper/icon-flipper.png",
       "sprite": "arrow_w.png",
       "role": "ui",
@@ -122,7 +131,8 @@
       "aspect": "1:1",
       "name": "icon-flipper"
     },
-    "ui/icon-launch": {
+    {
+      "key": "ui/icon-launch",
       "url": "/shared/ui-pinball-board/default/ui/icon-launch/icon-launch.png",
       "sprite": "grey_arrowUpWhite.png",
       "role": "ui",
@@ -135,5 +145,5 @@
       "aspect": "1:1",
       "name": "icon-launch"
     }
-  }
+  ]
 }

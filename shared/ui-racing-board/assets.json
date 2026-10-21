@@ -2,8 +2,9 @@
   "pack": "kflow/ui-racing-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/road": {
+  "assets": [
+    {
+      "key": "terrains/road",
       "url": "/shared/ui-racing-board/default/terrain/road/road.png",
       "role": "tile",
       "category": "road",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "road"
     },
-    "terrains/grass": {
+    {
+      "key": "terrains/grass",
       "url": "/shared/ui-racing-board/default/terrain/grass/grass.png",
       "role": "tile",
       "category": "grass",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "units/car_player": {
+    {
+      "key": "units/car_player",
       "url": "/shared/ui-racing-board/default/units/car_player/car_player.png",
       "role": "npc",
       "category": "car_player",
@@ -44,7 +47,8 @@
       "aspect": "1:1",
       "name": "car_player"
     },
-    "units/car_rival": {
+    {
+      "key": "units/car_rival",
       "url": "/shared/ui-racing-board/default/units/car_rival/car_rival.png",
       "role": "npc",
       "category": "car_rival",
@@ -61,7 +65,8 @@
       "aspect": "1:1",
       "name": "car_rival"
     },
-    "features/checkpoint": {
+    {
+      "key": "features/checkpoint",
       "url": "/shared/ui-racing-board/default/features/checkpoint/checkpoint.png",
       "role": "feature",
       "category": "checkpoint",
@@ -73,7 +78,8 @@
       "aspect": "1:1",
       "name": "checkpoint"
     },
-    "features/finish": {
+    {
+      "key": "features/finish",
       "url": "/shared/ui-racing-board/default/features/finish/finish.png",
       "role": "feature",
       "category": "finish",
@@ -85,7 +91,8 @@
       "aspect": "1:1",
       "name": "finish"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-racing-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "blue_panel.png",
       "role": "ui",
@@ -96,7 +103,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-lap": {
+    {
+      "key": "ui/icon-lap",
       "url": "/shared/ui-racing-board/default/ui/icon-lap/icon-lap.png",
       "sprite": "emote_star.png",
       "role": "ui",
@@ -107,7 +115,8 @@
       "aspect": "1:1",
       "name": "icon-lap"
     },
-    "ui/icon-position": {
+    {
+      "key": "ui/icon-position",
       "url": "/shared/ui-racing-board/default/ui/icon-position/icon-position.png",
       "sprite": "flat_medal1.png",
       "role": "ui",
@@ -118,7 +127,8 @@
       "aspect": "1:1",
       "name": "icon-position"
     },
-    "ui/icon-speed": {
+    {
+      "key": "ui/icon-speed",
       "url": "/shared/ui-racing-board/default/ui/icon-speed/icon-speed.png",
       "sprite": "arrow_yellow.png",
       "role": "ui",
@@ -129,7 +139,8 @@
       "aspect": "5:3",
       "name": "icon-speed"
     },
-    "ui/icon-restart": {
+    {
+      "key": "ui/icon-restart",
       "url": "/shared/ui-racing-board/default/ui/icon-restart/icon-restart.png",
       "sprite": "tires_white.png",
       "role": "ui",
@@ -140,7 +151,8 @@
       "aspect": "1:1",
       "name": "icon-restart"
     },
-    "featureSprites/checkpoint": {
+    {
+      "key": "featureSprites/checkpoint",
       "url": "/shared/ui-racing-board/svg/flat/features/checkpoint.svg",
       "role": "feature",
       "category": "checkpoint",
@@ -152,7 +164,8 @@
       "aspect": "1:1",
       "name": "checkpoint"
     },
-    "featureSprites/finish": {
+    {
+      "key": "featureSprites/finish",
       "url": "/shared/ui-racing-board/svg/flat/features/finish.svg",
       "role": "feature",
       "category": "finish",
@@ -164,7 +177,8 @@
       "aspect": "1:1",
       "name": "finish"
     },
-    "tileSprites/road": {
+    {
+      "key": "tileSprites/road",
       "url": "/shared/ui-racing-board/svg/flat/terrain/road.svg",
       "role": "tile",
       "category": "road",
@@ -176,7 +190,8 @@
       "aspect": "1:1",
       "name": "road"
     },
-    "tileSprites/grass": {
+    {
+      "key": "tileSprites/grass",
       "url": "/shared/ui-racing-board/svg/flat/terrain/grass.svg",
       "role": "tile",
       "category": "grass",
@@ -188,7 +203,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "unitSprites/car_player": {
+    {
+      "key": "unitSprites/car_player",
       "url": "/shared/ui-racing-board/svg/flat/units/car_player.svg",
       "role": "npc",
       "category": "car_player",
@@ -205,7 +221,8 @@
       "aspect": "1:1",
       "name": "car_player"
     },
-    "unitSprites/car_rival": {
+    {
+      "key": "unitSprites/car_rival",
       "url": "/shared/ui-racing-board/svg/flat/units/car_rival.svg",
       "role": "npc",
       "category": "car_rival",
@@ -222,5 +239,5 @@
       "aspect": "1:1",
       "name": "car_rival"
     }
-  }
+  ]
 }

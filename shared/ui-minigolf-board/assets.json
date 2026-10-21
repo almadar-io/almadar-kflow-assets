@@ -2,8 +2,9 @@
   "pack": "kflow/ui-minigolf-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/fairway": {
+  "assets": [
+    {
+      "key": "terrains/fairway",
       "url": "/shared/ui-minigolf-board/default/terrain/fairway/fairway.png",
       "role": "tile",
       "category": "fairway",
@@ -14,7 +15,8 @@
       "aspect": "1:1",
       "name": "fairway"
     },
-    "terrains/tee": {
+    {
+      "key": "terrains/tee",
       "url": "/shared/ui-minigolf-board/default/terrain/tee/tee.png",
       "role": "tile",
       "category": "tee",
@@ -25,7 +27,8 @@
       "aspect": "1:1",
       "name": "tee"
     },
-    "terrains/hole": {
+    {
+      "key": "terrains/hole",
       "url": "/shared/ui-minigolf-board/default/terrain/hole/hole.png",
       "role": "tile",
       "category": "hole",
@@ -36,7 +39,8 @@
       "aspect": "1:1",
       "name": "hole"
     },
-    "terrains/rough": {
+    {
+      "key": "terrains/rough",
       "url": "/shared/ui-minigolf-board/default/terrain/rough/rough.png",
       "role": "tile",
       "category": "rough",
@@ -47,7 +51,8 @@
       "aspect": "1:1",
       "name": "rough"
     },
-    "units/ball": {
+    {
+      "key": "units/ball",
       "url": "/shared/ui-minigolf-board/default/units/ball/ball.png",
       "role": "npc",
       "category": "ball",
@@ -60,7 +65,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-minigolf-board/default/ui/panel-frame/panel-frame.png",
       "role": "ui",
       "category": "ui",
@@ -69,7 +75,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-hole": {
+    {
+      "key": "ui/icon-hole",
       "url": "/shared/ui-minigolf-board/default/ui/icon-hole/icon-hole.png",
       "role": "ui",
       "category": "ui",
@@ -78,7 +85,8 @@
       "aspect": "1:1",
       "name": "icon-hole"
     },
-    "ui/icon-strokes": {
+    {
+      "key": "ui/icon-strokes",
       "url": "/shared/ui-minigolf-board/default/ui/icon-strokes/icon-strokes.png",
       "role": "ui",
       "category": "ui",
@@ -87,7 +95,8 @@
       "aspect": "1:1",
       "name": "icon-strokes"
     },
-    "ui/icon-par": {
+    {
+      "key": "ui/icon-par",
       "url": "/shared/ui-minigolf-board/default/ui/icon-par/icon-par.png",
       "role": "ui",
       "category": "ui",
@@ -96,7 +105,8 @@
       "aspect": "1:1",
       "name": "icon-par"
     },
-    "ui/icon-total": {
+    {
+      "key": "ui/icon-total",
       "url": "/shared/ui-minigolf-board/default/ui/icon-total/icon-total.png",
       "role": "ui",
       "category": "ui",
@@ -105,7 +115,8 @@
       "aspect": "1:1",
       "name": "icon-total"
     },
-    "ui/key-up": {
+    {
+      "key": "ui/key-up",
       "url": "/shared/ui-minigolf-board/default/ui/key-up/key-up.png",
       "role": "ui",
       "category": "ui",
@@ -115,7 +126,8 @@
       "aspect": "1:1",
       "name": "key-up"
     },
-    "ui/key-down": {
+    {
+      "key": "ui/key-down",
       "url": "/shared/ui-minigolf-board/default/ui/key-down/key-down.png",
       "role": "ui",
       "category": "ui",
@@ -125,7 +137,8 @@
       "aspect": "1:1",
       "name": "key-down"
     },
-    "ui/key-left": {
+    {
+      "key": "ui/key-left",
       "url": "/shared/ui-minigolf-board/default/ui/key-left/key-left.png",
       "role": "ui",
       "category": "ui",
@@ -135,7 +148,8 @@
       "aspect": "1:1",
       "name": "key-left"
     },
-    "ui/key-right": {
+    {
+      "key": "ui/key-right",
       "url": "/shared/ui-minigolf-board/default/ui/key-right/key-right.png",
       "role": "ui",
       "category": "ui",
@@ -145,7 +159,8 @@
       "aspect": "1:1",
       "name": "key-right"
     },
-    "ui/icon-next": {
+    {
+      "key": "ui/icon-next",
       "url": "/shared/ui-minigolf-board/default/ui/icon-next/icon-next.png",
       "role": "ui",
       "category": "ui",
@@ -154,7 +169,8 @@
       "aspect": "1:1",
       "name": "icon-next"
     },
-    "ui/icon-reset": {
+    {
+      "key": "ui/icon-reset",
       "url": "/shared/ui-minigolf-board/default/ui/icon-reset/icon-reset.png",
       "role": "ui",
       "category": "ui",
@@ -163,7 +179,8 @@
       "aspect": "1:1",
       "name": "icon-reset"
     },
-    "unit-art/ball": {
+    {
+      "key": "unit-art/ball",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.svg",
       "role": "npc",
       "category": "ball",
@@ -176,7 +193,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "tile-art/rough": {
+    {
+      "key": "tile-art/rough",
       "url": "/shared/ui-minigolf-board/svg/isometric/terrain/rough.svg",
       "role": "tile",
       "category": "rough",
@@ -187,7 +205,8 @@
       "aspect": "1:1",
       "name": "rough"
     },
-    "tile-art/tee": {
+    {
+      "key": "tile-art/tee",
       "url": "/shared/ui-minigolf-board/svg/isometric/terrain/tee.svg",
       "role": "tile",
       "category": "tee",
@@ -198,7 +217,8 @@
       "aspect": "1:1",
       "name": "tee"
     },
-    "tile-art/fairway": {
+    {
+      "key": "tile-art/fairway",
       "url": "/shared/ui-minigolf-board/svg/isometric/terrain/fairway.svg",
       "role": "tile",
       "category": "fairway",
@@ -209,7 +229,8 @@
       "aspect": "1:1",
       "name": "fairway"
     },
-    "tile-art/hole": {
+    {
+      "key": "tile-art/hole",
       "url": "/shared/ui-minigolf-board/svg/isometric/terrain/hole.svg",
       "role": "tile",
       "category": "hole",
@@ -220,7 +241,8 @@
       "aspect": "1:1",
       "name": "hole"
     },
-    "unit-art/ball-idle-0": {
+    {
+      "key": "unit-art/ball-idle-0",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-0.svg",
       "role": "npc",
       "category": "ball",
@@ -233,7 +255,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "unit-art/ball-idle-1": {
+    {
+      "key": "unit-art/ball-idle-1",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-1.svg",
       "role": "npc",
       "category": "ball",
@@ -246,7 +269,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "unit-art/ball-idle-2": {
+    {
+      "key": "unit-art/ball-idle-2",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-2.svg",
       "role": "npc",
       "category": "ball",
@@ -259,7 +283,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "unit-art/ball-idle-3": {
+    {
+      "key": "unit-art/ball-idle-3",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.idle-3.svg",
       "role": "npc",
       "category": "ball",
@@ -272,7 +297,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "unit-art/ball-walk-0": {
+    {
+      "key": "unit-art/ball-walk-0",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.walk-0.svg",
       "role": "npc",
       "category": "ball",
@@ -285,7 +311,8 @@
       "aspect": "1:1",
       "name": "ball"
     },
-    "unit-art/ball-walk-1": {
+    {
+      "key": "unit-art/ball-walk-1",
       "url": "/shared/ui-minigolf-board/svg/isometric/units/ball.walk-1.svg",
       "role": "npc",
       "category": "ball",
@@ -298,5 +325,5 @@
       "aspect": "1:1",
       "name": "ball"
     }
-  }
+  ]
 }

@@ -2,8 +2,9 @@
   "pack": "kflow/ui-fishing-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/surface": {
+  "assets": [
+    {
+      "key": "terrains/surface",
       "url": "/shared/ui-fishing-board/default/terrain/surface/surface.png",
       "role": "tile",
       "category": "surface",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "surface"
     },
-    "terrains/water": {
+    {
+      "key": "terrains/water",
       "url": "/shared/ui-fishing-board/default/terrain/water/water.png",
       "role": "tile",
       "category": "water",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "water"
     },
-    "terrains/seabed": {
+    {
+      "key": "terrains/seabed",
       "url": "/shared/ui-fishing-board/default/terrain/seabed/seabed.png",
       "role": "tile",
       "category": "seabed",
@@ -39,7 +42,8 @@
       "aspect": "1:1",
       "name": "seabed"
     },
-    "units/boat": {
+    {
+      "key": "units/boat",
       "prompt": "a little wooden rowboat with a lone fisherman, warm wood browns (#8b5a2b) hull, indigo cloth (#27436b), foam-white (#f4f8fb) trim along the gunwale, a simple fishing rod",
       "url": "/shared/ui-fishing-board/default/units/boat/boat.png",
       "role": "npc",
@@ -56,7 +60,8 @@
       "aspect": "1:1",
       "name": "boat"
     },
-    "units/hook": {
+    {
+      "key": "units/hook",
       "prompt": "a round red-and-white fishing bobber (lacquer red #c0392b, foam white #f4f8fb) with a short line down to a simple silver hook, compact and readable",
       "url": "/shared/ui-fishing-board/default/units/hook/hook.png",
       "role": "npc",
@@ -73,7 +78,8 @@
       "aspect": "1:1",
       "name": "hook"
     },
-    "features/fish": {
+    {
+      "key": "features/fish",
       "url": "/shared/ui-fishing-board/default/features/fish/fish.png",
       "role": "decoration",
       "category": "fish",
@@ -85,7 +91,8 @@
       "aspect": "1:1",
       "name": "fish"
     },
-    "features/seaweed": {
+    {
+      "key": "features/seaweed",
       "url": "/shared/ui-fishing-board/default/features/seaweed/seaweed.png",
       "role": "decoration",
       "category": "seaweed",
@@ -97,7 +104,8 @@
       "aspect": "1:1",
       "name": "seaweed"
     },
-    "features/rock": {
+    {
+      "key": "features/rock",
       "url": "/shared/ui-fishing-board/default/features/rock/rock.png",
       "role": "decoration",
       "category": "rock",
@@ -109,7 +117,8 @@
       "aspect": "1:1",
       "name": "rock"
     },
-    "effects/splash": {
+    {
+      "key": "effects/splash",
       "prompt": "a crown-shaped water splash burst in foam-white (#f4f8fb) and pale indigo (#7f9bbd), a few flat droplets flying outward",
       "url": "/shared/ui-fishing-board/default/effects/splash/splash.png",
       "sprite": "burst.png",
@@ -124,7 +133,8 @@
       "aspect": "1:1",
       "name": "splash"
     },
-    "effects/bite": {
+    {
+      "key": "effects/bite",
       "prompt": "concentric ripple rings expanding on water, drawn as two or three foam-white (#f4f8fb) wave circles with a small indigo (#2b4a73) splash peak at the center",
       "url": "/shared/ui-fishing-board/default/effects/bite/bite.png",
       "sprite": "emote_exclamation.png",
@@ -139,7 +149,8 @@
       "aspect": "1:1",
       "name": "bite"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-fishing-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "blue_panel.png",
       "role": "ui",
@@ -152,7 +163,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-catch": {
+    {
+      "key": "ui/icon-catch",
       "url": "/shared/ui-fishing-board/default/ui/icon-catch/icon-catch.png",
       "role": "ui",
       "category": "ui",
@@ -164,7 +176,8 @@
       "aspect": "1:1",
       "name": "icon-catch"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-fishing-board/default/ui/icon-score/icon-score.png",
       "sprite": "emote_star.png",
       "role": "ui",
@@ -177,7 +190,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-cast": {
+    {
+      "key": "ui/icon-cast",
       "url": "/shared/ui-fishing-board/default/ui/icon-cast/icon-cast.png",
       "sprite": "emote_drop.png",
       "role": "ui",
@@ -190,7 +204,8 @@
       "aspect": "1:1",
       "name": "icon-cast"
     },
-    "ui/icon-reel": {
+    {
+      "key": "ui/icon-reel",
       "url": "/shared/ui-fishing-board/default/ui/icon-reel/icon-reel.png",
       "sprite": "rotate_cw.png",
       "role": "ui",
@@ -203,7 +218,8 @@
       "aspect": "1:1",
       "name": "icon-reel"
     },
-    "tile-art/surface": {
+    {
+      "key": "tile-art/surface",
       "url": "/shared/ui-fishing-board/svg/flat/terrain/surface.svg",
       "role": "tile",
       "category": "surface",
@@ -215,7 +231,8 @@
       "aspect": "1:1",
       "name": "surface"
     },
-    "tile-art/water": {
+    {
+      "key": "tile-art/water",
       "url": "/shared/ui-fishing-board/svg/flat/terrain/water.svg",
       "role": "tile",
       "category": "water",
@@ -227,7 +244,8 @@
       "aspect": "1:1",
       "name": "water"
     },
-    "tile-art/seabed": {
+    {
+      "key": "tile-art/seabed",
       "url": "/shared/ui-fishing-board/svg/flat/terrain/seabed.svg",
       "role": "tile",
       "category": "seabed",
@@ -239,7 +257,8 @@
       "aspect": "1:1",
       "name": "seabed"
     },
-    "unit-art/boat": {
+    {
+      "key": "unit-art/boat",
       "url": "/shared/ui-fishing-board/svg/flat/units/boat.svg",
       "role": "npc",
       "category": "boat",
@@ -255,7 +274,8 @@
       "aspect": "1:1",
       "name": "boat"
     },
-    "unit-art/hook": {
+    {
+      "key": "unit-art/hook",
       "url": "/shared/ui-fishing-board/svg/flat/units/hook.svg",
       "role": "npc",
       "category": "hook",
@@ -271,7 +291,8 @@
       "aspect": "1:1",
       "name": "hook"
     },
-    "feature-art/fish": {
+    {
+      "key": "feature-art/fish",
       "url": "/shared/ui-fishing-board/svg/flat/features/fish.svg",
       "role": "decoration",
       "category": "fish",
@@ -283,7 +304,8 @@
       "aspect": "1:1",
       "name": "fish"
     },
-    "feature-art/seaweed": {
+    {
+      "key": "feature-art/seaweed",
       "url": "/shared/ui-fishing-board/svg/flat/features/seaweed.svg",
       "role": "decoration",
       "category": "seaweed",
@@ -295,7 +317,8 @@
       "aspect": "1:1",
       "name": "seaweed"
     },
-    "feature-art/rock": {
+    {
+      "key": "feature-art/rock",
       "url": "/shared/ui-fishing-board/svg/flat/features/rock.svg",
       "role": "decoration",
       "category": "rock",
@@ -307,5 +330,5 @@
       "aspect": "1:1",
       "name": "rock"
     }
-  }
+  ]
 }

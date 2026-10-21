@@ -2,8 +2,9 @@
   "pack": "kflow/ui-topdown-rts-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/ground": {
+  "assets": [
+    {
+      "key": "terrains/ground",
       "url": "/shared/ui-topdown-rts-board/default/terrain/ground/ground.png",
       "role": "tile",
       "category": "ground",
@@ -14,7 +15,8 @@
       "aspect": "1:1",
       "name": "ground"
     },
-    "terrains/sand": {
+    {
+      "key": "terrains/sand",
       "url": "/shared/ui-topdown-rts-board/default/terrain/sand/sand.png",
       "role": "tile",
       "category": "sand",
@@ -25,7 +27,8 @@
       "aspect": "1:1",
       "name": "sand"
     },
-    "units/tank": {
+    {
+      "key": "units/tank",
       "url": "/shared/ui-topdown-rts-board/default/units/tank/tank.png",
       "role": "npc",
       "category": "tank",
@@ -41,7 +44,8 @@
       "prompt": "an olive-green (#6b7f3e) armored battle tank with a blue (#3b82f6) faction roundel and a prominent turret",
       "name": "tank"
     },
-    "units/raider": {
+    {
+      "key": "units/raider",
       "url": "/shared/ui-topdown-rts-board/default/units/raider/raider.png",
       "role": "npc",
       "category": "raider",
@@ -57,7 +61,8 @@
       "prompt": "a rugged humanoid raider fighter in dusty brown gear with a crimson (#c0392b) faction sash and shoulder pad, carrying a short blade",
       "name": "raider"
     },
-    "units/worker": {
+    {
+      "key": "units/worker",
       "url": "/shared/ui-topdown-rts-board/default/units/worker/worker.png",
       "role": "npc",
       "category": "worker",
@@ -73,7 +78,8 @@
       "prompt": "a small engineer worker in blue (#3b82f6) faction overalls with a tan satchel and tool",
       "name": "worker"
     },
-    "units/town_hall": {
+    {
+      "key": "units/town_hall",
       "url": "/shared/ui-topdown-rts-board/default/units/town_hall/town_hall.png",
       "role": "npc",
       "category": "town_hall",
@@ -89,7 +95,8 @@
       "prompt": "a sturdy square town hall command center with stone-grey walls and a blue (#3b82f6) faction rooftop banner",
       "name": "town_hall"
     },
-    "units/raider_den": {
+    {
+      "key": "units/raider_den",
       "url": "/shared/ui-topdown-rts-board/default/units/raider_den/raider_den.png",
       "role": "npc",
       "category": "raider_den",
@@ -105,7 +112,8 @@
       "prompt": "a ramshackle desert raider den bunker of stacked timber and hide with crimson (#c0392b) banners",
       "name": "raider_den"
     },
-    "features/gold_mine": {
+    {
+      "key": "features/gold_mine",
       "url": "/shared/ui-topdown-rts-board/default/features/gold_mine/gold_mine.png",
       "role": "decoration",
       "category": "gold_mine",
@@ -116,7 +124,8 @@
       "aspect": "1:1",
       "name": "gold_mine"
     },
-    "features/wall": {
+    {
+      "key": "features/wall",
       "url": "/shared/ui-topdown-rts-board/default/features/wall/wall.png",
       "role": "decoration",
       "category": "wall",
@@ -127,7 +136,8 @@
       "aspect": "1:1",
       "name": "wall"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "url": "/shared/ui-topdown-rts-board/default/effects/hit/hit.png",
       "role": "effect",
       "fxKind": "burst",
@@ -140,7 +150,8 @@
       "prompt": "a sharp white-yellow (#fdf2c0) four-point hit impact spark with a short orange corona",
       "name": "hit"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "url": "/shared/ui-topdown-rts-board/default/effects/explosion/explosion.png",
       "role": "effect",
       "fxKind": "burst",
@@ -153,7 +164,8 @@
       "prompt": "an orange-yellow (#f39c12) explosion blast with a bright core and radiating debris streaks",
       "name": "explosion"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-topdown-rts-board/default/ui/panel-frame/panel-frame.png",
       "role": "ui",
       "category": "ui",
@@ -162,7 +174,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "units/worker-svg": {
+    {
+      "key": "units/worker-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/units/worker.svg",
       "role": "npc",
       "category": "worker",
@@ -177,7 +190,8 @@
       "aspect": "1:1",
       "name": "worker"
     },
-    "units/tank-svg": {
+    {
+      "key": "units/tank-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/units/tank.svg",
       "role": "npc",
       "category": "tank",
@@ -192,7 +206,8 @@
       "aspect": "1:1",
       "name": "tank"
     },
-    "units/town_hall-svg": {
+    {
+      "key": "units/town_hall-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/units/town_hall.svg",
       "role": "npc",
       "category": "town_hall",
@@ -207,7 +222,8 @@
       "aspect": "1:1",
       "name": "town_hall"
     },
-    "units/raider_den-svg": {
+    {
+      "key": "units/raider_den-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/units/raider_den.svg",
       "role": "npc",
       "category": "raider_den",
@@ -222,7 +238,8 @@
       "aspect": "1:1",
       "name": "raider_den"
     },
-    "features/gold_mine-svg": {
+    {
+      "key": "features/gold_mine-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/features/gold_mine.svg",
       "role": "decoration",
       "category": "gold_mine",
@@ -233,7 +250,8 @@
       "aspect": "1:1",
       "name": "gold_mine"
     },
-    "features/wall-svg": {
+    {
+      "key": "features/wall-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/features/wall.svg",
       "role": "decoration",
       "category": "wall",
@@ -244,7 +262,8 @@
       "aspect": "1:1",
       "name": "wall"
     },
-    "ui/panel-frame-svg": {
+    {
+      "key": "ui/panel-frame-svg",
       "url": "/shared/ui-topdown-rts-board/svg/flat/ui/panel-frame.svg",
       "role": "ui",
       "category": "ui",
@@ -253,5 +272,5 @@
       "aspect": "1:1",
       "name": "panel-frame"
     }
-  }
+  ]
 }

@@ -2,8 +2,9 @@
   "pack": "kflow/ui-toy-track-board-3d",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrain/road": {
+  "assets": [
+    {
+      "key": "terrain/road",
       "url": "/shared/ui-toy-track-board-3d/default/terrain/road/road.glb",
       "role": "tile",
       "category": "terrain",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "track-striped-narrow-straight"
     },
-    "features/grass": {
+    {
+      "key": "features/grass",
       "url": "/shared/ui-toy-track-board-3d/default/features/grass/grass.glb",
       "role": "decoration",
       "category": "grass",
@@ -27,5 +29,5 @@
       "aspect": "1:1",
       "name": "grass"
     }
-  }
+  ]
 }

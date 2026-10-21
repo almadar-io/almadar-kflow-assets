@@ -2,8 +2,9 @@
   "pack": "kflow/ui-tanks-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/ground": {
+  "assets": [
+    {
+      "key": "terrains/ground",
       "url": "/shared/ui-tanks-board/default/terrain/ground/ground.png",
       "role": "tile",
       "category": "ground",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "ground"
     },
-    "terrains/sand": {
+    {
+      "key": "terrains/sand",
       "url": "/shared/ui-tanks-board/default/terrain/sand/sand.png",
       "role": "tile",
       "category": "sand",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "sand"
     },
-    "units/tank": {
+    {
+      "key": "units/tank",
       "url": "/shared/ui-tanks-board/default/units/tank/tank.png",
       "role": "npc",
       "category": "tank",
@@ -44,7 +47,8 @@
       "name": "tank",
       "prompt": "a chunky oversized toy tank with a glossy plastic green (#22c55e) hull and turret, thick dark grey (#4b5563) treads and a comically large short barrel, like a model-kit miniature"
     },
-    "units/tank_enemy": {
+    {
+      "key": "units/tank_enemy",
       "url": "/shared/ui-tanks-board/default/units/tank_enemy/tank_enemy.png",
       "role": "npc",
       "category": "tank_enemy",
@@ -61,7 +65,8 @@
       "name": "tank_enemy",
       "prompt": "a chunky oversized toy tank with a glossy plastic grey (#6b7280) hull and turret with a small red (#ef4444) turret stripe, thick dark treads and a comically large short barrel, like a model-kit miniature"
     },
-    "features/obstacle": {
+    {
+      "key": "features/obstacle",
       "url": "/shared/ui-tanks-board/default/features/obstacle/obstacle.png",
       "role": "decoration",
       "category": "obstacle",
@@ -73,7 +78,8 @@
       "aspect": "1:1",
       "name": "obstacle"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "url": "/shared/ui-tanks-board/default/effects/hit/hit.png",
       "role": "effect",
       "fxKind": "burst",
@@ -87,7 +93,8 @@
       "name": "hit",
       "prompt": "a chunky yellow (#fde047) star-shaped impact spark with short orange (#fb923c) rays and one tiny grey (#9ca3af) smoke puff"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "url": "/shared/ui-tanks-board/default/effects/explosion/explosion.png",
       "role": "effect",
       "fxKind": "burst",
@@ -101,7 +108,8 @@
       "name": "explosion",
       "prompt": "a plump cartoon explosion cloud of bright orange (#fb923c) and yellow (#fde047) with chunky rounded lobes, small grey (#9ca3af) smoke puffs and tiny flying plastic debris bits"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-tanks-board/default/ui/panel-frame/panel-frame.png",
       "role": "ui",
       "category": "ui",
@@ -111,7 +119,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "units/tank-svg": {
+    {
+      "key": "units/tank-svg",
       "url": "/shared/ui-tanks-board/svg/flat/units/tank.svg",
       "role": "npc",
       "category": "tank",
@@ -127,7 +136,8 @@
       "aspect": "1:1",
       "name": "tank"
     },
-    "units/tank_enemy-svg": {
+    {
+      "key": "units/tank_enemy-svg",
       "url": "/shared/ui-tanks-board/svg/flat/units/tank_enemy.svg",
       "role": "npc",
       "category": "tank_enemy",
@@ -143,7 +153,8 @@
       "aspect": "1:1",
       "name": "tank_enemy"
     },
-    "features/obstacle-svg": {
+    {
+      "key": "features/obstacle-svg",
       "url": "/shared/ui-tanks-board/svg/flat/features/obstacle.svg",
       "role": "decoration",
       "category": "obstacle",
@@ -155,7 +166,8 @@
       "aspect": "1:1",
       "name": "obstacle"
     },
-    "ui/panel-frame-svg": {
+    {
+      "key": "ui/panel-frame-svg",
       "url": "/shared/ui-tanks-board/svg/flat/ui/panel-frame.svg",
       "role": "ui",
       "category": "ui",
@@ -165,5 +177,5 @@
       "aspect": "1:1",
       "name": "panel-frame"
     }
-  }
+  ]
 }

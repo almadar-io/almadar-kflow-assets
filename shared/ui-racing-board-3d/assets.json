@@ -2,8 +2,9 @@
   "pack": "kflow/ui-racing-board-3d",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "features/grass": {
+  "assets": [
+    {
+      "key": "features/grass",
       "url": "/shared/ui-racing-board-3d/default/features/grass/grass.glb",
       "role": "decoration",
       "category": "grass",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "terrain/road": {
+    {
+      "key": "terrain/road",
       "url": "/shared/ui-racing-board-3d/default/terrain/road/road.glb",
       "role": "tile",
       "category": "roadStraight",
@@ -27,5 +29,5 @@
       "aspect": "1:1",
       "name": "roadStraight"
     }
-  }
+  ]
 }

@@ -2,8 +2,9 @@
   "pack": "kflow/ui-space-station-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/wall": {
+  "assets": [
+    {
+      "key": "terrains/wall",
       "url": "/shared/ui-space-station-board/default/terrain/wall/wall.png",
       "role": "tile",
       "category": "wall",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "wall"
     },
-    "terrains/floor": {
+    {
+      "key": "terrains/floor",
       "url": "/shared/ui-space-station-board/default/terrain/floor/floor.png",
       "role": "tile",
       "category": "floor",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "floor"
     },
-    "terrains/console": {
+    {
+      "key": "terrains/console",
       "url": "/shared/ui-space-station-board/default/features/console/console.png",
       "role": "tile",
       "category": "console",
@@ -39,7 +42,8 @@
       "aspect": "1:1",
       "name": "console"
     },
-    "units/crew": {
+    {
+      "key": "units/crew",
       "url": "/shared/ui-space-station-board/default/units/crew/crew.png",
       "role": "npc",
       "category": "crew",
@@ -56,7 +60,8 @@
       "name": "crew",
       "prompt": "a stocky astronaut-technician in a NASA white (#f8fafc) utility suit with safety orange (#f97316) shoulder and chest stripes, cool grey (#94a3b8) boots and gloves and a clear helmet visor showing a friendly face"
     },
-    "units/crew-svg": {
+    {
+      "key": "units/crew-svg",
       "url": "/shared/ui-space-station-board/svg/isometric/units/crew.svg",
       "role": "npc",
       "category": "crew",
@@ -72,7 +77,8 @@
       "aspect": "1:1",
       "name": "crew"
     },
-    "features/console": {
+    {
+      "key": "features/console",
       "url": "/shared/ui-space-station-board/default/features/console/console.png",
       "role": "decoration",
       "category": "console",
@@ -84,7 +90,8 @@
       "aspect": "1:1",
       "name": "console"
     },
-    "features/console-svg": {
+    {
+      "key": "features/console-svg",
       "url": "/shared/ui-space-station-board/svg/isometric/features/console.svg",
       "role": "decoration",
       "category": "console",
@@ -96,7 +103,8 @@
       "aspect": "1:1",
       "name": "console"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-space-station-board/default/ui/panel-frame/panel-frame.png",
       "role": "ui",
       "category": "ui",
@@ -106,7 +114,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-crew": {
+    {
+      "key": "ui/icon-crew",
       "url": "/shared/ui-space-station-board/default/ui/icon-crew/icon-crew.png",
       "role": "ui",
       "category": "ui",
@@ -116,7 +125,8 @@
       "aspect": "1:1",
       "name": "icon-crew"
     },
-    "ui/icon-oxygen": {
+    {
+      "key": "ui/icon-oxygen",
       "url": "/shared/ui-space-station-board/default/ui/icon-oxygen/icon-oxygen.png",
       "role": "ui",
       "category": "ui",
@@ -126,7 +136,8 @@
       "aspect": "1:1",
       "name": "icon-oxygen"
     },
-    "ui/icon-cancel": {
+    {
+      "key": "ui/icon-cancel",
       "url": "/shared/ui-space-station-board/default/ui/icon-cancel/icon-cancel.png",
       "role": "ui",
       "category": "ui",
@@ -136,7 +147,8 @@
       "aspect": "1:1",
       "name": "icon-cancel"
     },
-    "ui/panel-frame-svg": {
+    {
+      "key": "ui/panel-frame-svg",
       "url": "/shared/ui-space-station-board/svg/isometric/ui/panel-frame.svg",
       "role": "ui",
       "category": "ui",
@@ -146,7 +158,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-crew-svg": {
+    {
+      "key": "ui/icon-crew-svg",
       "url": "/shared/ui-space-station-board/svg/isometric/ui/icon-crew.svg",
       "role": "ui",
       "category": "ui",
@@ -156,7 +169,8 @@
       "aspect": "1:1",
       "name": "icon-crew"
     },
-    "ui/icon-oxygen-svg": {
+    {
+      "key": "ui/icon-oxygen-svg",
       "url": "/shared/ui-space-station-board/svg/isometric/ui/icon-oxygen.svg",
       "role": "ui",
       "category": "ui",
@@ -166,7 +180,8 @@
       "aspect": "1:1",
       "name": "icon-oxygen"
     },
-    "ui/icon-cancel-svg": {
+    {
+      "key": "ui/icon-cancel-svg",
       "url": "/shared/ui-space-station-board/svg/isometric/ui/icon-cancel.svg",
       "role": "ui",
       "category": "ui",
@@ -176,5 +191,5 @@
       "aspect": "1:1",
       "name": "icon-cancel"
     }
-  }
+  ]
 }

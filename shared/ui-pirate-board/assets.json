@@ -2,8 +2,9 @@
   "pack": "kflow/ui-pirate-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/sea": {
+  "assets": [
+    {
+      "key": "terrains/sea",
       "url": "/shared/ui-pirate-board/default/terrain/sea/sea.png",
       "role": "tile",
       "category": "sea",
@@ -14,7 +15,8 @@
       "aspect": "1:1",
       "name": "sea"
     },
-    "terrains/island": {
+    {
+      "key": "terrains/island",
       "url": "/shared/ui-pirate-board/default/terrain/island/island.png",
       "role": "tile",
       "category": "island",
@@ -25,7 +27,8 @@
       "aspect": "1:1",
       "name": "island"
     },
-    "units/ship": {
+    {
+      "key": "units/ship",
       "url": "/shared/ui-pirate-board/default/units/ship/ship.png",
       "role": "npc",
       "category": "ship",
@@ -41,7 +44,8 @@
       "aspect": "1:1",
       "name": "ship"
     },
-    "features/port": {
+    {
+      "key": "features/port",
       "url": "/shared/ui-pirate-board/default/features/port/port.png",
       "role": "decoration",
       "category": "port",
@@ -52,7 +56,8 @@
       "aspect": "1:1",
       "name": "port"
     },
-    "features/treasure": {
+    {
+      "key": "features/treasure",
       "url": "/shared/ui-pirate-board/default/features/treasure/treasure.png",
       "role": "decoration",
       "category": "treasure",
@@ -63,7 +68,8 @@
       "aspect": "1:1",
       "name": "treasure"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "url": "/shared/ui-pirate-board/default/effects/explosion/explosion.png",
       "role": "effect",
       "fxKind": "burst",
@@ -76,7 +82,8 @@
       "aspect": "1:1",
       "name": "explosion"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-pirate-board/default/ui/panel-frame/panel-frame.png",
       "atlas": "",
       "sprite": "",
@@ -87,7 +94,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-gold": {
+    {
+      "key": "ui/icon-gold",
       "url": "/shared/ui-pirate-board/default/ui/icon-gold/icon-gold.png",
       "atlas": "",
       "sprite": "",
@@ -98,7 +106,8 @@
       "aspect": "1:1",
       "name": "icon-gold"
     },
-    "ui/icon-turn": {
+    {
+      "key": "ui/icon-turn",
       "url": "/shared/ui-pirate-board/default/ui/icon-turn/icon-turn.png",
       "atlas": "",
       "sprite": "",
@@ -109,7 +118,8 @@
       "aspect": "1:1",
       "name": "icon-turn"
     },
-    "ui/icon-ships": {
+    {
+      "key": "ui/icon-ships",
       "url": "/shared/ui-pirate-board/default/ui/icon-ships/icon-ships.png",
       "atlas": "",
       "sprite": "",
@@ -120,7 +130,8 @@
       "aspect": "1:1",
       "name": "icon-ships"
     },
-    "ui/icon-cannon": {
+    {
+      "key": "ui/icon-cannon",
       "url": "/shared/ui-pirate-board/default/ui/icon-cannon/icon-cannon.png",
       "atlas": "",
       "sprite": "",
@@ -131,7 +142,8 @@
       "aspect": "1:1",
       "name": "icon-cannon"
     },
-    "tile-art/sea": {
+    {
+      "key": "tile-art/sea",
       "url": "/shared/ui-pirate-board/svg/isometric/terrain/sea.svg",
       "role": "tile",
       "category": "sea",
@@ -142,7 +154,8 @@
       "aspect": "1:1",
       "name": "sea"
     },
-    "tile-art/island": {
+    {
+      "key": "tile-art/island",
       "url": "/shared/ui-pirate-board/svg/isometric/terrain/island.svg",
       "role": "tile",
       "category": "island",
@@ -153,7 +166,8 @@
       "aspect": "1:1",
       "name": "island"
     },
-    "unit-art/ship": {
+    {
+      "key": "unit-art/ship",
       "url": "/shared/ui-pirate-board/svg/isometric/units/ship.svg",
       "role": "npc",
       "category": "ship",
@@ -169,7 +183,8 @@
       "aspect": "1:1",
       "name": "ship"
     },
-    "feature-art/port": {
+    {
+      "key": "feature-art/port",
       "url": "/shared/ui-pirate-board/svg/isometric/features/port.svg",
       "role": "decoration",
       "category": "port",
@@ -180,7 +195,8 @@
       "aspect": "1:1",
       "name": "port"
     },
-    "feature-art/treasure": {
+    {
+      "key": "feature-art/treasure",
       "url": "/shared/ui-pirate-board/svg/isometric/features/treasure.svg",
       "role": "decoration",
       "category": "treasure",
@@ -191,5 +207,5 @@
       "aspect": "1:1",
       "name": "treasure"
     }
-  }
+  ]
 }

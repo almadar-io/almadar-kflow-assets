@@ -2,8 +2,9 @@
   "pack": "kflow/ui-physics-sandbox-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/grass": {
+  "assets": [
+    {
+      "key": "terrains/grass",
       "url": "/shared/ui-physics-sandbox-board/default/features/grass/grass.png",
       "sprite": "grass.png",
       "role": "tile",
@@ -16,7 +17,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "terrains/dirt": {
+    {
+      "key": "terrains/dirt",
       "url": "/shared/ui-physics-sandbox-board/default/features/dirt/dirt.png",
       "sprite": "dirt.png",
       "role": "tile",
@@ -29,7 +31,8 @@
       "aspect": "1:1",
       "name": "dirt"
     },
-    "features/grass": {
+    {
+      "key": "features/grass",
       "url": "/shared/ui-physics-sandbox-board/default/features/grass/grass.png",
       "sprite": "grass.png",
       "role": "decoration",
@@ -42,7 +45,8 @@
       "aspect": "1:1",
       "name": "grass"
     },
-    "features/dirt": {
+    {
+      "key": "features/dirt",
       "url": "/shared/ui-physics-sandbox-board/default/features/dirt/dirt.png",
       "sprite": "dirt.png",
       "role": "decoration",
@@ -55,7 +59,8 @@
       "aspect": "1:1",
       "name": "dirt"
     },
-    "features/rock": {
+    {
+      "key": "features/rock",
       "url": "/shared/ui-physics-sandbox-board/default/features/rock/rock.png",
       "sprite": "rock.png",
       "role": "decoration",
@@ -68,7 +73,8 @@
       "aspect": "1:1",
       "name": "rock"
     },
-    "features/sand": {
+    {
+      "key": "features/sand",
       "url": "/shared/ui-physics-sandbox-board/default/features/sand/sand.png",
       "sprite": "sand.png",
       "role": "decoration",
@@ -81,7 +87,8 @@
       "aspect": "1:1",
       "name": "sand"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-physics-sandbox-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "blue_panel.png",
       "role": "ui",
@@ -92,7 +99,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/icon-score": {
+    {
+      "key": "ui/icon-score",
       "url": "/shared/ui-physics-sandbox-board/default/ui/icon-score/icon-score.png",
       "sprite": "emote_star.png",
       "role": "ui",
@@ -103,7 +111,8 @@
       "aspect": "1:1",
       "name": "icon-score"
     },
-    "ui/icon-blocks-placed": {
+    {
+      "key": "ui/icon-blocks-placed",
       "url": "/shared/ui-physics-sandbox-board/default/ui/icon-blocks-placed/icon-blocks-placed.png",
       "sprite": "grey_arrowDownWhite.png",
       "role": "ui",
@@ -114,7 +123,8 @@
       "aspect": "1:1",
       "name": "icon-blocks-placed"
     },
-    "ui/icon-rows-cleared": {
+    {
+      "key": "ui/icon-rows-cleared",
       "url": "/shared/ui-physics-sandbox-board/default/ui/icon-rows-cleared/icon-rows-cleared.png",
       "sprite": "starGold.png",
       "role": "ui",
@@ -125,7 +135,8 @@
       "aspect": "1:1",
       "name": "icon-rows-cleared"
     },
-    "ui/icon-spawn": {
+    {
+      "key": "ui/icon-spawn",
       "url": "/shared/ui-physics-sandbox-board/default/ui/icon-spawn/icon-spawn.png",
       "sprite": "emote_drop.png",
       "role": "ui",
@@ -138,7 +149,8 @@
       "aspect": "1:1",
       "name": "icon-spawn"
     },
-    "ui/icon-cycle-kind": {
+    {
+      "key": "ui/icon-cycle-kind",
       "url": "/shared/ui-physics-sandbox-board/default/ui/icon-cycle-kind/icon-cycle-kind.png",
       "sprite": "rotate_cw.png",
       "role": "ui",
@@ -151,7 +163,8 @@
       "aspect": "1:1",
       "name": "icon-cycle-kind"
     },
-    "ui/icon-clear": {
+    {
+      "key": "ui/icon-clear",
       "url": "/shared/ui-physics-sandbox-board/default/ui/icon-clear/icon-clear.png",
       "sprite": "zoom_reset.png",
       "role": "ui",
@@ -164,5 +177,5 @@
       "aspect": "1:1",
       "name": "icon-clear"
     }
-  }
+  ]
 }

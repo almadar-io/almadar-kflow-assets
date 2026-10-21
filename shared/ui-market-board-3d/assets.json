@@ -2,8 +2,9 @@
   "pack": "kflow/ui-market-board-3d",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/floor": {
+  "assets": [
+    {
+      "key": "terrains/floor",
       "url": "/shared/ui-market-board-3d/default/terrain/floor/floor.glb",
       "role": "tile",
       "category": "floor",
@@ -15,7 +16,8 @@
       "aspect": "1:1",
       "name": "floor"
     },
-    "terrains/shelf": {
+    {
+      "key": "terrains/shelf",
       "url": "/shared/ui-market-board-3d/default/terrain/shelf/shelf.glb",
       "role": "tile",
       "category": "shelf-boxes",
@@ -27,7 +29,8 @@
       "aspect": "1:1",
       "name": "shelf-boxes"
     },
-    "features/shelf-boxes": {
+    {
+      "key": "features/shelf-boxes",
       "url": "",
       "role": "decoration",
       "category": "shelf-boxes",
@@ -39,7 +42,8 @@
       "aspect": "1:1",
       "name": "shelf-boxes"
     },
-    "features/shelf-bags": {
+    {
+      "key": "features/shelf-bags",
       "url": "/shared/ui-market-board-3d/default/features/shelf-bags/shelf-bags.glb",
       "role": "decoration",
       "category": "shelf-bags",
@@ -51,7 +55,8 @@
       "aspect": "1:1",
       "name": "shelf-bags"
     },
-    "features/shopping-basket": {
+    {
+      "key": "features/shopping-basket",
       "url": "/shared/ui-market-board-3d/default/features/shopping-basket/shopping-basket.glb",
       "role": "decoration",
       "category": "shopping-basket",
@@ -63,7 +68,8 @@
       "aspect": "1:1",
       "name": "shopping-basket"
     },
-    "features/freezer": {
+    {
+      "key": "features/freezer",
       "url": "/shared/ui-market-board-3d/default/features/freezer/freezer.glb",
       "role": "decoration",
       "category": "freezer",
@@ -75,7 +81,8 @@
       "aspect": "1:1",
       "name": "freezer"
     },
-    "features/freezers-standing": {
+    {
+      "key": "features/freezers-standing",
       "url": "/shared/ui-market-board-3d/default/features/freezers-standing/freezers-standing.glb",
       "role": "decoration",
       "category": "freezers-standing",
@@ -87,7 +94,8 @@
       "aspect": "1:1",
       "name": "freezers-standing"
     },
-    "features/display-fruit": {
+    {
+      "key": "features/display-fruit",
       "url": "/shared/ui-market-board-3d/default/features/display-fruit/display-fruit.glb",
       "role": "decoration",
       "category": "display-fruit",
@@ -99,7 +107,8 @@
       "aspect": "1:1",
       "name": "display-fruit"
     },
-    "features/apple": {
+    {
+      "key": "features/apple",
       "url": "/shared/ui-market-board-3d/default/features/apple/apple.glb",
       "role": "decoration",
       "category": "apple",
@@ -111,7 +120,8 @@
       "aspect": "1:1",
       "name": "apple"
     },
-    "features/banana": {
+    {
+      "key": "features/banana",
       "url": "/shared/ui-market-board-3d/default/features/banana/banana.glb",
       "role": "decoration",
       "category": "banana",
@@ -123,7 +133,8 @@
       "aspect": "1:1",
       "name": "banana"
     },
-    "features/carrot": {
+    {
+      "key": "features/carrot",
       "url": "/shared/ui-market-board-3d/default/features/carrot/carrot.glb",
       "role": "decoration",
       "category": "carrot",
@@ -135,7 +146,8 @@
       "aspect": "1:1",
       "name": "carrot"
     },
-    "features/display-bread": {
+    {
+      "key": "features/display-bread",
       "url": "/shared/ui-market-board-3d/default/features/display-bread/display-bread.glb",
       "role": "decoration",
       "category": "display-bread",
@@ -147,7 +159,8 @@
       "aspect": "1:1",
       "name": "display-bread"
     },
-    "features/bread": {
+    {
+      "key": "features/bread",
       "url": "/shared/ui-market-board-3d/default/features/bread/bread.glb",
       "role": "decoration",
       "category": "bread",
@@ -159,7 +172,8 @@
       "aspect": "1:1",
       "name": "bread"
     },
-    "features/shopping-cart": {
+    {
+      "key": "features/shopping-cart",
       "url": "/shared/ui-market-board-3d/default/features/shopping-cart/shopping-cart.glb",
       "role": "decoration",
       "category": "shopping-cart",
@@ -171,7 +185,8 @@
       "aspect": "1:1",
       "name": "shopping-cart"
     },
-    "features/cash-register": {
+    {
+      "key": "features/cash-register",
       "url": "/shared/ui-market-board-3d/default/features/cash-register/cash-register.glb",
       "role": "decoration",
       "category": "cash-register",
@@ -183,7 +198,8 @@
       "aspect": "1:1",
       "name": "cash-register"
     },
-    "features/bottle-return": {
+    {
+      "key": "features/bottle-return",
       "url": "/shared/ui-market-board-3d/default/features/bottle-return/bottle-return.glb",
       "role": "decoration",
       "category": "bottle-return",
@@ -195,7 +211,8 @@
       "aspect": "1:1",
       "name": "bottle-return"
     },
-    "features/shelf-end": {
+    {
+      "key": "features/shelf-end",
       "url": "/shared/ui-market-board-3d/default/features/shelf-end/shelf-end.glb",
       "role": "decoration",
       "category": "shelf-end",
@@ -207,5 +224,5 @@
       "aspect": "1:1",
       "name": "shelf-end"
     }
-  }
+  ]
 }

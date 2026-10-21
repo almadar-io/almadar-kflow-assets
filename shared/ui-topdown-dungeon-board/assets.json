@@ -2,8 +2,9 @@
   "pack": "kflow/ui-topdown-dungeon-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/floor": {
+  "assets": [
+    {
+      "key": "terrains/floor",
       "url": "/shared/ui-topdown-dungeon-board/default/terrain/floor/floor.png",
       "role": "tile",
       "category": "floor",
@@ -16,7 +17,8 @@
       "aspect": "1:1",
       "name": "floor"
     },
-    "terrains/wall": {
+    {
+      "key": "terrains/wall",
       "url": "/shared/ui-topdown-dungeon-board/default/terrain/wall/wall.png",
       "role": "tile",
       "category": "wall",
@@ -29,7 +31,8 @@
       "aspect": "1:1",
       "name": "wall"
     },
-    "units/knight": {
+    {
+      "key": "units/knight",
       "url": "/shared/ui-topdown-dungeon-board/default/units/knight/knight.png",
       "role": "npc",
       "category": "knight",
@@ -42,7 +45,8 @@
       "aspect": "1:1",
       "name": "knight"
     },
-    "units/slime": {
+    {
+      "key": "units/slime",
       "url": "/shared/ui-topdown-dungeon-board/default/units/slime/slime.png",
       "role": "npc",
       "category": "slime",
@@ -55,7 +59,8 @@
       "aspect": "1:1",
       "name": "slime"
     },
-    "units/crab": {
+    {
+      "key": "units/crab",
       "url": "/shared/ui-topdown-dungeon-board/default/units/crab/crab.png",
       "role": "npc",
       "category": "crab",
@@ -68,7 +73,8 @@
       "aspect": "1:1",
       "name": "crab"
     },
-    "units/ghost": {
+    {
+      "key": "units/ghost",
       "url": "/shared/ui-topdown-dungeon-board/default/units/ghost/ghost.png",
       "role": "npc",
       "category": "ghost",
@@ -81,7 +87,8 @@
       "aspect": "1:1",
       "name": "ghost"
     },
-    "features/chest": {
+    {
+      "key": "features/chest",
       "url": "/shared/ui-topdown-dungeon-board/default/features/chest/chest.png",
       "role": "decoration",
       "category": "chest",
@@ -94,7 +101,8 @@
       "aspect": "1:1",
       "name": "chest"
     },
-    "features/barrel": {
+    {
+      "key": "features/barrel",
       "url": "/shared/ui-topdown-dungeon-board/default/features/barrel/barrel.png",
       "role": "decoration",
       "category": "barrel",
@@ -107,7 +115,8 @@
       "aspect": "1:1",
       "name": "barrel"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "url": "/shared/ui-topdown-dungeon-board/default/effects/explosion/explosion.png",
       "role": "effect",
       "fxKind": "burst",
@@ -122,7 +131,8 @@
       "prompt": "a single explosion burst of amber (#f0a35e) and orange with a bright yellow-white core and radiating ember shards",
       "name": "explosion"
     },
-    "effects/pickup": {
+    {
+      "key": "effects/pickup",
       "url": "/shared/ui-topdown-dungeon-board/default/effects/pickup/pickup.png",
       "role": "effect",
       "fxKind": "burst",
@@ -137,7 +147,8 @@
       "prompt": "a four-point torch-amber (#f0a35e) glint star with tiny satellite sparkles and a soft warm glow",
       "name": "pickup"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-topdown-dungeon-board/default/ui/panel-frame/panel-frame.png",
       "sprite": "panel-border-010.png",
       "role": "ui",
@@ -149,7 +160,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "ui/key-up": {
+    {
+      "key": "ui/key-up",
       "url": "/shared/ui-topdown-dungeon-board/default/ui/key-up/key-up.png",
       "sprite": "30,4",
       "role": "ui",
@@ -161,7 +173,8 @@
       "aspect": "1:1",
       "name": "key-up"
     },
-    "ui/key-down": {
+    {
+      "key": "ui/key-down",
       "url": "/shared/ui-topdown-dungeon-board/default/ui/key-down/key-down.png",
       "sprite": "32,4",
       "role": "ui",
@@ -173,7 +186,8 @@
       "aspect": "1:1",
       "name": "key-down"
     },
-    "ui/key-left": {
+    {
+      "key": "ui/key-left",
       "url": "/shared/ui-topdown-dungeon-board/default/ui/key-left/key-left.png",
       "sprite": "33,4",
       "role": "ui",
@@ -185,7 +199,8 @@
       "aspect": "1:1",
       "name": "key-left"
     },
-    "ui/key-right": {
+    {
+      "key": "ui/key-right",
       "url": "/shared/ui-topdown-dungeon-board/default/ui/key-right/key-right.png",
       "sprite": "31,4",
       "role": "ui",
@@ -197,7 +212,8 @@
       "aspect": "1:1",
       "name": "key-right"
     },
-    "terrains/wall-svg": {
+    {
+      "key": "terrains/wall-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/terrain/wall.svg",
       "role": "tile",
       "category": "wall",
@@ -210,7 +226,8 @@
       "aspect": "1:1",
       "name": "wall"
     },
-    "terrains/floor-svg": {
+    {
+      "key": "terrains/floor-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/terrain/floor.svg",
       "role": "tile",
       "category": "floor",
@@ -223,7 +240,8 @@
       "aspect": "1:1",
       "name": "floor"
     },
-    "terrains/floorVariant-svg": {
+    {
+      "key": "terrains/floorVariant-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/terrain/floor.svg",
       "role": "tile",
       "category": "floorVariant",
@@ -236,7 +254,8 @@
       "aspect": "1:1",
       "name": "floorVariant"
     },
-    "units/knight-svg": {
+    {
+      "key": "units/knight-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/units/knight.svg",
       "role": "npc",
       "category": "knight",
@@ -249,7 +268,8 @@
       "aspect": "1:1",
       "name": "knight"
     },
-    "units/slime-svg": {
+    {
+      "key": "units/slime-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/units/slime.svg",
       "role": "npc",
       "category": "slime",
@@ -262,7 +282,8 @@
       "aspect": "1:1",
       "name": "slime"
     },
-    "units/crab-svg": {
+    {
+      "key": "units/crab-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/units/crab.svg",
       "role": "npc",
       "category": "crab",
@@ -275,7 +296,8 @@
       "aspect": "1:1",
       "name": "crab"
     },
-    "units/ghost-svg": {
+    {
+      "key": "units/ghost-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/units/ghost.svg",
       "role": "npc",
       "category": "ghost",
@@ -288,7 +310,8 @@
       "aspect": "1:1",
       "name": "ghost"
     },
-    "features/chest-svg": {
+    {
+      "key": "features/chest-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/features/chest.svg",
       "role": "decoration",
       "category": "chest",
@@ -301,7 +324,8 @@
       "aspect": "1:1",
       "name": "chest"
     },
-    "features/barrel-svg": {
+    {
+      "key": "features/barrel-svg",
       "url": "/shared/ui-topdown-dungeon-board/svg/isometric/features/barrel.svg",
       "role": "decoration",
       "category": "barrel",
@@ -314,5 +338,5 @@
       "aspect": "1:1",
       "name": "barrel"
     }
-  }
+  ]
 }

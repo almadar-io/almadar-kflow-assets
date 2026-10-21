@@ -2,8 +2,9 @@
   "pack": "kflow/ui-grid-tactics-demo-board",
   "version": 1,
   "base": "https://almadar-kflow-assets.web.app",
-  "assets": {
-    "terrains/ground": {
+  "assets": [
+    {
+      "key": "terrains/ground",
       "url": "/shared/ui-grid-tactics-demo-board/default/terrain/ground/ground.png",
       "role": "tile",
       "category": "ground",
@@ -14,7 +15,8 @@
       "aspect": "1:1",
       "name": "ground"
     },
-    "terrains/sand": {
+    {
+      "key": "terrains/sand",
       "url": "/shared/ui-grid-tactics-demo-board/default/terrain/sand/sand.png",
       "role": "tile",
       "category": "sand",
@@ -25,7 +27,8 @@
       "aspect": "1:1",
       "name": "sand"
     },
-    "units/marine": {
+    {
+      "key": "units/marine",
       "prompt": "a compact infantry figure drawn in precise white (#f8fafc) and cyan (#22d3ee) linework on deep navy (#0a1a33) fills, rounded helmet, rifle held level",
       "url": "/shared/ui-grid-tactics-demo-board/default/units/marine/marine.png",
       "role": "npc",
@@ -41,7 +44,8 @@
       "aspect": "1:1",
       "name": "marine"
     },
-    "units/raider": {
+    {
+      "key": "units/raider",
       "prompt": "a lean hostile figure with an angular helmet and scavenged blade, drawn in white (#f8fafc) linework with sparse cyan (#22d3ee) accents on deep navy (#0a1a33) fills, sharper more jagged silhouette than a marine",
       "url": "/shared/ui-grid-tactics-demo-board/default/units/raider/raider.png",
       "role": "npc",
@@ -57,7 +61,8 @@
       "aspect": "1:1",
       "name": "raider"
     },
-    "features/tree": {
+    {
+      "key": "features/tree",
       "url": "/shared/ui-grid-tactics-demo-board/default/features/tree/tree.png",
       "role": "decoration",
       "category": "tree",
@@ -68,7 +73,8 @@
       "aspect": "1:1",
       "name": "tree"
     },
-    "effects/hit": {
+    {
+      "key": "effects/hit",
       "prompt": "a small sharp four-pointed impact star in white (#f8fafc) with a thin cyan (#22d3ee) crosshair ring around it",
       "url": "/shared/ui-grid-tactics-demo-board/default/effects/hit/hit.png",
       "role": "effect",
@@ -81,7 +87,8 @@
       "aspect": "1:1",
       "name": "hit"
     },
-    "effects/explosion": {
+    {
+      "key": "effects/explosion",
       "prompt": "a precise geometric starburst of white (#f8fafc) and cyan (#22d3ee) triangular shards radiating from a bright center on deep navy (#0a1a33), concentric shockwave ring included",
       "url": "/shared/ui-grid-tactics-demo-board/default/effects/explosion/explosion.png",
       "role": "effect",
@@ -94,7 +101,8 @@
       "aspect": "1:1",
       "name": "explosion"
     },
-    "ui/panel-frame": {
+    {
+      "key": "ui/panel-frame",
       "url": "/shared/ui-grid-tactics-demo-board/default/ui/panel-frame/panel-frame.png",
       "role": "ui",
       "category": "ui",
@@ -103,7 +111,8 @@
       "aspect": "1:1",
       "name": "panel-frame"
     },
-    "units/marine-svg": {
+    {
+      "key": "units/marine-svg",
       "url": "/shared/ui-grid-tactics-demo-board/svg/flat/units/marine.svg",
       "role": "npc",
       "category": "marine",
@@ -118,7 +127,8 @@
       "aspect": "1:1",
       "name": "marine"
     },
-    "units/raider-svg": {
+    {
+      "key": "units/raider-svg",
       "url": "/shared/ui-grid-tactics-demo-board/svg/flat/units/raider.svg",
       "role": "npc",
       "category": "raider",
@@ -133,7 +143,8 @@
       "aspect": "1:1",
       "name": "raider"
     },
-    "features/tree-svg": {
+    {
+      "key": "features/tree-svg",
       "url": "/shared/ui-grid-tactics-demo-board/svg/flat/features/tree.svg",
       "role": "decoration",
       "category": "tree",
@@ -144,7 +155,8 @@
       "aspect": "1:1",
       "name": "tree"
     },
-    "ui/panel-frame-svg": {
+    {
+      "key": "ui/panel-frame-svg",
       "url": "/shared/ui-grid-tactics-demo-board/svg/flat/ui/panel-frame.svg",
       "role": "ui",
       "category": "ui",
@@ -153,5 +165,5 @@
       "aspect": "1:1",
       "name": "panel-frame"
     }
-  }
+  ]
 }
