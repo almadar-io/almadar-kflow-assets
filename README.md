@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="center"><sub>Part of <a href="https://github.com/almadar-io/orb"><b>Orb</b></a>: the language where the rule is the program. <a href="https://orb.almadar.io">orb.almadar.io</a></sub></p>
+<p align="center"><sub>Part of <a href="https://github.com/almadar-io/orb"><b>Orb</b></a>: a programming language of composable state machines. <a href="https://orb.almadar.io">orb.almadar.io</a></sub></p>
 
 Static assets for the KFlow knowledge platform: story illustrations, audio and media files, plus shared board packs under `shared/`. The files are served from https://almadar-kflow-assets.web.app, deployed to Firebase Hosting by CI.
 
