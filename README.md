@@ -118,8 +118,8 @@ firebase.json                                 # Hosting target kflow-assets, cac
 There is no build and no test suite; the repo is data. Keep the manifests consistent with the files present. `deploy.yml` runs on push to `main` when an image, audio, video, model, PDF, `manifest.json` or `firebase.json` file changes (and on manual dispatch): it pulls the LFS objects, checks that they are real files, and deploys Hosting target `kflow-assets` of project `kflow-b3a39`. Open gaps are in `Almadar_Gaps.md`. Work on `main` only. Manual deploy: `firebase deploy --only hosting:kflow-assets`.
 
 ## Docs
-- [Almadar summary](https://github.com/itechdom/kflow.ai/blob/main/docs/Almadar_Summary.md)
-- [Gaps](https://github.com/itechdom/kflow.ai/blob/main/docs/Almadar_Gaps.md)
+
+- [Orb documentation](https://orb.almadar.io/docs): the language, the `orb` CLI and how the pieces fit
 
 ## License
 No license file in this repo.
