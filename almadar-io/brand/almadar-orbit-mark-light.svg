@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Almadar">
+  <g transform="translate(64 64)">
+    <g transform="rotate(36)"><ellipse rx="54" ry="21" fill="none" stroke="#1F3F8F" stroke-width="1.6" opacity="0.5"/></g>
+    <g transform="rotate(-24)">
+      <ellipse rx="54" ry="21" fill="none" stroke="#1F3F8F" stroke-width="5"/>
+      <circle cx="41.4" cy="-13.5" r="9.5" fill="#F8F1E0"/>
+      <circle cx="41.4" cy="-13.5" r="6.5" fill="#7D5A0C"/>
+    </g>
+    <rect x="-11" y="-11" width="22" height="22" fill="#1F3F8F"/>
+    <rect x="-11" y="-11" width="22" height="22" fill="#1F3F8F" transform="rotate(45)"/>
+  </g>
+</svg>
