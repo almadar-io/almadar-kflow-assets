@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 512" width="1480" height="512" role="img" aria-label="Project Friday">
+  <rect width="512" height="512" rx="116" fill="#dbfe6b"/>
+  <rect x="146" y="120" width="64" height="272" rx="10" fill="#1c1d22"/>
+  <rect x="146" y="120" width="232" height="64" rx="10" fill="#1c1d22"/>
+  <path d="M210 294 L256 340 L354 236" fill="none" stroke="#1c1d22" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="236" font-family="'Space Grotesk', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="6" fill="#1c1d22">PROJECT</text>
+  <text x="600" y="408" font-family="'Space Grotesk', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="6" fill="#1c1d22">FRIDAY</text>
+</svg>

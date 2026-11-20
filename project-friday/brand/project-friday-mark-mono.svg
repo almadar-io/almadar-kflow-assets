@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Project Friday">
+  <rect x="146" y="120" width="64" height="272" rx="10" fill="currentColor"/>
+  <rect x="146" y="120" width="232" height="64" rx="10" fill="currentColor"/>
+  <path d="M210 294 L256 340 L354 236" fill="none" stroke="currentColor" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
