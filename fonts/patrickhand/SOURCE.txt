@@ -1,0 +1,4 @@
+family: Patrick Hand
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/patrickhand
+file: PatrickHand-Regular.ttf

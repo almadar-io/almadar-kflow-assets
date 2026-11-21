@@ -1,0 +1,4 @@
+family: Permanent Marker
+licence: Apache-2.0
+source: https://github.com/google/fonts/tree/main/apache/permanentmarker
+file: PermanentMarker-Regular.ttf

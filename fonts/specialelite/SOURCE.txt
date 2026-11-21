@@ -1,0 +1,4 @@
+family: Special Elite
+licence: Apache-2.0
+source: https://github.com/google/fonts/tree/main/apache/specialelite
+file: SpecialElite-Regular.ttf

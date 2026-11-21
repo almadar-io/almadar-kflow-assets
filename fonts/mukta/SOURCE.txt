@@ -1,0 +1,4 @@
+family: Mukta
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/mukta
+file: Mukta-Regular.ttf

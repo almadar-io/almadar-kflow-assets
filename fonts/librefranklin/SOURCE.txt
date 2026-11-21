@@ -1,0 +1,4 @@
+family: Libre Franklin
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/librefranklin
+file: LibreFranklin[wght].ttf

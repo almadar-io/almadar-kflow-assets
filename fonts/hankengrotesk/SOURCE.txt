@@ -1,0 +1,4 @@
+family: Hanken Grotesk
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/hankengrotesk
+file: HankenGrotesk[wght].ttf

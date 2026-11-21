@@ -1,0 +1,4 @@
+family: Press Start 2P
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/pressstart2p
+file: PressStart2P-Regular.ttf

@@ -1,0 +1,4 @@
+family: Josefin Sans
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/josefinsans
+file: JosefinSans[wght].ttf

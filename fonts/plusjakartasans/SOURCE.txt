@@ -1,0 +1,4 @@
+family: Plus Jakarta Sans
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/plusjakartasans
+file: PlusJakartaSans[wght].ttf

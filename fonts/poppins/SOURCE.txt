@@ -1,0 +1,4 @@
+family: Poppins
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/poppins
+file: Poppins-Regular.ttf

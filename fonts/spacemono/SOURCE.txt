@@ -1,0 +1,4 @@
+family: Space Mono
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/spacemono
+file: SpaceMono-Regular.ttf

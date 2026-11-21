@@ -1,0 +1,4 @@
+family: Bricolage Grotesque
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/bricolagegrotesque
+file: BricolageGrotesque[opsz,wdth,wght].ttf

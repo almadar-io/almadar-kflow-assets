@@ -1,0 +1,4 @@
+family: Syncopate
+licence: Apache-2.0
+source: https://github.com/google/fonts/tree/main/apache/syncopate
+file: Syncopate-Regular.ttf

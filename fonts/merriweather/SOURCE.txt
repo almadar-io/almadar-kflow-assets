@@ -1,0 +1,4 @@
+family: Merriweather
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/merriweather
+file: Merriweather[opsz,wdth,wght].ttf

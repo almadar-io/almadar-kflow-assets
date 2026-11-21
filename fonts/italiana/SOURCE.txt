@@ -1,0 +1,4 @@
+family: Italiana
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/italiana
+file: Italiana-Regular.ttf

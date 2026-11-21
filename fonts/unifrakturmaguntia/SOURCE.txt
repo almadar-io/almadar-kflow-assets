@@ -1,0 +1,4 @@
+family: UnifrakturMaguntia
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/unifrakturmaguntia
+file: UnifrakturMaguntia-Book.ttf

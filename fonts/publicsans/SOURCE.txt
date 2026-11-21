@@ -1,0 +1,4 @@
+family: Public Sans
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/publicsans
+file: PublicSans[wght].ttf

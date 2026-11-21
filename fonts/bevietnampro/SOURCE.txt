@@ -1,0 +1,4 @@
+family: Be Vietnam Pro
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/bevietnampro
+file: BeVietnamPro-Regular.ttf

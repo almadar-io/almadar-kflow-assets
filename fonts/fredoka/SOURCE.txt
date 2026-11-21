@@ -1,0 +1,4 @@
+family: Fredoka
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/fredoka
+file: Fredoka[wdth,wght].ttf

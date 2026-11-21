@@ -1,0 +1,4 @@
+family: Albert Sans
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/albertsans
+file: AlbertSans[wght].ttf

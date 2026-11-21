@@ -1,0 +1,4 @@
+family: Bungee
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/bungee
+file: Bungee-Regular.ttf

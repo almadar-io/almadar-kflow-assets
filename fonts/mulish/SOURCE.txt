@@ -1,0 +1,4 @@
+family: Mulish
+licence: SIL OFL 1.1
+source: https://github.com/google/fonts/tree/main/ofl/mulish
+file: Mulish[wght].ttf
